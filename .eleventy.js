@@ -2,6 +2,7 @@ const browserslist                = require('browserslist');
 const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minifier');
 const esbuild                     = require('esbuild');
+const format = require('date-fns/format');
 const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
 const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
@@ -162,6 +163,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget(`./src/assets/js/`);
   // Search
   eleventyConfig.addFilter(`search`, search);
+  // add `date` filter
+  eleventyConfig.addFilter('date', function (date, dateFormat) {
+    return format(date, dateFormat)
+  })
   // Sorted collection
   // See https://www.11ty.dev/docs/collections/#advanced-custom-filtering-and-sorting
 	eleventyConfig.addCollection(`recipesAscending`, function (collectionApi) {
@@ -186,6 +191,8 @@ module.exports = function(eleventyConfig) {
 	});
   // Set custom directory for input; otherwise use defaults
   return {
+    // Site URL
+    url: 'https://tiki-deebee.vercel.app',
     // When a passthrough file is modified, rebuild the pages:
     passthroughFileCopy: true,
     // Copy any file in these formats:
