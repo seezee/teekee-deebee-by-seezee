@@ -1,0 +1,52 @@
+---
+layout: _main.njk
+title: Don’s Own Grog
+tags: recipes
+type:
+  - tropical
+  - sour
+characteristic: flash-blended
+base: rum base
+ingredients:
+  - fresh lime juice
+  - Demerara syrup
+  - grenadine
+  - blackberry liqueur
+  - blended aged rum (3)
+  - blended lightly aged rum (2)
+  - black blended rum (5)
+  - Angostura bitters
+garnish: grated nutmeg
+glass:
+  - double old-fashioned
+  - double rocks
+---
+<!-- markdownlint-disable MD025 -->
+# {{ title }}
+<!-- markdownlint-disable MD025 -->
+
+## Ingredients
+
+* &frac34; oz. fresh lime juice
+* &frac14; oz. Demerara syrup
+* 1 dash grenadine
+* &frac12; Leopold Bros. Rocky Mountain blackberry liqueur
+* 1 oz. blended aged rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* &frac12; oz. blended lightly aged rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
+* &frac12; oz. black blended rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
+* 1 dash Angostura bitters
+
+## Garnish
+
+Freshly grated nutmeg.
+
+## Glass
+
+Double old-fashioned.
+
+## Instructions
+
+1. Add all ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes to mixing tin
+2. Flash blend 10 seconds
+3. Open pour with gated finish into glass
+4. Top with nutmeg

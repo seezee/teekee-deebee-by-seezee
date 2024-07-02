@@ -1,0 +1,28 @@
+<!-- axelinter:disable:button-name -->
+<header id="header">
+  <cluster-l justify="space-between" align="center">
+    <div id="tiki-mask-icon-wrapper">
+      <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
+    </div>
+    <nav>
+      <cluster-l role="list" justify="flex-start" space="var(--s-1)">
+        <div role="listitem"><a href="/">Home</a></div>
+        <div role="listitem"><a href="/recipes/">Recipes</a></div>
+        <div role="listitem"><a href="/rums">Rum Categories</a></div>
+        <div role="listitem"><a href="/mixes">Syrups &amp; Mixes</a></div>
+        <div class="field">
+          <label for="searchField" class="sr-only">Search</label>
+          <input type="search" placeholder="Search …" id="searchField" />
+          <div id="search-hint__wrapper">
+            <kbd>⌘</kbd>
+            <kbd>K</kbd>
+          </div>
+        </div>
+        <!--Only 5.7kb GZipped. You may want to bundle this with your application code. -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+        <script src="/js/search.js"></script>
+        <button is="theme-toggle"></button>
+      </cluster-l>
+    </nav>
+  </cluster-l>
+</header>
