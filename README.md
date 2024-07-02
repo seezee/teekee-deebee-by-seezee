@@ -33,6 +33,6 @@ Distributed under [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 
 ## :handshake: Contact
 
-Chris J Zähller - [@twitter_handle](@czahller) - <chris@messengerwebdesign.com>
+Chris J Zähller — [@czahller](https://x.com/czahller/) — <chris@messengerwebdesign.com>
 
 Project Link: [https://github.com/seezee/tiki-deebee](https://github.com/seezee/tiki-deebee)
