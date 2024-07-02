@@ -4,7 +4,7 @@
  * A custom element for defining containment contexts
  * @property {string} name The name of the container, used as the CSS `container-name` value (optional)
  */
-class Container extends HTMLElement {
+export default class Container extends HTMLElement {
   constructor() {
     super();
     this.render = () => {
