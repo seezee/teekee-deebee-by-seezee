@@ -1,4 +1,4 @@
-class ThemeSwitcher extends HTMLButtonElement {
+export default class ThemeSwitcher extends HTMLButtonElement {
   constructor() {
     super();
     // Set attributes
@@ -100,5 +100,8 @@ class ThemeSwitcher extends HTMLButtonElement {
 
 }
 
-// let the browser know that <theme-toggle> is served by our new class
-customElements.define(`theme-toggle`, ThemeSwitcher, {extends: `button`});
+if ('customElements' in window) {
+
+  // let the browser know that <theme-toggle> is served by our new class
+  customElements.define(`theme-toggle`, ThemeSwitcher, {extends: `button`});
+}
