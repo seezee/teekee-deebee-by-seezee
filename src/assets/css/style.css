@@ -369,7 +369,8 @@ div.col-5 {
   }
 
   > .moon>circle {
-		cx: 17;
+		/* TODO: use cx: 17 once Safari supports it */
+    transform: translate(-7px);
   }
 }
 
@@ -409,8 +410,12 @@ div.col-5 {
 
 /* Search */
 
-#searchField::placeholder {
-  color: var(--11ty-color-primary-700);
+#searchField {
+  -webkit-appearance: none;
+
+  &::placeholder {
+    color: var(--11ty-color-primary-700);
+  }
 }
 
 .field {
