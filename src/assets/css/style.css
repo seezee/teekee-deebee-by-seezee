@@ -228,10 +228,6 @@ svg:not(#tiki-mask-icon)  path {
 .icon-circle-7:before{content:'\0037';}
 .icon-circle-8:before{content:'\0038';}
 
-/* #tiki-mask-icon-wrapper {
-  inline-size: clamp(8em, 12em, .2vw );
-} */
-
 .alignleft {
   text-align: start;
 }
@@ -310,7 +306,7 @@ div.col-5 {
 
   @media screen and (pointer: coarse) {
     --size: 1.5rem;
-    --margin-top: -.5em;
+    --margin-top: unset;
   }
 
   background: none;
