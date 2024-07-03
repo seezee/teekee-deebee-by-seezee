@@ -12,6 +12,7 @@ import Sidebar from "./Sidebar.js";
 import Stack from "./Stack.js";
 import Switcher from "./Switcher.js";
 import ThemeSwitcher from "./themeSwitcher.js";
+import ThemeSwitcher2 from "./themeSwitcher2.js";
 
 Box;
 Center;
@@ -27,3 +28,4 @@ Sidebar;
 Stack;
 Switcher;
 ThemeSwitcher;
+ThemeSwitcher2;
