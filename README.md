@@ -1,7 +1,7 @@
 ---
 author: Chris J. Zähller
 uri: https://github.com/seezee/tiki-deebee/
-version: 1.0.0
+version: 1.0.9
 license: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 ---
 

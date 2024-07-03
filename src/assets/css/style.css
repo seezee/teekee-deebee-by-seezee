@@ -148,6 +148,10 @@ figure {
   background-color: var(--11ty-color-figureBG);
 }
 
+picture {
+  margin-block-end: var(--s-1);
+}
+
 img {
   margin-inline: auto;
 }
@@ -184,6 +188,16 @@ blockquote {
 
 a, a:visited {
   color: var(--11ty-color-textPrimary);
+}
+
+kbd {
+  background-color: var(--11ty-color-textSecondary);
+  border: 1px solid var(--11ty-color-textPrimary);
+  border-radius: .2rem;
+  box-shadow: inset 0 -1px 0 var(--11ty-color-textPrimary);
+  color: var(--11ty-color-textPrimary);
+  font: 80% monospace;
+  padding: .15rem .3rem;
 }
 
 svg:not(#tiki-mask-icon),
