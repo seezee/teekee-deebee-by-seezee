@@ -67,6 +67,10 @@ html {
   padding-block-start: var(--s1);
 }
 
+body {
+  padding-inline: 1ch;
+}
+
 header {
   padding-block-end: var(--s1);
   border-block-end: 1px solid var(--11ty-color-textPrimary);
@@ -224,9 +228,9 @@ svg:not(#tiki-mask-icon)  path {
 .icon-circle-7:before{content:'\0037';}
 .icon-circle-8:before{content:'\0038';}
 
-#tiki-mask-icon-wrapper {
+/* #tiki-mask-icon-wrapper {
   inline-size: clamp(8em, 12em, .2vw );
-}
+} */
 
 .alignleft {
   text-align: start;
