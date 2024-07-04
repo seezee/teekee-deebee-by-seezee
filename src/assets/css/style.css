@@ -49,6 +49,25 @@
   --border-thin: var(--s-5);
   --border-thick: var(--s-2);
 
+  --tbd-font-size-factor: .75;
+
+  /* Step -2: 14.0537px → 18.963px */
+  --tdb-font-size--2: calc(var(--tbd-font-size-factor) * clamp(0.8784rem, 0.7716rem + 0.5336cqi, 1.1852rem));
+  /* Step -1: 14.9953px → 21.3333px */
+  --tdb-font-size--1: calc(var(--tbd-font-size-factor) *  clamp(0.9372rem, 0.7994rem + 0.6889cqi, 1.3333rem));
+  /* Step 0: 16px → 24px */
+  --tdb-font-size-0: calc(var(--tbd-font-size-factor) *  clamp(1rem, 0.8261rem + 0.8696cqi, 1.5rem));
+  /* Step 1: 17.072px → 27px */
+  --tdb-font-size-1: calc(var(--tbd-font-size-factor) *  clamp(1.067rem, 0.8512rem + 1.0791cqi, 1.6875rem));
+  /* Step 2: 18.2158px → 30.375px */
+  --tdb-font-size-2: calc(var(--tbd-font-size-factor) *  clamp(1.1385rem, 0.8742rem + 1.3216cqi, 1.8984rem));
+  /* Step 3: 19.4363px → 34.1719px */
+  --tdb-font-size-3: calc(var(--tbd-font-size-factor) *  clamp(1.2148rem, 0.8944rem + 1.6017cqi, 2.1357rem));
+  /* Step 4: 20.7385px → 38.4434px */
+  --tdb-font-size-4: calc(var(--tbd-font-size-factor) *  clamp(1.2962rem, 0.9113rem + 1.9244cqi, 2.4027rem));
+  /* Step 5: 22.128px → 43.2488px */
+  --tdb-font-size-5: calc(var(--tbd-font-size-factor) * clamp(1.383rem, 0.9239rem + 2.2957cqi, 2.703rem));
+
 }
 
 @media (prefers-reduced-motion) {
@@ -84,6 +103,34 @@ nav {
   & a {
     text-decoration: none;
   }
+}
+
+h1 {
+  font-size: var(--tdb-font-size-5);
+}
+
+h1 {
+  font-size: var(--tdb-font-size-5);
+}
+
+h2 {
+  font-size: var(--tdb-font-size-4);
+}
+
+h3 {
+  font-size: var(--tdb-font-size-3);
+}
+
+h4 {
+  font-size: var(--tdb-font-size-2);
+}
+
+h5 {
+  font-size: var(--tdb-font-size-1);
+}
+
+h6 {
+  font-size: var(--tdb-font-size-0);
 }
 
 sub, sup {

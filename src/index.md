@@ -17,7 +17,7 @@ title: A Tiki Database
 
   Many of the recipes call for a <a href="/rums" >rum category</a> followed by a numbered icon, based on <a href="https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324/">Martin Cate’s rum taxonomy</a>.
   
-  Cate recommends you affix a piece of tape or DYMO-style label to the necks of your rum bottles with their corresponding numbers for a quick visual reference.
+  Cate recommends you affix tape or DYMO-style labels with corresponding numbers to the necks of your rum bottles for a quick visual reference.
 
 {% endcallout %}
 
