@@ -1,6 +1,7 @@
 const browserslist                = require('browserslist');
 const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minifier');
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 const esbuild                     = require('esbuild');
 const format = require('date-fns/format');
 const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
@@ -124,6 +125,8 @@ module.exports = function(eleventyConfig) {
 
     return outdent`${picture}`;
   };
+  // Needed for paired shortcodes
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
   // For inline SVG; see https://medium.com/@brettdewoody/inlining-svgs-in-eleventy-cffb1114e7b
   eleventyConfig.addNunjucksAsyncShortcode('svgIcon', async (src) => {
     let metadata = await Image(src, {
@@ -132,6 +135,33 @@ module.exports = function(eleventyConfig) {
     })
     return metadata.svg[0].buffer.toString()
   });
+  // Admonition (callout) shortcode
+  eleventyConfig.addPairedShortcode(`callout`, async function(content, type, title) {
+    let titleStr = ``;
+    if(title) {
+      titleStr = title;
+    } else if(type) {
+      titleStr = type.substring(0, 1).toUpperCase() + type.substring(1).toLowerCase();
+    } else {
+      titleStr = `Info`;
+    }
+
+    let typeStr = ``;
+    if(type) {
+      typeStr = type.toLowerCase();
+    }else{
+      typeStr = `info`;
+    }
+
+    return `<box-l>
+      <aside>
+        <stack-l space="var(--s-1)" class="admonition ${typeStr}">
+          <h3 class="admonition-title">${titleStr}</h3>
+          <p class="admonition-content">${content}</p>
+        </stack-l>
+      </aside>
+    </box-l>`
+  })
   // Register image shortcode
   eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
   // Extended Markdown

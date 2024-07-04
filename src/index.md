@@ -1,6 +1,6 @@
 ---
 layout: _article.njk
-title: Welcome to the Tiki Database
+title: A Tiki Database
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -9,7 +9,19 @@ title: Welcome to the Tiki Database
 
 <switcher-l space="var(--s1)" Threshold="30rem" Limit="2">
 
-Oh, hello. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for an ingredient, base spirit, or style. Type <kbd>⌘</kbd> + <kbd>K</kbd> to get started!
+<stack-l>
+
+  Oh, hello. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for an ingredient, base spirit, or style. Type <kbd>⌘</kbd> + <kbd>K</kbd> to get started!
+
+{% callout "note" %}
+
+  Many of the recipes call for a <a href="/rums" >rum category</a> followed by a numbered icon, based on <a href="https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324/">Martin Cate’s rum taxonomy</a>.
+  
+  Cate recommends you affix a piece of tape or DYMO-style label to the necks of your rum bottles with their corresponding numbers for a quick visual reference.
+
+{% endcallout %}
+
+</stack-l>
 
   {% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood [cover], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}
 

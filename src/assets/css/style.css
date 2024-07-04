@@ -67,6 +67,10 @@ html {
   padding-block-start: var(--s1);
 }
 
+[hidden] {
+  display: none !important;
+}
+
 body {
   padding-inline: 1ch;
 }
