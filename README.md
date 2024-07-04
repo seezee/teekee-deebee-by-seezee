@@ -1,7 +1,7 @@
 ---
-author: Chris J. Zähller
-uri: https://github.com/seezee/tiki-deebee/
-version: 1.0.14
+contributors: Chris J. Zähller
+uri: https://github.com/seezee/teekee-deebee-by-seezee/
+version: 1.0.15
 license: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 ---
 
@@ -11,7 +11,7 @@ license: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 
 A tiki recipe database built with Eleventy
 
-<h4> <span> · </span> <a href="https://github.com/seezee/tiki-deebee/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/tiki-deebee/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/tiki-deebee/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/seezee/teekee-deebee-by-seezee/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/teekee-deebee-by-seezee/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/teekee-deebee-by-seezee/issues"> Request Feature </a> </h4>
 
 </div>
 
@@ -35,4 +35,4 @@ Distributed under [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 
 Chris J Zähller — [@czahller](https://x.com/czahller/) — <chris@messengerwebdesign.com>
 
-Project Link: [https://github.com/seezee/tiki-deebee](https://github.com/seezee/tiki-deebee)
+Project Link: [https://github.com/seezee/teekee-deebee-by-seezee](https://github.com/seezee/teekee-deebee-by-seezee)
