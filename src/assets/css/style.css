@@ -209,10 +209,7 @@ picture {
 
 img {
   margin-inline: auto;
-}
-
-img[width] {
-  inline-size: auto; /* Defer to max-width */
+  object-fit: cover;
 }
 
 img[width][height] {
