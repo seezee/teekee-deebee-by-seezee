@@ -5,7 +5,7 @@ category: /assets/images/icons/circle-3.svg#circle-3
 tags: rums
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+# {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
 * Appleton Estate Reserve Blend (Jamaica)

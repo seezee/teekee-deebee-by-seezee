@@ -34,8 +34,8 @@ glass: footed pilsner
 - &frac12; honey syrup
 - &frac14; oz. falernum
 - &frac14; allspice (pimento) dram
-- 1&frac12; oz. cane AOC Martinique rhum agricole vieux&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg><span class="sr-only">(8)</span></span></icon-l>
-- &frac12; oz. blended aged rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+- 1&frac12; oz. cane AOC Martinique rhum agricole vieux<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg><span class="sr-only">(8)</span></span></icon-l>
+- &frac12; oz. blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
 - 1 dash Angostura bitters
 
 ## Garnish

@@ -34,7 +34,7 @@ glass: footed pilsner
 - &frac14; cinnamon syrup
 - &frac14; vanilla syrup
 - &frac14; allspice (pimento) dram
-- 2 oz. column still aged rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
+- 2 oz. column still aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
 - 1 dash Angostura bitters
 
 ## Garnish

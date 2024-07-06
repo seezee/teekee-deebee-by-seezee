@@ -2,13 +2,13 @@
 <nav class="recipe-index">
   <stack-l>
     <h3>Recipes</h3>
-    <ul>
+    <ul id="nav-recipes">
       {%- for post in collections.recipesAscending -%}
         <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></li>
       {%- endfor -%}
     </ul>
     <h3>Syrups & Mixes</h3>
-    <ul>
+    <ul id="nav-syrups">
       {% for post in collections.mixesAscending %}
       <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></li>
       {% endfor %}

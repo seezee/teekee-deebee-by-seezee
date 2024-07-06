@@ -1,5 +1,14 @@
 <!-- axelinter:disable:button-name -->
 <header id="header">
+  <style>
+    :root {
+      --search-icon: url(/assets/images/icons/search.svg);
+    }
+
+    [data-theme='dark'] {
+        --search-icon: url(/assets/images/icons/search-dark.svg);
+    }
+  </style>
   <cluster-l justify="space-between" align="center">
     <div id="tiki-mask-icon-wrapper">
       <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
@@ -15,7 +24,7 @@
         </theme-toggle>
         <div class="field">
           <label for="searchField" class="sr-only">Search</label>
-          <input type="search" placeholder="Search …" id="searchField" />
+          <input type="search" id="searchField" style="background-image: var(--search-icon)" required />
           <div id="search-hint__wrapper">
             <kbd>⌘</kbd>
             <kbd>K</kbd>

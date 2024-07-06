@@ -29,7 +29,7 @@ glass: coupe
 * 8 mint leaves
 * 1 oz. fresh lime juice
 * &frac12; (scant) Demerara syrup
-* 1&frac12; oz. blended lightly aged rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
+* 1&frac12; oz. blended lightly aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
 
 ## Garnish
 

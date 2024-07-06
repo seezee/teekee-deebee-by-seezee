@@ -5,7 +5,7 @@ category: /assets/images/icons/circle-2.svg#circle-2
 tags: rums
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
+# {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
 * Appleton Estate Signature Blend (Jamaica)

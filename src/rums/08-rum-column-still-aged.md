@@ -5,7 +5,7 @@ category: /assets/images/icons/circle-4.svg#circle-4
 tags: rums
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
+# {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
 * Admiral Rodney (St. Lucia)

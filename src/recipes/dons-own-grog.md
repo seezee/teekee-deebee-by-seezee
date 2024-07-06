@@ -31,9 +31,9 @@ glass:
 * &frac14; oz. Demerara syrup
 * 1 dash grenadine
 * &frac12; Leopold Bros. Rocky Mountain blackberry liqueur
-* 1 oz. blended aged rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
-* &frac12; oz. blended lightly aged rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
-* &frac12; oz. black blended rum&nbsp;<icon-l space="1em"><span class="with-icon"><svg><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
+* 1 oz. blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* &frac12; oz. blended lightly aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
+* &frac12; oz. black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
 * 1 dash Angostura bitters
 
 ## Garnish
