@@ -28,7 +28,7 @@ title: A Tiki Database
   <stack-l>
     {% callout "tip" %}
 
-      To search for a rum by its category number, type the number surrounded by parentheses, e.g. type `(2)` to search for blended lightly aged rums.
+      To search for a rum by its category number, type the number surrounded by parentheses, e.g. type `(2)` to search for recipes calling for blended lightly aged rums.
     {% endcallout %}
   </stack-l>
 
