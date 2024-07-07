@@ -21,11 +21,22 @@ garnish:
   - pineapple chunk
   - pineapple frond
 glass: footed pilsner
+origin: Don the Beachcomber
+source: Beachbum Berry’s Sippin’ Safari
 ---
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
+
+Origin
+  : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
+
+Glassware
+  : Footed pilsner
 
 ## Ingredients
 
@@ -42,13 +53,9 @@ glass: footed pilsner
 
 Three maraschino cherries and a pineapple chuck speared on a cocktail pick *or* three maraschino cherries on a cocktail pick plus a pineapple frond.
 
-## Glass
-
-Footed pilsner.
-
 ## Instructions
 
-1. Add all ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes to mixing tin
+1. Add all ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 10 seconds
-3. Open pour with gated finish into glass
+3. Open pour with gated finish into footed pilsner glass
 4. Add garnish

@@ -2,32 +2,41 @@
 <html lang="en-us">
   {% include "_head.html" %}
   <body>
-    <center-l max="125ch">
+    <center-l max="100ch">
       <stack-l id="main-wrapper">
         {% include "_header.html" %}
-        <sidebar-l sideWidth="20ch" space="var(--s2)" side="right">
           <sidebar-l sideWidth="40ch" space="var(--s2)">
             <div id="searchResults-wrapper">
               <stack-l>
-                <box-l>
-                  <section>
-                    <h3>Search Results</h3>
-                    <ol id="searchResults"></ol>
-                    <div id="noResultsFound" hidden>
-                      <p>No results found.</p>
-                    </div>
-                  </section>
-                </box-l>
+                <div class="field">
+                  <label for="searchField" class="sr-only">Search</label>
+                  <input type="search" id="searchField" style="background-image: var(--search-icon)" required />
+                  <div id="search-hint__wrapper">
+                    <kbd>⌘</kbd>
+                    <kbd>K</kbd>
+                  </div>
+                </div>
+                <!--Only 5.7kb GZipped. You may want to bundle this with your application code. -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+                <script src="/js/search.js"></script>
+                <div id="searchResults-wrapper"
+                >
+                  <box-l>
+                    <section>
+                      <h3>Search Results</h3>
+                      <ol id="searchResults"></ol>
+                      <div id="noResultsFound" hidden>
+                        <p>No results found.</p>
+                      </div>
+                    </section>
+                  </box-l>
+                </div>
               </stack-l>
             </div>
               <!-- Grab the content from the page data, dump it here, and mark it as safe -->
               <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
               {{ content | safe }}
           </sidebar-l>
-          <section id="sidebar-right">
-            {% include "_sideBarRight.html" %}
-          </section>
-        </sidebar-l>
         {% include "_footer.html" %}
       </stack-l>
     </center-l>

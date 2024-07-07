@@ -1,0 +1,30 @@
+{
+  "MD013": false,
+  "MD033": {
+    "allowed_elements": [
+      "abbr",
+      "br",
+      "button",
+      "cite",
+      "code",
+      "dialog",
+      "div",
+      "dl",
+      "dd",
+      "dt",
+      "figure",
+      "figcaption",
+      "hgroup",
+      "kbd",
+      "iframe",
+      "img",
+      "ins",
+      "p",
+      "pre",
+      "q",
+      "span",
+      "sup",
+      "time"
+    ]
+  }
+}

@@ -4,7 +4,11 @@ title: Mexican el Diablo
 tags: recipes
 type: 
   - highball
-characteristic: built
+  - cooler
+  - spritz
+characteristic:
+  - built
+  - stirred
 base: tequila/agave base
 ingredients:
   - lime wedge
@@ -17,18 +21,29 @@ garnish:
 glass:
   - collins
   - highball
+origin: Trader Vic
+source: Trader Vic’s Book of Food and Drink
 ---
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+Origin
+  : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
+
+Glassware
+  : Collins or highball
+
 ## Ingredients
 
 - 1 lime wedge
 - &frac12; fresh lime juice
 - &frac12; fresh orange juice
-- &frac12; crème de cassis
+- &frac12; natural crème de cassis
 - 1&frac12; oz. blanco tequila
 - 4 oz. real ginger ale
 
@@ -36,13 +51,9 @@ glass:
 
 Swizzle stick.
 
-## Glass
-
-Collins or highball.
-
 ## Instructions
 
-1. Squeeze lime wedge and drop in glass
+1. Squeeze lime wedge & drop in glass
 2. Fill glass with cracked ice
-3. Add remaining ingredients to glass and stir gently
+3. Add remaining ingredients to collins or highball glass & stir gently
 4. Add garnish

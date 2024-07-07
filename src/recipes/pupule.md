@@ -20,11 +20,22 @@ garnish:
   - swizzle stick
   - mint sprig
 glass: footed pilsner
+origin: Don the Beachcomber, mid-1930s.
+source: Beachbum Berry’s Sippin’ Safari
 ---
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
+
+Origin
+  : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
+
+Glassware
+  : Footed pilsner
 
 ## Ingredients
 
@@ -42,14 +53,10 @@ glass: footed pilsner
 - Swizzle stick
 - Mint sprig
 
-## Glass
-
-Footed pilsner.
-
 ## Instructions
 
 1. Line footed pilsner with orange peel, leaving one end hanging over the rim of the glass
-2. Add remaining ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes
+2. Combine remaining ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes ind a drink mixer tin
 3. Flash blend 10 seconds
-4. Open pour with gated finish into glass
+4. Open pour with gated finish into footed pilsner glass
 5. Add garnish
