@@ -599,12 +599,12 @@ div.col-5 {
 }
 
 #searchResults-wrapper {
-  margin-block-end: calc(var(--s4) * 2);
+  margin-block-end: var(--s3);
 
   & box-l {
     position: absolute;
     z-index: 99;
-    margin-block-start: var(--s3);
+    margin-block-start: var(--s-5);
     background-color: var(--11ty-color-primary-100);
   }
 
