@@ -181,7 +181,7 @@ module.exports = function(eleventyConfig) {
   }
 
     return `
-    <div class="admonition ${typeStr}"><div class="admonition-heading"><span class="admonition-icon">${iconType}</span>${titleStr}</div><div class="admonition-content"><p>${content}</p>
+    <div class="admonition ${typeStr}"><div class="admonition-heading"><span class="admonition-icon">${iconType}</span>${titleStr}</div><div class="admonition-content"><stack-l><p>${content}</p></stack-l>
       </div>
     </div>`
   })
