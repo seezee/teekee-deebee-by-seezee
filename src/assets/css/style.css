@@ -577,7 +577,7 @@ div.col-5 {
   justify-content: right;
   pointer-events: none;
   position: absolute;
-  left: 210px;
+  left: 185px;
   top: 7px;
 
   & kbd {
@@ -590,6 +590,14 @@ div.col-5 {
     padding: .15rem .3rem;
   }
 }
+
+@media screen and (pointer:fine) {
+  #search-hint__wrapper {
+    left: 210px;
+  }
+}
+
+#search-hint__wrapper
 
 .search-item {
 
