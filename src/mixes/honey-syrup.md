@@ -23,8 +23,8 @@ ingredients:
 
 Measure ingredients by weight.
 
-* 1 part water
-* 1 part honey
+* 250 milliliters water
+* 250 milliliters  honey
 
 ## Instructions
 

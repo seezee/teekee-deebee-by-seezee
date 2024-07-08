@@ -38,18 +38,18 @@ Glassware
 
 ## Ingredients
 
-* &frac12; oz. fresh lime juice
-* &frac12; oz. fresh grapefruit juice
-* &frac12; oz. cinnamon syrup
-* &frac12; oz. falernum
-* 1 oz. black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
-* &frac34; oz. blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
-* &frac34; oz. black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
+* &frac12; ounce fresh lime juice
+* &frac12; ounce fresh grapefruit juice
+* &frac12; ounce cinnamon syrup
+* &frac12; ounce falernum
+* 1 ounce black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
+* &frac34; ounce blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* &frac34; ounce black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
 * 1 dash Herbstura
 
 ## Instructions
 
-1. Add all ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes to a drink mixer tin
+1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 10 seconds
 3. Open pour with gated finish into double old-fashioned glass
 

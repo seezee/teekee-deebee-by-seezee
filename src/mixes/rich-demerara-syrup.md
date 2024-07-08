@@ -14,11 +14,9 @@ ingredients:
 
 ## Ingredients
 
-All ingredients to be measured by weight
-
-* 2 parts water
-* 3 parts demerara sugar
-* 1 part granulated sugar
+* 250 milliliters water
+* 125 grams demerara sugar
+* 375 grams granulated sugar
 
 ## Instructions
 
@@ -33,6 +31,6 @@ All ingredients to be measured by weight
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
-  The liquid yield is equal to the volume of sugar, so 40 oz. of sugar + 20 oz. water makes 40 oz. of syrup.
+  The liquid yield is equal to the volume of sugar, so 250 grams of combined sugars + 125 milliliters of water makes 250 milliliters (about 1 cup) of syrup.
 
 {% endcallout %}

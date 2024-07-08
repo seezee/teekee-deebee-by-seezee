@@ -35,12 +35,12 @@ Glassware
 
 ## Ingredients
 
-* &frac12; oz. fresh lime juice
-* &frac12; oz. pineapple juice
-* &frac14; oz. Demerara syrup
+* &frac12; ounce fresh lime juice
+* &frac12; ounce pineapple juice
+* &frac14; ounce Demerara syrup
 * 1 dash grenadine
-* &frac12; oz. falernum
-* 1&frac12; oz. cane coffey still aged rum[^1]
+* &frac12; ounce falernum
+* 1&frac12; ounces cane coffey still aged rum[^1]
 * 1 dash Angostura bitters
 
 [^1]: E.g., Rhum Babancourt 5 Star or Rhum Babancourt Estate Reserve (Haiti).
@@ -51,7 +51,7 @@ Lime wedge speared with a cocktail umbrella.
 
 ## Instructions
 
-1. Add all ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes to a drink mixer tin
+1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 10 seconds
 3. Open pour with gated finish into footed pilsner glass
 4. Add garnish

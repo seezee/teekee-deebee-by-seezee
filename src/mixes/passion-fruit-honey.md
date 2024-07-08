@@ -15,8 +15,8 @@ ingredients:
 
 Measure ingredients by volume.
 
-* 1 part Funkin passion fruit purée
-* 1 part honey
+* 250 milliliters Funkin passion fruit purée
+* 250 milliliters honey
 
 ## Instructions
 

@@ -40,12 +40,12 @@ Glassware
 ## Ingredients
 
 - Spiral-cut orange peel
-- &frac34; fresh lime juice
-- &frac34; fresh orange juice
-- &frac14; cinnamon syrup
-- &frac14; vanilla syrup
-- &frac14; allspice (pimento) dram
-- 2 oz. column still aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
+- &frac34; ounce fresh lime juice
+- &frac34; ounce fresh orange juice
+- &frac14; ounce cinnamon syrup
+- &frac14; ounce vanilla syrup
+- &frac14; ounce allspice (pimento) dram
+- 2 ounces column still aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
 - 1 dash Angostura bitters
 
 ## Garnish
@@ -56,7 +56,7 @@ Glassware
 ## Instructions
 
 1. Line footed pilsner with orange peel, leaving one end hanging over the rim of the glass
-2. Combine remaining ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes ind a drink mixer tin
+2. Combine remaining ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes ind a drink mixer tin
 3. Flash blend 10 seconds
 4. Open pour with gated finish into footed pilsner glass
 5. Add garnish

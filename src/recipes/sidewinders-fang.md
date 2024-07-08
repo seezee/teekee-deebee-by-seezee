@@ -31,16 +31,16 @@ Source
   : <cite>{{ source }}</cite>
 
 Glassware
-  : Large (22-oz.) brandy snifter
+  : Large (22-ounces) brandy snifter
 
 ## Ingredients
 
 * Sidewinder’s Fang orange peel
-* 1&frac12; oz. fresh lime juice
-* 1&frac12; oz. passion fruit syrup
-* 3 oz. seltzer
-* 1 oz. blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
-* 1 oz. black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
+* 1&frac12; ounces fresh lime juice
+* 1&frac12; ounces passion fruit syrup
+* 3 ounces seltzer
+* 1 ounce blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* 1 ounce black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
 
 Garnish
   : Mint sprig
@@ -49,7 +49,7 @@ Garnish
 
 1. Line a snifter with the Sidewinder’s Fang peel, leaving one end hanging over the glass rim
 2. Fill glass with cracked or cubed ice secure the peel
-3. Combine remaining ingredients + 12 oz. crushed ice + 4 to 6 small ice cubes ind a drink mixer tin
+3. Combine remaining ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes ind a drink mixer tin
 4. Flash blend 10 seconds
 5. Open pour with gated finish into the snifter
 6. Garish with a mint sprig

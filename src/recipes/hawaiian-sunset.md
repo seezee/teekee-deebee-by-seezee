@@ -36,11 +36,11 @@ Glassware
 
 ## Ingredients
 
-* &frac12; oz. fresh lime juice
-* &frac12; oz. fresh lemon juice
-* &frac12; oz. orgeat
-* 1 tsp. grenadine
-* 1&frac12; oz. 80-proof vodka
+* &frac12; ounce fresh lime juice
+* &frac12; ounce fresh lemon juice
+* &frac12; ounce orgeat
+* 1 teaspoon grenadine
+* 1&frac12; ounces 80-proof vodka
 
 Garnish
   : Lime peel

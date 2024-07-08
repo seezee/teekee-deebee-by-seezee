@@ -1,10 +1,11 @@
 ---
 layout: _main.njk
-title: 2:1 Simple Syrup
+title: Molasses Syrup
 tags: mixes
 ingredients:
   - water
   - granulated sugar
+  - mild molasses
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -14,14 +15,16 @@ ingredients:
 ## Ingredients
 
 * 250 milliliters water
-* 500 grams granulated sugar
+* 500 milliliters granulated sugar
+* 112.5 milliliters Brer Rabbit Mild molasses
 
 ## Instructions
 
-1. Bring water to a boil in a saucepan over high heat
-2. Add sugar & whisk until sugar dissolves completely, about 1 minute[^1]
-3. Immediately remove from heat & allow to cool
-4. Bottle & refrigerate
+1. Bring water & cinnamon to boil in a saucepan over high heat
+2. Dissolve granulated sugar in the water, stirring with a whisk or immersion blender, about 1 minute[^1]
+3. Stir in the molasses
+4. Immediately remove from heat & allow to cool
+5. Bottle & refrigerate
 
 [^1]: The water should become clear enough that you can see the bottom of the pan.
 
@@ -34,10 +37,9 @@ ingredients:
 {% endcallout %}
 
 <!-- markdownlint-disable MD012 -->
-
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
-  The liquid yield is equal to the volume of sugar, so 250 grams of sugar + 125 milliliters of water makes 250 milliliters (about 1 cup) of syrup.
+  For a richer molasses flavor, increase the molasses to sugar ratio.
 
 {% endcallout %}

@@ -15,12 +15,12 @@ ingredients:
 
 Measure ingredients by volume.
 
-* 1 part Funkin passion fruit purée
-* 1 part 2:1 simple syrup, cooled
+* 250 milliliters Funkin passion fruit purée
+* 250 milliliters 2:1 simple syrup, cooled
 
 ## Instructions
 
-1. Whisk ingredients together in a bowl or large mixing cup
+1. Whisk ingredients together in a mixing bowl, batter bowl, or large measuring cup
 2. Bottle & refrigerate
 
 <!-- markdownlint-disable MD012 -->
