@@ -255,7 +255,7 @@ dd,
 dt {
   break-after: avoid;
   margin-inline-start: var(--s1);
-  font-size: var(--s1);
+  font-size: var(--tiki-font-size-2);
   font-weight: 700;
 
   &:not(:first-child) {
@@ -626,7 +626,7 @@ div.col-5 {
   & box-l {
     position: absolute;
     z-index: 99;
-    margin-block-start: var(--s-5);
+    margin-block-start: -30px;
     background-color: var(--11ty-color-primary-100);
   }
 
