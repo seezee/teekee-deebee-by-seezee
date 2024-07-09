@@ -157,6 +157,12 @@ html {
   padding-block-start: var(--s1);
 }
 
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 [hidden] {
   display: none !important;
 }
