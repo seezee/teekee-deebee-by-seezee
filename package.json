@@ -1,6 +1,6 @@
 {
-  "name": "eleventy test project",
-  "version": "1.0.26",
+  "name": "teekee deebee by seezee (Tiki DB)",
+  "version": "1.0.27",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,17 +13,17 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-img": "^3.1.8",
-    "@x-govuk/govuk-eleventy-plugin": "^6.2.4",
-    "eleventy-plugin-footnotes": "^0.11.0"
+    "@11ty/eleventy-img": "^3.1.8"
   },
   "devDependencies": {
     "@sherby/eleventy-plugin-files-minifier": "^1.1.1",
+    "@x-govuk/govuk-eleventy-plugin": "^6.2.5",
     "browserslist": "^4.22.2",
     "date-fns": "^3.6.0",
     "dotenv": "^16.3.1",
     "elasticlunr": "^0.9.5",
     "eleventy-auto-cache-buster": "^0.3.0",
+    "eleventy-plugin-footnotes": "^0.11.0",
     "esbuild": "^0.19.11",
     "esbuild-plugin-browserslist": "^0.10.0",
     "lightningcss": "^1.22.1",
@@ -32,7 +32,8 @@
     "markdown-it-attrs": "^4.1.6",
     "outdent": "^0.8.0",
     "path": "^0.12.7",
-    "rimraf": "^4.0.0"
+    "rimraf": "^4.0.0",
+    "terser": "^5.31.1"
   },
   "browserslist": {
     "production": [

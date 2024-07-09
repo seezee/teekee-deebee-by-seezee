@@ -1,3 +1,13 @@
 <footer role="contentinfo">
   <p>Copyright &copy; 2024{{ helpers.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
+  <script src="/js/elasticlunr.min.js"></script>
+  <!-- Capture the JS content as a Nunjucks variable -->
+  {% set js %}
+    {% include "js/search.js" %}
+    <!-- Inline as many scripts as you like -->
+  {% endset %}
+  <!-- Feed it through our Terser `jsmin` filter to minify -->
+  <script>
+    {{ js | jsmin | safe }}
+  </script>
 </footer>

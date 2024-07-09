@@ -363,6 +363,12 @@ kbd {
 
 icon-l {
   break-before: avoid;
+  break-after: avoid;
+
+  &::before,
+  &::after {
+    content: '\FEFF';
+  }
 }
 
 svg:not(#tiki-mask-icon),

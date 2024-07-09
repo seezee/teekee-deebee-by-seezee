@@ -1,7 +1,7 @@
 const browserslist                = require('browserslist');
 const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minifier');
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
+const { EleventyRenderPlugin }    = require('@11ty/eleventy');
 const esbuild                     = require('esbuild');
 const format = require('date-fns/format');
 const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
@@ -10,7 +10,6 @@ const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
 const markdownItAttrs             = require('markdown-it-attrs');
 const outdent                     = require('outdent');
-const path                        = require('path');
 // Next 2 constants for JS bundling browser targets
 const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
 const target                      = resolveToEsbuildTarget(browserslist(
@@ -29,6 +28,7 @@ const target                      = resolveToEsbuildTarget(browserslist(
   printUnknownTargets: false,
 });
 const search                      = require('./src/filters/searchFilter');
+const { minify }                  = require('terser');
 
 // For Markdown attributes
 let options = {
@@ -134,6 +134,20 @@ module.exports = function(eleventyConfig) {
       dryRun: true,
     })
     return metadata.svg[0].buffer.toString()
+  });
+  // JS inline minfication
+  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async function (
+    code,
+    callback
+  ) {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error(`Terser error: `, err);
+      // Fail gracefully.
+      callback(null, code);
+    }
   });
   // Admonition (callout) shortcode
   eleventyConfig.addPairedShortcode(`callout`, async function(content, type, title) {
