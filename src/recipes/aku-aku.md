@@ -10,9 +10,9 @@ characteristic:
   - strained
 base: rum base
 ingredients:
-  - fresh pineapple chunks
+  - pineapple chunks
   - mint leaves
-  - fresh lime juice
+  - lime juice
   - Demerara syrup
   - peach liqueur
   - blended lightly aged rum (2)

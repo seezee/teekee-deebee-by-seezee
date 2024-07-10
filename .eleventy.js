@@ -9,7 +9,6 @@ const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
 const markdownItAttrs             = require('markdown-it-attrs');
-const mdIterator = require('markdown-it-for-inline')
 const outdent                     = require('outdent');
 // Next 2 constants for JS bundling browser targets
 const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
@@ -32,31 +31,13 @@ const search                      = require('./src/filters/searchFilter');
 const { minify }                  = require('terser');
 
 // For Markdown attributes
-let options = {
+const markdownItOptions = {
   html: true,
   breaks: true,
   linkify: true
 };
 
-let markdownLib = markdownIt(options).use(markdownItAnchor).use(markdownItAttrs);
-
-// For external links
-let markdownLibrary = markdownIt({
-  html: true,
-  breaks: true,
-  linkify: true
-}).use(mdIterator, 'url_new_win', 'link_open', function (tokens, idx) {
-  const [attrName, href] = tokens[idx].attrs.find(attr => attr[0] === 'href')
-
-  if (href && ((!href.includes('vercel.app') || (!href.includes('localhost'))) && !href.startsWith('/') && !href.startsWith('#'))) {
-    tokens[idx].attrPush([ 'target', '_blank' ])
-    tokens[idx].attrPush([ 'rel', 'noopener noreferrer' ])
-  }
-}).use(markdownItAnchor, {
-  permalink: true,
-  permalinkClass: "ext-link",
-  permalinkSymbol: "#"
-})
+const markdownLib = markdownIt(markdownItOptions).use(markdownItAnchor).use(markdownItAttrs);
 
 module.exports = function(eleventyConfig) {
 
@@ -175,7 +156,9 @@ module.exports = function(eleventyConfig) {
     const iconInfo = `<svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>`;
     const iconWarning = `<svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>`;
     const iconDanger = `<svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg>`;
+
     let titleStr = ``;
+
     if(title) {
       titleStr = title;
     } else if(type) {
@@ -191,35 +174,41 @@ module.exports = function(eleventyConfig) {
       typeStr = `info`;
     }
 
-  let iconType = ``;
+    // ID for the admonition
+    let noteID = ``;
 
-  switch(typeStr) {
-    case `note`:
-      iconType = iconNote;
-      break;
-    case `tip`:
-      iconType = iconTip;
-      break;
-    case `info`:
-      iconType = iconInfo;
-      break;
-    case `warning`:
-      iconType = iconWarning;
-      break;
-    case `danger`:
-      iconType = iconDanger;
-      break;
-    default:
-      iconType = iconNote;
+    // For each admonition, create a string plus an incremented index
+    for (let i = 0; i < typeStr.length; i++) {
+      noteID = typeStr + `-` + [i];
+    }
+
+    let iconType = ``;
+
+    switch(typeStr) {
+      case `note`:
+        iconType = iconNote;
+        break;
+      case `tip`:
+        iconType = iconTip;
+        break;
+      case `info`:
+        iconType = iconInfo;
+        break;
+      case `warning`:
+        iconType = iconWarning;
+        break;
+      case `danger`:
+        iconType = iconDanger;
+        break;
+      default:
+        iconType = iconNote;
   }
 
     return `
-    <div class="admonition ${typeStr}"><div class="admonition-heading"><span class="admonition-icon">${iconType}</span>${titleStr}</div><div class="admonition-content"><stack-l><p>${content}</p></stack-l>
+    <div class="admonition ${typeStr}" id="${noteID}"><div class="admonition-heading"><span class="admonition-icon">${iconType}</span>${titleStr}</div><div class="admonition-content"><stack-l><p>${content}</p></stack-l>
       </div>
     </div>`
   })
-  // External links
-  eleventyConfig.setLibrary("md", markdownLibrary);
   // Register image shortcode
   eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
   // Extended Markdown

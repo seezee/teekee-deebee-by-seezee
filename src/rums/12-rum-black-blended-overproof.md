@@ -10,4 +10,4 @@ tags: rums
 
 * Hamilton Guyana 151 (Guyana)
 * Lemon Hart 151 (Guyana)
-* Plantaton O.F.T.D.(regional blend)
+* Plantation O.F.T.D.(regional blend)

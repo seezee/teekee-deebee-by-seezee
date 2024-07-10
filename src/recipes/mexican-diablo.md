@@ -2,10 +2,10 @@
 layout: _main.njk
 title: Mexican el Diablo
 tags: recipes
-type: 
+type:
+  - tall drink
   - highball
   - cooler
-  - spritz
 characteristic:
   - built
   - stirred

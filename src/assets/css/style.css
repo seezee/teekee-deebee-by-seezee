@@ -67,11 +67,11 @@
       19.75
     );
 
-  --tiki-alert-border-color: color-mix(in srgb, var(--tiki-alert-color-background),#000 15%);
-  --tiki-alert-tip-border-color: color-mix(in srgb, var(--tiki-alert-color-tip-background),#000 15%);
-  --tiki-alert-info-border-color: color-mix(in srgb, var(--tiki-alert-color-info-background),#000 15%);
-  --tiki-alert-warning-border-color: color-mix(in srgb, var(--tiki-alert-color-warning-background),#000 15%);
-  --tiki-alert-danger-border-color: color-mix(in srgb, var(--tiki-alert-color-danger-background),#000 15%);
+  --tiki-alert-border-color: color-mix(in srgb, var(--tiki-alert-color-background) 75%, #000);
+  --tiki-alert-tip-border-color: color-mix(in srgb, var(--tiki-alert-color-tip-background) 75%, #000);
+  --tiki-alert-info-border-color: color-mix(in srgb, var(--tiki-alert-color-info-background) 75%, #000);
+  --tiki-alert-warning-border-color: color-mix(in srgb, var(--tiki-alert-color-warning-background) 75%, #000);
+  --tiki-alert-danger-border-color: color-mix(in srgb, var(--tiki-alert-color-danger-background) 75%, #000);
 
   --tiki-alert-border: .325em;
   --tiki-alert-radius: .4em;
@@ -185,6 +185,14 @@ nav,
     list-style-type: none;
     margin-block-end: var(--s-1);
   }
+}
+
+a[href^='http://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after,
+a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after {
+  display: inline-block;
+  margin-inline-start: .5ch;
+  inline-size: 1ch;
+  block-size: 1lh;
 }
 
 h1, h2, h3, h4, h5, h6 {
