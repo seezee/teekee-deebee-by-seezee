@@ -9,6 +9,7 @@ const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
 const markdownItAttrs             = require('markdown-it-attrs');
+const mdIterator = require('markdown-it-for-inline')
 const outdent                     = require('outdent');
 // Next 2 constants for JS bundling browser targets
 const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
@@ -38,6 +39,24 @@ let options = {
 };
 
 let markdownLib = markdownIt(options).use(markdownItAnchor).use(markdownItAttrs);
+
+// For external links
+let markdownLibrary = markdownIt({
+  html: true,
+  breaks: true,
+  linkify: true
+}).use(mdIterator, 'url_new_win', 'link_open', function (tokens, idx) {
+  const [attrName, href] = tokens[idx].attrs.find(attr => attr[0] === 'href')
+
+  if (href && ((!href.includes('vercel.app') || (!href.includes('localhost'))) && !href.startsWith('/') && !href.startsWith('#'))) {
+    tokens[idx].attrPush([ 'target', '_blank' ])
+    tokens[idx].attrPush([ 'rel', 'noopener noreferrer' ])
+  }
+}).use(markdownItAnchor, {
+  permalink: true,
+  permalinkClass: "ext-link",
+  permalinkSymbol: "#"
+})
 
 module.exports = function(eleventyConfig) {
 
@@ -199,6 +218,8 @@ module.exports = function(eleventyConfig) {
       </div>
     </div>`
   })
+  // External links
+  eleventyConfig.setLibrary("md", markdownLibrary);
   // Register image shortcode
   eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
   // Extended Markdown

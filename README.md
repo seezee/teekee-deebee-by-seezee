@@ -1,7 +1,7 @@
 ---
 contributors: Chris J. Zähller
 uri: https://github.com/seezee/teekee-deebee-by-seezee/
-version: 1.0.27
+version: 1.0.28
 license: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 ---
 

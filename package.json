@@ -1,6 +1,6 @@
 {
   "name": "teekee deebee by seezee (Tiki DB)",
-  "version": "1.0.27",
+  "version": "1.0.28",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "markdown-it": "^14.0.0",
     "markdown-it-anchor": "^8.6.7",
     "markdown-it-attrs": "^4.1.6",
+    "markdown-it-for-inline": "^2.0.1",
     "outdent": "^0.8.0",
     "path": "^0.12.7",
     "rimraf": "^4.0.0",
