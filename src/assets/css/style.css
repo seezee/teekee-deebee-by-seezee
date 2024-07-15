@@ -241,6 +241,11 @@ blockquote {
   margin-inline: 2.5rem;
 }
 
+.small-caps {
+  font-variant: small-caps;
+}
+
+
 /*** Lists ***/
 
 dl {

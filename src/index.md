@@ -11,7 +11,7 @@ title: A Tiki Database
 
 <stack-l>
 
-  Oh, hello. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for an ingredient, base spirit, or style. Type <kbd>⌘</kbd> + <kbd>K</kbd> to get started!
+  <span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for an ingredient, base spirit, or style. Type <kbd>⌘</kbd> + <kbd>K</kbd> to get started!
 
 </stack-l>
 
