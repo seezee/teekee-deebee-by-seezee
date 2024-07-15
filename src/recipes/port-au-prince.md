@@ -45,9 +45,8 @@ Glassware
 
 [^1]: E.g., Rhum Babancourt 5 Star or Rhum Babancourt Estate Reserve (Haiti).
 
-## Garnish
-
-Lime wedge speared with a cocktail umbrella.
+Garnish
+  : Lime wedge speared with a cocktail umbrella.
 
 ## Instructions
 

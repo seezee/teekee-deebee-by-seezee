@@ -5,7 +5,7 @@ tags: mixes
 ingredients:
   - water
   - granulated sugar
-  - demerara sugar
+  - Demerara sugar
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -15,13 +15,13 @@ ingredients:
 ## Ingredients
 
 * 250 milliliters water
-* 125 grams demerara sugar
+* 125 grams Demerara sugar
 * 375 grams granulated sugar
 
 ## Instructions
 
 1. Bring water to boil in a saucepan
-2. Dissolve demerara sugar in water; stir with a whisk or immersion blender
+2. Dissolve Demerara sugar in water; stir with a whisk or immersion blender
 3. Repeat for granulated sugar
 4. Immediately remove from heat & allow to cool
 5. Bottle & refrigerate

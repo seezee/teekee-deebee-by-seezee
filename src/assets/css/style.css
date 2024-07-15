@@ -263,7 +263,7 @@ dd,
 dt {
   break-after: avoid;
   margin-inline-start: var(--s1);
-  font-size: var(--tiki-font-size-2);
+  font-size: var(--tiki-font-size-1);
   font-weight: 700;
 
   &:not(:first-child) {
@@ -299,8 +299,8 @@ dd {
   }
 }
 
-li {
-  line-height: normal;
+#ingredients + ul li::marker {
+    content: '';
 }
 
 #nav-recipes,

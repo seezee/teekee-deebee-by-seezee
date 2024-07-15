@@ -39,9 +39,8 @@ Glassware
 * &frac34; ounce honey syrup
 * &frac12; ounce passion fruit syrup
 
-## Garnish
-
-Swizzle stick
+Garnish
+  : Swizzle stick
 
 ## Instructions
 

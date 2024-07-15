@@ -47,9 +47,8 @@ Glassware
 - 1&frac12; ounces blanco tequila
 - 4 ounces real ginger ale
 
-## Garnish
-
-Swizzle stick.
+Garnish
+  : Swizzle stick
 
 ## Instructions
 

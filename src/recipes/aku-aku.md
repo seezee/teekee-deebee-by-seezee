@@ -47,7 +47,7 @@ Garnish
 
 ## Instructions
 
-1. Muddle pineapple in mixing tin
+1. Muddle pineapple in adrink mixer tin
 2. Add remaining ingredients + 12 ounces crushed ice
 3. Flash blend 10 seconds
 4. Double-strain into chilled coupé glass

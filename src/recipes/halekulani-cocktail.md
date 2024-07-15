@@ -13,7 +13,7 @@ ingredients:
   - lemon juice
   - orange juice
   - pineapple juice
-  - rich demerara syrups
+  - rich Demerara syrups
   - grenadine
   - bourbon whiskey
   - Angostura bitters
@@ -41,7 +41,7 @@ Glassware
 * &frac12; ounce fresh lemon juice
 * &frac12; ounce fresh orange juice
 * &frac12; ounce fresh pineapple juice
-* &frac14; ounce rich demerara syrup
+* &frac14; ounce rich Demerara syrup
 * &frac12; ounce grenadine
 * 1&frac12; ounces bourbon
 * 1 dash Angostura bitters
