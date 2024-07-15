@@ -31,7 +31,7 @@ Source
   : <cite>{{ source }}</cite>
 
 Glassware
-  : Large (22-ounces) brandy snifter
+  : Large (22-ounce) brandy snifter
 
 ## Ingredients
 

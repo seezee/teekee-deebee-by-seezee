@@ -48,7 +48,7 @@ Garnish
 ## Instructions
 
 1. Muddle pineapple in adrink mixer tin
-2. Add remaining ingredients + 12 ounces crushed ice
+2. Add remaining ingredients + 12 ounces crushed ice + 4 to 6 small cubes to a drink mixer tin
 3. Flash blend 10 seconds
 4. Double-strain into chilled coupé glass
 5. Float large mint leaf on surface or rest cluster of mint against side of glass
