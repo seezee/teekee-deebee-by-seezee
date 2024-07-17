@@ -46,7 +46,7 @@ Glassware
 * 1&frac12; ounces blended lightly aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
 
 Garnish
-  : Maraschino cherries on a cocktail pick
+  : Luxardo maraschino cherries on a cocktail pick
 
 ## Instructions
 

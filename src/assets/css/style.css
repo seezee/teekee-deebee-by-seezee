@@ -184,6 +184,7 @@ nav,
   li {
     list-style-type: none;
     margin-block-end: var(--s-1);
+    line-height: calc(1em + .25rem);
   }
 }
 
@@ -306,16 +307,6 @@ dd {
 
 #ingredients + ul li::marker {
     content: '';
-}
-
-#nav-recipes,
-#nav-syrups {
-    list-style-type: none;
-    padding-inline-start: var(--s0);
-
-    & li {
-      margin-block-end: var(--s-4);
-    }
 }
 
 figure {
@@ -447,9 +438,37 @@ div.col-5 {
   border-width: 0;
 }
 
-.hide,
-#search-hint__wrapper.hide {
-  display: none;
+@keyframes fadeout {
+  from { display: block; max-height: 10vh;}
+  to { opacity: 0; max-height: 0;}
+}
+
+@keyframes fadein {
+  from { opacity: 0; max-height: 0 }
+  to { opacity: 1; max-height: 10vh;}
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hide,
+  #search-hint__wrapper.hide {
+    animation: fadeout 200ms ease-out;
+    display: none;
+  }
+  .show {
+    display: block;
+    animation: fadein 200ms ease-in;
+  }
+}
+
+
+@media (prefers-reduced-motion) {
+  .hide,
+  #search-hint__wrapper.hide {
+    display: none;
+  }
+  .show {
+    display: block
+  }
 }
 
 :focus-visible {

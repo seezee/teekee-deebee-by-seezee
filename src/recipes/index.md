@@ -7,7 +7,7 @@ title: Recipe Index
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<div class="col-3">
+<div class="col-2">
   <ul class="index">
     {%- for post in collections.recipesAscending -%}
       <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></li>

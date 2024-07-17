@@ -26,11 +26,13 @@
     true,
   );
 
-  resBox.setAttribute(`class`, `hide`);
+  if (resBox) {
+    resBox.setAttribute(`class`, `hide`);
+  }
 
   searchField.addEventListener(`focusin`, (e) => {
     searchHint.setAttribute(`class`, `hide`);
-    resBox.removeAttribute(`class`);
+    resBox.setAttribute(`class`,`show`)
   });
 
   searchField.addEventListener(`focusout`, (e) => {
