@@ -26,6 +26,7 @@ glass:
   - highball
 origin: Joe Scialom for Shepheard’s Hotel, Cairo, 1942.
 source: Beachbum Berry Remixed
+decade: 1940
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -17,6 +17,7 @@ ingredients:
   - black blended rum (5)
 glass: coupe
 origin: Created exclusively for Smuggler’s Cove by Jeff “Beachbum” Berry in 2009.
+decade: 2000
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

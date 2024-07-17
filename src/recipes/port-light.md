@@ -15,8 +15,11 @@ ingredients:
   - passion fruit syrup
 garnish: swizzle stick
 glass: footed pilsner
-origin: Trader Vic
+origin: A Trader Vic original from the 1940s.
 source: Trader Vic’s Bartender’s Guide, Revised
+decade:
+  - 1940
+  - 1970
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

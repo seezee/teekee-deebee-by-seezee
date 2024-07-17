@@ -1,9 +1,19 @@
 <!-- axelinter:disable:button-name -->
 <header id="header">
   <cluster-l justify="space-between" align="center">
-    <div id="tiki-mask-icon-wrapper">
-      <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
-    </div>
+    <cluster-l justify="flex-start">
+      <div id="tiki-mask-icon-wrapper">
+        <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
+      </div>
+      <div class="field">
+        <label for="searchField" class="sr-only">Search</label>
+        <input type="search" id="searchField" required />
+        <div id="search-hint__wrapper">
+          <kbd>⌘</kbd>
+          <kbd>K</kbd>
+        </div>
+      </div>
+    </cluster-l>
     <nav>
       <cluster-l role="list" justify="flex-start" space="var(--s-1)">
         <div role="listitem"><a href="/">Home</a></div>

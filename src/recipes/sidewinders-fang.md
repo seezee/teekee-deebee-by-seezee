@@ -19,6 +19,7 @@ garnish: mint sprig
 glass: brandy snifter
 origin: Lanai restaurant, San Mateo, Calif., circa 1960s
 source: Beachbum Berry’s Remixed
+decade: 1960
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

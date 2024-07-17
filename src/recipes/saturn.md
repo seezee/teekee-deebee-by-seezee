@@ -20,6 +20,7 @@ garnish:
 glass: coupe
 origin: J. “Popo” Galsini, as part of the California Bartenders’ Guild, won the International Bartender’s Association World Championship with this recipe in 1967.
 source: Beachbum Berry Remixed
+decade: 1960
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -19,6 +19,7 @@ glass:
   - collins
   - highball
 origin: Martin Cate taught a seminar about how to structure an exotic cocktail at Tiki Oasis in 2012. Students were challenged to create an original recipe from a set of provided ingredients. This is Table Eleven's winning recipe.
+decade: 2010
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -48,7 +49,7 @@ Garnish
 
 ## Instructions
 
-1. Fill a collins or highball glass with cracked or cube ice
+1. Fill a Collins or highball glass with cracked or cube ice
 2. Add all ingredients to an ice-filled cocktail shaker
 3. Shake until well chilled, about 15 seconds
 4. Strain into the glass

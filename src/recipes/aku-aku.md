@@ -18,8 +18,11 @@ ingredients:
   - blended lightly aged rum (2)
 garnish: mint leaf sprigs
 glass: coupe
-origin: Based on Don the Beachcomber’s Missionary’s Downfall.
+origin: Based on Don the Beachcomber’s Missionary’s Downfall. Trader Vic's Bartender's Guide, wherein this recipe appears, was published in 1947; the revised edition first saw print in 1972.
 source: Trader Vic’s Bartender’s Guide, Revised
+decade:
+  - 1940
+  - 1970
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -47,8 +50,8 @@ Garnish
 
 ## Instructions
 
-1. Muddle pineapple in adrink mixer tin
-2. Add remaining ingredients + 12 ounces crushed ice + 4 to 6 small cubes to a drink mixer tin
+1. Muddle pineapple in a drink mixer tin
+2. Add remaining ingredients + 12 ounces crushed ice + 4 to 6 small cubes
 3. Flash blend 10 seconds
 4. Double-strain into chilled coupé glass
 5. Float large mint leaf on surface or rest cluster of mint against side of glass

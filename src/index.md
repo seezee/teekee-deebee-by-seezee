@@ -11,8 +11,7 @@ title: A Tiki Database
 
 <stack-l>
 
-  <span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for an ingredient, base spirit, or style. Type <kbd>⌘</kbd> + <kbd>K</kbd> to get started!
-
+  <span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for drink by name, type, characteristic, base spirit, ingredient, garnish, or glassware. Type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started!
 </stack-l>
 
   {% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood [cover], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}

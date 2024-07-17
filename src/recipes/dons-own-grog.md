@@ -22,6 +22,7 @@ glass:
   - double rocks
 origin: Don the Beachcomber, circa 1937
 source: Beachbum Berry’s Sippin’ Safari
+decade: 1930
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

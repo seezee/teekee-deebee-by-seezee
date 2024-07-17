@@ -21,6 +21,7 @@ glass:
   - double rocks
 origin: Don the Beachcomber
 source: Beachbum Berry’s Intoxica!
+decade: 1940
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

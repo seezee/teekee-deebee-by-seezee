@@ -23,6 +23,7 @@ glass:
   - highball
 origin: Trader Vic
 source: Trader Vic’s Book of Food and Drink
+decade: 1940
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -54,5 +55,5 @@ Garnish
 
 1. Squeeze lime wedge & drop in glass
 2. Fill glass with cracked ice
-3. Add remaining ingredients to collins or highball glass & stir gently
+3. Add remaining ingredients to Collins or highball glass & stir gently
 4. Add garnish

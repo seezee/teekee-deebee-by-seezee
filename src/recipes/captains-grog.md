@@ -28,6 +28,7 @@ glass:
   - rocks
 origin: Captain’s Inn, Long Beach, Calif., circa 1962.
 source: Beachbum Berry Remixed
+decade: 1960
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

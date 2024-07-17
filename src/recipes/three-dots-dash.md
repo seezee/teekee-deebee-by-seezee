@@ -23,6 +23,7 @@ garnish:
 glass: footed pilsner
 origin: Don the Beachcomber
 source: Beachbum Berry’s Sippin’ Safari
+decade: 1940
 ---
 
 <!-- markdownlint-disable MD025 -->

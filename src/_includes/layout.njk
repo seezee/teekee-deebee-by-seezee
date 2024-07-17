@@ -10,31 +10,20 @@
       <stack-l id="main-wrapper">
         {% include "_header.html" %}
           <sidebar-l sideWidth="40ch" space="var(--s2)">
-            <stack-l>
-              <div class="field">
-                <label for="searchField" class="sr-only">Search</label>
-                <input type="search" id="searchField" required />
-                <div id="search-hint__wrapper">
-                  <kbd>⌘</kbd>
-                  <kbd>K</kbd>
-                </div>
-              </div>
-              <div id="searchResults-wrapper"
-              >
-                <box-l>
-                  <section>
-                    <h3>Search Results</h3>
-                    <ol id="searchResults"></ol>
-                    <div id="noResultsFound" hidden>
-                      <p>No results found.</p>
-                    </div>
-                  </section>
-                </box-l>
-              </div>
-            </stack-l>
-              <!-- Grab the content from the page data, dump it here, and mark it as safe -->
-              <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
-              {{ content | safe }}
+            <div id="searchResults-wrapper">
+              <box-l borderWidth="0" id="searchResults-box">
+                <section>
+                  <h3>Search Results</h3>
+                  <ol id="searchResults"></ol>
+                  <div id="noResultsFound" hidden>
+                    <p>No results found.</p>
+                  </div>
+                </section>
+              </box-l>
+            </div>
+            <!-- Grab the content from the page data, dump it here, and mark it as safe -->
+            <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
+            {{ content | safe }}
           </sidebar-l>
         {% include "_footer.html" %}
       </stack-l>

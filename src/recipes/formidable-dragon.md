@@ -23,6 +23,7 @@ garnish:
   - swizzle stick
 glass: brandy snifter
 origin: Created by Martin Cate in 2015, this drink was first served at the Tiki Tower Takeover at The Hukilau. The name is a coinage by [Admiral Vernon](https://en.wikipedia.org/wiki/Edward_Vernon), who described drunkenness as <q>that formidable dragon.</q>
+decade: 2010
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -53,7 +54,7 @@ Garnish
 
 ## Instructions
 
-1. Combine remaining ingredients + 18 ounces crushed ice + 4 to 6 small ice cubes in a drink mixer tin
+1. Combine all ingredients + 18 ounces crushed ice + 4 to 6 small ice cubes in a drink mixer tin
 2. Flash blend 10 seconds
 3. Open pour with gated finish into the snifter
 4. Add the garnish

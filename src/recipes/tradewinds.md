@@ -20,7 +20,8 @@ garnish:
 glass:
   - zombie
 origin: Circa 1970s.
-source: Beachbum Berry Remixed 
+source: Beachbum Berry Remixed
+decade: 1970
 ---
 
 <!-- markdownlint-disable MD025 -->

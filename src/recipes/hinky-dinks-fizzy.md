@@ -21,6 +21,7 @@ garnish:
   - mint sprig
 glass: brandy snifter
 origin: Created by Trader Vic's for their 50<sup>th</sup> anniversary in 1984.
+decade: 1980
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

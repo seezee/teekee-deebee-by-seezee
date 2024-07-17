@@ -645,7 +645,6 @@ div.col-5 {
   & box-l {
     position: absolute;
     z-index: 99;
-    margin-block-start: -30px;
     background-color: var(--11ty-color-primary-100);
   }
 

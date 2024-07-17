@@ -3,14 +3,15 @@ const elasticlunr = require("elasticlunr");
 module.exports = function (collection) {
   // what fields we'd like our index to consist of
   var index = elasticlunr(function () {
-    this.addField("title");
-    this.addField("type");
-    this.addField("characteristic");
-    this.addField("base");
-    this.addField("ingredients");
-    this.addField("garnish");
-    this.addField("glass")
-    this.setRef("id");
+    this.addField(`title`);
+    this.addField(`type`);
+    this.addField(`characteristic`);
+    this.addField(`base`);
+    this.addField(`ingredients`);
+    this.addField(`garnish`);
+    this.addField(`glass`);
+    this.addField(`decade`);
+    this.setRef(`id`);
   });
 
   // loop through each page and add it to the index
@@ -23,7 +24,7 @@ module.exports = function (collection) {
       base: page.template.frontMatter.data.base,
       ingredients: page.template.frontMatter.data.ingredients,
       garnish: page.template.frontMatter.data.garnish,
-      glass: page.template.frontMatter.data.glass
+      decade: page.template.frontMatter.data.decade
     });
   });
 

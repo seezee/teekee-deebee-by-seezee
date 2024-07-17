@@ -3,6 +3,7 @@
 
   const searchField = document.getElementById(`searchField`);
   const searchHint =  document.getElementById(`search-hint__wrapper`);
+  const resBox = document.getElementById(`searchResults-box`);
 
   window.addEventListener(
     "keydown",
@@ -25,12 +26,17 @@
     true,
   );
 
+  resBox.setAttribute(`class`, `hide`);
+
   searchField.addEventListener(`focusin`, (e) => {
     searchHint.setAttribute(`class`, `hide`);
+    resBox.removeAttribute(`class`);
   });
 
   searchField.addEventListener(`focusout`, (e) => {
     searchHint.removeAttribute(`class`);
+    // Don't hide the results box on focusout so users have time to parse and
+    // act on the results.
   });
 
   const search = (e) => {
@@ -43,7 +49,8 @@
         base: {boost: 2, bool: `AND`},
         ingredients: {boost: 3, bool: `AND`},
         garnish: {bool: `AND`},
-        glass: {bool: `AND`}
+        glass: {bool: `AND`},
+        decade: {bool: `AND`}
       },
       bool: `OR`,
       expand: true,

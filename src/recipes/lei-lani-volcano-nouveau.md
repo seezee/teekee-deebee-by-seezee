@@ -22,8 +22,11 @@ garnish:
 glass:
   - collins
   - highball
-origin: A Smuggler’s Cove adaptation of the Lei Lani Volcano from Walt Disney World, circa 1970s. The original drink called for coconut rum and guava nectar.
-source: Beachbum Berry Remixed 
+origin: In 2013, Smuggler’s Cove adapted the Lei Lani Volcano from Walt Disney World. The original circa 1970s drink called for coconut rum and guava nectar.
+source: Beachbum Berry Remixed
+decade:
+  - 1970
+  - 2010
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -52,7 +55,7 @@ Garnish
 
 ## Instructions
 
-1. Add the guava soda to a collins or highball glass
+1. Add the guava soda to a Collins or highball glass
 2. Combine the remaining ingredients in a cocktail shaker filled with cracked or cube ice
 3. Shake until very cold, about 15 seconds
 4. Double-strain into the glass
