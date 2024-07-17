@@ -36,11 +36,11 @@ Glassware
 
 ## Ingredients
 
-* &frac12; ounce fresh lime juice
-* &frac12; ounce pineapple juice
-* &frac14; ounce Demerara syrup
+* 1/2 ounce fresh lime juice
+* 1/2 ounce pineapple juice
+* 1/4 ounce Demerara syrup
 * 1 dash grenadine
-* &frac12; ounce falernum
+* 1/2 ounce falernum
 * 1&frac12; ounces cane coffey still aged rum[^1]
 * 1 dash Angostura bitters
 

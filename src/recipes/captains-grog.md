@@ -45,17 +45,17 @@ Glassware
 
 ## Ingredients
 
-* &frac12; ounce fresh lime juice
-* &frac12; ounce fresh grapefruit juice
-* &frac12; ounce grade A maple syrup
+* 1/2 ounce fresh lime juice
+* 1/2 ounce fresh grapefruit juice
+* 1/2 ounce grade A maple syrup
 * 3 drops pure vanilla extract
 * 3 drops pure almond extract
 * 1 ounce seltzer
-* &frac12; ounce falernum
-* &frac12; ounce Pierre Ferrand Dry Curaçao
-* &frac34; ounce black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
-* &frac34; ounces blended lightly aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
-* &frac34; ounces blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* 1/2 ounce falernum
+* 1/2 ounce Pierre Ferrand Dry Curaçao
+* 3/4 ounce black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
+* 3/4 ounces blended lightly aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
+* 3/4 ounces blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
 
 Garnish
   : Mint sprig

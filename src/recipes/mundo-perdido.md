@@ -31,10 +31,10 @@ Glassware
 
 ## Ingredients
 
-* &frac34; ounce fresh lemon juice
-* &frac14; ounce cinnamon syrup
-* &frac14; ounce Demerara syrup
-* &frac12; ounce apple brandy
+* 3/4 ounce fresh lemon juice
+* 1/4 ounce cinnamon syrup
+* 1/4 ounce Demerara syrup
+* 1/2 ounce apple brandy
 * 1&frac12; ounces black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
 
 Garnish

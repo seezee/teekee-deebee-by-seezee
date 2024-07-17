@@ -39,8 +39,8 @@ Glassware
 * 1 ounce fresh lime juice
 * 2 ounces bourbon
 * 1 ounce fresh lemon juice
-* &frac34; ounce honey syrup
-* &frac12; ounce passion fruit syrup
+* 3/4 ounce honey syrup
+* 1/2 ounce passion fruit syrup
 
 Garnish
   : Swizzle stick

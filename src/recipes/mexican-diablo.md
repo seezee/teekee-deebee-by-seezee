@@ -42,9 +42,9 @@ Glassware
 ## Ingredients
 
 - 1 lime wedge
-- &frac12; ounce fresh lime juice
-- &frac12; ounce fresh orange juice
-- &frac12; ounce natural crème de cassis
+- 1/2 ounce fresh lime juice
+- 1/2 ounce fresh orange juice
+- 1/2 ounce natural crème de cassis
 - 1&frac12; ounces blanco tequila
 - 4 ounces real ginger ale
 

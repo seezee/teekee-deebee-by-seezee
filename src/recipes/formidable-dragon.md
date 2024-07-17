@@ -37,14 +37,14 @@ Glassware
 
 ## Ingredients
 
-* &frac34; ounce fresh lemon juice
-* &frac34; ounce fresh lime juice
-* &frac12; ounce honey syrup
-* &frac34; ounce molasses syrup
-* &frac12; ounce Amaro Di Angostura
+* 3/4 ounce fresh lemon juice
+* 3/4 ounce fresh lime juice
+* 1/2 ounce honey syrup
+* 3/4 ounce molasses syrup
+* 1/2 ounce Amaro Di Angostura
 * 1&frac12; ounces blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
 * 1 ounce black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
-* &frac14; ounce pot still lightly aged rum (overproof)<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg><span class="sr-only">(1)</span></span></icon-l>
+* 1/4 ounce pot still lightly aged rum (overproof)<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg><span class="sr-only">(1)</span></span></icon-l>
 * 1 ounce seltzer
 
 Garnish

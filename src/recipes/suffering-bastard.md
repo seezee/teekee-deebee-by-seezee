@@ -44,8 +44,8 @@ Glassware
 ## Ingredients
 
 * 4 ounces ginger beer
-* &frac12; ounce fresh lime juice
-* &frac14; ounce Demerara syrup
+* 1/2 ounce fresh lime juice
+* 1/4 ounce Demerara syrup
 * 1 ounce London dry gin
 * 1 ounce aged grape brandy
 * 2 dashes Angostura bitters

@@ -41,11 +41,11 @@ Glassware
 ## Ingredients
 
 - Spiral-cut orange peel
-- &frac34; ounce fresh lime juice
-- &frac34; ounce fresh orange juice
-- &frac14; ounce cinnamon syrup
-- &frac14; ounce vanilla syrup
-- &frac14; ounce allspice (pimento) dram
+- 3/4 ounce fresh lime juice
+- 3/4 ounce fresh orange juice
+- 1/4 ounce cinnamon syrup
+- 1/4 ounce vanilla syrup
+- 1/4 ounce allspice (pimento) dram
 - 2 ounces column still aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
 - 1 dash Angostura bitters
 

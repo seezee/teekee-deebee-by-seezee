@@ -37,10 +37,10 @@ Glassware
 
 ## Ingredients
 
-* &frac34; ounce fresh lemon juice
-* &frac12; ounce passion fruit syrup
-* &frac14; ounce orgeat
-* &frac14; ounce falernum
+* 3/4 ounce fresh lemon juice
+* 1/2 ounce passion fruit syrup
+* 1/4 ounce orgeat
+* 1/4 ounce falernum
 * 1&frac12; ounces London dry gin
 
 Garnish

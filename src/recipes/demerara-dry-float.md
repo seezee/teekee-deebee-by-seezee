@@ -38,12 +38,12 @@ Glassware
 
 ## Ingredients
 
-* &frac34; ounce black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
+* 3/4 ounce black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
 * 2 ounces fresh lime juice
 * 1 teaspoon fresh lemon juice
 * 1&frac12; ounces passion fruit syrup
-* &frac14; ounce rich Demerara syrup
-* &frac14; ounce Luxardo maraschino liqueur
+* 1/4 ounce rich Demerara syrup
+* 1/4 ounce Luxardo maraschino liqueur
 * 1&frac12; ounces blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg><span class="sr-only">(7)</span></span></icon-l>
 
 Garnish

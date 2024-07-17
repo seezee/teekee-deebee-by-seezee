@@ -38,11 +38,11 @@ Glassware
 
 ## Ingredients
 
-* &frac34; ounce fresh lemon juice
-* &frac12; ounce seltzer
-* &frac12; ounce Cherry Heering liqueur
-* &frac12; ounce falernum
-* &frac14; ounce Pierre Ferrand Dry Curaçao
+* 3/4 ounce fresh lemon juice
+* 1/2 ounce seltzer
+* 1/2 ounce Cherry Heering liqueur
+* 1/2 ounce falernum
+* 3/4 ounce Pierre Ferrand Dry Curaçao
 * 1&frac12; ounces blended lightly aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
 
 Garnish

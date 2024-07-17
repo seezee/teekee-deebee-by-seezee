@@ -41,13 +41,13 @@ Glassware
 
 ## Ingredients
 
-- &frac12; ounce fresh lime juice
-- &frac12; ounce fresh orange juice
-- &frac12; ounce honey syrup
-- &frac14; ounce falernum
-- &frac14; ounce allspice (pimento) dram
+- 1/2 ounce fresh lime juice
+- 1/2 ounce fresh orange juice
+- 1/2 ounce honey syrup
+- 1/4 ounce falernum
+- 1/4 ounce allspice (pimento) dram
 - 1&frac12; ounces cane AOC Martinique rhum agricole vieux<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg><span class="sr-only">(8)</span></span></icon-l>
-- &frac12; ounce blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+- 1/2 ounce blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
 - 1 dash Angostura bitters
 
 Garnish
