@@ -24,6 +24,7 @@ module.exports = function (collection) {
       base: page.template.frontMatter.data.base,
       ingredients: page.template.frontMatter.data.ingredients,
       garnish: page.template.frontMatter.data.garnish,
+      glass: page.template.frontMatter.data.glass,
       decade: page.template.frontMatter.data.decade
     });
   });

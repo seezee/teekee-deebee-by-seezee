@@ -11,8 +11,6 @@ characteristic:
   - strained
 base:
   - akvavit base
-  - aquavit base
-  - neutral spirit base
 ingredients:
   - orange juice
   - pineapple juice
