@@ -1,9 +1,9 @@
----
-contributors: Chris J. Zähller
-uri: https://github.com/seezee/teekee-deebee-by-seezee/
-version: 1.0.33
-license: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
----
+=== Tiki DB by SEEZEE ===
+Contributors: Chris J. Zähller (seezee)
+Author URI: <https://github.com/seezee>
+Version: 1.0.34
+License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
+Tags: recipes, tiki, rum, cocktails
 
 <div align='center'>
 
