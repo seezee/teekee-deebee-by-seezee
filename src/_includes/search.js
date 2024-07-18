@@ -4,6 +4,11 @@
   const searchField = document.getElementById(`searchField`);
   const searchHint =  document.getElementById(`search-hint__wrapper`);
   const resBox = document.getElementById(`searchResults-box`);
+  const closeButton = document.getElementById(`searchClose`);
+
+  closeButton.addEventListener(`click`, function(event){
+    resBox.setAttribute(`class`, `hide`);
+  });
 
   window.addEventListener(
     "keydown",

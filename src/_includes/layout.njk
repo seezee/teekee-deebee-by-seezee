@@ -13,11 +13,16 @@
             <div id="searchResults-wrapper">
               <box-l borderWidth="0" id="searchResults-box">
                 <section>
-                  <h3>Search Results</h3>
-                  <ol id="searchResults"></ol>
-                  <div id="noResultsFound" hidden>
-                    <p>No results found.</p>
-                  </div>
+                  <stack-l>
+                    <h3>Search Results</h3>
+                    <center-l>
+                      <button id="searchClose">close results</button>
+                    </center-l>
+                    <ol id="searchResults"></ol>
+                    <div id="noResultsFound" hidden>
+                      <p>No results found.</p>
+                    </div>
+                  </stack-l>
                 </section>
               </box-l>
             </div>

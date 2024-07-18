@@ -172,12 +172,17 @@ header {
 }
 
 nav,
-.index {
+.index,
+button {
   font-family: var(--tiki-font-sans);
 
   & a {
     text-decoration: none;
   }
+}
+
+button {
+  font-variant: small-caps;
 }
 
 .index {
@@ -636,7 +641,9 @@ div.col-5 {
   }
 }
 
-#search-hint__wrapper
+#searchClose {
+  max-inline-size: 13ch;
+}
 
 .search-item {
 
