@@ -143,17 +143,43 @@
         innerList.appendChild(charItem);
         innerList.appendChild(baseItem);
 
-        if ((Array.isArray(type)) && (Array.isArray(characteristic))) {
+        if ((Array.isArray(type)) && (Array.isArray(characteristic)) && (Array.isArray(base))) {
           const typeString = type.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
           const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
+          const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
           typeItem.innerHTML += typeString + ` `;
           charItem.innerHTML += charString + ` `;
-          baseItem.innerHTML += base;
+          baseItem.innerHTML += baseString;
 
           el.appendChild(innerList);
+        } else if ((!Array.isArray(type)) && (Array.isArray(characteristic)) && (Array.isArray(base))) {
+            const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
+            const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-        } else if ((Array.isArray(type)) && (!Array.isArray(characteristic))) {
+            typeItem.innerHTML += type + ` `;
+            charItem.innerHTML += charString + ` `;
+            baseItem.innerHTML += baseString;
+
+            el.appendChild(innerList);
+        } else if ((!Array.isArray(type)) && (!Array.isArray(characteristic)) && (Array.isArray(base))) {
+            const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
+
+            typeItem.innerHTML += type + ` `;
+            charItem.innerHTML += characteristic + ` `;
+            baseItem.innerHTML += baseString;
+
+            el.appendChild(innerList);
+        } else if ((Array.isArray(type)) && (!Array.isArray(characteristic)) && (Array.isArray(base))) {
+            const typeString = type.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
+            const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
+
+            typeItem.innerHTML += typeString + ` `;
+            charItem.innerHTML += characteristic + ` `;
+            baseItem.innerHTML += baseString;
+
+            el.appendChild(innerList);
+        } else if ((Array.isArray(type)) && (!Array.isArray(characteristic)) && (!Array.isArray(base))) {
           const typeString = type.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
           typeItem.innerHTML += typeString + ` `;
@@ -161,8 +187,16 @@
           baseItem.innerHTML += base;
 
           el.appendChild(innerList);
+        } else if ((Array.isArray(type)) && (Array.isArray(characteristic)) && (!Array.isArray(base))) {
+          const typeString = type.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
+          const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-        } else if ((!Array.isArray(type)) && (Array.isArray(characteristic))) {
+          typeItem.innerHTML += typeString + ` `;
+          charItem.innerHTML += charString + ` `;
+          baseItem.innerHTML += base;
+
+          el.appendChild(innerList);
+        } else if ((!Array.isArray(type)) && (Array.isArray(characteristic)) && (!Array.isArray(base))) {
           const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
           typeItem.innerHTML += type + ` `;
@@ -170,7 +204,6 @@
           baseItem.innerHTML += base;
 
           el.appendChild(innerList);
-
         } else {
           typeItem.innerHTML += type + ` `;
           charItem.innerHTML += characteristic + ` `;
