@@ -10,6 +10,7 @@ module.exports = function (collection) {
     this.addField(`ingredients`);
     this.addField(`garnish`);
     this.addField(`glass`);
+    this.addField(`origin`);
     this.addField(`decade`);
     this.setRef(`id`);
   });
@@ -25,6 +26,7 @@ module.exports = function (collection) {
       ingredients: page.template.frontMatter.data.ingredients,
       garnish: page.template.frontMatter.data.garnish,
       glass: page.template.frontMatter.data.glass,
+      origin: page.template.frontMatter.data.origin,
       decade: page.template.frontMatter.data.decade
     });
   });

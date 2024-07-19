@@ -181,8 +181,27 @@ button {
   }
 }
 
+[aria-describedby='footnotes-label'] {
+  text-decoration: none;
+
+  &::before {
+    content: '[';
+  }
+
+  &::after {
+    content: ']';
+  }
+}
+
+[href^="#fnref:"] {
+  text-decoration: none;
+}
+
 button {
+  text-transform: lowercase;
   font-variant: small-caps;
+  padding-inline: var(--s0);
+  padding-block: var(--s-4);
 }
 
 .index {
@@ -263,7 +282,6 @@ dt {
   line-height: 1.1;
   text-wrap: balance;
 }
-
 
 dt,
 dd,

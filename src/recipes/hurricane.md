@@ -43,7 +43,7 @@ Glassware
 
 Garnish
   : Wind-ravaged cocktail umbrella
-  : lemon wedge
+  : Lemon wedge
 
 ## Instructions
 

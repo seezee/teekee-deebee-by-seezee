@@ -45,7 +45,7 @@ Glassware
 - 1/2 ounce fresh lime juice
 - 1/2 ounce fresh orange juice
 - 1/2 ounce natural crème de cassis
-- 1&frac12; ounces blanco tequila
+- 1&frac12; ounces tequila blanco
 - 4 ounces real ginger ale
 
 Garnish

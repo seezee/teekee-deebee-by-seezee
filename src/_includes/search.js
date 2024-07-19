@@ -59,6 +59,7 @@
         ingredients: {boost: 3, bool: `AND`},
         garnish: {bool: `AND`},
         glass: {bool: `AND`},
+        origin: {bool: `AND`},
         decade: {bool: `AND`}
       },
       bool: `OR`,

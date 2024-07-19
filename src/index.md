@@ -7,16 +7,11 @@ title: A Tiki Database
 # {{ title }} <!-- {.someClass} -->
 <!-- markdownlint-enable MD025 -->
 
-<switcher-l space="var(--s1)" Threshold="30rem" Limit="2">
+<span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for drink by name, type, characteristic, base spirit, ingredient, garnish, glassware, origin, or decade. Type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started!
 
-<stack-l>
+In the mood for almond? Type "orgeat." Looking for something bubbly? Try typing "spritz" or "cooler." Want a strained drink in a stemmed glass? Give "coupe" a whirl. Hate it when the gentle tropical rains dilute your drink? Type "umbrella." Craving something from the master's secret recipe books? Type "Don the Beachcomber." Yearning for something from Tiki's earliest days? Type "1930."
 
-  <span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a rum barrel, sit down, and wet your whistle? The best place to start is by searching for drink by name, type, characteristic, base spirit, ingredient, garnish, or glassware. Type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started!
-</stack-l>
-
-  {% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood [cover], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}
-
-</switcher-l>
+{% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood \[cover\], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}
 
 {% callout "note" %}
 
