@@ -4,11 +4,13 @@
   const searchField = document.getElementById(`searchField`);
   const searchHint =  document.getElementById(`search-hint__wrapper`);
   const resBox = document.getElementById(`searchResults-box`);
-  const closeButton = document.getElementById(`searchClose`);
+  const closeButtons = document.getElementsByClassName(`searchClose`);
 
-  closeButton.addEventListener(`click`, function(event){
-    resBox.setAttribute(`class`, `hide`);
-  });
+  for (let closeButton of closeButtons) {
+    closeButton.addEventListener(`click`, function(event){
+      resBox.setAttribute(`class`, `hide`);
+    });
+  }
 
   window.addEventListener(
     "keydown",
@@ -153,8 +155,8 @@
           const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
           const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-          typeItem.innerHTML += typeString + ` `;
-          charItem.innerHTML += charString + ` `;
+          typeItem.innerHTML += typeString;
+          charItem.innerHTML += charString;
           baseItem.innerHTML += baseString;
 
           el.appendChild(innerList);
@@ -162,16 +164,16 @@
             const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
             const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-            typeItem.innerHTML += type + ` `;
-            charItem.innerHTML += charString + ` `;
+            typeItem.innerHTML += type;
+            charItem.innerHTML += charString;
             baseItem.innerHTML += baseString;
 
             el.appendChild(innerList);
         } else if ((!Array.isArray(type)) && (!Array.isArray(characteristic)) && (Array.isArray(base))) {
             const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-            typeItem.innerHTML += type + ` `;
-            charItem.innerHTML += characteristic + ` `;
+            typeItem.innerHTML += type;
+            charItem.innerHTML += characteristic;
             baseItem.innerHTML += baseString;
 
             el.appendChild(innerList);
@@ -179,16 +181,16 @@
             const typeString = type.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
             const baseString = base.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-            typeItem.innerHTML += typeString + ` `;
-            charItem.innerHTML += characteristic + ` `;
+            typeItem.innerHTML += typeString;
+            charItem.innerHTML += characteristic;
             baseItem.innerHTML += baseString;
 
             el.appendChild(innerList);
         } else if ((Array.isArray(type)) && (!Array.isArray(characteristic)) && (!Array.isArray(base))) {
           const typeString = type.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-          typeItem.innerHTML += typeString + ` `;
-          charItem.innerHTML += characteristic + ` `;
+          typeItem.innerHTML += typeString;
+          charItem.innerHTML += characteristic;
           baseItem.innerHTML += base;
 
           el.appendChild(innerList);
@@ -196,22 +198,22 @@
           const typeString = type.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
           const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-          typeItem.innerHTML += typeString + ` `;
-          charItem.innerHTML += charString + ` `;
+          typeItem.innerHTML += typeString;
+          charItem.innerHTML += charString;
           baseItem.innerHTML += base;
 
           el.appendChild(innerList);
         } else if ((!Array.isArray(type)) && (Array.isArray(characteristic)) && (!Array.isArray(base))) {
           const charString = characteristic.reduce((accumulator, currentValue) => accumulator + sep + currentValue);
 
-          typeItem.innerHTML += type + ` `;
-          charItem.innerHTML += charString + ` `;
+          typeItem.innerHTML += type;
+          charItem.innerHTML += charString;
           baseItem.innerHTML += base;
 
           el.appendChild(innerList);
         } else {
-          typeItem.innerHTML += type + ` `;
-          charItem.innerHTML += characteristic + ` `;
+          typeItem.innerHTML += type;
+          charItem.innerHTML += characteristic;
           baseItem.innerHTML += base;
 
           el.appendChild(innerList);
