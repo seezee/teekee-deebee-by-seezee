@@ -9,7 +9,9 @@ type:
 characteristic:
   - built
   - stirred
-base: tequila/agave base
+base:
+  - tequila base
+  - agave base
 ingredients:
   - lime wedge
   - lime juice

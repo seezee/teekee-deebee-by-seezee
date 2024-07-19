@@ -7,7 +7,9 @@ type:
 characteristic:
 - shaken
 - strained
-base: tequila/agave base
+base:
+  - tequila base
+  - agave base
 ingredients:
   - champagne
   - sparkling wine
