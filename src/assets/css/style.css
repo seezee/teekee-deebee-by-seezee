@@ -184,7 +184,7 @@ label {
 }
 
 label span {
-  color: var(--tiki-alert-danger-border-color)
+  color: scarlet;
 }
 
 input, textarea {
