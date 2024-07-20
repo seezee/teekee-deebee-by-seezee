@@ -1,5 +1,15 @@
 <footer role="contentinfo">
-  <p>Copyright &copy; 2024{{ helpers.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
+  <cluster-l justify="space-between" align="center">
+    <cluster-l justify="flex-start">
+      <p>Copyright &copy; 2024{{ helpers.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
+    </cluster-l>
+    <nav>
+      <cluster-l role="list" justify="flex-start" space="var(--s-1)">
+      <div role="listitem"><a href="/contact">Contact</a></div>
+      <div role="listitem"><a href="#">Legal</a></div>
+      </cluster-l>
+    </nav>
+  </cluster-l>
   {% set js %}
     <!-- Inline as many scripts as you like -->
     <!-- Capture the JS content as a Nunjucks variable -->

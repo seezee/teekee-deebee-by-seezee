@@ -156,7 +156,7 @@ html {
   font-family: var(--tiki-font-default);
   font-size: var(--11ty-size-textDefault);
 
-  padding-block-start: var(--s1);
+  padding-block: var(--s1);
 }
 
 [hidden] {
@@ -189,6 +189,10 @@ label span {
 
 input, textarea {
   font-family: var(--tiki-font-mono);
+}
+
+textarea {
+  padding: var(--s0);
 }
 
 [aria-describedby='footnotes-label'] {
