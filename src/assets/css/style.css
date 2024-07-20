@@ -137,6 +137,7 @@
 
   --tiki-font-default: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   --tiki-font-sans: system-ui, sans-serif;
+  --tiki-font-mono: ui-monospace, Cousine, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 
 }
 
@@ -173,12 +174,21 @@ header {
 
 nav,
 .index,
-button {
+button,
+label {
   font-family: var(--tiki-font-sans);
 
   & a {
     text-decoration: none;
   }
+}
+
+label span {
+  color: var(--tiki-alert-danger-border-color)
+}
+
+input, textarea {
+  font-family: var(--tiki-font-mono);
 }
 
 [aria-describedby='footnotes-label'] {
@@ -198,6 +208,7 @@ button {
 }
 
 button {
+  inline-size: fit-content;
   text-transform: lowercase;
   font-variant: small-caps;
   padding-inline: var(--s0);

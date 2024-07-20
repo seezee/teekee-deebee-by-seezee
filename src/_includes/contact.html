@@ -1,0 +1,51 @@
+<form action="https://formspree.io/f/mblrdrkn" id="contact-form" method="POST">
+  <stack-l>
+    <label for="name">Name</label>
+    <input
+      id="name"
+      type="text"
+      name="name"
+      maxLength="128"
+      required
+    />
+    <label for="email">Email</label>
+    <input
+      id="email"
+      type="email"
+      name="_replyto"
+      maxLength="128"
+      required
+    />
+    <label for="subject">Subject</label>
+    <input
+      id="subject"
+      type="text"
+      name="_subject"
+      maxLength="128"
+      required
+    />
+    <div class="sr-only">
+      <label for="potedemel">Skip this field if you’re human</label>
+      <input
+        id="potedemel"
+        type="text"
+        name="potedemel"
+        maxLength="64"
+      />
+    </div>
+    <label for="message">Message</label>
+    <textarea
+      id="message"
+      name="message"
+      maxLength="2048"
+      rows="10"
+      required
+    ></textarea>
+    <div
+      class="g-recaptcha"
+      data-sitekey="6LckLxQqAAAAAKBl3PrzTCloT8_WcnACYINSBZvD">
+    </div>    <button type="submit">
+      Send it!
+    </button>
+  </stack-l>
+</form>
