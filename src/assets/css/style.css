@@ -29,6 +29,9 @@
   --11ty-color-textPrimary: var(--11ty-color-primary-900);
   --11ty-color-textSecondary: var(--11ty-color-primary-50);
 
+  --11ty-color-hoverPrimary: var(--11ty-color-primary-800);
+  --11ty-color-hoverSecondary: var(--11ty-color-primary-100);
+
   --11ty-color-iconFillHover: var(--11ty-color-primary-900);
 
   --11ty-color-figureBG: oklch(97.5% 0 0 / .5);
@@ -74,7 +77,8 @@
   --tiki-alert-danger-border-color: color-mix(in srgb, var(--tiki-alert-color-danger-background) 75%, #000);
 
   --tiki-alert-border: .325em;
-  --tiki-alert-radius: .4em;
+  --tiki-radius-1x: .2em;
+  --tiki-radius-2x: .4em;
 
   --tiki-navbar-search-input-background-color: var(--11ty-color-primary-100);
 
@@ -184,11 +188,23 @@ label {
 }
 
 label span {
-  color: scarlet;
+  color: crimson;
+  font-size: 2em;
+  line-height: 1;
+  vertical-align: text-top;
 }
 
 input, textarea {
+  color: var(--11ty-color-textPrimary);
+  background-color: var(--11ty-color-textSecondary);
+  border: solid 2px var(--11ty-color-textPrimary);
   font-family: var(--tiki-font-mono);
+}
+
+input,
+textarea,
+button {
+  border-radius: var(--tiki-radius-1x);
 }
 
 textarea {
@@ -211,12 +227,36 @@ textarea {
   text-decoration: none;
 }
 
-button {
+button,
+.button {
+  appearance: none;
   inline-size: fit-content;
+  border: solid 2px transparent;
   text-transform: lowercase;
   font-variant: small-caps;
   padding-inline: var(--s0);
   padding-block: var(--s-4);
+
+  &.button-primary {
+    color: var(--11ty-color-textSecondary);
+    background-color: var(--11ty-color-textPrimary);
+
+    &:hover,
+    &:active {
+      background-color: var(--11ty-color-hoverPrimary);
+    }
+  }
+
+  &.button-secondary {
+    color: var(--11ty-color-textPrimary);
+    background-color: var(--11ty-color-textSecondary);
+    border-color: var(--11ty-color-textPrimary);
+
+    &:hover,
+    &:active {
+      background-color: var(--11ty-color-hoverSecondary);
+    }
+  }
 }
 
 .index {
@@ -396,7 +436,7 @@ a, a:visited {
 kbd {
   background-color: var(--11ty-color-textSecondary);
   border: 1px solid var(--11ty-color-textPrimary);
-  border-radius: .2rem;
+  border-radius: var(--tiki-radius-1x);
   box-shadow: inset 0 -1px 0 var(--11ty-color-textPrimary);
   color: var(--11ty-color-textPrimary);
   font: 80% monospace;
@@ -629,7 +669,7 @@ div.col-5 {
 /* Search */
 
 #searchField {
-  -webkit-appearance: none;
+  appearance: none;
   color: var(--11ty-color-textPrimary);
   background-color: var(--tiki-navbar-search-input-background-color);
   background-repeat: no-repeat;
@@ -660,7 +700,7 @@ div.col-5 {
   & kbd {
     background-color: var(--11ty-color-textPrimary);
     border: 1px solid var(--11ty-color-textSecondary);
-    border-radius: .2rem;
+    border-radius: var(--tiki-radius-1x);
     box-shadow: inset 0 -1px 0 var(--11ty-color-textSecondary);
     color: var(--11ty-color-textSecondary);
     font: 80% monospace;
@@ -740,7 +780,7 @@ div.col-5 {
   background-color: var(--tiki-alert-color-background);
   border: 0 solid var(--tiki-alert-border-color);
   border-left-width: var(--tiki-alert-border);
-  border-radius: var(--tiki-alert-radius);
+  border-radius: var(--tiki-radius-2x);
   box-shadow: var(--tiki-global-shadow);
   padding: var(--s1) var(--s2);
 }

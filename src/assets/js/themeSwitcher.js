@@ -2,7 +2,6 @@ export default class ThemeSwitcher extends HTMLElement {
   constructor() {
     super();
     this.button = this.querySelector('button');
-    // this.id = `theme-toggle`;
 
     // Set attributes
     this.button.className = `theme-toggle`;
@@ -16,25 +15,25 @@ export default class ThemeSwitcher extends HTMLElement {
 
   // Create the click handler
 	handleEvent (event) {
-    let themeAttr = document.documentElement.getAttribute(`data-theme`);
+    let themeAttr     = document.documentElement.getAttribute(`data-theme`);
     let dataTheme;
     const themeButton = document.getElementById(`theme-toggle`);
     let buttonTitle   = themeButton.getAttribute(`title`);
-    let themeVal  = document.getElementById(`theme-value`);
+    let themeVal      = document.getElementById(`theme-value`);
 
 
     if ( themeAttr !== `dark` ) {
-      dataTheme = this.setAttribute(`data-theme`, `dark`);
+      dataTheme          = this.setAttribute(`data-theme`, `dark`);
       document.documentElement.setAttribute(`data-theme`, `dark`);
       localStorage.setItem(`theme-preference`, `dark`);
       themeVal.innerHTML = `light`;
-      buttonTitle = this.setAttribute(`title`, `Switch to light theme`);
+      buttonTitle        = this.setAttribute(`title`, `Switch to light theme`);
     } else {
-      dataTheme = this.setAttribute(`data-theme`, `light`);
+      dataTheme          = this.setAttribute(`data-theme`, `light`);
       document.documentElement.setAttribute(`data-theme`, `light`);
       localStorage.setItem(`theme-preference`, `light`); // reset theme selection
       themeVal.innerHTML = `dark`;
-      buttonTitle = this.setAttribute(`title`, `Switch to dark theme`);
+      buttonTitle        = this.setAttribute(`title`, `Switch to dark theme`);
     }
 	}
 
@@ -44,7 +43,7 @@ export default class ThemeSwitcher extends HTMLElement {
   render() {
     const storageKey  = localStorage.getItem(`theme-preference`);
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
-    let dataTheme = storageKey === `dark` ? `dark`:`light`;
+    let dataTheme     = storageKey === `dark` ? `dark`:`light`;
 
     /**
      * If the user hasn't set a preference, check the system settings when the
