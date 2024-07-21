@@ -120,6 +120,10 @@
   --border-thin: var(--s-5);
   --border-thick: var(--s-2);
 
+  --tiki-font-default: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;
+  --tiki-font-sans: system-ui, sans-serif;
+  --tiki-font-mono: ui-monospace, Cousine, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+
   --tiki-font-size-factor: .75;
 
   /* Step -2: 14.0537px → 18.963px */
@@ -138,10 +142,6 @@
   --tiki-font-size-4: calc(var(--tiki-font-size-factor) *  clamp(1.2962rem, 0.9113rem + 1.9244cqi, 2.4027rem));
   /* Step 5: 22.128px → 43.2488px */
   --tiki-font-size-5: calc(var(--tiki-font-size-factor) * clamp(1.383rem, 0.9239rem + 2.2957cqi, 2.703rem));
-
-  --tiki-font-default: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-  --tiki-font-sans: system-ui, sans-serif;
-  --tiki-font-mono: ui-monospace, Cousine, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 
 }
 
@@ -316,6 +316,19 @@ p {
 sub, sup {
   line-height: 1;
 }
+
+.frac sup,
+.frac sub {
+  font-size: .55rem;
+}
+
+.frac sub {
+  display: inline-block;
+  position: relative;
+  inset-inline-start: -.1rem;
+  inset-block-start: -.2rem;
+}
+
 
 blockquote {
   margin-inline: 2.5rem;

@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Zombie No. 3 (Jeff "Beachbum" Berry)
+title: Zombie No. 3 (Jeff “Beachbum” Berry)
 tags: recipes
 type:
   - tall drink
@@ -47,7 +47,7 @@ Glassware
 - 3/4 ounce fresh lime juice
 - 1/3 ounce fresh white grapefruit juice[^2]
 - 1/2 ounce falernum
-- &frac16; ounce cinnamon syrup
+- <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce cinnamon syrup
 - 2 ounces Beachbum Berry’s Zombie Rum Blend
 - 1 dash grenadine
 - 1 dash Pernod, Herbsaint, or other pastis liqueur
