@@ -60,7 +60,9 @@ Glassware
 Garnish
   : None
 
+<!-- markdownlint-disable MD012 -->
 {% callout "tip" %}
+<!-- markdownlint-enable MD012 -->
 
   Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
 {% endcallout %}

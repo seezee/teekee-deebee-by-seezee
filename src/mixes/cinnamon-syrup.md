@@ -24,9 +24,9 @@ ingredients:
 ## Instructions
 
 1. Bring water & cinnamon to boil in a saucepan over high heat
-2. Dissolve granulated sugar in the water, stirring with a whisk or immersion blender, about 1 minute[^1]
+2. Dissolve granulated sugar in the water, stirring with a whisk or immersion blender, about 1 minute
 3. Immediately remove from heat & allow to cool
-4. Strain into a bottle & refrigerate
+4. Fine-strain into a bottle & refrigerate
 
 <!-- markdownlint-disable MD012 -->
 {% callout "note" %}
