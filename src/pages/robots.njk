@@ -6,6 +6,12 @@ User-agent: *
 Allow: /
 Sitemap: {{ site.url }}/sitemap.xml
 
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
 ## https://commoncrawl.org/faq - Has been used by ChatGPT, Bard, and others for training a number of models.
 User-agent: CCBot
 Disallow: /
