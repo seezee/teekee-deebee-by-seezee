@@ -17,6 +17,7 @@ ingredients:
   - black blended rum (5)
 glass: coupe
 origin: Created exclusively for Smuggler’s Cove by Jeff “Beachbum” Berry in 2009.
+source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2000
 ---
 <!-- markdownlint-disable MD025 -->
@@ -25,6 +26,9 @@ decade: 2000
 
 Origin
   : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Chilled coupé

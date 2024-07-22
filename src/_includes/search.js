@@ -60,6 +60,7 @@
         garnish: {bool: `AND`},
         glass: {bool: `AND`},
         origin: {bool: `AND`},
+        source: {bool: `AND`},
         decade: {bool: `AND`}
       },
       bool: `OR`,

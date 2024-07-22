@@ -577,6 +577,7 @@ div.col-5 {
 
 #theme-toggle {
   --size: 1rem;
+  --min-size: 24px; /* Minimum WCAG target size */
   --margin-top: .2em;
 
   @media screen and (pointer: coarse) {
@@ -591,6 +592,8 @@ div.col-5 {
 
   inline-size: var(--size);
   block-size: var(--size);
+  min-inline-size: var(--min-size);
+  min-block-size: var(--min-size);
   aspect-ratio: 1;
   border-radius: 50%;
 

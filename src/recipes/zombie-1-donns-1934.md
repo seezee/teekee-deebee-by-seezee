@@ -25,7 +25,7 @@ glass:
   - zombie
 origin:
   - The notorious Don the Beachcomber original, <q>Limit of 2,</q> <q>for your own safety.</q> Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.
-source: Sippin' Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
 

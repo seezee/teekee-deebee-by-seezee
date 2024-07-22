@@ -19,6 +19,7 @@ glass:
   - collins
   - highball
 origin: Martin Cate taught a seminar about how to structure an exotic cocktail at Tiki Oasis in 2012. Students were challenged to create an original recipe from a set of provided ingredients. This is Table Eleven's winning recipe.
+source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
 ---
 
@@ -28,6 +29,9 @@ decade: 2010
 
 Origin
   : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Collins or highball

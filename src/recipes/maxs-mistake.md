@@ -18,6 +18,7 @@ garnish: mint sprig
 glass: brandy snifter
 origin:
   - <p>Created by Martin Cate when he worked at Trader Vic’s and named in honor of Tiki-Ti’s <cite>Ray’s Mistake</cite>. The drink was the result of Cate accidentally combining two other drinks.</p><p><q>Max</q> is Cate’s mother’s nickname for her son.</p>
+source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2000
 ---
 <!-- markdownlint-disable MD025 -->
@@ -29,10 +30,11 @@ decade: 2000
   <dd>
     <stack-l>{{ origin }}</stack-l>
   </dd>
+  <dt>Source</dt>
+  <dd><cite>{{ source }}</cite></dd>
+  <dt>Glassware</dt>
+  <dd>Large (22-ounce) brandy snifter</dd>
 </dl>
-
-Glassware
-  : Large (22-ounce) brandy snifter
 
 ## Ingredients
 

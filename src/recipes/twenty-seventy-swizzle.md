@@ -25,6 +25,7 @@ glass:
   - collins
   - highball
 origin: Created by Martin Cate and Ron Roumas. A swizzle combining the best qualities of various classic swizzles. The name was inspired by the two rums Cate chose as best in the recipe&colon; Angostura 1919 and Lemon Hart 151.
+source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
 ---
 
@@ -34,6 +35,9 @@ decade: 2010
 
 Origin
   : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Collins or highball

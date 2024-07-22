@@ -21,6 +21,7 @@ garnish:
   - mint sprig
 glass: brandy snifter
 origin: Created by Trader Vic's for their 50<sup>th</sup> anniversary in 1984.
+source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 1980
 ---
 <!-- markdownlint-disable MD025 -->
@@ -29,6 +30,9 @@ decade: 1980
 
 Origin
   : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Large (22-ounce) brandy snifter

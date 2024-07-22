@@ -21,6 +21,7 @@ ingredients:
 garnish: maraschino cherry
 glass: coupe
 origin: Dane Barca from Smuggler’s Cove created this cocktail as an homage to Panamanian roots as he was participating in an event for Abuelo Rum. The name Cuevas honors an indigenous people of Panama who were exterminated by Spanish colonists in the 16<sup>th</sup> century.
+source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
 ---
 <!-- markdownlint-disable MD025 -->
@@ -29,6 +30,9 @@ decade: 2010
 
 Origin
   : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Chilled coupé

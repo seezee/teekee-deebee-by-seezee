@@ -23,6 +23,7 @@ garnish:
   - swizzle stick
 glass: brandy snifter
 origin: Created by Martin Cate in 2015, this drink was first served at the Tiki Tower Takeover at The Hukilau. The name is a coinage by [Admiral Vernon](https://en.wikipedia.org/wiki/Edward_Vernon), who described drunkenness as <q>that formidable dragon.</q>
+source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
 ---
 <!-- markdownlint-disable MD025 -->
@@ -31,6 +32,9 @@ decade: 2010
 
 Origin
   : {{ origin }}
+
+Source
+  : <cite>{{ source}}</cite>
 
 Glassware
   : Large (22-ounce) brandy snifter
