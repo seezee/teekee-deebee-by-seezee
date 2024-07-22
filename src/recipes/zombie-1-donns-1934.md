@@ -24,8 +24,8 @@ garnish:
 glass:
   - zombie
 origin:
-  - The notorious Don the Beachcomber original, <q>Limit of 2,</q> <q>for your own safety.</q> Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.
-source: Beachbum Berry's Sippin' Safari
+  - The notorious Don the Beachcomber original.
+source: Beachbum Berry’s Sippin’ Safari
 decade: 1930
 ---
 
@@ -33,21 +33,29 @@ decade: 1930
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-Origin
-  : {{ origin }}[^1]
+<dl>
+  <dt>Origin</dt>
+    <stack-l>
+<dd>
 
-Source
-  : <cite>{{ source }}</cite>
+  {{ origin }} <q>Don will not serve more than 2 to each person.</q>[^1]</dd>
+<dd class="margin-hack">
 
-Glassware
-  : Zombie
+  Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2]</dd>
+    </stack-l>
+  <dt class="margin-hack">Source</dt>
+  <dd><cite>{{ source }}</cite></dd>
+  <dt>Glassware</dt>
+  <dd>Zombie</dd>
+</dt>
 
-[^1]: See also [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/) and [Zombie No. 3](/recipes/zombie-3-jeff-berry-hamiltons/).
+[^1]: Don the Beachcomber menu, 1941.
+[^2]: See also [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/) and [Zombie No. 3](/recipes/zombie-3-jeff-berry-hamiltons/).
 
 ## Ingredients
 
 - 3/4 ounce fresh lime juice
-- 1/3 ounce fresh white grapefruit juice[^2]
+- 1/3 ounce fresh white grapefruit juice[^3]
 - <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce cinnamon syrup
 - 1 teaspoon grenadine
 - 1/2 ounce falernum
@@ -56,7 +64,7 @@ Glassware
 - 1 ounce black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
 - 2 dashes Herbstura
 
-[^2]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
+[^3]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
 
 Garnish
   : Mint sprig
