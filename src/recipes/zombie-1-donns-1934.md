@@ -47,7 +47,7 @@ decade: 1930
   <dd><cite>{{ source }}</cite></dd>
   <dt>Glassware</dt>
   <dd>Zombie</dd>
-</dt>
+</dl>
 
 [^1]: Don the Beachcomber menu, 1941.
 [^2]: See also [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/) and [Zombie No. 3](/recipes/zombie-3-jeff-berry-hamiltons/).
@@ -78,7 +78,7 @@ Garnish
 
 <!-- markdownlint-disable MD012 -->
 {% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
 
   Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
 {% endcallout %}
+<!-- markdownlint-enable MD012 -->
