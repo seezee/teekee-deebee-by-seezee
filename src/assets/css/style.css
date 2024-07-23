@@ -230,6 +230,7 @@ textarea {
 button,
 .button {
   appearance: none;
+  -webkit-appearance: none;
   inline-size: fit-content;
   border: solid 2px transparent;
   text-transform: lowercase;
@@ -702,6 +703,7 @@ div.col-5 {
 
 #searchField {
   appearance: none;
+  -webkit-appearance: none;
   color: var(--11ty-color-textPrimary);
   background-color: var(--tiki-navbar-search-input-background-color);
   background-repeat: no-repeat;
