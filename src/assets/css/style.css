@@ -97,7 +97,7 @@
     --11ty-color-primary-900: oklch(95% 0.012 0.012); /* Default */
 
     --11ty-color-iconFillHover: #fff;
-    --11ty-color-figureBG: oklch((17.5% 0.012 0.012 ) / .5); /* 900 */
+    --11ty-color-figureBG: oklch(17.5% 0.012 0.012 / .5); /* 900 */
 
     --tiki-alert-color-lightness: 30%;
   }
