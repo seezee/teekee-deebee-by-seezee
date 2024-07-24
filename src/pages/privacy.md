@@ -207,9 +207,9 @@ We may update this privacy notice from time to time. The updated version will be
 If you have questions or comments about this notice, you may [contact us via our contact form](/contact) or contact us by post at:
 
 <address>
-  Messenger Web Design LLC
-  1126 Idaho St.
-  Norman, OK 73071-4416
+  Messenger Web Design LLC<br/>
+  1126 Idaho St.<br/>
+  Norman, OK 73071-4416<br/>
   United States
 </address>
 
