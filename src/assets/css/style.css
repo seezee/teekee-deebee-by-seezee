@@ -226,6 +226,10 @@ label {
   }
 }
 
+#main-wrapper {
+  inline-size: 100%
+}
+
 label span {
   color: crimson;
   font-size: 2em;
