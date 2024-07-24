@@ -9,30 +9,30 @@
     <center-l max="100ch">
       <stack-l id="main-wrapper">
         {% include "_header.html" %}
-          <sidebar-l sideWidth="40ch" space="var(--s2)">
-            <div id="searchResults-wrapper">
-              <box-l borderWidth="0" id="searchResults-box">
-                <section>
-                  <stack-l>
-                    <h3>Search Results</h3>
-                    <center-l>
-                      <button class="searchClose button button-primary">close results</button>
-                    </center-l>
-                    <ol id="searchResults"></ol>
-                    <div id="noResultsFound" hidden>
-                      <p>No results found.</p>
-                    </div>
-                    <center-l>
-                      <button class="searchClose button button-primary">close results</button>
-                    </center-l>
-                  </stack-l>
-                </section>
-              </box-l>
-            </div>
-            <!-- Grab the content from the page data, dump it here, and mark it as safe -->
-            <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
-            {{ content | safe }}
-          </sidebar-l>
+        <div id="searchResults-wrapper">
+          <box-l borderWidth="0" id="searchResults-box">
+            <section>
+              <stack-l>
+                <h3 tabindex="0" id="searchResults">Search Results</h3>
+                <center-l>
+                  <button class="searchClose button button-primary">close results</button>
+                </center-l>
+                <ol id="searchResults"></ol>
+                <div id="noResultsFound" hidden>
+                  <p>No results found.</p>
+                </div>
+                <center-l>
+                  <button class="searchClose button button-primary">close results</button>
+                </center-l>
+              </stack-l>
+            </section>
+          </box-l>
+        </div>
+        <!-- Grab the content from the page data, dump it here, and mark it as safe -->
+        <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
+        <center-l max="60ch">
+          {{ content | safe }}
+        </center-l>
         {% include "_footer.html" %}
       </stack-l>
     </center-l>

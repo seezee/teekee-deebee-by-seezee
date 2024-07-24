@@ -1,6 +1,6 @@
 <!-- axelinter:disable:button-name -->
 <header id="header">
-  <cluster-l justify="space-between" align="center">
+  <cluster-l justify="space-between" align="center" id="nav-primary-wrapper">
     <cluster-l justify="flex-start">
       <div id="tiki-mask-icon-wrapper">
         <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
@@ -8,13 +8,14 @@
       <div class="field">
         <label for="searchField" class="sr-only">Search</label>
         <input type="search" id="searchField" required />
+        <a class="sr-only" href="#searchResults">Jump to search results</a>
         <div id="search-hint__wrapper">
           <kbd>⌘</kbd>
           <kbd>K</kbd>
         </div>
       </div>
     </cluster-l>
-    <nav>
+    <nav id="nav-primary">
       <cluster-l role="list" justify="flex-start" space="var(--s-1)">
         <div role="listitem"><a href="/">Home</a></div>
         <div role="listitem"><a href="/recipes/">Recipes</a></div>
@@ -23,7 +24,6 @@
         <theme-toggle>
           <button id="theme-toggle"></button>
         </theme-toggle>
-
       </cluster-l>
     </nav>
   </cluster-l>
