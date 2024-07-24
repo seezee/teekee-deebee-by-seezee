@@ -832,7 +832,12 @@ div.col-5 {
 /* Recipe index */
 
 .recipe-index {
-  li a {
+
+  dd:not(:has(+ dt)) {
+    margin-block-end: var(--s0);
+  }
+
+  dd a {
     text-decoration: none;
   }
 }
