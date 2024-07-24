@@ -1,7 +1,7 @@
 ---
 layout: _main.njk
 title: Website Terms of use
-permalink: "/legal/terms-of-use.html"
+permalink: "/legal/terms-of-use/index.html"
 ---
 
 <!-- markdownlint-disable MD025 -->

@@ -1,7 +1,7 @@
 ---
 layout: _main.njk
 title: Privacy Policy
-permalink: "/legal/privacy.html"
+permalink: "/legal/privacy/index.html"
 ---
 
 <!-- markdownlint-disable MD025 -->

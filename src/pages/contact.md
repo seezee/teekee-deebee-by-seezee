@@ -1,7 +1,7 @@
 ---
 layout: _main.njk
 title: Talk to Us
-permalink: "/contact.html"
+permalink: "/contact/index.html"
 ---
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
