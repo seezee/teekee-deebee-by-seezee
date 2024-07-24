@@ -4,6 +4,7 @@
     "allowed_elements": [
       "a",
       "abbr",
+      "address",
       "br",
       "button",
       "cite",
