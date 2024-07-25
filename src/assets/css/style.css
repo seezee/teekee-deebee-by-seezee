@@ -414,9 +414,6 @@ dt {
   &:not(:first-child) {
     margin-block-start:  var(--s1);
 
-    &.margin-hack {
-      margin-block-start: 0;
-    }
   }
 
   &+dt:not(:first-child) {
@@ -448,8 +445,10 @@ dd {
   }
 }
 
-[data-i="Stack-var(--s1)false"] > dd.margin-hack {
-  margin-block-end: 0;
+.dd-add-space {
+  dd + dd {
+    margin-block-start: var(--s1);
+  }
 }
 
 [data-i="Stack-var(--s1)false"] > dd+br {

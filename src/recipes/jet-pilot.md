@@ -51,14 +51,14 @@ Glassware
 
 [^1]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
 
+Garnish
+  : None
+
 ## Instructions
 
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 10 seconds
 3. Open pour with gated finish into double old-fashioned glass
-
-Garnish
-  : None
 
 <!-- markdownlint-disable MD012 -->
 {% callout "tip" %}

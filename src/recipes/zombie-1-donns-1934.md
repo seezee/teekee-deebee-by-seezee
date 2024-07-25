@@ -33,21 +33,19 @@ decade: 1930
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<dl>
-  <dt>Origin</dt>
-    <stack-l>
-<dd>
+<div class="dd-add-space">
 
-  {{ origin }} <q>Don will not serve more than 2 to each person.</q>[^1]</dd>
-<dd class="margin-hack">
+  Origin
+    :  {{ origin }} <q>Don will not serve more than 2 to each person.</q>[^1]
+    : Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2]
 
-  Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2]</dd>
-    </stack-l>
-  <dt class="margin-hack">Source</dt>
-  <dd><cite>{{ source }}</cite></dd>
-  <dt>Glassware</dt>
-  <dd>Zombie</dd>
-</dl>
+  Source
+    : <cite>{{ source }}</cite>
+
+  Glassware
+    : Zombie
+
+</div>
 
 [^1]: Don the Beachcomber menu, 1941.
 [^2]: See also [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/) and [Zombie No. 3](/recipes/zombie-3-jeff-berry-hamiltons/).
@@ -78,7 +76,7 @@ Garnish
 
 <!-- markdownlint-disable MD012 -->
 {% callout "tip" %}
-
-  Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
-{% endcallout %}
 <!-- markdownlint-enable MD012 -->
+  Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
+
+{% endcallout %}
