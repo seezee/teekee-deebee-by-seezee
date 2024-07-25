@@ -4,5 +4,5 @@ for (let i = 0; i < document.links.length; i++) {
         current = i;
     }
 }
-document.links[current].className += ` current`;
+document.links[current].classList.add(`current`);
 document.links[current].ariaCurrent = `page`;
