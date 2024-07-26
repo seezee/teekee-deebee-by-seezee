@@ -199,6 +199,7 @@
 
 html {
   background: var(--11ty-color-primary-200) no-repeat center;
+  background-blend-mode: soft-light;
   background-size: cover;
   color: var(--11ty-color-textPrimary);
   transition: background-color 0.1s ease, color 0.1s ease;
@@ -207,6 +208,10 @@ html {
   font-size: var(--11ty-size-textDefault);
 
   padding-block: var(--s1);
+
+  &[data-theme='dark'] {
+    background-blend-mode: initial;
+  }
 }
 
 [hidden] {
