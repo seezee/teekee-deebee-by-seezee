@@ -19,7 +19,7 @@ ingredients:
 glass: 
   - double old-fashioned
   - double rocks
-origin: Don the Beachcomber
+origin: Don the Beachcomber. Served with a side of danger!
 source: Beachbum Berry’s Intoxica!
 decade: 1940
 ---
@@ -57,4 +57,4 @@ Garnish
 4. Open pour with gated finish into double old-fashioned glass
 5. Serve with the side of overproof rums
 
-Encourage guests to pour as much or little of the overproof rum into their drink as they like, experiencing the changes to the flavor profile.
+Encourage guests to pour as much or little of the overproof rum (the side of danger!) into their drink as they like, experiencing the changes to the flavor profile.

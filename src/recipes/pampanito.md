@@ -16,7 +16,7 @@ ingredients:
   - pimento dram
   - black blended rum (5)
   - Angostura bitters
-garnish: Lemon twist
+garnish: lemon twist
 glass:
   - collins
   - highball
