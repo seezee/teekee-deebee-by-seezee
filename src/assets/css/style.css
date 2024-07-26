@@ -506,7 +506,9 @@ a:visited {
   color: var(--11ty-color-textPrimary);
 
   &.current {
-    text-decoration: underline solid .5rem;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: .5rem;
     text-underline-offset: .5rem;
     color: var(--tiki-nav-current-color);
   }
