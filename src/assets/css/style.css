@@ -26,7 +26,7 @@
 
 :root {
 
-  --11ty-size-textDefault: 1.5em;
+  --11ty-size-textDefault: 1.25em;
 
   --11ty-color-primary-50:  oklch(95% 0.012 0.012); /* Default dark theme */
   --11ty-color-primary-100: oklch(90% 0.012 0.012);
@@ -774,7 +774,7 @@ div.col-5 {
   justify-content: right;
   pointer-events: none;
   position: absolute;
-  inset-inline-start: 185px;
+  inset-inline-start: 10rem;
   inset-block-start: 7px;
 
   & kbd {
@@ -790,7 +790,7 @@ div.col-5 {
 
 @media screen and (pointer:fine) {
   #search-hint__wrapper {
-    left: 210px;
+    inset-inline-start: 10rem;
   }
 }
 

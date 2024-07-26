@@ -4,7 +4,6 @@ title: Lei Lani Volcano 2.0 (a.k.a. Lei Lani Nouveau)
 tags: recipes
 type:
   - tall drink
-  - highball
   - cooler
 characteristic:
   - shaken

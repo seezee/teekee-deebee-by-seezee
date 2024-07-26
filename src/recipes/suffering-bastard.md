@@ -4,7 +4,6 @@ title: Suffering Bastard
 tags: recipes
 type:
   - tall drink
-  - highball
   - cooler
 characteristic:
   - shaken

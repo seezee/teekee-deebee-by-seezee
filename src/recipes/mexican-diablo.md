@@ -4,7 +4,6 @@ title: Mexican el Diablo
 tags: recipes
 type:
   - tall drink
-  - highball
   - cooler
 characteristic:
   - built
