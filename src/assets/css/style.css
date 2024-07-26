@@ -1,25 +1,25 @@
-@import "https://unpkg.com/open-props/easings.min.css";
+@import 'https://unpkg.com/open-props/easings.min.css';
 
 @property --11ty-color-primary-900 {
-    syntax: "<color>";
+    syntax: '<color>';
     inherits: false;
     initial-value: currentColor;
 }
 
 @property --ratio {
-    syntax: "<number>";
+    syntax: '<number>';
     inherits: false;
     initial-value: 1.4;
 }
 
 @property --tiki-alert-color-lightness {
-  syntax: "<percent>";
+  syntax: '<percent>';
   inherits: false;
   initial-value: 95%;
 }
 
 @property --tiki-alert-color-chroma {
-  syntax: "<number>";
+  syntax: '<number>';
   inherits: false;
   initial-value: 0.1;
 }
@@ -58,7 +58,7 @@
 
   --11ty-color-iconFillHover: var(--11ty-color-hoverPrimary);
 
-  --11ty-color-figureBG: oklch(97.5% 0 0 / .5);
+  --11ty-color-figureBG: oklch(97.5% 0.012 0.012);
 
   --tiki-alert-color-lightness: 95%;
   --tiki-alert-color-chroma: 0.1;
@@ -133,7 +133,7 @@
     --11ty-color-secondary-800: oklch(90% 0.163 64.47);
     --11ty-color-secondary-900: oklch(95% 0.163 64.47);
 
-    --11ty-color-figureBG: oklch(17.5% 0.012 0.012 / .5); /* 900 */
+    --11ty-color-figureBG: oklch(17.5% 0.012 0.012); /* 900 */
 
     --tiki-alert-color-lightness: 30%;
   }
@@ -179,6 +179,16 @@
   /* Step 5: 22.128px → 43.2488px */
   --tiki-font-size-5: calc(var(--tiki-font-size-factor) * clamp(1.383rem, 0.9239rem + 2.2957cqi, 2.703rem));
 
+}
+
+@media (prefers-reduced-transparency: no-preference) {
+  :root {
+    --11ty-color-figureBG: oklch(97.5% 0.012 0.012 / .5);
+
+    &[data-theme='dark'] {
+      --11ty-color-figureBG: oklch(17.5% 0.012 0.012 / .5);
+    }
+  }
 }
 
 @media (prefers-reduced-motion) {
@@ -266,7 +276,7 @@ textarea {
   }
 }
 
-[href^="#fnref:"] {
+[href^='#fnref:'] {
   text-decoration: none;
 }
 
@@ -451,7 +461,7 @@ dd {
   }
 }
 
-[data-i="Stack-var(--s1)false"] > dd+br {
+[data-i='Stack-var(--s1)false'] > dd+br {
   margin-block-start: 0;
 }
 
@@ -608,26 +618,23 @@ div.col-5 {
   to { opacity: 1; max-height: 10vh;}
 }
 
+.hide,
+#search-hint__wrapper.hide {
+  animation: fadeout 0ms;
+  display: none;
+}
+.show {
+  display: block;
+  animation: fadein 0ms;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .hide,
   #search-hint__wrapper.hide {
     animation: fadeout 200ms ease-out;
-    display: none;
   }
   .show {
-    display: block;
     animation: fadein 200ms ease-in;
-  }
-}
-
-
-@media (prefers-reduced-motion) {
-  .hide,
-  #search-hint__wrapper.hide {
-    display: none;
-  }
-  .show {
-    display: block
   }
 }
 
