@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Cane AOC Martinique Rhum Agricole Long Aged
 tags: rhums
+permalink: "/rums/05-rhum-cane-aoc-martinique-rhum-agricole-long-aged/index.html"
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

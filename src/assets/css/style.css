@@ -572,6 +572,10 @@ svg:not(#tiki-mask-icon)  path {
 .col-5 {
   columns: 1;
   column-gap: var(--s-1);
+
+  & ul {
+    break-inside: avoid;
+  }
 }
 
 div.col-2,

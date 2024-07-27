@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Cane Pot Still Aged
 tags: rhums
+permalink: "/rums/02-rhum-cane-pot-still-aged/index.html"
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

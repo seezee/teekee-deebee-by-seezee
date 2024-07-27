@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Cane Coffey Still Aged
 tags: rhums
+permalink: "rums/00-rhum-cane-coffey-still-aged/index.html"
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
