@@ -1,6 +1,8 @@
 let current = 0;
 for (let i = 0; i < document.links.length; i++) {
-    if (document.links[i].href === document.URL) {
+    const str = document.links[i].href;
+    // if (document.links[i].href === document.URL) {
+    if (document.URL.startsWith(str)) {
         current = i;
     }
 }
