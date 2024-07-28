@@ -1,3 +1,5 @@
+// /src/_includes/search.js
+
 (function (window, document) {
   `use strict`;
 

@@ -8,6 +8,8 @@ tags: rums
 # {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Appleton Estate Signature Blend (Jamaica)
 * Banks 5 Island (regional blend)
 * Banks 7 Islnad (regional blend)
@@ -22,3 +24,5 @@ tags: rums
 * Plantation 3 Star (regional blend)
 * Real McCoy 3 Year (Barbados)
 * Santa Teresa Claro (Venezuala)
+
+</div>

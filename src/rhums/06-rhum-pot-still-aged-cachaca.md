@@ -8,5 +8,9 @@ permalink: "/rums/06-rhum-pot-still-aged-cachaca/index.html"
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Avuá Amburana (Brazil)
 * Novo Fogo Gold (Brazil)
+
+</div>

@@ -8,5 +8,9 @@ permalink: "rums/00-rhum-cane-coffey-still-aged/index.html"
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Rhum Babancourt 5 Star (Haiti)
 * Rhum Babancourt Estate Reserve (Haiti)
+
+</div>

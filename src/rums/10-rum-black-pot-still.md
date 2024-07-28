@@ -7,4 +7,8 @@ tags: rums
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Hamilton Jamaica Black (Jamaica)
+
+</div>

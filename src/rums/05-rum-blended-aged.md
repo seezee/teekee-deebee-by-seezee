@@ -8,6 +8,8 @@ tags: rums
 # {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Appleton Estate Reserve Blend (Jamaica)
 * Appleton Estate Rare Blend 12 (Jamaica)
 * Cadenhead Green Label (regional blend)
@@ -38,3 +40,5 @@ tags: rums
 * Real McCoy 12 Year (Barbados)
 * R.L. Seale 9 Year Port Cask Finish (Barbados)
 * R.L. Seale 10 Year (Barbados)
+
+</div>

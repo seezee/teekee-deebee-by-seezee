@@ -7,6 +7,8 @@ tags: rums
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Appleton Estate 21 (Jamaica)
 * Banks The Endeavour (regional blend)
 * Cartavio XO (Peru)
@@ -18,3 +20,5 @@ tags: rums
 * Santa Teresa 1796 (Venezuela)
 * Smooth Ambler Revelation Rum (Jamaica)
 * St. Lucia Distillers 1931 (St. Lucia)
+
+</div>

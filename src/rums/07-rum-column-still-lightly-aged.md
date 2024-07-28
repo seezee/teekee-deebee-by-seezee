@@ -7,6 +7,8 @@ tags: rums
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Bacardi Heritage 1909 (Mexico)
 * Caliche (Puerto Rico)
 * Caña Brava (Panama)
@@ -17,3 +19,5 @@ tags: rums
 * Flor de Caña Extra Dry 4 Year (Nicaragua)
 * Ron Del Barrilito 2 Star (Puerto Rico)
 * Scarlett Ibis (Trinidad)
+
+</div>

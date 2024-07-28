@@ -9,6 +9,8 @@ permalink: "/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/html"
 # {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg><span class="sr-only">(8)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Clément V.S.O.P 6 Year Très Vieux (Martinique)
 * Clément V.S.O.P 10 Year Très Vieux (Martinique)
 * Duquesne Élevé Sous Bois (Martinique)
@@ -18,3 +20,5 @@ permalink: "/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/html"
 * Neisson Réserve Spéciale (Martinique)
 * Rhum J.M.S.E.B. Gold (Martinique)
 * Rhum J.M.S.E.B. V.S.O.P. (Martinique)
+
+</div>

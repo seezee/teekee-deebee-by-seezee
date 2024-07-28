@@ -7,6 +7,8 @@ tags: rums
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Berry Bros. & Rudd (independent bottler, various)
 * Cadenhead (independent bottler, various)
 * Duncan Taylor (independent bottler, various)
@@ -16,3 +18,5 @@ tags: rums
 * Plantation (independent bottler, various)
 * Samaroli (independent bottler, various)
 * St. Nicholas Abbey 5 Year (Barbados)
+
+</div>

@@ -9,6 +9,8 @@ permalink: "/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/index.html"
 # {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg><span class="sr-only">(7)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Clément Première Canne (Martinique)
 * Clément Canne Bleu (Martinique)
 * Duquesne Blanc (Martinique)
@@ -16,3 +18,5 @@ permalink: "/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/index.html"
 * Neisson Blanc (Martinique)
 * Neisson Le Rhum (Martinique)
 * Neisson L&rsquo;Esprit Overproof (Martinique)
+
+</div>

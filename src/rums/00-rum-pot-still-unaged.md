@@ -7,6 +7,8 @@ tags: rums
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Hamilton Jamaica Gold (Jamaica)
 * Owney&rsquo;s New York Rum (New York, USA)
 * Pritchard&rsquo;s Crystal (Tenn.)
@@ -16,3 +18,5 @@ tags: rums
 * Sammy&rsquo;s Beach Bar Rum (Hawaii, USA)
 * Sergeant Classick White (Calif., USA)
 * Wray &amp; Nephew (overproof) (Jamaica)
+
+</div>

@@ -8,6 +8,8 @@ tags: rums
 # {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg><span class="sr-only">(1)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Ballast Point Three Sheets Aged (Calif., USA)
 * Diablo&rsquo;s Shadow Navy Strength (overproof) (Calif., USA)
 * House Spirits Aged Rum (Oregon, USA)
@@ -23,3 +25,5 @@ tags: rums
 * Smith & Cross (overproof) (Jamaica)
 * Sun Rum Barrel Aged (Wash., USA)
 * Thomas Tew Single Barrel (Rhode Island, USA)
+
+</div>

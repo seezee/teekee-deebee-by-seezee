@@ -1,10 +1,19 @@
-let current = 0;
-for (let i = 0; i < document.links.length; i++) {
+// /src/_includes/currentNav.js
+
+(function (window, document) {
+  `use strict`;
+
+  let current = 0;
+
+  for (let i = 0; i < document.links.length; i++) {
     const str = document.links[i].href;
     // if (document.links[i].href === document.URL) {
     if (document.URL.startsWith(str)) {
-        current = i;
+      current = i;
     }
 }
-document.links[current].classList.add(`current`);
-document.links[current].ariaCurrent = `page`;
+
+  document.links[current].classList.add(`current`);
+  document.links[current].ariaCurrent = `page`;
+
+})(window, document);

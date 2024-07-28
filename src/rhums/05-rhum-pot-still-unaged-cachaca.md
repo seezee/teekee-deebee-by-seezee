@@ -8,5 +8,9 @@ permalink: "/rums/05-rhum-pot-still-unaged-cachaca/index.html"
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Avuá Prata (Brazil)
 * Novo Fogo Silver (Brazil)
+
+</div>

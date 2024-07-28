@@ -10,12 +10,14 @@
       --tiki-search-icon: url(/assets/images/icons/search.svg);
       --tiki-external-icon: url(/assets/images/icons/external.svg);
       --tiki-body-background: url(/assets/images/site/palm-trees.svg);
+      --tiki-list-marker: url(/assets/images/icons/starfish.svg);
     }
 
     [data-theme='dark'] {
         --tiki-search-icon: url(/assets/images/icons/search-dark.svg);
         --tiki-external-icon: url(/assets/images/icons/external-dark.svg);
-    }
+        --tiki-list-marker: url(/assets/images/icons/starfish-dark.svg);
+      }
 
     html {
       background-image:var(--tiki-body-background)
@@ -28,6 +30,10 @@
     a[href^='http://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after,
     a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after {
       content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
+    }
+
+    main li::before {
+      background-image: var(--tiki-list-marker);
     }
   </style>
 </head>

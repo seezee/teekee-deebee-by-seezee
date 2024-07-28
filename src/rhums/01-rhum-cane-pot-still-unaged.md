@@ -8,5 +8,9 @@ permalink: "/rums/01-rhum-cane-pot-still-unaged/index.html"
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Capovilla Agricole PMG (Marie Galante)
 * St. George Calif. Reserve Agricole (USA)
+
+</div>

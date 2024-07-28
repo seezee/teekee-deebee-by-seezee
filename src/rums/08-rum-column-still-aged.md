@@ -8,6 +8,8 @@ tags: rums
 # {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
+<div class="index">
+
 * Admiral Rodney (St. Lucia)
 * Angostura 1824 (Trinidad)
 * Angostura 1919 (Trinidad)
@@ -49,3 +51,5 @@ tags: rums
 * Zacapa 23 (Guatemala)
 * Zacapa XO (Guatemala)
 * Zafra (Panama)
+
+</div>
