@@ -43,7 +43,7 @@ Glassware
 * 8 mint leaves
 * 1 ounce fresh lime juice
 * 1/2 (scant) ounce Demerara syrup
-* 1&frac12; ounces blended lightly aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg><span class="sr-only">(2)</span></span></icon-l>
+* 1&frac12; ounces blended lightly aged rum<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
   : Large mint leaf or small cluster of mint sprigs

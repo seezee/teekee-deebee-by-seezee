@@ -39,7 +39,7 @@ Glassware
 
 * 2 ounces fresh lemon juice
 * 2 ounces passion fruit syrup
-* 4 ounces black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
+* 4 ounces black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 
 Garnish
   : Wind-ravaged cocktail umbrella

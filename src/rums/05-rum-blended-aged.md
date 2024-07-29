@@ -2,10 +2,11 @@
 layout: _main.njk
 title: Blended Aged
 category: /assets/images/icons/circle-3.svg#circle-3
+label: (3)
 tags: rums
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+# {{ title }}<icon-l space="1em" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
 <div class="index">

@@ -2,10 +2,11 @@
 layout: _main.njk
 title: Black Blended
 category: /assets/images/icons/circle-5.svg#circle-5
+label: (5)
 tags: rums
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
+# {{ title }}<icon-l space="1em" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
 <div class="index">

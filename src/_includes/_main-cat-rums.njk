@@ -9,7 +9,7 @@ layout: layout.njk
         <h2>Molasses &amp; Evaporated Cane Rums</h2>
         <ul class="index">
           {%- for post in collections.rumsAscending -%}
-            <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="{{ post.data.category }}"></use></svg><span class="sr-only">(1)</span></span></icon-l></a></li>
+            <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}<icon-l space="1em" class="bigger" label="{{ post.data.label }}"><span class="with-icon"><svg class="icon"><use href="{{ post.data.category }}"></use></svg></span></icon-l></a></li>
           {%- endfor -%}
         </ul>
       </stack-l>
@@ -17,7 +17,7 @@ layout: layout.njk
         <h2>Fresh Cane Juice Rums</h2>
         <ul class="index">
           {%- for post in collections.rhumsAscending -%}
-            <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="{{ post.data.category }}"></use></svg><span class="sr-only">(1)</span></span></icon-l></a></li>
+            <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}<icon-l space="1em" class="bigger" label="{{ post.data.label }}"><span class="with-icon"><svg class="icon"><use href="{{ post.data.category }}"></use></svg></span></icon-l></a></li>
           {%- endfor -%}
         </ul>
       </stack-l>

@@ -2,10 +2,11 @@
 layout: _main.njk
 title: Column Still Aged
 category: /assets/images/icons/circle-4.svg#circle-4
+label: (4)
 tags: rums
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
+# {{ title }}<icon-l space="1em" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
 <div class="index">

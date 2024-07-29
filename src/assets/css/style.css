@@ -936,6 +936,18 @@ div.col-5 {
   margin-inline-start: .5ch;
 }
 
+icon-l {
+
+  &[data-i="Icon-1em"] {
+    align-items: center;
+  }
+
+  &.bigger .icon {
+    height: 1em;
+    width: 1em;
+  }
+}
+
 /* Footer */
 
 #starfish {

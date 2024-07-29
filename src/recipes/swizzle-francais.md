@@ -46,7 +46,7 @@ Glassware
 - 1/2 ounce fresh lime juice
 - 1/2 ounce Martinique sugarcane syrup[^1]
 - 1/4 ounce allspice dram
-- 2 ounces cane AOC Martinique rhum agricole vieux<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg><span class="sr-only">(8)</span></span></icon-l>
+- 2 ounces cane AOC Martinique rhum agricole vieux<icon-l space="1em" class="bigger" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 - 1 pinch freshly ground nutmeg
 
 [^1]: The Smuggler's Cove book recommended sourcing this syrup from Kegworks, but it appears they no longer sell bar ingredients. Instead, look for online retailers selling [Rhum J.M. Sirop](https://bit.ly/3WEiuK1) sugarcane syrup.

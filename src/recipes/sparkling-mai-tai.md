@@ -45,8 +45,8 @@ Glassware
 * 1/4 ounce fresh lime juice
 * 1/4 ounce orgeat
 * 1/2 ounce dry curaçao
-* 1/4 ounce black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
-* 1/2 ounce blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* 1/4 ounce black blended overproof rum<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
+* 1/2 ounce blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 4 ounces chilled sparkling wine
 
 Garnish

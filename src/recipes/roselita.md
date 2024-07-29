@@ -50,7 +50,7 @@ Glassware
 * 1/2 ounce orgeat
 * 1/2 ounce hibiscus liqueur
 * 1/2 ounce natural peach liqueur
-* 1&frac12; ounces column still aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
+* 1&frac12; ounces column still aged rum<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 1 dashes Peychaud's bitters
 
 Garnish

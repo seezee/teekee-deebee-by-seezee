@@ -44,7 +44,7 @@ Glassware
 * 1/2 ounce natural pear liqueur
 * 1/4 ounce Drambuie liqueur
 * 2 ounces seltzer
-* 2 ounces column still aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg><span class="sr-only">(4)</span></span></icon-l>
+* 2 ounces column still aged rum<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 2 dashes Peychaud's bitters
 * 1 dash Angostura bitters
 

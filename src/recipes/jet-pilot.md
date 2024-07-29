@@ -44,9 +44,9 @@ Glassware
 * 1/3 ounce fresh white grapefruit juice[^1]
 * <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce cinnamon syrup
 * 1/2 ounce falernum
-* 1 ounce black blended rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg><span class="sr-only">(5)</span></span></icon-l>
-* 3/4 ounce blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
-* 3/4 ounce black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
+* 1 ounce black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+* 3/4 ounce blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 3/4 ounce black blended overproof rum<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 * 1 dash Herbstura
 
 [^1]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.

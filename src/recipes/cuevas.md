@@ -42,7 +42,7 @@ Glassware
 * 1/4 ounce cinnamon syrup
 * 1/2 ounce Punt e Mes or other quinquina
 * 1/4 ounce tawny port
-* 2 ounces blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 6 drops Bittermens ʻElemakule Tiki Bitters
 
 Garnish

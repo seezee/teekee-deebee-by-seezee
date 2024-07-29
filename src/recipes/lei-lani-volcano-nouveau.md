@@ -47,7 +47,7 @@ Glassware
 - 1&frac12; ounces pineapple juice
 - 3/4 ounce fresh lime juice
 - 1 ounce coconut cream
-- 1&frac12; ounces blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+- 1&frac12; ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
   : Edible orchid

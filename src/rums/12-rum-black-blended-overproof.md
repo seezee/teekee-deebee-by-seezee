@@ -2,10 +2,11 @@
 layout: _main.njk
 title: Black Blended Overproof
 category: /assets/images/icons/circle-6.svg#circle-6
+label: (6)
 tags: rums
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
+# {{ title }}<icon-l space="1em" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
 <div class="index">
