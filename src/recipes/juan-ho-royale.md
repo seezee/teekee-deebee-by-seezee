@@ -9,7 +9,7 @@ characteristic:
 - strained
 base:
   - tequila base
-  - agave base
+  - agave spirit base
 ingredients:
   - champagne
   - sparkling wine

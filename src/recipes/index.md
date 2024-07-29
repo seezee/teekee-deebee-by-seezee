@@ -36,10 +36,10 @@ eleventyExcludeFromCollections: true
     {%- for post in collections.recipesAscendingD -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>E</dt>
+    <dt>E</dt>
     {%- for post in collections.recipesAscendingE -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
-    {%- endfor -%} -->
+    {%- endfor -%}
     <dt>F</dt>
     {%- for post in collections.recipesAscendingF -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>

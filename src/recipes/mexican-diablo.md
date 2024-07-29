@@ -10,7 +10,7 @@ characteristic:
   - stirred
 base:
   - tequila base
-  - agave base
+  - agave spirit base
 ingredients:
   - lime wedge
   - lime juice

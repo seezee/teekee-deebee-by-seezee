@@ -160,7 +160,7 @@
   --tiki-font-sans: system-ui, sans-serif;
   --tiki-font-mono: ui-monospace, Cousine, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 
-  --tiki-font-size-factor: .75;
+  --tiki-font-size-factor: 0.75;
 
   /* Step -2: 14.0537px → 18.963px */
   --tiki-font-size--2: calc(var(--tiki-font-size-factor) * clamp(0.8784rem, 0.7716rem + 0.5336cqi, 1.1852rem));
