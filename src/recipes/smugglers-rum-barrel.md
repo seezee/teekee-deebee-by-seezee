@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Smuggler's Cove Rum Barrel
+title: Smuggler’s Cove Rum Barrel
 tags: recipes
 type:
   - tropical

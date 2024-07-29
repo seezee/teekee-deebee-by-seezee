@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Zombie No. 2 (Trader Vic's)
+title: Zombie No. 2 (Trader Vic’s)
 tags: recipes
 type:
   - tall drink
