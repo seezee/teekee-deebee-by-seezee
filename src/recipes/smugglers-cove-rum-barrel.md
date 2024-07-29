@@ -43,7 +43,7 @@ Origin
 Source
   : {{ source }}
 
-[^1]: In Martin's words, <q>We pay tribute to the longstanding tradition of Donn's coded and secret recipes with this drink.</q>
+[^1]: In Cate's words, <q>We pay tribute to the longstanding tradition of Donn's coded and secret recipes with this drink.</q>
 
 Glassware
   : Rum barrel tiki mug
