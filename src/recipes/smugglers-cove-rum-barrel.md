@@ -29,8 +29,8 @@ garnish:
 glass:
   - rum barrel tiki mug
   - brandy snifter
-origin: Created by Martin Cate, who honors Don the Beachcomber by keeping this recipe hidden even from his bartenders by including a secret mix. This reverse-engineered version comes from the [r/Tiki](https://www.reddit.com/r/Tiki/comments/j22en2/decoding_the_smuggers_cove_rum_barrel/) community on Reddit, but [this recipe](https://www.reddit.com/r/Tiki/comments/nqbz3j/smugglers_cove_rum_barrel_my_decode_attempt/) looks like it might be even closer.
-source: Speculation by a bunch of tiki nerds on Reddit
+origin: Created by Martin Cate, this recipe contains a secret mix unknown even to his own bartenders.
+source: Speculation by tiki nerds on Reddit
 decade: 2000
 ---
 <!-- markdownlint-disable MD025 -->
@@ -38,10 +38,12 @@ decade: 2000
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin }}[^1] This reverse-engineered version comes from the [r/Tiki](https://www.reddit.com/r/Tiki/comments/j22en2/decoding_the_smuggers_cove_rum_barrel/) community on Reddit, but [this recipe](https://www.reddit.com/r/Tiki/comments/nqbz3j/smugglers_cove_rum_barrel_my_decode_attempt/) looks like it might be even closer.
 
 Source
   : {{ source }}
+
+[^1]: In Martin's words, <q>We pay tribute to the longstanding tradition of Donn's coded and secret recipes with this drink.</q>
 
 Glassware
   : Rum barrel tiki mug
