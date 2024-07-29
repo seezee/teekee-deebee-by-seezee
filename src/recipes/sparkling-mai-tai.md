@@ -1,0 +1,71 @@
+---
+layout: _main.njk
+title: Sparkling Mai Tai
+tags: recipes
+type:
+  - tropical
+characteristic:
+  - stirred
+  - strained
+  - sparkling
+base: rum base
+ingredients:
+  - lime juice
+  - orgeat
+  - curacao
+  - black blended overproof rum (6)
+  - blended aged rum (3)
+  - sparkling wine
+garnish:
+  - lime twist
+  - mint leaf
+glass:
+  - coupe
+  - champagne flute
+origin: Created by Martin Cate for <cite>Sunset</cite> magazine in 2011.
+source: Sunset
+decade: 2010
+---
+
+<!-- markdownlint-disable MD025 -->
+# {{ title }}
+<!-- markdownlint-disable MD025 -->
+
+Origin
+  : {{ origin }}
+
+Source
+  : <cite>{{ source }}</cite> magazine, September 2011 issue.
+
+Glassware
+  : Chilled coupé or champagne flute
+
+## Ingredients
+
+* 1/4 ounce fresh lime juice
+* 1/4 ounce orgeat
+* 1/2 ounce dry curaçao
+* 1/4 ounce black blended overproof rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg><span class="sr-only">(6)</span></span></icon-l>
+* 1/2 ounce blended aged rum<icon-l space="1em"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg><span class="sr-only">(3)</span></span></icon-l>
+* 4 ounces chilled sparkling wine
+
+Garnish
+  : Lime twist
+  : Mint leaf
+
+## Instructions
+
+1. Pour all ingredients *except* sparkling wine into a mixing glass
+2. Stir with cracked or cube ice
+3. Strain into a chilled coupé or champagne flute
+4. Top with sparkling wine
+5. Garnish
+
+<!-- markdownlint-disable MD012 -->
+
+{% callout "tip" %}
+<!-- markdownlint-enable MD012 -->
+
+  If you plan to serve several guests, scale-up and pre-batch this recipe. Combine and chill all ingredients *except* sparkling wine for one hour; chill wine separately. To serve, pour 1&frac34; ounces of mix into each glass and top with 4 ounces of chilled sparkling wine; garnish.
+
+{% endcallout %}

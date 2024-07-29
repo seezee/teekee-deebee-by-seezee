@@ -404,23 +404,6 @@ blockquote {
 
 /*** Lists ***/
 
-main ul {
-
-  & li {
-    list-style: none;
-    text-indent: -1.5rem;
-
-    &::before {
-      content: '';
-      display: inline-block;
-      margin-inline-end: .5rem;
-      block-size: 1rem;
-      inline-size: 1rem;
-      vertical-align: middle;
-    }
-  }
-}
-
 dl {
   margin-block-start: 0;
 }
@@ -487,9 +470,9 @@ dd {
   margin-block-start: 0;
 }
 
-#ingredients + ul li::marker {
+/* #ingredients + ul li::marker {
     content: '';
-}
+} */
 
 figure {
   margin: 0;
@@ -589,10 +572,6 @@ svg:not(#tiki-mask-icon)  path {
 .col-5 {
   columns: 1;
   column-gap: var(--s-1);
-
-  & ul {
-    break-inside: avoid;
-  }
 }
 
 div.col-2,
@@ -955,4 +934,10 @@ div.col-5 {
 
 .with-icon .icon {
   margin-inline-start: .5ch;
+}
+
+/* Footer */
+
+#starfish {
+  margin-block: var(--s1);
 }

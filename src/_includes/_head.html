@@ -32,8 +32,8 @@
       content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
     }
 
-    main li::before {
-      background-image: var(--tiki-list-marker);
+    main ul li::marker {
+      content: var(--tiki-list-marker) '\00A0';
     }
   </style>
 </head>
