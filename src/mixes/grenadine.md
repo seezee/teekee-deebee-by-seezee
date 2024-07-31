@@ -16,7 +16,7 @@ ingredients:
 ## Ingredients
 
 * 500 milliliters fresh or bottled 100% pomegranate juice, e.g. POM Wonderful
-* 500 milliliters granulated sugar
+* 500 grams granulated sugar
 * 60 milliters pomegranate molasses
 * 5 milliliters orange flower water
 
@@ -43,7 +43,7 @@ ingredients:
   Scale this recipe up or down to fit your needs. For example,
 
 * 250 milliliters pomegranate juice
-* 250 milliliters granulated sugar
+* 250 grams granulated sugar
 * 30 milliliters pomegranate molasses
 * 2.5 milliliters orange flower water
 

@@ -15,7 +15,7 @@ ingredients:
 ## Ingredients
 
 * 250 milliliters water
-* 500 milliliters granulated sugar
+* 500 grams granulated sugar
 * 112.5 milliliters Brer Rabbit Mild molasses
 
 ## Instructions

@@ -1,6 +1,6 @@
 {
   "name": "teekee deebee by seezee (Tiki DB)",
-  "version": "1.0.84",
+  "version": "1.0.85",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,9 @@
     "build": "npx @11ty/eleventy"
   },
   "keywords": ["tiki", "cocktails", "tropical", "recipes"],
+  "homepage": "https://github.com/seezee/teekee-deebee-by-seezee",
   "author": "Chris J. Zähller",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^3.1.8"

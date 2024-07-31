@@ -8,7 +8,9 @@ type:
 characteristic:
   - shaken
   - strained
-base: brandy base
+base:
+  - pisco base
+  - brandy base
 ingredients:
   - lemon juice
   - passion fruit syrup

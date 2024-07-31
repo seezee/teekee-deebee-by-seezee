@@ -59,7 +59,7 @@ Garnish
 ## Instructions
 
 1. Add all ingredients to a drink mixer tin without ice
-2. Roll ingredients (pour back and fourth a few times) with another drink mixer tin to combine
+2. Roll ingredients (pour back and forth a few times) with another drink mixer tin to combine
 3. Divide contents evenly between the 2 tins
 4. For each tin
    1. Add 12 ounces of crushed ice + 4 to 6 small ice cubes
