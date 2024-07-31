@@ -943,13 +943,13 @@ div.col-5 {
 
 icon-l {
 
-  &[data-i="Icon-1em"] {
+  &.bigger[data-i="Icon-1em"] {
     align-items: center;
-  }
 
-  &.bigger .icon {
-    height: 1em;
-    width: 1em;
+    & .icon {
+      height: 1em;
+      width: 1em;
+    }
   }
 }
 
