@@ -549,6 +549,11 @@ icon-l {
   }
 }
 
+.after-icon {
+  display: inline-block;
+  inline-size: .5ch;
+}
+
 svg:not(#tiki-mask-icon),
 svg:not(#tiki-mask-icon)  path {
   fill: var(--11ty-color-textPrimary);

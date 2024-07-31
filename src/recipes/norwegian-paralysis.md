@@ -47,7 +47,7 @@ Glassware
 ## Ingredients
 
 * 1&frac12; ounces fresh orange juice
-* 1&frac12; ounces fresh pineapple juice
+* 1&frac12; ounces pineapple juice
 * 1/2 ounce fresh lemon juice
 * 1/4 ounce Demerara syrup
 * 1/4 ounce orgeat

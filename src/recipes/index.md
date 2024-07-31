@@ -44,10 +44,10 @@ eleventyExcludeFromCollections: true
     {%- for post in collections.recipesAscendingF -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>G</dt>
+    <dt>G</dt>
     {%- for post in collections.recipesAscendingG -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
-    {%- endfor -%} -->
+    {%- endfor -%}
     <dt>H</dt>
     {%- for post in collections.recipesAscendingH -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
@@ -100,11 +100,11 @@ eleventyExcludeFromCollections: true
     {%- for post in collections.recipesAscendingT -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>U</dt>
+    <dt>U</dt>
     {%- for post in collections.recipesAscendingU -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>V</dt>
+    <!-- <dt>V</dt>
     {%- for post in collections.recipesAscendingV -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}

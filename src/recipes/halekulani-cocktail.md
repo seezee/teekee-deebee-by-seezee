@@ -41,7 +41,7 @@ Glassware
 
 * 1/2 ounce fresh lemon juice
 * 1/2 ounce fresh orange juice
-* 1/2 ounce fresh pineapple juice
+* 1/2 ounce pineapple juice
 * 1/4 ounce rich Demerara syrup
 * 1/2 ounce grenadine
 * 1&frac12; ounces bourbon

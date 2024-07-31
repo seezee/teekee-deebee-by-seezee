@@ -281,7 +281,7 @@ module.exports = function(eleventyConfig) {
       return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
     });
   });
-  eleventyConfig.addCollection(`recipesAscendingg`, function (collectionApi) {
+  eleventyConfig.addCollection(`recipesAscendingG`, function (collectionApi) {
     return collectionApi.getFilteredByGlob(`**/recipes/g*.md`).sort(function (a, b) {
       return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
     });

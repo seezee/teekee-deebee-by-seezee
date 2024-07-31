@@ -21,7 +21,8 @@ garnish:
 glass: scorpion bowl
 origin: Martin Cate created this drink in honor of Smuggler's Cove's interior designer, Ignacio "Notch" Gonzalez.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
-decade: 2010
+decade:
+  - 2000
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -43,7 +44,7 @@ Serves
 ## Ingredients
 
 * 4 ounces fresh lime juice
-* 4 ounces fresh pineapple juice
+* 4 ounces pineapple juice
 * 1 ounce passion fruit purée
 * 3 ounces Demerara syrup
 * 1 ounce maraschino liqueur

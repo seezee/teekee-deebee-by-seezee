@@ -52,7 +52,7 @@ Glassware
 ## Ingredients
 
 * 1 ounce fresh lime juice
-* 1 ounce fresh pineapple juice
+* 1 ounce pineapple juice
 * 1 ounce soda water
 * 1 ounce molasses syrup
 * 1/4 ounce allspice dram

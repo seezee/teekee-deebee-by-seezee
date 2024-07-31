@@ -21,7 +21,9 @@ ingredients:
 glass: coupe
 origin: Created by Martin Cate for [Hula's Island Grill](https://www.hulastiki.com/) in Santa Cruz. The drink was originally named The Steamer after Santa Cruz surf spot Steamer Lane.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
-decade: 2010
+decade:
+- 2000
+- 2010
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
