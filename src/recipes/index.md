@@ -24,10 +24,10 @@ eleventyExcludeFromCollections: true
     {%- for post in collections.recipesAscendingA -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>B</dt>
+    <dt>B</dt>
     {%- for post in collections.recipesAscendingB -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
-    {%- endfor -%} -->
+    {%- endfor -%}
     <dt>C</dt>
     {%- for post in collections.recipesAscendingC -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>

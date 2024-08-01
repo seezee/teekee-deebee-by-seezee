@@ -18,7 +18,7 @@ garnish:
   - lemon wheels
   - lime wheels
 glass: small punch bowls
-origin: Created by Smuggler's Cove, inspired by tradional colonial-era punch recipes.
+origin: Created by Smuggler's Cove, inspired by traditional colonial-era punch recipes.
 source: Punch&colon; The Delights (and Dangers) of the Flowing Bowl
 decade:
   - 2000

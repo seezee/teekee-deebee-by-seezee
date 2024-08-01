@@ -394,7 +394,28 @@ sub, sup {
 
 
 blockquote {
+  text-indent: -0.45em;
   margin-inline: 2.5rem;
+  quotes: "\201C""\201D""\2018""\2019";
+
+  &::before {
+    position: relative;
+    inset-inline-start: -.75ch;
+    inset-block-start: 2ex;
+    font-size: 2rem;
+    content: open-quote;
+  }
+
+  & p:not(:last-child) {
+    margin-block-end: var(--s1);
+  }
+}
+
+@supports (hanging-punctuation: first) {
+  blockquote {
+    text-indent: 0;
+    hanging-punctuation: first allow-end last;
+  }
 }
 
 .small-caps {
@@ -470,9 +491,9 @@ dd {
   margin-block-start: 0;
 }
 
-/* #ingredients + ul li::marker {
-    content: '';
-} */
+ol.app-footnotes-list p:not(:last-child) {
+  margin-block-end: var(--s1);
+}
 
 figure {
   margin: 0;
@@ -503,17 +524,6 @@ img[src$='.svg'] { /* Let SVG scale without boundaries */
 caption, figcaption {
   font-style: italic;
   font-size: smaller;
-}
-
-blockquote {
-  text-indent: -0.45em;
-}
-
-@supports (hanging-punctuation: first) {
-  blockquote {
-    text-indent: 0;
-    hanging-punctuation: first allow-end last;
-  }
 }
 
 a,
