@@ -26,13 +26,13 @@ decade: 1920
 Origin
   : {{ origin }}[^1]
 
-[^1]: And only that is clear: Woon had a reputation as a fabulist. As a New York Times reviewer observed of Woon’s 1924 book on Sarah Bernhardt, <q>the utter absence of corroborating evidence for the thousand and one startling statements categorically made [herein] is a very definite obstacle.</q>
-
 Source
   : <cite>{{ source }}</cite> (1928) by Basil Woon
 
 Glassware
   : Chilled coupé
+
+[^1]: And only that is clear: Woon had a reputation as a fabulist. As a New York Times reviewer observed of Woon’s 1924 book on Sarah Bernhardt, <q>the utter absence of corroborating evidence for the thousand and one startling statements categorically made [herein] is a very definite obstacle.</q>
 
 ## Ingredients
 
