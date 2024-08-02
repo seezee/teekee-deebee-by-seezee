@@ -3,17 +3,21 @@
 (function (window, document) {
   `use strict`;
 
+  const navLinks = document.querySelectorAll('nav a');
+
   let current = 0;
 
-  for (let i = 0; i < document.links.length; i++) {
-    const str = document.links[i].href;
-    // if (document.links[i].href === document.URL) {
+  for (let i = 0; i < navLinks.length; i++) {
+    const str = navLinks[i].href;
     if (document.URL.startsWith(str)) {
       current = i;
-    }
-}
+    };
+    if (navLinks[i].href === document.URL) {
+      ariaCurrent = i;
+    };
+  }
 
-  document.links[current].classList.add(`current`);
-  document.links[current].ariaCurrent = `page`;
+  navLinks[current].classList.add(`current`);
+  navLinks[ariaCurrent].ariaCurrent = `page`;
 
 })(window, document);
