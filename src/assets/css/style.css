@@ -199,6 +199,7 @@
 
 html {
   background: var(--11ty-color-primary-200) no-repeat center;
+  background-image: var(--tiki-body-background);
   background-blend-mode: soft-light;
   background-size: cover;
   color: var(--11ty-color-textPrimary);
@@ -782,6 +783,7 @@ div.col-5 {
   -webkit-appearance: none;
   color: var(--11ty-color-textPrimary);
   background-color: var(--tiki-navbar-search-input-background-color);
+  background-image: var(--tiki-search-icon);
   background-repeat: no-repeat;
   background-size: 1em;
   background-position: .5em center;
