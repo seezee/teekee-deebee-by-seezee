@@ -963,6 +963,15 @@ icon-l {
   }
 }
 
+a[href^='http://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after,
+a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after {
+  content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
+}
+
+main ul li::marker {
+  content: var(--tiki-list-marker) '\00A0\202F';
+}
+
 /* Footer */
 
 #starfish {

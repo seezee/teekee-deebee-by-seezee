@@ -3,7 +3,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Grab title from the page data and dump it here -->
   <title>{{ title }}</title>
-  <link rel="stylesheet" href="/assets/css/index.css">
   <script src="/assets/js/index.js" type="module"></script>
   <style>
     :root {
@@ -26,14 +25,6 @@
     #searchField {
       background-image: var(--tiki-search-icon)
     }
-
-    a[href^='http://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after,
-    a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after {
-      content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
-    }
-
-    main ul li::marker {
-      content: var(--tiki-list-marker) '\00A0\202F';
-    }
   </style>
+  <link rel="stylesheet" href="/assets/css/index.css">
 </head>
