@@ -332,6 +332,7 @@ a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):a
   margin-inline-start: .5ch;
   inline-size: 1ch;
   block-size: 1lh;
+  content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -961,11 +962,6 @@ icon-l {
       width: 1em;
     }
   }
-}
-
-a[href^='http://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after,
-a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after {
-  content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
 }
 
 main ul li::marker {
