@@ -20,107 +20,107 @@ eleventyExcludeFromCollections: true
 
 <div class="col-3">
   <dl class="recipe-index">
-    <dt>A</dt>
+    <dt id="a">A</dt>
     {%- for post in collections.recipesAscendingA -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>B</dt>
+    <dt id="b">B</dt>
     {%- for post in collections.recipesAscendingB -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>C</dt>
+    <dt id="c">C</dt>
     {%- for post in collections.recipesAscendingC -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>D</dt>
+    <dt id="d">D</dt>
     {%- for post in collections.recipesAscendingD -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>E</dt>
+    <dt id="e">E</dt>
     {%- for post in collections.recipesAscendingE -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>F</dt>
+    <dt id="f">F</dt>
     {%- for post in collections.recipesAscendingF -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>G</dt>
+    <dt id="g">G</dt>
     {%- for post in collections.recipesAscendingG -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>H</dt>
+    <dt id="h">H</dt>
     {%- for post in collections.recipesAscendingH -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>I</dt>
+    <!-- <dt id="i">I</dt>
     {%- for post in collections.recipesAscendingI -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%} -->
-    <dt>J</dt>
+    <dt id="j">J</dt>
     {%- for post in collections.recipesAscendingJ -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>K</dt>
+    <dt id="k">K</dt>
     {%- for post in collections.recipesAscendingK -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>L</dt>
+    <dt id="l">L</dt>
     {%- for post in collections.recipesAscendingL -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>M</dt>
+    <dt id="m">M</dt>
     {%- for post in collections.recipesAscendingM -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>N</dt>
+    <dt id="n">N</dt>
     {%- for post in collections.recipesAscendingN -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>O</dt>
+    <!-- <dt id="o">O</dt>
     {%- for post in collections.recipesAscendingO -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%} -->
-    <dt>P</dt>
+    <dt id="p">P</dt>
     {%- for post in collections.recipesAscendingP -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>Q</dt>
+    <!-- <dt id="q">Q</dt>
     {%- for post in collections.recipesAscendingQ -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%} -->
-    <dt>R</dt>
+    <dt id="r">R</dt>
     {%- for post in collections.recipesAscendingR -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>S</dt>
+    <dt id="s">S</dt>
     {%- for post in collections.recipesAscendingS -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>T</dt>
+    <dt id="t">T</dt>
     {%- for post in collections.recipesAscendingT -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>U</dt>
+    <dt id="u">U</dt>
     {%- for post in collections.recipesAscendingU -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt>V</dt>
+    <!-- <dt id="v">V</dt>
     {%- for post in collections.recipesAscendingV -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>W</dt>
+    <dt id="w">W</dt>
     {%- for post in collections.recipesAscendingW -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>X</dt>
+    <dt id="x">X</dt>
     {%- for post in collections.recipesAscendingX -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <dt>Y</dt>
+    <dt id="y">Y</dt>
     {%- for post in collections.recipesAscendingY -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%} -->
-    <dt>Z</dt>
+    <dt id="z">Z</dt>
     {%- for post in collections.recipesAscendingZ -%}
       <dd{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
