@@ -12,7 +12,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-You didn't seriously expect us to provide a crouton recipe, did you? Just [follow this one](https://www.seriouseats.com/best-crouton-recipe-8668910), omitting the seasoning.
+You didn't seriously expect us to provide a crouton recipe, did you? Just <a href="https://www.seriouseats.com/best-crouton-recipe-8668910" target="_blank" rel="external noopener">follow this one</a>, omitting the seasoning.
 
 <!-- markdownlint-disable MD012 -->
 {% callout "danger" %}

@@ -51,7 +51,7 @@ Glassware
 - 2 ounces cane AOC Martinique rhum agricole vieux<icon-l space="1em" class="bigger" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 - 1 pinch freshly ground nutmeg
 
-[^1]: The Smuggler's Cove book recommended sourcing this syrup from Kegworks, but it appears they no longer sell bar ingredients. Instead, look for online retailers selling [Rhum J.M. Sirop](https://bit.ly/3WEiuK1) sugarcane syrup.
+[^1]: The Smuggler's Cove book recommended sourcing this syrup from Kegworks, but it appears they no longer sell bar ingredients. Instead, look for online retailers selling <a href="https://bit.ly/3WEiuK1" target="_blank" rel="external noopener">Rhum J.M. Sirop</a> sugarcane syrup.
 
 Garnish
   : Swizzle napkin wrap
@@ -61,8 +61,8 @@ Garnish
 
 1. Combine all ingredients in a Collins or zombie glass
 2. Add crushed ice until the glass is 3/4 full
-3. Swizzle with a barspoon or [lélé](https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/) until the glass is frosty[^2]
+3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener">lélé</a> until the glass is frosty[^2]
 4. Top up with more crushed ice
 5. Add garnish
 
-[^2]: You can purchase a traditional <q>le bois lélé</q> from the [Cocktail Kingdom](https://cocktailkingdom.com/products/swizzle-stick) if you don't plan to be in Martinique any time soon.
+[^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="<https://cocktailkingdom.com/products/swizzle-stick> target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.

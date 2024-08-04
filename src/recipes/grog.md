@@ -31,7 +31,7 @@ Origin
   : {{ origin }}
 
 Source
-  : Adapted from a traditional [eighteenth century recipe](https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022) described in <cite>{{ source }}</cite> (2006) by Wayne Curtis
+  : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite>{{ source }}</cite> (2006) by Wayne Curtis
 
 Glassware
   : Old-fashioned

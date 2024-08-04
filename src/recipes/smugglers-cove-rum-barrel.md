@@ -38,7 +38,7 @@ decade: 2000
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}[^1] This reverse-engineered version comes from the [r/Tiki](https://www.reddit.com/r/Tiki/comments/j22en2/decoding_the_smuggers_cove_rum_barrel/) community on Reddit, but [this recipe](https://www.reddit.com/r/Tiki/comments/nqbz3j/smugglers_cove_rum_barrel_my_decode_attempt/) looks like it might be even closer.
+  : {{ origin }}[^1] This reverse-engineered version comes from the <a href="https://www.reddit.com/r/Tiki/comments/j22en2/decoding_the_smuggers_cove_rum_barrel/" target="_blank" rel="external noopener">r/Tiki</a> community on Reddit, but <a href="https://www.reddit.com/r/Tiki/comments/nqbz3j/smugglers_cove_rum_barrel_my_decode_attempt/" target="_blank" rel="external noopener">this recipe</a> looks like it might be even closer.
 
 Source
   : {{ source }}
@@ -79,7 +79,7 @@ Garnish
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
-  Smuggler's Cove seems to use a blend of El Dorado 3 Year and El Dorado 8 Year rums along with Lemon-Hart 151 in this recipe, based on the Reddit discussion and [this video](https://youtu.be/qy3XKn88xBA?si=nCuIKLyl344MzS4k).
+  Smuggler's Cove seems to use a blend of El Dorado 3 Year and El Dorado 8 Year rums along with Lemon-Hart 151 in this recipe, based on the Reddit discussion and <a href="https://youtu.be/qy3XKn88xBA?si=nCuIKLyl344MzS4k" target="_blank" rel="external noopener">this video</a>.
 
 {% endcallout %}
 <!-- markdownlint-disable MD012 -->

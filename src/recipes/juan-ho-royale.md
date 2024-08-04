@@ -19,7 +19,7 @@ ingredients:
   - falernum
   - tequila silver blanco
 glass: coupe
-origin: Created by Martin Cate for [Hula's Island Grill](https://www.hulastiki.com/) in Santa Cruz. The drink was originally named The Steamer after Santa Cruz surf spot Steamer Lane.
+origin: Created by Martin Cate for <a href="https://www.hulastiki.com/" target="_blank" rel="external noopener">Hula's Island Grill</a> in Santa Cruz. The drink was originally named The Steamer after Santa Cruz surf spot Steamer Lane.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000

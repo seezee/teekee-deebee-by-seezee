@@ -20,7 +20,7 @@ glass:
   - Tiki Kaimuki mug
   - double old-fashioned
   - double rocks
-origin: Created by Falin Ninoru, artist and proprietor of [Tiki Kaimuki](https://tikikaimuki.com/) Fine Boozing Vessels in Oakland, California.
+origin: Created by Falin Ninoru, artist and proprietor of <a href="https://tikikaimuki.com/" target="_blank" rel="external noopener">Tiki Kaimuki</a> Fine Boozing Vessels in Oakland, California.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
  - 2000

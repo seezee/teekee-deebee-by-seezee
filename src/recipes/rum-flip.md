@@ -31,7 +31,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>[{{ source }}](https://www.amazon.com/Bartenders-Guide-Drinks-Vivants-Companion/dp/1603111662)</cite> (1862) by <q>Professor</q> Jerry Thomas
+  : <cite><a href="https://www.amazon.com/Bartenders-Guide-Drinks-Vivants-Companion/dp/1603111662" target="_blank" rel="external noopener">{{ source }}</a></cite> (1862) by <q>Professor</q> Jerry Thomas
 
 Glassware
   : Chilled coupé
@@ -48,7 +48,7 @@ Garnish
 ## Instructions
 
 1. Add all ingredients + 2 small ice cubes to a drink mixer tin
-2. [Whip shake](https://punchdrink.com/articles/who-said-whip-shake-ramos-gin-fizz-cocktail-technique/) until the ice completely melts and the egg forms a fine foam, at least 15 seconds
+2. <a href="https://punchdrink.com/articles/who-said-whip-shake-ramos-gin-fizz-cocktail-technique/" target="_blank" rel="external noopener">Whip shake</a> until the ice completely melts and the egg forms a fine foam, at least 15 seconds
 3. Double-strain into a chilled coupé
 4. Top with freshly grated nutmeg
 

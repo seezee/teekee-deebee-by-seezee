@@ -20,7 +20,7 @@ garnish:
   - orchid
   - mint sprig
 glass: brandy snifter
-origin: When food photographers [Dylan + Jeni](https://www.dylanandjeni.com/) initially met with Martin Cate to shoot some sample photos for <cite>Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</cite>, they needed some prop cocktails. This recipe was the result. 
+origin: When food photographers <a href="https://www.dylanandjeni.com/" target="_blank" rel="external noopener">Dylan + Jeni</a> initially met with Martin Cate to shoot some sample photos for <cite>Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</cite>, they needed some prop cocktails. This recipe was the result. 
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
 ---

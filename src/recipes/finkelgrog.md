@@ -23,7 +23,7 @@ garnish: zesty conversation
 glass:
   - double old-fashioned
   - double rocks
-origin: Created by Martin Cate for Judd Finkelstein (lead singer of the [Maikai Gents](https://www.allmusic.com/album/the-wiki-wiki-grog-shop-mw0001557473)) for his home bar (the Wiki Wiki Grog Shop). Inspired by Finkelstein's day job as a Napa County wine producer.
+origin: Created by Martin Cate for Judd Finkelstein (lead singer of the <a href="https://www.allmusic.com/album/the-wiki-wiki-grog-shop-mw0001557473" target="_blank" rel="external noopener">Maikai Gents</a>) for his home bar (the Wiki Wiki Grog Shop). Inspired by Finkelstein's day job as a Napa County wine producer.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000

@@ -32,7 +32,7 @@ Origin
   : {{ origin }}
 
 Source
-  : Inspired by [traditional arrack punch recipes](https://www.amazon.com/Punch-Delights-Dangers-Flowing-Bowl-ebook/dp/B00452V30U/) published in <cite>{{ source }}</cite> (2010) by David Wondrich
+  : Inspired by <a href="https://www.amazon.com/Punch-Delights-Dangers-Flowing-Bowl-ebook/dp/B00452V30U/" target="_blank" rel="external noopener">traditional arrack punch recipes</a> published in <cite>{{ source }}</cite> (2010) by David Wondrich
 
 Glassware
   : Small (32-ounce) punch bowl
