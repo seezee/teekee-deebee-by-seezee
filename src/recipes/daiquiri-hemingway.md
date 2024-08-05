@@ -17,7 +17,7 @@ ingredients:
   - grapefruit peel
 glass: coupe
 garnish: lime wheel
-origin: An adaptation by Brooklyn bar Fort Defiance owner St. John Frizell. This winner of <cite>Punch</cite>'s 2019 Hemingway Daiquiri <a href="https://punchdrink.com/articles/ultimate-best-hemingway-daiquiri-cocktail-recipe/" target="_blank" rel="external noopener">recipe contest</a> may stray from historical authenticity, but it's far more palatable than the <q>double the rum and none of the sugar</q> version supposedly preferred by the author of <cite>The Old Man and the Sea</cite>.
+origin: An adaptation by Brooklyn bar Fort Defiance owner St. John Frizell. This winner of <cite>Punch</cite>&rsquo;s 2019 Hemingway Daiquiri <a href="https://punchdrink.com/articles/ultimate-best-hemingway-daiquiri-cocktail-recipe/" target="_blank" rel="external noopener">recipe contest</a> may stray from historical authenticity, but it's far more palatable than the <q>double the rum and none of the sugar</q> version supposedly preferred by the author of <cite>The Old Man and the Sea</cite>.
 source: Punch
 decade: 2010
 ---
