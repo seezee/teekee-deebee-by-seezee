@@ -54,5 +54,5 @@ Garnish
 1. Add the ginger beer to a chilled coupé
 2. Combine remaining ingredients in a cocktail shaker with cracked or cube ice
 3. Shake until very cold, about 15 seconds
-4. Double-strain shaker contents into the coupé
+4. Double-strain into a chilled coupé
 5. Garnish with the lime twist

@@ -1,24 +1,30 @@
 ---
 layout: _main.njk
-title: Daiquiri No. 1
+title: Daiquiri No. 4 (Florida Style)
 tags: recipes
 type:
   - sour
 characteristic:
-- shaken
-- strained
+- blended
+- frappe
 base: rum base
 ingredients:
   - lime juice
+  - maraschino liqueur
   - Demerara syrup
   - blended lightly aged rum (2)
-glass: coupe
-origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 2, 3, 4, and 5, was codified by barman Constante Ribalaigua at Havana's Floridita Bar.
+glass:
+  - coupe
+  - wine glass
+garnish:
+  - lime wedge
+  - straw
+origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2, 3, and 5, was codified by barman Constante Ribalaigua at Havana's Floridita Bar. As printed in <cite>Bar la Florida Cocktails</cite>, the recipe is served frappé.
 source: Bar la Florida Cocktails
 decade: 1930
 ---
 <!-- markdownlint-disable MD025 -->
-# Daiquiri N<sup>o.</sup> 1
+# Daiquiri N<sup>o.</sup> 4 (Florida Style)
 <!-- markdownlint-disable MD025 -->
 
 Origin
@@ -28,22 +34,34 @@ Source
   : <cite>{{ source }}</cite> (1935 reprint) by Constante Ribalaigua Verte
 
 Glassware
-  : Chilled coupé
+  : Large chilled coupé
+  : Large chilled wine glass
 
 ## Ingredients
 
-* 3/4 ounce fresh lime juice
+* 1 teaspoon maraschino liqueur
+* 1/2 ounce fresh lime juice
 * 1/2 ounce Demerara syrup
 * 2 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
-  : None
+  : Lime wedge
+  : Straw
 
 ## Instructions
 
-1. Combine all ingredients in a cocktail shaker with cracked or cube ice
-2. Shake until very cold, about 15 seconds
-3. Double-strain into a chilled coupé
+1. Combine all ingredients in a blender with 4 ounces of crushed ice
+2. Blend at low speed until smooth (frappé)
+3. Pour into a large chilled coupé or wine glass
+4. Garnish; serve with a straw
+
+<!-- markdownlint-disable MD012 -->
+{% callout "tip" %}
+<!-- markdownlint-enable MD012 -->
+
+Add 1 teaspoon grapefruit juice to this recipe for a Daiquiri N<sup>o.</sup> 3 or add 1 teaspoon grenadine for a Daiquiri N<sup>o.</sup> 5.
+
+{% endcallout %}
 
 <!-- markdownlint-disable MD012 -->
 {% callout "note" %}

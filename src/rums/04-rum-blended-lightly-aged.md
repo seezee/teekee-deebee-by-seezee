@@ -13,11 +13,11 @@ tags: rums
 
 * Appleton Estate Signature Blend (Jamaica)
 * Banks 5 Island (regional blend)
-* Banks 7 Islnad (regional blend)
+* Banks 7 Island (regional blend)
 * Cartavio Selecto 5 (Peru)
 * Chairman&rsquo;s Reserve Silver (St. Lucia)
 * Cockspur Fine (Barbados)
-* Denizen (regional blend)
+* Denizen Aged White Rum (regional blend, predominantly Trinadadian)
 * Diplomatico Añejo (Venezuala)
 * Diplomatico Blanco (Venezuala)
 * El Dorado 3 Year (Guyana)

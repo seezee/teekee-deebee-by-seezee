@@ -394,6 +394,18 @@ sub, sup {
   inset-block-start: -.2rem;
 }
 
+.quoted {
+  font-style: normal;
+  quotes: "\201C""\201D""\2018""\2019";
+
+  &::before {
+    content: open-quote;
+  }
+
+  &::after {
+    content: close-quote;
+  }
+}
 
 blockquote {
   text-indent: -0.45em;
@@ -475,6 +487,7 @@ dd {
   }
 
   &+dd {
+    margin-block-start: var(--s1);
     break-before: avoid;
   }
 

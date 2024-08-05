@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Daiquiri No. 1
+title: Daiquiri No. 2
 tags: recipes
 type:
   - sour
@@ -10,15 +10,17 @@ characteristic:
 base: rum base
 ingredients:
   - lime juice
+  - orange juice
+  - curacao
   - Demerara syrup
   - blended lightly aged rum (2)
 glass: coupe
-origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 2, 3, 4, and 5, was codified by barman Constante Ribalaigua at Havana's Floridita Bar.
+origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 3, 4, and 5, was codified by barman Constante Ribalaigua at Havana's Floridita Bar.
 source: Bar la Florida Cocktails
 decade: 1930
 ---
 <!-- markdownlint-disable MD025 -->
-# Daiquiri N<sup>o.</sup> 1
+# Daiquiri N<sup>o.</sup> 2
 <!-- markdownlint-disable MD025 -->
 
 Origin
@@ -32,8 +34,10 @@ Glassware
 
 ## Ingredients
 
-* 3/4 ounce fresh lime juice
-* 1/2 ounce Demerara syrup
+* 1/2 ounce fresh lime juice
+* 1/2 ounce fresh orange juice
+* 1/2 ounce orange curaçao
+* <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce Demerara syrup
 * 2 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
