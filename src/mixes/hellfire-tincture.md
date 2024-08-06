@@ -21,6 +21,7 @@ ingredients:
   Do not touch your face or eyes until you have washed your hands thoroughly with hot, soapy water.
 
 {% endcallout %}
+
 <!-- markdownlint-enable MD012 -->
 
 ## Ingredients
