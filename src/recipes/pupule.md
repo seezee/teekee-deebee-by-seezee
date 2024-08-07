@@ -57,6 +57,6 @@ Garnish
 
 1. Line footed pilsner with orange peel, leaving one end hanging over the rim of the glass
 2. Combine remaining ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes in a drink mixer tin
-3. Flash blend 10 seconds
+3. Flash blend 3 to 4 seconds
 4. Open pour with gated finish into footed pilsner glass
 5. Add garnish

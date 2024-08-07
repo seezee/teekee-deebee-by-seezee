@@ -59,6 +59,6 @@ Garnish
 ## Instructions
 
 1. Combine all ingredients + 18 ounces crushed ice + 4 to 6 small ice cubes in a drink mixer tin
-2. Flash blend 10 seconds
+2. Flash blend 3 to 4 seconds
 3. Open pour with gated finish into the snifter
 4. Add the garnish

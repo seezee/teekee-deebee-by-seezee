@@ -51,6 +51,6 @@ Garnish
 1. Line a snifter with the Sidewinder’s Fang peel, leaving one end hanging over the glass rim
 2. Fill glass with cracked or cubed ice secure the peel
 3. Combine remaining ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes in a drink mixer tin
-4. Flash blend 10 seconds
+4. Flash blend 3 to 4 seconds
 5. Open pour with gated finish into the snifter
 6. Garish with a mint sprig

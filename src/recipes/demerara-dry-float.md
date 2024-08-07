@@ -53,7 +53,7 @@ Garnish
 
 1. Pour overproof rum into a separate old-fashioned or shot glass & set aside
 2. Add remaining ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
-3. Flash blend 10 seconds
+3. Flash blend 3 to 4 seconds
 4. Open pour with gated finish into double old-fashioned glass
 5. Serve with the side of overproof rums
 

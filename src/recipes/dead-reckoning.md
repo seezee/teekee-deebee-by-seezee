@@ -61,7 +61,7 @@ Garnish
 
 1. Add seltzer to a Collins or highball glass
 2. Add remaining ingredients + 12 ounces crushed ice + 4 to 6 small cubes to a drink mixer tin
-3. Flash blend 10 seconds
+3. Flash blend 3 to 4 seconds
 4. Strain the contents into the glass
 5. Carefully fill the glass with cracked or cube ice
 6. Add garnish

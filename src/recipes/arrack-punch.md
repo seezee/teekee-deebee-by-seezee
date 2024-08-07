@@ -60,6 +60,6 @@ Garnish
 3. Divide contents evenly between the 2 tins
 4. For each tin
    1. Add 12 ounces of crushed ice + 4 to 6 small ice cubes
-   2. Flash blend 10 seconds
+   2. Flash blend 3 to 4 seconds
    3. Open pour with gated finish into a large scorpion bowl or other decorative or punch bowl
 5. Float lime & lemon wheels on top

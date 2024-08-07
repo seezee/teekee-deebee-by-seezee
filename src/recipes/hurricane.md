@@ -48,6 +48,6 @@ Garnish
 ## Instructions
 
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small cubes to a drink mixer tin
-2. Flash blend 10 seconds
+2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a small hurricane glass
 4. Open and mangle a cocktail umbrella and place it atop the drink, along with a lemon wedge

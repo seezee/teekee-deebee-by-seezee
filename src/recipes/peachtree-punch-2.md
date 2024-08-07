@@ -58,6 +58,6 @@ Garnish
 1. Add the peach chunks, orange juice, and lemon juice to a drink mixer tin
 2. Muddle the peach
 3. Add remaining ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to the tin
-4. Flash blend 10 seconds
+4. Flash blend 3 to 4 seconds
 5. Double-strain into a double old-fashioned glass filled with cracked or cube ice
 6. Grate nutmeg over the glass & place a peach wedge on the rim
