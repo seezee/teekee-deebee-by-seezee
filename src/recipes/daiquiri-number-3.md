@@ -30,7 +30,7 @@ decade: 1930
 
 Origin
   : {{ origin }}
-  : This recipe was supposedly altered with <q>double the rum and none of the sugar</q> at Ernest Hemingway's request, giving us the Papa Dobles or Hemingway Daiquiri.
+  : <span class="spacer">This recipe was supposedly altered with <q>double the rum and none of the sugar</q> at Ernest Hemingway's request, giving us the Papa Dobles or Hemingway Daiquiri.</span>
 
 Source
   : <cite>{{ source }}</cite> (1935 reprint) by Constante Ribalaigua Verte

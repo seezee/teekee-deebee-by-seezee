@@ -16,7 +16,7 @@ ingredients:
   - blended aged rum
   - sloe gin
 glass: coupe
-garnish: Lime wheel
+garnish: lime wheel
 origin: A Prohibition-era sour first recorded by Harry Craddock.
 source: The Savoy Cocktail Book
 decade: 1930

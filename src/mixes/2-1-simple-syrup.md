@@ -34,7 +34,6 @@ ingredients:
 {% endcallout %}
 
 <!-- markdownlint-disable MD012 -->
-
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 

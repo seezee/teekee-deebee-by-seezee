@@ -487,8 +487,12 @@ dd {
   }
 
   &+dd {
-    margin-block-start: var(--s1);
     break-before: avoid;
+
+    & span.spacer {
+      display: block;
+      margin-block-start: var(--s1);
+    }
   }
 
   & p:last-of-type {
