@@ -16,7 +16,7 @@ glass:
   - Collins
   - highball
 garnish: lime wedge
-origin: Wray & Nephew was introduced to Jamaica and the world in 1825, but it was not until 1976 that Ting grapefruit soda became available, heralding the birth of this beloved Jamaican staple.
+origin: J. Wray founded his tavern and liquor business in 1825, but it was not until 1976 that Ting grapefruit soda became available, making possible a marriage of liquids that would become a beloved Jamaican staple.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 1970
 ---
