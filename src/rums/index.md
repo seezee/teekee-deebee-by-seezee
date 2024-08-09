@@ -1,9 +1,8 @@
 ---
 layout: _main-cat-rums.njk
-title: Rum Categories
 ---
 <!-- markdownlint-disable MD025 -->
-# {{ title }}
+# Rum Categories
 <!-- markdownlint-disable MD025 -->
 
 ## Definitions

@@ -3,9 +3,10 @@
 (function (window, document) {
   `use strict`;
 
-  const navLinks = document.querySelectorAll('nav a');
+  const navLinks = document.querySelectorAll('nav.header-footer a');
 
   let current = 0;
+  let ariaCurrent = 0;
 
   for (let i = 0; i < navLinks.length; i++) {
     const str = navLinks[i].href;

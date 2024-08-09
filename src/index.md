@@ -1,10 +1,9 @@
 ---
 layout: _article.njk
-title: A Tiki Database
 ---
 
 <!-- markdownlint-disable MD025 -->
-# {{ title }} <!-- {.someClass} -->
+# A Tiki Database
 <!-- markdownlint-enable MD025 -->
 
 <span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a kilderkin[^1], sit down, and wet your whistle? The best place to start is by searching for a drink. You can search by:

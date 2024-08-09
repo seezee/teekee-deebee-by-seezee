@@ -4,7 +4,7 @@ const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minif
 const { EleventyRenderPlugin }    = require('@11ty/eleventy');
 const esbuild                     = require('esbuild');
 const format = require('date-fns/format');
-const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
+const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin');
 const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
@@ -396,7 +396,9 @@ module.exports = function(eleventyConfig) {
       return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
     });
   });
-  // Set custom directory for input; otherwise use defaults
+// Copy `/favicon/` to `_site/`
+eleventyConfig.addPassthroughCopy({ 'favicon': '/' });
+// Set custom directory for input; otherwise use defaults
   return {
     // Site URL
     url: 'https://tiki-deebee.vercel.app',

@@ -1,10 +1,9 @@
 ---
 layout: _main.njk
-title: Syrups & Mixes Index
 ---
 
 <!-- markdownlint-disable MD025 -->
-# {{ title }}
+# Syrups & Mixes Index
 <!-- markdownlint-disable MD025 -->
 
 <div class="col-3">

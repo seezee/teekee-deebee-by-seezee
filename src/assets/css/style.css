@@ -231,6 +231,13 @@ header {
   }
 }
 
+#breadcrumbs {
+
+  & p {
+    font-variant: small-caps;
+  }
+}
+
 nav,
 .index,
 button,
