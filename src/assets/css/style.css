@@ -232,10 +232,8 @@ header {
 }
 
 #breadcrumbs {
-
-  & p {
-    font-variant: small-caps;
-  }
+  font-variant: small-caps;
+  letter-spacing: .05ch;
 }
 
 nav,
