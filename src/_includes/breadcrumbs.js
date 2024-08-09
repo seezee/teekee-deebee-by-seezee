@@ -22,26 +22,26 @@
     return;
   } else if (recipes) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div> ❖ </div><div><a href="/recipes/">recipes</a></div>`);
+    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div><a href="/recipes/">recipes</a></div>`);
   } else if (rums) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div> ❖ </div><div><a href="/rums/">rum categories</a></div>`);
+    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div><a href="/rums/">rum categories</a></div>`);
   } else if (mixes) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div> ❖ </div><div><a href="/mixes/">syrups &amp; mixes</a></div>`);
+    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div><a href="/mixes/">syrups &amp; mixes</a></div>`);
   } else if (legal) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div> ❖ </div><div>legal</div>`);
+    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div>legal</div>`);
   } else {
-    home.insertAdjacentHTML(`afterend`, `<div> ❖ </div>`);
+    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
   };
 
 })(document);

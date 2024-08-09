@@ -236,6 +236,10 @@ header {
   letter-spacing: .05ch;
 }
 
+.breadcrumbs-separator {
+  opacity: .5;
+}
+
 nav,
 .index,
 button,
