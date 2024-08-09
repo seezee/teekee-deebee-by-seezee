@@ -29,7 +29,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}, <span class="quoted"><a>St. John Frizell’s Hemingway Daiquiri</a>,</span></cite> (2019)
+  : <cite>{{ source }}, <span class="quoted"><a>St. John Frizell’s Hemingway Daiquiri</a></span></cite> (2019)
 
 Glassware
   : Chilled coupé
