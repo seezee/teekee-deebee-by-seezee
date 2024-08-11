@@ -405,7 +405,10 @@ sub, sup {
 
 .quoted {
   font-style: normal;
-  quotes: "\201C""\201D""\2018""\2019";
+}
+
+q, .quoted {
+  quotes: "\201C" "\201D" "\2018" "\2019";
 
   &::before {
     content: open-quote;
@@ -419,7 +422,7 @@ sub, sup {
 blockquote {
   text-indent: -0.45em;
   margin-inline: 2.5rem;
-  quotes: "\201C""\201D""\2018""\2019";
+  quotes: "\201C" "\201D" "\2018""\2019";
 
   &::before {
     position: relative;
@@ -427,6 +430,10 @@ blockquote {
     inset-block-start: 2ex;
     font-size: 2rem;
     content: open-quote;
+  }
+
+  &::after {
+    content: no-close-quote;
   }
 
   & p:not(:last-child) {
