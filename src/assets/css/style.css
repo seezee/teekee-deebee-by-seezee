@@ -223,6 +223,15 @@ body {
   padding-inline: 1ch;
 }
 
+main,
+footer {
+  font-variant-numeric: oldstyle-nums;
+
+  & ul li {
+    font-variant-numeric: proportional-nums lining-nums;
+  }
+}
+
 header {
 
   & #nav-primary-wrapper {

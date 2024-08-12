@@ -11,7 +11,7 @@ characteristic:
   - herbal
   - bitter
   - swizzled
-base: liqueur based
+base: liqueur base
 ingredients:
   - pineapple juice
   - lime juice
@@ -40,7 +40,8 @@ Source
   : <cite>{{ source }}</cite>
 
 Glassware
-  : Collins or zombie
+  : Collins
+  : Zombie
 
 ## Ingredients
 
@@ -58,7 +59,7 @@ Garnish
 
 1. Combine all ingredients in a Collins or zombie glass
 2. Add crushed ice until the glass is 3/4 full
-3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank"> rel="external noopener">lélé</a> until the glass is frosty[^1]
+3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener">lélé</a> until the glass is frosty[^1]
 4. Top up with more crushed ice
 5. Add garnish
 

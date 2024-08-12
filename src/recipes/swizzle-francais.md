@@ -9,7 +9,7 @@ characteristic:
   - tropical
   - sour
   - swizzled
-base: rum based
+base: rum base
 ingredients:
   - lime juice
   - Martinique sugarcane syrup
@@ -65,4 +65,4 @@ Garnish
 4. Top up with more crushed ice
 5. Add garnish
 
-[^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
+[^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="<https://cocktailkingdom.com/products/swizzle-stick> target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.

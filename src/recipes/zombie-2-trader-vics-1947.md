@@ -24,7 +24,7 @@ glass:
   - zombie
 origin:
   - Trader Vic's backward-engineered version of the Zombie may not be quite as delicious as the original, but it goes down easy (despite being just as boozy).
-source: Trader Vic's Bartender's Manual
+source: Trader Vic's Bartender's Guide
 decade: 1940
 ---
 
@@ -36,7 +36,7 @@ Origin
   : {{ origin }}[^1]
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite>{{ source }}</cite> (1947) by  Victor Jules Bergeron
 
 Glassware
   : Zombie
