@@ -4,7 +4,7 @@ title: Center of the Galaxy
 tags: recipes
 type: cocktail
 characteristic:
-- stirred
+- shaken
 - strained
 - sour
 base: rum base
