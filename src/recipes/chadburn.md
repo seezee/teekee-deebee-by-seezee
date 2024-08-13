@@ -2,7 +2,9 @@
 layout: _main.njk
 title: The Chadburn
 tags: recipes
-type: cocktail
+type:
+  - cocktail
+  - apertif
 characteristic:
 - stirred
 - strained
@@ -14,7 +16,7 @@ ingredients:
   - blended aged rum (3)
   - chocolate bitters
 glass: coupe
-origin: Created by Martin Cate, who named it for the <a href="https://en.wikipedia.org/wiki/Engine_order_telegraph" target="_blank" rel="exteranl noopener">Chadburn telegraph</a>.
+origin: Created by Martin Cate, who named it after the <a href="https://en.wikipedia.org/wiki/Engine_order_telegraph" target="_blank" rel="exteranl noopener">Chadburn telegraph</a>.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
@@ -53,6 +55,6 @@ Garnish
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
-  Due to its relative sweetness, this recipe is best as a nightcap or digestif. If you are looking for a preprandial or apertif, reduce the port and pear liqueur to 1/4 ounce each.
+  Due to its relative sweetness, this recipe is best as a digestif. If you are looking for an apértif, reduce the port and pear liqueur to 1/4 ounce each.
 
 {% endcallout %}
