@@ -3,22 +3,23 @@
 (function (window, document) {
   `use strict`;
 
-  const searchForm   = document.getElementById(`searchForm`);
-  const searchHint   = document.getElementById(`search-hint__wrapper`);
-  const resBox       = document.getElementById(`searchResults-box`);
-  const closeButtons = document.getElementsByClassName(`searchClose`);
-  const clearButton  = document.getElementById(`searchClear`);
+  const form    = document.getElementById(`searchForm`);
+  const hint    = document.getElementById(`search-hint__wrapper`);
+  const results = document.getElementById(`searchResults-box`);
+  const close   = document.getElementsByClassName(`searchClose`);
+  const clear   = document.getElementById(`searchClear`);
 
-  clearButton.addEventListener(`click`, function(event){
-    searchForm.reset();
-    clearButton.setAttribute(`class`, `hide`);
-    searchHint.removeAttribute(`class`);
+  clear.addEventListener(`click`, function(){
+    form.reset();
+    clear.setAttribute(`class`, `hide`);
+    hint.removeAttribute(`class`);
+    results.setAttribute(`class`, `hide`);
   });
 
 
-  for (let closeButton of closeButtons) {
-    closeButton.addEventListener(`click`, function(event){
-      resBox.setAttribute(`class`, `hide`);
+  for (let closeButton of close) {
+    closeButton.addEventListener(`click`, function(){
+      results.setAttribute(`class`, `hide`);
     });
   }
 
@@ -43,21 +44,21 @@
     true,
   );
 
-  if (resBox) {
-    resBox.setAttribute(`class`, `hide`);
+  if (results) {
+    results.setAttribute(`class`, `hide`);
   }
 
   searchField.addEventListener(`focusin`, (e) => {
-    searchHint.setAttribute(`class`, `hide`);
-    clearButton.removeAttribute(`class`);
-    resBox.setAttribute(`class`,`show`)
+    hint.setAttribute(`class`, `hide`);
+    clear.removeAttribute(`class`);
+    results.setAttribute(`class`,`show`)
   });
 
   searchField.addEventListener(`focusout`, (e) => {
     if (searchField.value !== ``) {
       return;
     } else {
-      searchHint.removeAttribute(`class`);
+      hint.removeAttribute(`class`);
     }
     // Don't hide the results box on focusout so users have time to parse and
     // act on the results.
