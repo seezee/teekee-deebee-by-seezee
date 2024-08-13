@@ -12,14 +12,18 @@
   clear.addEventListener(`click`, function(){
     form.reset();
     clear.setAttribute(`class`, `hide`);
+    clear.setAttribute(`aria-hidden`, `true`);
     hint.removeAttribute(`class`);
+    hint.removeAttribute(`aria-hidden`);
     results.setAttribute(`class`, `hide`);
+    results.setAttribute(`aria-hidden`, `true`);
   });
 
 
   for (let closeButton of close) {
     closeButton.addEventListener(`click`, function(){
       results.setAttribute(`class`, `hide`);
+      results.setAttribute(`aria-hidden`, `true`);
     });
   }
 
@@ -46,12 +50,16 @@
 
   if (results) {
     results.setAttribute(`class`, `hide`);
+    results.setAttribute(`aria-hidden`, `true`);
   }
 
   searchField.addEventListener(`focusin`, (e) => {
     hint.setAttribute(`class`, `hide`);
+    hint.setAttribute(`aria-hidden`, `true`);
     clear.removeAttribute(`class`);
-    results.setAttribute(`class`,`show`)
+    clear.removeAttribute(`aria-hidden`);
+    results.setAttribute(`class`,`show`);
+    results.removeAttribute(`aria-hidden`);
   });
 
   searchField.addEventListener(`focusout`, (e) => {
@@ -59,6 +67,7 @@
       return;
     } else {
       hint.removeAttribute(`class`);
+      hint.removeAttribute(`aria-hidden`);
     }
     // Don't hide the results box on focusout so users have time to parse and
     // act on the results.
