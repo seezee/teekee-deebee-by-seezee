@@ -3,10 +3,18 @@
 (function (window, document) {
   `use strict`;
 
-  const searchField = document.getElementById(`searchField`);
-  const searchHint =  document.getElementById(`search-hint__wrapper`);
-  const resBox = document.getElementById(`searchResults-box`);
+  const searchForm   = document.getElementById(`searchForm`);
+  const searchHint   = document.getElementById(`search-hint__wrapper`);
+  const resBox       = document.getElementById(`searchResults-box`);
   const closeButtons = document.getElementsByClassName(`searchClose`);
+  const clearButton  = document.getElementById(`searchClear`);
+
+  clearButton.addEventListener(`click`, function(event){
+    searchForm.reset();
+    clearButton.setAttribute(`class`, `hide`);
+    searchHint.removeAttribute(`class`);
+  });
+
 
   for (let closeButton of closeButtons) {
     closeButton.addEventListener(`click`, function(event){
@@ -41,11 +49,16 @@
 
   searchField.addEventListener(`focusin`, (e) => {
     searchHint.setAttribute(`class`, `hide`);
+    clearButton.removeAttribute(`class`);
     resBox.setAttribute(`class`,`show`)
   });
 
   searchField.addEventListener(`focusout`, (e) => {
-    searchHint.removeAttribute(`class`);
+    if (searchField.value !== ``) {
+      return;
+    } else {
+      searchHint.removeAttribute(`class`);
+    }
     // Don't hide the results box on focusout so users have time to parse and
     // act on the results.
   });

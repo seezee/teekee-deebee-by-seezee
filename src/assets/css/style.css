@@ -227,7 +227,9 @@ main,
 footer {
   font-variant-numeric: oldstyle-nums;
 
-  & ul li {
+  & ul li,
+  & [aria-describedby='footnotes-label'],
+  & code {
     font-variant-numeric: proportional-nums lining-nums;
   }
 }
@@ -334,6 +336,14 @@ button,
     &:active {
       background-color: var(--11ty-color-hoverSecondary);
     }
+  }
+
+  &#searchClear {
+    position: relative;
+    inset-inline-start: -1.5rem;
+    padding: 0;
+    color: var(--11ty-color-textPrimary);
+    background: transparent;
   }
 }
 

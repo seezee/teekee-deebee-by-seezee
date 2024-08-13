@@ -5,15 +5,16 @@
       <div id="tiki-mask-icon-wrapper">
         <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
       </div>
-      <div class="field">
+      <form class="field" id="searchForm">
         <label for="searchField" class="sr-only">Search</label>
         <input type="search" id="searchField" required />
+        <button type="button" id="searchClear" class="hide" value="×" aria-label="Clear search results">&times;</button>
         <a class="sr-only" href="#searchResultsHeading">Jump to search results</a>
         <div id="search-hint__wrapper">
           <kbd>⌘</kbd>
           <kbd>K</kbd>
         </div>
-      </div>
+      </form>
     </cluster-l>
     <nav id="nav-primary" class="header-footer">
       <cluster-l role="list" justify="flex-start" space="var(--s-1)">
