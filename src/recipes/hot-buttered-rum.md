@@ -14,11 +14,12 @@ ingredients:
   - water
 garnish: cinnamon stick
 glass: Irish coffee glass
-origin: Jerry Thomas recorded a recipe in his famous bartenders guide in 1862.
+origin: Smuggler's Cove's original take on Jerry Thomas's 1862 recipe.
 source: Jerry Thomas' Bartenders Guide&colon; How to Mix Drinks, or, A Bon Vivant's Companion
 decade:
-  - 1940
-  - 1970
+  - 1860
+  - 2000
+  - 2010
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
