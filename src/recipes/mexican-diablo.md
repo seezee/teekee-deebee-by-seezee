@@ -6,8 +6,8 @@ type:
   - tall drink
   - cooler
 characteristic:
+  - sour
   - built
-  - stirred
 base:
   - tequila base
   - agave spirit base

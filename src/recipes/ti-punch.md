@@ -7,7 +7,6 @@ type:
   - punch
 characteristic:
   - built
-  - stirred
 base:
   - rum base
 ingredients:

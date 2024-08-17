@@ -8,6 +8,7 @@ characteristic:
   - stirred
   - strained
   - aromatic
+  - bittersweet
 base: rum base
 ingredients:
   - apricot liqueur

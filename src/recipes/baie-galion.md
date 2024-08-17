@@ -6,6 +6,7 @@ type:
   - cocktail
   - aromatic
   - herbal
+  - apertif
 characteristic:
   - stirred
   - strained

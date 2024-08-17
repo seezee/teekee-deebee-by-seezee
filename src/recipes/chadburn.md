@@ -4,7 +4,8 @@ title: The Chadburn
 tags: recipes
 type:
   - cocktail
-  - apertif
+  - digestif
+  - sweet
 characteristic:
 - stirred
 - strained

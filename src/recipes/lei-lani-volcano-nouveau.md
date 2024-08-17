@@ -7,7 +7,6 @@ type:
   - cooler
 characteristic:
   - shaken
-  - built
   - creamy
 base: rum base
 ingredients:
