@@ -21,7 +21,7 @@ garnish:
   - mint sprig
 glass: footed pilsner
 origin: Don the Beachcomber, mid-1930s.
-source: Beachbum Berry’s Sippin’ Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
 

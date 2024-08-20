@@ -2,7 +2,7 @@ const elasticlunr = require("elasticlunr");
 
 module.exports = function (collection) {
   // what fields we'd like our index to consist of
-  var index = elasticlunr(function () {
+  let index = elasticlunr(function () {
     this.addField(`title`);
     this.addField(`type`);
     this.addField(`characteristic`);
@@ -18,6 +18,13 @@ module.exports = function (collection) {
 
   // loop through each page and add it to the index
   collection.forEach((page) => {
+    // Add trimmer, stop words, and language stemming to the pipeline;
+    // See http://elasticlunr.com/docs/pipeline.js.html
+    index.pipeline.add(
+      elasticlunr.trimmer,
+      elasticlunr.stopWordFilter,
+      elasticlunr.stemmer
+    );
     index.addDoc({
       id: page.url,
       title: page.template.frontMatter.data.title,

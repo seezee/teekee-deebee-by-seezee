@@ -22,7 +22,7 @@ glass:
   - double old-fashioned
   - double rocks
 origin: The Luau, Beverly Hills, 1950s
-source: Beachbum Berry’s Sippin’ Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1950
 ---
 <!-- markdownlint-disable MD025 -->

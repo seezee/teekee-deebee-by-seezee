@@ -25,7 +25,7 @@ glass:
   - zombie
 origin:
   - The notorious Don the Beachcomber original.
-source: Beachbum Berry’s Sippin’ Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
 

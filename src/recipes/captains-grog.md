@@ -26,7 +26,7 @@ garnish: mint sprig
 glass:
   - double old-fashioned
   - double rocks
-origin: Captain’s Inn, Long Beach, Calif., circa 1962.
+origin: Captain's Inn, Long Beach, Calif., circa 1962.
 source: Beachbum Berry Remixed
 decade: 1960
 ---

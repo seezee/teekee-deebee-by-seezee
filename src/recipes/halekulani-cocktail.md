@@ -21,7 +21,7 @@ garnish: edible orchid
 glass:
   - coupe
 origin: House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s
-source: Beachbum Berry’s Sippin’ Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
 <!-- markdownlint-disable MD025 -->

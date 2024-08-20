@@ -20,7 +20,7 @@ glass:
   - double old-fashioned
   - double rocks
 origin: Don the Beachcomber. Served with a side of danger!
-source: Beachbum Berry’s Intoxica!
+source: Beachbum Berry's Intoxica!
 decade: 1940
 ---
 <!-- markdownlint-disable MD025 -->

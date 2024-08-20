@@ -18,7 +18,7 @@ ingredients:
 glass: 
   - double old-fashioned
   - double rocks
-origin: A Smuggler’s Cove adaptation of the Trader Vic circa 1970s recipe. The original drink was conceived for the opening of Trader Vic's Atlanta.
+origin: A Smuggler's Cove adaptation of the Trader Vic circa 1970s recipe. The original drink was conceived for the opening of Trader Vic's Atlanta.
 source: Trader Vic's Tiki Party!
 decade:
  - 1970

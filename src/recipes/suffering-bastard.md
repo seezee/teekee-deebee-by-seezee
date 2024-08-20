@@ -23,7 +23,7 @@ garnish:
 glass:
   - collins
   - highball
-origin: Joe Scialom for Shepheard’s Hotel, Cairo, 1942.
+origin: Joe Scialom for Shepheard's Hotel, Cairo, 1942.
 source: Beachbum Berry Remixed
 decade: 1940
 ---

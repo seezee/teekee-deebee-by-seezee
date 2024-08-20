@@ -16,7 +16,7 @@ ingredients:
 glass:
   - coupe
 origin: Martin Cate repeats the dubious claim that this Prohibition-era drink was created to honor actor Mary Pickford, a co-founder of United Artists, while she was filming in Cuba. What's clear is that it was first mentioned in print in Basil Woon's 1928 book.
-source: When It’s Cocktail Time in Cuba
+source: When It's Cocktail Time in Cuba
 decade: 1920
 ---
 <!-- markdownlint-disable MD025 -->

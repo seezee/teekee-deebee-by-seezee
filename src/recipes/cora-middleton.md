@@ -18,7 +18,7 @@ ingredients:
 glass: coupe
 garnish: Angostura bitters
 origin: A mid-century spin on the Clover Club from Charles H. Baker.
-source: The South American Gentleman’s Companion
+source: The South American Gentleman's Companion
 decade: 1950
 ---
 <!-- markdownlint-disable MD025 -->

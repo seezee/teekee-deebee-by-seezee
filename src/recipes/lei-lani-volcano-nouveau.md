@@ -20,7 +20,7 @@ garnish:
 glass:
   - collins
   - highball
-origin: In 2013, Smuggler’s Cove adapted the Lei Lani Volcano from Walt Disney World. The original circa 1970s drink called for coconut rum and guava nectar.
+origin: In 2013, Smuggler's Cove adapted the Lei Lani Volcano from Walt Disney World. The original circa 1970s drink called for coconut rum and guava nectar.
 source: Beachbum Berry Remixed
 decade:
   - 1970

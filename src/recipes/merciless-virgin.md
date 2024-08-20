@@ -20,7 +20,7 @@ garnish:
   - maraschino cherry
   - cocktail pick
 glass: footed pilsner
-origin: Frank “Skipper” Kent, Skipper Kent’s, San Francisco. Date unknown, between 1942 and 1967.
+origin: Frank “Skipper” Kent, Skipper Kent's, San Francisco. Date unknown, between 1942 and 1967.
 source: Previously unpublished recipe from the collection of Jacqueline Zumwalt
 decade: 1940
 ---

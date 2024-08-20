@@ -17,7 +17,7 @@ ingredients:
 garnish: orchid
 glass: scorpion bowl
 origin: A Kon-Tiki original in the style of Donn Beach.
-source: Beachbum Berry’s Sippin’ Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1960
 ---
 <!-- markdownlint-disable MD025 -->

@@ -18,8 +18,8 @@ ingredients:
   - blended lightly aged rum (2)
 garnish: mint leaf sprigs
 glass: coupe
-origin: Based on Don the Beachcomber’s Missionary’s Downfall. Trader Vic's Bartender's Guide, wherein this recipe appears, was published in 1947; the revised edition first saw print in 1972.
-source: Trader Vic’s Bartender’s Guide, Revised
+origin: Based on Don the Beachcomber's Missionary's Downfall. Trader Vic's Bartender's Guide, wherein this recipe appears, was published in 1947; the revised edition first saw print in 1972.
+source: Trader Vic's Bartender's Guide, Revised
 decade:
   - 1940
   - 1970

@@ -22,7 +22,7 @@ garnish:
   - pineapple frond
 glass: footed pilsner
 origin: Don the Beachcomber
-source: Beachbum Berry’s Sippin’ Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1940
 ---
 

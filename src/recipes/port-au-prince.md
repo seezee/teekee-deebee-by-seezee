@@ -18,7 +18,7 @@ ingredients:
 garnish: lime wedge
 glass: footed pilsner
 origin: Don the Beachcomber, circa late 1930s
-source: Beachbum Berry’s Sippin’ Safari
+source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
 <!-- markdownlint-disable MD025 -->

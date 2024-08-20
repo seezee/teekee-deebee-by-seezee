@@ -16,7 +16,7 @@ ingredients:
 garnish: swizzle stick
 glass: footed pilsner
 origin: A Trader Vic original from the 1940s.
-source: Trader Vic’s Bartender’s Guide, Revised
+source: Trader Vic's Bartender's Guide, Revised
 decade:
   - 1940
   - 1970
