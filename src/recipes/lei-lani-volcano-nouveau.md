@@ -42,7 +42,7 @@ Glassware
 
 ## Ingredients
 
-- 3 ounces guava soda
+- 3 ounces guava soda (Smuggler's Cove uses Bundaberg)
 - 1&frac12; ounces pineapple juice
 - 3/4 ounce fresh lime juice
 - 1 ounce coconut cream
