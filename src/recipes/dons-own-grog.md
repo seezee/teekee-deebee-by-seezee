@@ -43,7 +43,7 @@ Glassware
 * 1/4 ounce rich Demerara syrup
 * 1 dash grenadine
 * 1/2 Leopold Bros. Rocky Mountain blackberry liqueur
-* 1 ounce blended aged rum<icon-l space="1em" class="bigger"3><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1 ounce blended aged rum<icon-l space="1em" class="bigger" label="3"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1/2 ounce blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1/2 ounce black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 dash Angostura bitters

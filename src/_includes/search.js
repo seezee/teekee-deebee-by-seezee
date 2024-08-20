@@ -80,10 +80,17 @@
 
     const results = window.searchIndex.search(e.target.value, {
       fields:{ // See http://elasticlunr.com/docs/configuration.js.html
+        id: {bool: `OR`},
         title: {boost: 4, bool: `AND`},
         type: {boost: 1, bool: `AND`},
+        characteristic: {bool: `OR`},
         base: {boost: 2, bool: `AND`},
         ingredients: {boost: 3, bool: `AND`},
+        garnish: {bool: `OR`},
+        glass: {bool: `OR`},
+        origin: {bool: `OR`},
+        source: {bool: `OR`},
+        decade: {bool: `OR`}
       },
       bool: `OR`,
       expand: true,
