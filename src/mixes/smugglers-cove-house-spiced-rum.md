@@ -12,7 +12,7 @@ ingredients:
   - grated nutmeg
   - black peppercorns
   - fresh ginger
-  - Demerara syrup
+  - rich Demerara syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

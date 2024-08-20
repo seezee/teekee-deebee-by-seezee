@@ -10,7 +10,7 @@ characteristic:
 base: rum base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - seltzer
   - Yellow Chartreuse
   - blended lightly aged rum (2)

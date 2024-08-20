@@ -10,7 +10,7 @@ ingredients:
   - lime juice
   - pineapple juice
   - passion fruit puree
-  - Demerara syrup
+  - rich Demerara syrup
   - maraschino liqueur
   - blended lightly aged rum (2)
   - blended aged rum (3)
@@ -46,7 +46,7 @@ Serves
 * 4 ounces fresh lime juice
 * 4 ounces pineapple juice
 * 1 ounce passion fruit purée
-* 3 ounces Demerara syrup
+* 3 ounces rich Demerara syrup
 * 1 ounce maraschino liqueur
 * 4 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 4 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

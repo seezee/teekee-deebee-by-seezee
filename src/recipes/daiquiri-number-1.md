@@ -10,7 +10,7 @@ characteristic:
 base: rum base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - blended lightly aged rum (2)
 glass: coupe
 origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 2, 3, 4, and 5, was codified by barman Constante Ribalaigua at Havana's Floridita Bar.
@@ -33,7 +33,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 2 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish

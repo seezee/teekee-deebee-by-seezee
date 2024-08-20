@@ -13,7 +13,7 @@ characteristic:
 base: rum base
 ingredients:
   - egg
-  - Demerara syrup
+  - rich Demerara syrup
   - blended aged rum (3)
 garnish: nutmeg
 glass: coupe
@@ -39,7 +39,7 @@ Glassware
 ## Ingredients
 
 * 1 medium egg
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish

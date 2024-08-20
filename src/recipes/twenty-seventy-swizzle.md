@@ -9,7 +9,7 @@ characteristic: swizzled
 base: rum base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - honey syrup
   - allspice dram
   - pimento dram
@@ -47,7 +47,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 1/2 ounce honey syrup
 * 1/4 ounce allspice dram
 * 1 ounce column still aged rum<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>

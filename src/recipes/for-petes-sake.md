@@ -13,7 +13,7 @@ base:
   - brandy base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - hibiscus liqueur
   - Cherry Heering
   - Peruvian pisco
@@ -48,7 +48,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 1/2 ounce hibiscus liqueur
 * 1/2 ounce Cherry Heering
 * 1&frac12; Peruvian pisco

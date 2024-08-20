@@ -12,7 +12,7 @@ characteristic:
 base: rum base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - pot still unaged rum
   - black pot still rum
   - blended aged rum (3)
@@ -39,7 +39,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 2 ounces rum (see note)
 
 Garnish

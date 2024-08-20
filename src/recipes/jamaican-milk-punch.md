@@ -10,7 +10,7 @@ base: rum base
 ingredients:
   - whole Milk
   - heavy whipping cream
-  - Demerara syrup
+  - rich Demerara syrup
   - black blended rum (Jamaica) (5)
   - vanilla extract
   - Angostura bitters
@@ -41,7 +41,7 @@ Glassware
 
 * 1 ounce whole milk
 * 1 ounce heavy whipping cream
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 1 ounce black blended rum (Jamaica)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 6 drops vanilla extract
 * 1 dash Angostura bitters

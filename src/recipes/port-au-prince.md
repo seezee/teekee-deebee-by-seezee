@@ -10,7 +10,7 @@ base: rum base
 ingredients:
   - fresh lime juice
   - pineapple juice
-  - Demerara syrup
+  - rich Demerara syrup
   - grenadine
   - falernum
   - cane coffey still aged rum
@@ -38,7 +38,7 @@ Glassware
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce pineapple juice
-* 1/4 ounce Demerara syrup
+* 1/4 ounce rich Demerara syrup
 * 1 dash grenadine
 * 1/2 ounce falernum
 * 1&frac12; ounces cane coffey still aged rum[^1]

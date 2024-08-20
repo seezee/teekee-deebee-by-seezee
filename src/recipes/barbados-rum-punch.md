@@ -11,7 +11,7 @@ base:
   - rum base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - blended aged rum (Barbados) (3)
   - Angostura bitters
 glass:
@@ -46,7 +46,7 @@ Glassware
 ## Ingredients
 
 - 1 ounce fresh lime juice
-- 1 ounce Demerara syrup
+- 1 ounce rich Demerara syrup
 - 2 ounces blended aged rum (Barbados)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 - 1 dash Angostura bitters
 

@@ -13,7 +13,7 @@ ingredients:
   - egg white
   - blended aged rum (3)
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - raspberry syrup
 glass: coupe
 garnish: Angostura bitters
@@ -44,7 +44,7 @@ Glassware
 * 2 teaspoons egg white
 * 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 3/4 ounce fresh lime juice
-* 1/4 ounce Demerara syrup
+* 1/4 ounce rich Demerara syrup
 * 1/2 ounce Small Hand Foods Raspberry Gum Syrup
 
 Garnish

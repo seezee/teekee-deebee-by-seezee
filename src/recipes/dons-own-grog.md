@@ -9,7 +9,7 @@ characteristic: flash-blended
 base: rum base
 ingredients:
   - fresh lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - grenadine
   - blackberry liqueur
   - blended aged rum (3)
@@ -40,7 +40,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/4 ounce Demerara syrup
+* 1/4 ounce rich Demerara syrup
 * 1 dash grenadine
 * 1/2 Leopold Bros. Rocky Mountain blackberry liqueur
 * 1 ounce blended aged rum<icon-l space="1em" class="bigger"3><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

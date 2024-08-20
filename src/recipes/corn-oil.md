@@ -4,7 +4,7 @@ title: Corn and Oil
 tags: recipes
 type: short drink
 characteristic: built
-base: cachaca base
+base: Rum base
 ingredients:
   - falernum
   - blended aged rum (Barbados) (3)

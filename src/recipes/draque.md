@@ -10,9 +10,10 @@ characteristic:
 base: cachaca base
 ingredients:
   - mint leaves
-  - Demerara syrup
+  - rich Demerara syrup
   - lime juice
   - pot still aged cachaca
+  - pot still aged cachaça
 garnish:
   - lime wheel
   - sword cocktail pick
@@ -39,7 +40,7 @@ Glassware
 ## Ingredients
 
 * 5 fresh mint leaves
-* 3/4 ounce Demerara syrup
+* 3/4 ounce rich Demerara syrup
 * 3/4 ounce fresh lime juice
 * 2 ounces pot still aged cachaça
 

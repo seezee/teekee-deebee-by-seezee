@@ -12,6 +12,7 @@ ingredients:
   - passion fruit puree
   - coconut milk
   - pot still aged cachaca
+  - pot still aged cachaça
   - sweetened condensed milk
 glass:
   - old-fashioned

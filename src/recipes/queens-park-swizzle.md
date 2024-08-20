@@ -13,7 +13,7 @@ base: rum base
 ingredients:
   - mint leaves
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - black blended rum (5)
   - Angostura bitters
 garnish: 
@@ -45,7 +45,7 @@ Glassware
 
 - 4 mint leaves
 - 1/2 ounce fresh lime juice
-- 1/2 ounce Demerara syrup
+- 1/2 ounce rich Demerara syrup
 - 2 ounces black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 - 2 dashes Angostura bitters
 

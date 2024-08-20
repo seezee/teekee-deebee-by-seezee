@@ -10,7 +10,7 @@ base: rum base
 ingredients:
   - pineapple juice
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - Campari
   - black blended rum (5)
 garnish: pineapple fronds
@@ -39,7 +39,7 @@ Glassware
 
 - 1 ounce pineapple juice
 - 1/2 ounce fresh lime juice
-- 1/2 ounce Demerara syrup
+- 1/2 ounce rich Demerara syrup
 - 3/4 ounces Campari
 - 1&frac12; ounces black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 

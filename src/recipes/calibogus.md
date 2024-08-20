@@ -43,7 +43,7 @@ Glassware
 
 * 3 ounces seltzer
 * 1/4 ounce fresh lime juice
-* 3/4 ounce Demerara syrup
+* 3/4 ounce rich Demerara syrup
 * 1 drop spruce beer soda extract
 * 3/4 ounce Zirbenz Stone Pine Liqueur or other pine liqueur
 * 1&frac14; ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

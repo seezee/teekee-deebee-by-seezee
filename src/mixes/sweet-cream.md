@@ -4,7 +4,7 @@ title: Sweet Cream
 tags: mixes
 ingredients:
   - heavy whipping cream
-  - Demerara syrup
+  - rich Demerara syrup
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -14,7 +14,7 @@ ingredients:
 ## Ingredients
 
 * 6 ounces heavy whipping cream
-* 1 ounce Demerara syrup
+* 1 ounce rich Demerara syrup
 
 ## Instructions
 

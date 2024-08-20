@@ -63,7 +63,10 @@
   });
 
   searchField.addEventListener(`focusout`, (e) => {
-    if (searchField.value !== ``) {
+    clear.addEventListener('focusin', (e) => {
+      let clearIsFocused = TRUE;
+    });
+    if ((searchField.value !== ``) || (clearIsFocused === TRUE)) {
       return;
     } else {
       hint.removeAttribute(`class`);
@@ -77,16 +80,10 @@
 
     const results = window.searchIndex.search(e.target.value, {
       fields:{ // See http://elasticlunr.com/docs/configuration.js.html
-        title: {bool: `AND`},
+        title: {boost: 4, bool: `AND`},
         type: {boost: 1, bool: `AND`},
-        characteristic: {bool: `AND`},
         base: {boost: 2, bool: `AND`},
         ingredients: {boost: 3, bool: `AND`},
-        garnish: {bool: `AND`},
-        glass: {bool: `AND`},
-        origin: {bool: `AND`},
-        source: {bool: `AND`},
-        decade: {bool: `AND`}
       },
       bool: `OR`,
       expand: true,

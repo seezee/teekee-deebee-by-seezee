@@ -10,7 +10,7 @@ characteristic:
 base: rum base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - honey syrup
   - raspberry liqueur
   - blended aged rum (3)
@@ -41,7 +41,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 1/2 ounce honey syrup
 * 1/2 ounce St. George Raspberry liqueur[^1]
 * 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

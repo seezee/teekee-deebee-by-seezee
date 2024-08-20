@@ -5,7 +5,7 @@ tags: mixes
 ingredients:
   - vanilla bean
   - aged grape brandy
-  - Demerara syrup
+  - rich Demerara syrup
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -16,7 +16,7 @@ ingredients:
 
 * 1 4-inch vanilla bean
 * 500 milliliters aged grape brandy
-* 1 ounce Demerara syrup
+* 1 ounce rich Demerara syrup
 
 ## Instructions
 
