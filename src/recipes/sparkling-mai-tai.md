@@ -38,7 +38,8 @@ Source
   : <cite>{{ source }}</cite> magazine, September 2011 issue.
 
 Glassware
-  : Chilled coupé or champagne flute
+  : Chilled coupé
+  : Champagne flute
 
 ## Ingredients
 

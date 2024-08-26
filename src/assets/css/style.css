@@ -266,6 +266,10 @@ label {
   inline-size: 100%
 }
 
+hr {
+  border-color: var(--11ty-color-textPrimary);
+}
+
 label span {
   color: crimson;
   font-size: 2em;
