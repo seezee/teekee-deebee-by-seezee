@@ -56,8 +56,8 @@ Garnish
 
 ## Instructions
 
-1. Pour all ingredients *except* sparkling wine into a mixing glass
-2. Stir with cracked or cube ice
+1. Add all ingredients *except* sparkling wine into a mixing glass filled with cracked or cube ice
+2. Stir until very cold, about 15 seconds
 3. Strain into a chilled coupé or champagne flute
 4. Top with sparkling wine
 5. Garnish
