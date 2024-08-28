@@ -672,9 +672,14 @@ div.col-5 {
   }
 }
 
-.sr-only:not(:focus-visible):not(:active),
+.sr-only {
+  position: absolute;
+  inline-size: auto;
+}
+
+.sr-only:not(:focus-visible):not(:focus-within):not(:active),
 .govuk-visually-hidden {
-	position: absolute;
+  position: absolute;
   display: inline-block;
   inline-size: 1px;
   block-size: 1px;
@@ -685,6 +690,7 @@ div.col-5 {
   white-space: nowrap;
   border-width: 0;
 }
+
 
 @keyframes fadeout {
   from { display: block; max-height: 10vh;}
@@ -718,6 +724,10 @@ div.col-5 {
 
 :focus-visible {
   outline: var(--11ty-color-secondary-300) auto 1px;
+}
+
+#skip-link {
+  inset-block-start: var(--s-5);
 }
 
 /**
@@ -833,6 +843,10 @@ div.col-5 {
 /* End theme toggle */
 
 /* Search */
+
+#results-link {
+  inline-size: 100%;
+}
 
 #searchField {
   appearance: none;
