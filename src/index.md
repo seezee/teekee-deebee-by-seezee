@@ -27,7 +27,7 @@ layout: _article.njk
 
 In the mood for almond? Type "orgeat." Thirsty for a highball? Type "tall" or "highball." Looking for something bubbly? Try typing "spritz" or "cooler." Want a strained drink in a stemmed glass? Give "coupe" a whirl. Hate it when the gentle tropical rains dilute your drink? Type "umbrella." Craving something from the master's secret recipe books? Type "Don the Beachcomber." Yearning for something from Tiki's earliest days? Type "1930."
 
-If you're a desktop user, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started! Mobile users, tap the search bar and enter your query.
+Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started (mobile users, tap the search bar and enter your query)!
 
 {% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood \[cover\], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}
 

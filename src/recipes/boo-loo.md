@@ -30,7 +30,7 @@ decade: 1960
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-This drink serves two people. Or one very thirsty person of either great fortitude or great foolishness.
+This drink serves two people (or one very thirsty person of either great fortitude or great foolishness).
 
 Origin
   : {{ origin }}
