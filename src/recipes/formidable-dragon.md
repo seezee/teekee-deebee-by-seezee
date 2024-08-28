@@ -34,7 +34,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source}}</cite>
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Large (22-ounce) brandy snifter

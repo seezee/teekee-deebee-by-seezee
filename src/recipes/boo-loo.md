@@ -45,7 +45,7 @@ Glassware
 
 * 6 1-inch-square chunks fresh pineapple
 * 2&frac12; ounces pineapple juice
-* 1&frac12; ounces frish lime juice
+* 1&frac12; ounces fresh lime juice
 * 1&frac14; ounces honey syrup
 * 1&frac12; ounces blended aged rum<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1&frac12; ounces column still aged rum<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
@@ -57,11 +57,11 @@ Garnish
   : Pineapple lid with two straw holes[^1]
   : Drinking straws
 
-[^1]: See <cite>{{ source}}</cite>, p. 238.
+[^1]: See <cite>{{ source }}</cite>, page 238.
 
 ## Instructions
 
-1. Add the the first three ingredients (pineapple chunks, pineapple juice, and lime juice) to a drink mixer tin and muddle
+1. Add the first three ingredients (pineapple chunks, pineapple juice, and lime juice) to a drink mixer tin and muddle
 2. Add the remaining ingredients along with 12 ounces of crushed ice and 4 to 6 small ice cubes to the tin
 3. Flash blend 3 to 4 seconds
 4. Pour with gated finish in to a hollowed-out pineapple
