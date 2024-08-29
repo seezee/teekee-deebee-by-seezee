@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Caribeño
+searchTitle: Caribeno
 tags: recipes
 type:
   - tropical

@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Swizzle Français
+searchtitle: Swizzle Francais
 tags: recipes
 type:
   - tall drink

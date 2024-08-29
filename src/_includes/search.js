@@ -82,6 +82,7 @@
       fields:{ // See http://elasticlunr.com/docs/configuration.js.html
         id: {bool: `OR`},
         title: {boost: 4, bool: `AND`},
+        searchTitle: {boost: 4, bool: `AND`},
         type: {boost: 1, bool: `AND`},
         characteristic: {bool: `OR`},
         base: {boost: 2, bool: `AND`},

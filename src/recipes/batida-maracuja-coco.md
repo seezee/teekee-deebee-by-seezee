@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Batida de Maracujá e Coco
+searchTitle: Batida de Maracuja e Coco
 tags: recipes
 type:
   - tropical

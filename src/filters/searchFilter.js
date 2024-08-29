@@ -4,6 +4,7 @@ module.exports = function (collection) {
   // what fields we'd like our index to consist of
   let index = elasticlunr(function () {
     this.addField(`title`);
+    this.addField(`searchTitle`);
     this.addField(`type`);
     this.addField(`characteristic`);
     this.addField(`base`);
@@ -28,6 +29,7 @@ module.exports = function (collection) {
     index.addDoc({
       id: page.url,
       title: page.template.frontMatter.data.title,
+      searchTitle: page.template.frontMatter.data.searchTitle,
       type: page.template.frontMatter.data.type,
       characteristic: page.template.frontMatter.data.characteristic,
       base: page.template.frontMatter.data.base,
