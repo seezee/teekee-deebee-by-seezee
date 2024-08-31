@@ -65,3 +65,11 @@ Garnish
   Use a jaw-style citrus squeezer such as a <a href="https://www.amazon.com/Winco-LS-3-Lemon-Lime-Squeezer/dp/B000HVQCKY" target="_blank" rel="external noopener">Winco LS-3</a> to extract the lime juice; this type of squeezer also extracts citrus oil from the fruit's rind into the drink.
 
 {% endcallout %}
+
+<!-- markdownlint-disable MD012 -->
+{% callout "tip" %}
+<!-- markdownlint-enable MD012 -->
+
+  The garnish should resemble a little island with a minty palm tree, floating peacefully in a sea of rum.
+
+{% endcallout %}
