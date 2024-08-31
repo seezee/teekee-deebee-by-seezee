@@ -32,7 +32,7 @@ decade:
 > One of sour, two of sweet
 > Three of strong and four of weak
 >
-> — Barbadian traditional mnemonic rhyme
+> —&NoBreak;&thinsp;&NoBreak;Barbadian traditional mnemonic rhyme
 
 Origin
   : {{ origin }}

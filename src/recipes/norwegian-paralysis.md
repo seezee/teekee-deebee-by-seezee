@@ -42,7 +42,8 @@ Source
   : The original recipe for the Polynesian Paralysis was published in the 1971 pamphlet <cite>{{ source }}</cite> by Paul Dick and later adapted and republished in <cite>Beachbum Berry Remixed</cite>.
 
 Glassware
-  : Collins or highball
+  : Collins
+  : Highball
 
 ## Ingredients
 

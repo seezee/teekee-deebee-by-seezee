@@ -42,7 +42,8 @@ Source
   : <cite>{{ source }}</cite>
 
 Glassware
-  : Collins or highball
+  : Collins
+  : Highball
 
 ## Ingredients
 

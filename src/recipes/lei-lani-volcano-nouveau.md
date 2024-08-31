@@ -38,7 +38,8 @@ Source
   : The original Lei Lani Volcano was published in <cite>{{ source }}</cite>.
 
 Glassware
-  : Collins or highball
+  : Collins
+  : Highball
 
 ## Ingredients
 
