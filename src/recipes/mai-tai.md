@@ -2,9 +2,8 @@
 layout: _main.njk
 title: Mai Tai
 tags: recipes
-type:
-  - punch
-characteristic: flash-blended
+type: punch
+characteristic: shaken
 base: rum base
 ingredients:
   - lime juice
@@ -16,8 +15,10 @@ garnish:
 - mint sprig
 - spent lime shell
 glass:
-  - Mai tai
-origin: Trader Vic invented this classic in 1944.
+  - mai tai
+  - double old-fashioned
+  - double rocks
+origin: Trader Vic invented this classic in 1944. According to legend, he was entertaining two friends from Tahiti, Ham and Carrie Guild, when he concocted the recipe. When Carrie sipped the elixir, she exclaimed <q>Maita'i Roe A'e</q> (<q>Out of this World&thinsp;—&thinsp;The Best</q>), giving the drink its moniker. 
 source: Trader Vic's Bartender's Guide
 decade:
 - 1940
@@ -53,9 +54,9 @@ Garnish
 ## Instructions
 
 1. Squeeze the lime halves over a jigger with a jaw-style citrus squeezer; reserve one of the spent lime shells
-2. Add all ingredients + 12 ounces crushed ice + 4 to 6 small cubes to a drink mixer tin
-3. Flash blend 3 to 4 seconds
-4. Open pour a mai tai glass
+2. Add all ingredients + 12 ounces crushed ice + a few small cubes to a cocktail shaker
+3. Shake until frost forms on the shaker, about 15 to 20 seconds
+4. Pour entire contents into a mai tai or double old-fashioned glass
 5. Garnish with a mint sprig and one of the spent lime shells
 
 <!-- markdownlint-disable MD012 -->
@@ -70,6 +71,14 @@ Garnish
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
-  The garnish should resemble a little island with a minty palm tree, floating peacefully in a sea of rum.
+  The closest rum today to the original 17-year-old Wray & Nephew used by Trader Vic is Denizen Merchant's Reserve. Smuggler's Cove uses this rum in their mai tais exclusively.
+
+{% endcallout %}
+
+<!-- markdownlint-disable MD012 -->
+{% callout "tip" %}
+<!-- markdownlint-enable MD012 -->
+
+  According to Trader Vic, the garnish should resemble a little island with a minty palm tree, floating peacefully in a sea of rum.
 
 {% endcallout %}
