@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: The Twenty-Seventy Swizzle
+searchTitle: 27 Swizzle
 tags: recipes
 type:
   - tall drink
@@ -69,4 +70,4 @@ Garnish
 4. Top up with more crushed ice
 5. Garnish
 
-[^1]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
+[^1]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.

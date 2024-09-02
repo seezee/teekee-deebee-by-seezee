@@ -49,7 +49,7 @@ Garnish
 
 ## Instructions
 
-1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small cubes to a drink mixer tin
+1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a Collins or highball glass
 4. Insert 3 or more pineapple fronds in the glass

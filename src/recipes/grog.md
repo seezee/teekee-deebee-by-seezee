@@ -59,6 +59,6 @@ Garnish
 
  For a nineteenth-century-style grog, use black pot still rum.
 
- Smuggler's Cove eschews historical authenticity by using blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>.<span class="after-icon"></span> Who are we to argue with them?
+ Smuggler's Cove eschews historical authenticity by using blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>.<span class="after-icon"></span>Who are we to argue with them?
 
 {% endcallout %}

@@ -1,7 +1,10 @@
 ---
 layout: _main.njk
 title: Humu­humu­nuku­nuku­apuaʻa
-searchTitle: Humu­humu­nuku­nuku­apua'a
+searchTitle:
+  - Humu­humu­nuku­nuku­apua'a
+  - Lauwiliwilinukunukuʻoiʻoi
+  - Lauwiliwilinukunuku'oi'oi
 tags: recipes
 type: sour
 characteristic:

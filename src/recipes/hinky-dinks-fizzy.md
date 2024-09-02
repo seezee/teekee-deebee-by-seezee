@@ -53,7 +53,7 @@ Garnish
 ## Instructions
 
 1. Pour the sparkling wine into a snifter
-2. Add the remaining ingredients + 12 ounces crushed ice + 4 to 6 small cubes to a drink mixer tin
+2. Add the remaining ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 3. Flash blend 3 to 4 seconds
 4. Open pour with a gated finish into the snifter
 5. Garnish with a mint sprig

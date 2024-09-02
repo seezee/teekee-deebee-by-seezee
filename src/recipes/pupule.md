@@ -1,6 +1,9 @@
 ---
 layout: _main.njk
 title: Pupule / Nui Nui
+searchTitle:
+  - Pupule
+  - Nui Nui
 tags: recipes
 type: 
   - tropical

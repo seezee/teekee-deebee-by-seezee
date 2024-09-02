@@ -1,6 +1,10 @@
 ---
 layout: _main.njk
-title: Ti’ Punch / Ti’ Punch Vieux
+title: Ti’ Punch
+searchTitle:
+- Ti' Punch
+- Ti’ Punch Vieux
+- Ti' Punch Vieux
 tags: recipes
 type:
   - short drink

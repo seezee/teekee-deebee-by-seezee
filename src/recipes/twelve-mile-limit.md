@@ -1,6 +1,10 @@
 ---
 layout: _main.njk
 title: Twelve Mile Limit
+searchTitle:
+  - 12 Mile Limit
+  - Three Mile Limit
+  - 3 Mile Limit
 tags: recipes
 type:
   - sour

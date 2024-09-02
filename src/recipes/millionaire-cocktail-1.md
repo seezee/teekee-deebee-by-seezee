@@ -1,6 +1,10 @@
 ---
 layout: _main.njk
 title: Millionaire Cocktail No. 1
+searchTitle:
+  - Millionaire Cocktail Number 1
+  - Millionaire Cocktail No. 2
+  - Millionaire Cocktail Number 2
 tags: recipes
 type:
   - sour

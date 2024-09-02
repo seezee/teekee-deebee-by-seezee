@@ -73,6 +73,6 @@ Garnish
 {% callout "note" %}
 <!-- markdownlint-enable MD012 -->
 
-  Rather than cutting out the pineapple core, leave it in place to create a small island, then top it with a cocktail umbrella and a plastic mermaid. Discard the pineapple lid.
+  To make a mermaid island: rather than cutting out the pineapple core, leave it in place to create a small island, then top it with a cocktail umbrella and a plastic mermaid. Discard the pineapple lid.
 
 {% endcallout %}

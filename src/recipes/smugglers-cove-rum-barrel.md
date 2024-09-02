@@ -70,7 +70,7 @@ Garnish
 
 ## Instructions
 
-1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small cubes
+1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes
 2. Flash blend 3 to 4 seconds
 3. Open pour with gated finish into a rum barrel tiki mug or a large brandy snifter
 4. Add garnish
