@@ -60,6 +60,8 @@ Garnish
 {% callout "note" %}
 <!-- markdownlint-enable MD012 -->
 
+### Batida de Maracujá
+
   To make Batida de Maracujá, omit the coconut and increase the passion fruit purée to 1 ounce.
 
 {% endcallout %}

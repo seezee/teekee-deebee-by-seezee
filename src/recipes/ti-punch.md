@@ -67,6 +67,8 @@ Garnish
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
+### Ti' Punch Vieux
+
   Substitute an élevé sous bois or rhum vieux<icon-l space="1em" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l><span class="after-icon"></span>to make Ti' Punch Vieux.
 
 {% endcallout %}

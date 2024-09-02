@@ -4,6 +4,9 @@ title: Doctor Funk
 searchTitle:
   - Dr. Funk
   - Dr Funk
+  - Dr. Funk's Son
+  - Dr Funk's Son
+  - Doctor Funk's Son
   - Dr. Fong
   - Dr Fong
   - Doctor Fong
@@ -73,6 +76,8 @@ Garnish
 {% callout "note" %}
 <!-- markdownlint-enable MD012 -->
 
+### Doctor Funk's Son
+
   To make the Doctor Funk's Son, omit the Herbsaint, reduce the rum to 1&frac34; ounces, and add 1/2 ounce black blended rum overproof rum<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>.
 
 {% endcallout %}
@@ -81,9 +86,11 @@ Garnish
 {% callout "note" %}
 <!-- markdownlint-enable MD012 -->
 
-  The Luau in Hollywood's spin on Doctor Funk was Doctor Wong.
+### Doctor Wong
 
-  Jeff "Beachbum" Berry records the 1957 version of Doctor Wong in <cite>Sippin&rsquo; Safari</cite> (2007):
+  The Beverly Hills restaurant The Luau served this spin on the Doctor Funk in 1957.
+
+  Jeff "Beachbum" Berry records the recipe in <cite>Sippin&rsquo; Safari</cite> (2007):
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce tonga mix[^1]
