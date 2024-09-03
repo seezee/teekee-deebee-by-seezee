@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Zombie No. 3 (Jeff “Beachbum” Berry)
+title: Zombie No. 4 (Jeff “Beachbum” Berry)
 tags: recipes
 type:
   - tall drink
@@ -40,7 +40,7 @@ Source
 Glassware
   : Zombie
 
-[^1]: See also [Zombie No. 1](/recipes/zombie-1-donns-1934/) and [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/).
+[^1]: See also [Zombie No. 1](/recipes/zombie-1-donns-1934/), [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/), [Zombie No. 3](/recipes/zombie-3-donns-1950.md), and [Zombie No. 4](/recipes/zombie-4-donns-1956.md).
 
 ## Ingredients
 

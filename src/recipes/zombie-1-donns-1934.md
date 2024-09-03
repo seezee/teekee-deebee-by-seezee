@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Zombie No. 1 (Don the Beachcomber)
+title: Zombie No. 1 (Don the Beachcomber, 1934)
 tags: recipes
 type:
   - tall drink
@@ -24,7 +24,7 @@ garnish:
 glass:
   - zombie
 origin:
-  - The notorious Don the Beachcomber original.
+  - The notorious Don the Beachcomber original from 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
@@ -36,11 +36,11 @@ decade: 1930
 <div class="dd-add-space">
 
   Origin
-    :  {{ origin }} <q>Don will not serve more than 2 to each person.</q>[^1]
-    : Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2]
+    : {{ origin }} <q>Don will not serve more than 2 to each person.</q>[^1]
+    : Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2].
 
   Source
-    : <cite>{{ source }}</cite>
+    : <cite>{{ source }}</cite>, taken from the 1937 notebook of Beachcomber's waiter Dick Santiago. Santiago had marked the recipe as "old."
 
   Glassware
     : Zombie
@@ -48,7 +48,7 @@ decade: 1930
 </div>
 
 [^1]: Don the Beachcomber menu, 1941.
-[^2]: See also [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/) and [Zombie No. 3](/recipes/zombie-3-jeff-berry-hamiltons/).
+[^2]: See also [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/), [Zombie No. 3](/recipes/zombie-3-donns-1950.md), [Zombie No. 4](/recipes/zombie-4-donns-1956.md), and [Zombie No. 4](/recipes/zombie-3-jeff-berry-hamiltons/).
 
 ## Ingredients
 
