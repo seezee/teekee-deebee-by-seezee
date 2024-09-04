@@ -71,6 +71,6 @@ Garnish
 {% callout "note" %}
 <!-- markdownlint-enable MD012 -->
 
-  To make Don the Beachcomber's version of the Navy Grog, substitute 1 ounce honey syrup and 3/4 ounce seltzer for the Demerara syrup and allspice dram. Strain the drink over an ice cone placed in a double old-fashioned glass.
+  To make Don the Beachcomber's (1941) version of the Navy Grog, substitute 1 ounce honey syrup and 3/4 ounce seltzer for the Demerara syrup and allspice dram. Strain the drink over an ice cone placed in a double old-fashioned glass.
 
 {% endcallout %}
