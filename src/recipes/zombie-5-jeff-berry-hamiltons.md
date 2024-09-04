@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Zombie No. 4 (Jeff “Beachbum” Berry)
+title: Zombie No. 5 (Jeff “Beachbum” Berry)
 tags: recipes
 type:
   - tall drink
