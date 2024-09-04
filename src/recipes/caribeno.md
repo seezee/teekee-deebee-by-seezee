@@ -12,7 +12,7 @@ base:
 ingredients:
   - coconut water
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - column still lightly aged rum
 glass:
   - coconut shell
@@ -41,7 +41,7 @@ Glassware
 
 * 4 ounces coconut water
 * 3/4 ounce fresh lime juice
-* 3/4 ounce Demerara syrup
+* 3/4 ounce rich Demerara syrup
 * 2 ounces column still lightly aged rum
 
 Garnish

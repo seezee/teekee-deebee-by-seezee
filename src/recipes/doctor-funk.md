@@ -18,7 +18,7 @@ ingredients:
   - lemon juice
   - grenadine
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - Herbsaint
   - pastis
   - absinthe
@@ -56,7 +56,7 @@ Glassware
 * 1/2 ounce fresh lemon juice
 * 1/2 ounce fresh lime juice
 * 1/4 grenadine
-* 1/2 ounce Demerara syrup
+* 1/2 ounce rich Demerara syrup
 * 1/4 ounce Herbsaint (or substitute other pastis or absinthe)
 * 2&frac14; ounces black pot still rum
 * 1 ounce seltzer
@@ -94,7 +94,7 @@ Garnish
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce tonga mix[^1]
-* 1 teaspoon Herbsaint or Pernod
+* 1 teaspoon Herbsaint, Pernod, or other pastis liqueur
 * 1 ounce white rum (blended lightly aged<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>or column still lightly aged rum)
 * 3 ounces crushed ice
 

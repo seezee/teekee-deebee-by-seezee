@@ -12,7 +12,7 @@ base: rum base
 ingredients:
   - pineapple juice
   - lemon juice
-  - Demerara syrup
+  - rich Demerara syrup
   - ginger liqueur
   - allspice dram
   - pimento dram

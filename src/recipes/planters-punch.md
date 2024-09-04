@@ -8,7 +8,7 @@ characteristic: flash-blended
 base: rum base
 ingredients:
   - lime juice
-  - Demerara syrup
+  - rich Demerara syrup
   - allspice dram
   - pimento dram
   - blended aged rum (3)
@@ -55,7 +55,7 @@ Glassware
 ## Ingredients
 
 * 1 ounce fresh lime juice
-* 3/4 ounce Demerara syrup
+* 3/4 ounce rich Demerara syrup
 * 1/4 ounce allspice dram
 * 3 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 2 dashes Angostura bitters

@@ -17,6 +17,7 @@ ingredients:
   - falernum
   - grenadine
   - Angostura bitters
+  - Herbstura
   - Pernod
   - Herbsaint
   - pastis
@@ -50,8 +51,7 @@ Glassware
 - <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce cinnamon syrup
 - 2 ounces Beachbum Berry’s Zombie Rum Blend
 - 1 dash grenadine
-- 1 dash Pernod, Herbsaint, or other pastis liqueur
-- 1 dash Angostura bitters
+- 2 dashes Herbstura
 
 [^2]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
 

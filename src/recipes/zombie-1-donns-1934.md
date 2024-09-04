@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Zombie No. 1 (Don the Beachcomber, 1934)
+searchTitle: Zombie Punch
 tags: recipes
 type:
   - tall drink
@@ -18,19 +19,23 @@ ingredients:
   - blended aged rum (3)
   - column still aged rum (4)
   - black blended overproof rum (6)
+  - Angostura bitters
   - Herbstura
+  - Herbsaint
+  - pastis
+  - absinthe
 garnish:
   - mint sprig
 glass:
   - zombie
 origin:
-  - The notorious Don the Beachcomber original from 1937.
+  - The notorious Don the Beachcomber original from 1934.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
 
 <!-- markdownlint-disable MD025 -->
-# {{ title }}
+# {{ title }} (a.k.a. Zombie Punch)
 <!-- markdownlint-disable MD025 -->
 
 <div class="dd-add-space">
@@ -40,7 +45,7 @@ decade: 1930
     : Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2].
 
   Source
-    : <cite>{{ source }}</cite>, taken from the 1937 notebook of Beachcomber's waiter Dick Santiago. Santiago had marked the recipe as "old."
+    : <cite>{{ source }}</cite>, taken from the 1937 notebook of Dick Santiago (headwaiter at Don the Beachcomber's from 1937 to 1952). Santiago had marked the recipe, listed as <q>Zombie Punch,</q> as <q>old.</q>
 
   Glassware
     : Zombie

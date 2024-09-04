@@ -46,7 +46,7 @@ Serves
 * 2 ounces fresh lime juice
 * 3 ounces rich Demerara syrup
 * 6 ounces Batavia arrack
-* 2 ounces pot still lightly aged rum (overproof)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
+* 2 ounces pot still lightly aged (overproof) rum<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 * 6 ounces carbonated chai
 
 Garnish
