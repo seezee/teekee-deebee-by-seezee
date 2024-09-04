@@ -4,7 +4,7 @@ title: Cane AOC Martinique Rhum Agricole Vieux
 category: /assets/images/icons/circle-8.svg#circle-8
 tags: rhums
 label: (8)
-permalink: "/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/html"
+permalink: "/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/index.html"
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}<icon-l space="1em" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
