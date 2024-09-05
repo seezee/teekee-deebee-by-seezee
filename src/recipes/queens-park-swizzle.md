@@ -5,9 +5,12 @@ tags: recipes
 type:
   - tall drink
   - swizzle
-characteristic:
   - tropical
   - sour
+  - smash
+characteristic:
+  - built
+  - muddled
   - swizzled
 base: rum base
 ingredients:

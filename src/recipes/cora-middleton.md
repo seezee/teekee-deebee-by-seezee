@@ -5,9 +5,9 @@ tags: recipes
 type:
   - cocktail
 characteristic:
-- stirred
-- strained
-- foamy
+  - stirred
+  - strained
+  - foamy
 base: rum base
 ingredients:
   - egg white

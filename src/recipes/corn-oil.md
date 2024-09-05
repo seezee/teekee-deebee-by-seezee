@@ -2,8 +2,12 @@
 layout: _main.njk
 title: Corn and Oil
 tags: recipes
-type: short drink
-characteristic: built
+type: 
+  - tropical
+  - short drink
+characteristic:
+  - built
+  - aromatic
 base: Rum base
 ingredients:
   - falernum

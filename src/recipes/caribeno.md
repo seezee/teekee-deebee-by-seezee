@@ -5,6 +5,7 @@ searchTitle: Caribeno
 tags: recipes
 type:
   - tropical
+  - sour
 characteristic:
   - flash-blended
 base:

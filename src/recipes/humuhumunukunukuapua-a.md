@@ -6,7 +6,10 @@ searchTitle:
   - Lauwiliwilinukunukuʻoiʻoi
   - Lauwiliwilinukunuku'oi'oi
 tags: recipes
-type: sour
+type:
+  - tropical
+  - sour
+  - short drink
 characteristic:
   - shaken
 base: gin base

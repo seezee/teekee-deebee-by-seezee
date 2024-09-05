@@ -2,11 +2,14 @@
 layout: _main.njk
 title: A Wish for Grace
 tags: recipes
-type: cocktail
+type:
+  - tropical
+  - sour
+  - short drink
 characteristic:
-- shaken
-- strained
-- sour
+  - shaken
+  - strained
+  - sour
 base: rum base
 ingredients:
   - lemon juice

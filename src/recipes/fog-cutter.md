@@ -2,7 +2,10 @@
 layout: _main.njk
 title: Fog Cutter
 tags: recipes
-type: tall drink
+type:
+  - tropical
+  - sour
+  - tall drink
 characteristic:
   - flash-blended
   - strong

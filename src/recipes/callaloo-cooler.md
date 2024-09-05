@@ -3,6 +3,7 @@ layout: _main.njk
 title: Callaloo Cooler
 tags: recipes
 type:
+  - tropical
   - tall drink
   - cooler
   - spritz

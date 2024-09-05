@@ -2,8 +2,7 @@
 layout: _main.njk
 title: Mary Pickford
 tags: recipes
-type:
-  - sour
+type: sour
 characteristic:
   - shaken
   - strained

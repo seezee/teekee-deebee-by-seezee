@@ -4,9 +4,13 @@ title: The Twenty-Seventy Swizzle
 searchTitle: 27 Swizzle
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
   - swizzle
-characteristic: swizzled
+characteristic:
+  - swizzled
+  - built
 base: rum base
 ingredients:
   - lime juice

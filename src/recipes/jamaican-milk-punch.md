@@ -2,7 +2,10 @@
 layout: _main.njk
 title: Jamaican Milk Punch
 tags: recipes
-type: short drink
+type:
+  - tropical
+  - milk punch
+  - short drink
 characteristic:
   - flash-blended
   - creamy

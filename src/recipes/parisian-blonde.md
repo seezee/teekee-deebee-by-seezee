@@ -2,8 +2,7 @@
 layout: _main.njk
 title: Parisian Blonde
 tags: recipes
-type:
-  - cocktail
+type: cocktail
 characteristic:
 - stirred
 - strained

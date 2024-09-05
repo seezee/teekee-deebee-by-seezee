@@ -3,6 +3,8 @@ layout: _main.njk
 title: Zombie No. 4 (Don the Beachcomber, 1956)
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
 characteristic:
   - flash-blended
@@ -45,7 +47,7 @@ decade: 1950
   Glassware
     : Zombie
 
-[^1]: See also [Zombie No. 1](/recipes/zombie-1-donns-1934.md), [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/), [Zombie No. 3](/recipes/zombie-3-donns-1950.md), and [Zombie No. 5](/recipes/zombie-5-jeff-berry-hamiltons/).
+[^1]: See also [Zombie N<sup>o.</sup> 1](/recipes/zombie-1-donns-1934.md), [Zombie N<sup>o.</sup> 2](/recipes/zombie-2-trader-vics-1947/), [Zombie N<sup>o.</sup> 3](/recipes/zombie-3-donns-1950.md), and [Zombie N<sup>o.</sup> 5](/recipes/zombie-5-jeff-berry-hamiltons/).
 
 ## Ingredients
 

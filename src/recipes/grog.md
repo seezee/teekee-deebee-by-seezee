@@ -3,7 +3,7 @@ layout: _main.njk
 title: Grog
 tags: recipes
 type:
-  - tropical
+  - grog
   - sour
   - short drink
 characteristic:

@@ -11,7 +11,10 @@ searchTitle:
   - Dr Fong
   - Doctor Fong
 tags: recipes
-type: punch
+type:
+  - tropical
+  - sour
+  - short drink
 characteristic: flash-blended
 base: rum base
 ingredients:

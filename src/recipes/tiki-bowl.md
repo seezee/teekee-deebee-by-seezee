@@ -3,8 +3,12 @@ layout: _main.njk
 title: Tiki Bowl
 tags: recipes
 type:
+  - tropical
+  - sour
   - punch
-characteristic: flash-blended
+characteristic:
+  - flash-blended
+  - communal
 base: rum base
 ingredients:
   - orange juice

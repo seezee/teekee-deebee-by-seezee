@@ -7,6 +7,7 @@ searchTitle:
 - Ti' Punch Vieux
 tags: recipes
 type:
+  - tropical
   - short drink
   - punch
 characteristic:

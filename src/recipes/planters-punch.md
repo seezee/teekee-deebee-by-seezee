@@ -2,8 +2,7 @@
 layout: _main.njk
 title: Planter's Punch
 tags: recipes
-type:
-  - punch
+type: punch
 characteristic: flash-blended
 base: rum base
 ingredients:

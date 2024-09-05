@@ -3,8 +3,12 @@ layout: _main.njk
 title: Kaieteur Swizzle
 tags: recipes
 type:
+  - tropical
+  - sour
+  - swizzle
   - tall drink
 characteristic:
+  - built
   - swizzled
 base: rum base
 ingredients:

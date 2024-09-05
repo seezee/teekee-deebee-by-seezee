@@ -6,11 +6,10 @@ searchTitle:
   - Millionaire Cocktail No. 2
   - Millionaire Cocktail Number 2
 tags: recipes
-type:
-  - sour
+type: sour
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - lime juice

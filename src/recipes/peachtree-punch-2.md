@@ -3,9 +3,12 @@ layout: _main.njk
 title: Peachtree Punch 2.0
 tags: recipes
 type:
+  - tropical
+  - sour
   - short drink
+characteristic:
+  - flash-blended
   - creamy
-characteristic: flash-blended
 base: rum base
 ingredients:
   - peach

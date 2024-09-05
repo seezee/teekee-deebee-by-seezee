@@ -4,8 +4,8 @@ title: Monk’s Respite
 tags: recipes
 type:
   - tropical
-characteristic:
-  - flash-blended
+  - sour
+characteristic: flash-blended
 base:
   - gin base
 ingredients:

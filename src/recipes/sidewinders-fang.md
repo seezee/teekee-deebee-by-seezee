@@ -5,7 +5,6 @@ tags: recipes
 type:
   - tropical
   - sour
-  - spritz
 characteristic: flash-blended
 base: rum base
 ingredients:

@@ -2,12 +2,12 @@
 layout: _main.njk
 title: Richard Sealebach
 tags: recipes
-type:
-  - cocktail
+type: cocktail
 characteristic:
   - stirred
   - strained
   - sparkling
+  - carbonated
 base: rum base
 ingredients:
   - curacao

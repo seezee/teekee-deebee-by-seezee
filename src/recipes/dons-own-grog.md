@@ -5,7 +5,10 @@ tags: recipes
 type:
   - tropical
   - sour
-characteristic: flash-blended
+  - grog
+characteristic:
+  - flash-blended
+  - strong
 base: rum base
 ingredients:
   - fresh lime juice

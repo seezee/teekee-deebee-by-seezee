@@ -3,9 +3,14 @@ layout: _main.njk
 title: Hinky Dinks Fizzy
 tags: recipes
 type:
+  - tropical
+  - sour
   - spritz
   - cooler
-characteristic: flash-blended
+characteristic:
+  - flash-blended
+  - sparkling
+  - carbonated
 base:
  - rum base
  - gin base

@@ -4,12 +4,12 @@ title: Baie du Galion
 tags: recipes
 type:
   - cocktail
-  - aromatic
-  - herbal
   - apertif
 characteristic:
   - stirred
   - strained
+  - aromatic
+  - herbal
 base:
   - rum base
 ingredients:

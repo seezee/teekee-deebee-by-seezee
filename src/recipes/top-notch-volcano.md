@@ -4,7 +4,9 @@ title: Top Notch Volcano
 tags: recipes
 type:
   - punch
-characteristic: flash-blended
+characteristic:
+  - flash-blended
+  - communal
 base: rum base
 ingredients:
   - lime juice

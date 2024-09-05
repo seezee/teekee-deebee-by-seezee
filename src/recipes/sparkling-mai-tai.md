@@ -4,10 +4,13 @@ title: Sparkling Mai Tai
 tags: recipes
 type:
   - tropical
+  - sour
+  - daisy
 characteristic:
   - stirred
   - strained
   - sparkling
+  - carbonated
 base: rum base
 ingredients:
   - lime juice

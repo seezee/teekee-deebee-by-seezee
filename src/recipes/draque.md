@@ -2,11 +2,13 @@
 layout: _main.njk
 title: El Draque
 tags: recipes
-type: cocktail
+type:
+  - tropical
+  - sour
+  - smash
 characteristic:
-- shaken
-- strained
-- sour
+  - shaken
+  - strained
 base: cachaca base
 ingredients:
   - mint leaves

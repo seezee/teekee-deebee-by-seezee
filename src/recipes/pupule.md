@@ -8,6 +8,7 @@ tags: recipes
 type: 
   - tropical
   - sour
+  - tall drink
 characteristic: flash-blended
 base: rum base
 ingredients:

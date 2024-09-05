@@ -3,6 +3,8 @@ layout: _main.njk
 title: Golden Gun
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
 characteristic: shaken
 base: rum base

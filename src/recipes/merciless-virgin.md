@@ -5,8 +5,7 @@ tags: recipes
 type:
   - tropical
   - sour
-  - cooler
-  - spritz
+  - tall drink
 characteristic: flash-blended
 base: rum base
 ingredients:

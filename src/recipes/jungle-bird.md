@@ -3,6 +3,8 @@ layout: _main.njk
 title: Jungle Bird
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
 characteristic:
   - flash-blended

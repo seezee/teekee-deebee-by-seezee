@@ -4,9 +4,9 @@ title: Cuevas
 tags: recipes
 type: cocktail
 characteristic:
-- stirred
-- strained
-- bittersweet
+  - stirred
+  - strained
+  - bittersweet
 base: rum base
 ingredients:
   - cinnamon syrup

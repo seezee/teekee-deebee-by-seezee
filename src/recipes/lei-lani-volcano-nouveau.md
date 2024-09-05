@@ -3,6 +3,8 @@ layout: _main.njk
 title: Lei Lani Volcano 2.0 (a.k.a. Lei Lani Nouveau)
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
   - cooler
 characteristic:

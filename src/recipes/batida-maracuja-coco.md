@@ -6,8 +6,8 @@ tags: recipes
 type:
   - tropical
 characteristic:
-- flash-blended
-- creamy
+  - flash-blended
+  - creamy
 base: cachaca base
 ingredients:
   - passion fruit puree

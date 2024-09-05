@@ -7,9 +7,9 @@ type:
   - digestif
   - sweet
 characteristic:
-- stirred
-- strained
-- aromatic
+  - stirred
+  - strained
+  - aromatic
 base: rum base
 ingredients:
   - tawny port

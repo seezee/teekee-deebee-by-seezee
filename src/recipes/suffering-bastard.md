@@ -3,6 +3,8 @@ layout: _main.njk
 title: Suffering Bastard
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
   - cooler
 characteristic:

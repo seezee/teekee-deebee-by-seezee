@@ -3,6 +3,7 @@ layout: _main.njk
 title: Daiquiri (Hemingway)
 tags: recipes
 type:
+  - tropical
   - sour
 characteristic:
 - shaken

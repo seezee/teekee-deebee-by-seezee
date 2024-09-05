@@ -3,7 +3,9 @@ layout: _main.njk
 title: Arrack Punch
 tags: recipes
 type: punch
-characteristic: flash-blended
+characteristic:
+  - flash-blended
+  - communal
 base:
   - rum base
   - Batavia arrack base

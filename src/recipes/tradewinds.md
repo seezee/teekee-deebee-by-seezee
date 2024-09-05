@@ -3,6 +3,7 @@ layout: _main.njk
 title: Tradewinds
 tags: recipes
 type:
+  - tropical
   - tall drink
 characteristic:
   - flash-blended

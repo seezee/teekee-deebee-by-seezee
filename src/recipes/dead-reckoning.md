@@ -3,6 +3,7 @@ layout: _main.njk
 title: The Dead Reckoning
 tags: recipes
 type:
+  - tropical
   - cooler
   - spritz
   - tall drink

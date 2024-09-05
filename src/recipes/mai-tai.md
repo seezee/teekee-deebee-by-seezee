@@ -2,7 +2,10 @@
 layout: _main.njk
 title: Mai Tai
 tags: recipes
-type: punch
+type: 
+  - punch
+  - sour
+  - short drink
 characteristic: shaken
 base: rum base
 ingredients:

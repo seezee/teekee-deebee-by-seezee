@@ -5,6 +5,8 @@ tags: recipes
 type:
   - tropical
   - sour
+  - daisy
+  - short drink
 characteristic:
   - shaken
   - strained

@@ -4,8 +4,8 @@ title: The Mastadon
 tags: recipes
 type:
   - tropical
-characteristic:
-  - flash-blended
+  - sour
+characteristic: flash-blended
 base:
   - rum base
   - whiskey base

@@ -3,10 +3,10 @@ layout: _main.njk
 title: Daiquiri No. 3
 tags: recipes
 type:
+  - tropical
   - sour
-characteristic:
-- blended
-- frappe
+  - frappe
+characteristic: blended
 base: rum base
 ingredients:
   - lime juice

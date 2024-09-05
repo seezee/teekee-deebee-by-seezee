@@ -5,6 +5,7 @@ tags: recipes
 type:
   - tropical
   - sour
+  - short drink
 characteristic:
   - shaken
   - strained

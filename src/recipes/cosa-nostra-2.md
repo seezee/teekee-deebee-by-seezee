@@ -5,9 +5,11 @@ tags: recipes
 type:
   - cooler
   - spritz
+  - sour
 characteristic:
   - built
   - sparkling
+  - carbonated
 base:
   - amaro base
   - rum base

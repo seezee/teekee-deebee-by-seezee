@@ -5,7 +5,6 @@ tags: recipes
 type:
   - tropical
   - tall drink
-  - spritz
   - cooler
 characteristic: built
 base: rum base

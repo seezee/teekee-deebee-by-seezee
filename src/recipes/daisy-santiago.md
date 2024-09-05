@@ -4,9 +4,10 @@ title: Daisy de Santiago
 tags: recipes
 type:
   - sour
+  - daisy
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - lime juice

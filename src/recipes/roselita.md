@@ -3,12 +3,14 @@ layout: _main.njk
 title: Roselita
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
   - cooler
   - spritz
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - seltzer

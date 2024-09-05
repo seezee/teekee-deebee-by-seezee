@@ -8,9 +8,10 @@ searchTitle:
 tags: recipes
 type:
   - sour
+  - short drink
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - lemon juice

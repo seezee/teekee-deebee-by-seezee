@@ -2,8 +2,7 @@
 layout: _main.njk
 title: Barbados Rum Punch
 tags: recipes
-type:
-  - punch
+type: punch
 characteristic:
   - shaken
   - strained

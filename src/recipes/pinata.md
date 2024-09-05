@@ -6,8 +6,7 @@ tags: recipes
 type:
   - tropical
   - sour
-characteristic:
-  - flash-blended
+characteristic: flash-blended
 base: rum base
 ingredients:
   - pineapple juice

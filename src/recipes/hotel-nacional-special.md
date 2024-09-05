@@ -3,10 +3,11 @@ layout: _main.njk
 title: Hotel Nacional Special
 tags: recipes
 type:
+  - tropical
   - sour
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - pineapple chunks
@@ -15,7 +16,7 @@ ingredients:
   - apricot liqueur
   - blended lightly aged rum (2)
 glass: coupe
-origin: Charles H. Baker Jr. credits this Prohibition-era recipe to one Wil P. Taylor in an anecdote that involves the <q>near blast[ing of] a marvellous hotel off the map, to get at those Machado-phile officers hiding there.</q> Gerardo Machado was a general of the Cuban War of Independence and President of Cuba from 1925 to 1933. Baker first published the recipe in 1939.
+origin: Charles H. Baker Jr. credits this Prohibition-era recipe to one Wil P. Taylor in an anecdote that involves the <q>near blast[ing of] a marvellous [sic.] hotel off the map, to get at those Machado-phile officers hiding there.</q> Gerardo Machado was a general of the Cuban War of Independence and President of Cuba from 1925 to 1933. Baker first published the recipe in 1939.
 source: The Gentleman's Companion. Vol. 2
 decade: 1930
 ---

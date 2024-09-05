@@ -3,6 +3,7 @@ layout: _main.njk
 title: Daiquiri No. 1
 tags: recipes
 type:
+  - tropical
   - sour
 characteristic:
 - shaken

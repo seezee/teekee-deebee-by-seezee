@@ -3,12 +3,17 @@ layout: _main.njk
 title: Scorpion
 searchTitle: Scorpion Bowl
 tags: recipes
-type: punch
-characteristic: flash-blended
+type:
+  - tropical
+  - sour
+  - punch
+characteristic:
+  - flash-blended
+  - communal
 base:
-- brandy base
-- rum base
-- gin base
+  - brandy base
+  - rum base
+  - gin base
 ingredients:
   - lime juice
   - orange juice

@@ -3,9 +3,9 @@ layout: _main.njk
 title: Pampanito
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
-  - cooler
-  - spritz
 characteristic: flash-blended
 base: rum base
 ingredients:

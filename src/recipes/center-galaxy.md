@@ -2,11 +2,12 @@
 layout: _main.njk
 title: Center of the Galaxy
 tags: recipes
-type: cocktail
+type:
+  - tropical
+  - sour
 characteristic:
 - shaken
 - strained
-- sour
 base: rum base
 ingredients:
   - lime juice

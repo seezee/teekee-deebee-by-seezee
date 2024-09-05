@@ -7,6 +7,7 @@ type:
   - sour
 characteristic:
   - flash-blended
+  - strong
 base: rum base
 ingredients:
   - pineapple chunks

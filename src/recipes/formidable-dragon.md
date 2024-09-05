@@ -5,7 +5,9 @@ tags: recipes
 type:
   - tropical
   - sour
-characteristic: flash-blended
+characteristic:
+  - flash-blended
+  - strong
 base: rum base
 ingredients:
   - lemon juice

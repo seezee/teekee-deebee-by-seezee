@@ -4,11 +4,13 @@ title: Hibiscus Rum Punch
 tags: recipes
 type:
   - tropical
-  - sour
+  - punch
   - tall drink
 characteristic:
   - shaken
   - strained
+  - sparkling
+  - carbonated
 base:
   - rum base
 ingredients:

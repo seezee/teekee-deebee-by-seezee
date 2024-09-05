@@ -2,10 +2,9 @@
 layout: _main.njk
 title: Hot Buttered Rum
 tags: recipes
-type:
-  - toddy
+type: toddy
 characteristic:
-  - heated
+  - hot
   - spiced
 base: rum base
 ingredients:

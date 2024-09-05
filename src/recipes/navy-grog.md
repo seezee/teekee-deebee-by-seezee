@@ -6,6 +6,7 @@ type:
   - tropical
   - sour
   - short drink
+  - grog
 characteristic:
   - flash-blended
   - strong

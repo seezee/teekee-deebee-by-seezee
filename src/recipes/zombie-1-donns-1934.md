@@ -4,6 +4,8 @@ title: Zombie No. 1 (Don the Beachcomber, 1934)
 searchTitle: Zombie Punch
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
 characteristic:
   - flash-blended
@@ -53,7 +55,7 @@ decade: 1930
 </div>
 
 [^1]: Don the Beachcomber menu, 1941.
-[^2]: See also [Zombie No. 2](/recipes/zombie-2-trader-vics-1947/), [Zombie No. 3](/recipes/zombie-3-donns-1950.md), [Zombie No. 4](/recipes/zombie-4-donns-1956.md), and [Zombie No. 4](/recipes/zombie-3-jeff-berry-hamiltons/).
+[^2]: See also [Zombie N<sup>o.</sup> 2](/recipes/zombie-2-trader-vics-1947/), [Zombie N<sup>o.</sup> 3](/recipes/zombie-3-donns-1950.md), [Zombie N<sup>o.</sup> 4](/recipes/zombie-4-donns-1956.md), and [Zombie N<sup>o.</sup> 4](/recipes/zombie-3-jeff-berry-hamiltons/).
 
 ## Ingredients
 

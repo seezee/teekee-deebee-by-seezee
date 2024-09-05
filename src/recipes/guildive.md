@@ -6,8 +6,8 @@ type:
   - sparkling
   - carbonated
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - ginger beer

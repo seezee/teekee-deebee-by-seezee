@@ -2,11 +2,13 @@
 layout: _main.njk
 title: The Undead Gentleman
 tags: recipes
-type: cocktail
+type:
+  - tropical
+  - short drink
+  - sour
 characteristic:
-- shaken
-- strained
-- sour
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - absinthe blanc

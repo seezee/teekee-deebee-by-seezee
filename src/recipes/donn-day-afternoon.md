@@ -3,7 +3,9 @@ layout: _main.njk
 title: Donn Day Afternoon
 tags: recipes
 type:
+  - tropical
   - sour
+  - short drink
 characteristic:
   - built
   - sparkling

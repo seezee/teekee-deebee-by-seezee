@@ -3,10 +3,14 @@ layout: _main.njk
 title: Juan Ho Royale
 tags: recipes
 type:
-  - sparkling
+  - tropical
+  - sour
+  - short drink
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
+  - sparkling
+  - carbonated
 base:
   - tequila base
   - agave spirit base

@@ -5,6 +5,7 @@ tags: recipes
 type:
   - tropical
   - sour
+  - short drink
 characteristic:
   - shaken
   - strained
@@ -19,8 +20,8 @@ ingredients:
   - gin
   - Bitterman's Burlesque bitters
 garnish:
- - edible orchid
- - hibiscus flower
+  - edible orchid
+  - hibiscus flower
 glass: coupe
 origin: Created by Martin Cate in honor of the book-release party for Susie Bright's <cite>Big sex, Little Death&colon; A Memoir</cite>. The party was hosted by Smuggler's Cove in 2011.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki

@@ -6,9 +6,10 @@ type:
   - tropical
   - sour
   - short drink
-  - spritz
+  - grog
 characteristic:
   - flash-blended
+  - strong
 base: rum base
 ingredients:
   - lime juice

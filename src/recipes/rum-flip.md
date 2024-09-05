@@ -7,9 +7,9 @@ type:
   - flip
   - nightcap
 characteristic:
-- shaken
-- strained
-- creamy
+  - shaken
+  - strained
+  - creamy
 base: rum base
 ingredients:
   - egg

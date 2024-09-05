@@ -4,6 +4,8 @@ title: Swizzle Français
 searchtitle: Swizzle Francais
 tags: recipes
 type:
+  - tropical
+  - sour
   - tall drink
   - swizzle
 characteristic:

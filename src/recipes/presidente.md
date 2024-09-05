@@ -3,10 +3,11 @@ layout: _main.njk
 title: El Presidente
 tags: recipes
 type:
+  - tropical
   - cocktail
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - grenadine
@@ -19,7 +20,7 @@ origin: The origin of this lost classic is in dispute, but cocktail historian Da
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 1910
-  - 1929
+  - 1920
 ---
 <!-- markdownlint-disable MD025 -->
 {{ title }}

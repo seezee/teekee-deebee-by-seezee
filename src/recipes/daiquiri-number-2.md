@@ -3,10 +3,12 @@ layout: _main.njk
 title: Daiquiri No. 2
 tags: recipes
 type:
+  - tropical
   - sour
+  - daisy
 characteristic:
-- shaken
-- strained
+  - shaken
+  - strained
 base: rum base
 ingredients:
   - lime juice

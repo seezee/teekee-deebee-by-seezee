@@ -2,10 +2,10 @@
 layout: _main.njk
 title: Spontaneous Rumbustion
 tags: recipes
-type:
-  - toddy
+type: toddy
 characteristic:
   - heated
+  - hot
   - spiced
 base: rum base
 ingredients:

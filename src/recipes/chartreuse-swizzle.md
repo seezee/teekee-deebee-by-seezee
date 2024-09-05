@@ -5,9 +5,9 @@ tags: recipes
 type:
   - tall drink
   - swizzle
+  - sour
 characteristic:
   - tropical
-  - sour
   - herbal
   - bitter
   - swizzled

@@ -4,6 +4,7 @@ title: Agricole Guava Cooler
 tags: recipes
 type:
   - tall drink
+  - tropical
   - cooler
   - spritz
 characteristic:

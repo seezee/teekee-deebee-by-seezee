@@ -2,8 +2,7 @@
 layout: _main.njk
 title: Pianola Old-Fashioned
 tags: recipes
-type:
-  - cocktail
+type: cocktail
 characteristic:
   - stirred
   - strained
