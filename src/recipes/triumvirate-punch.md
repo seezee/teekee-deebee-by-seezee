@@ -3,10 +3,8 @@ layout: _main.njk
 title: Triumvirate Punch
 tags: recipes
 type: punch
-characteristic:
-  - communal
-base:
-  - rum base
+characteristic: pre-batched
+base: rum base
 ingredients:
   - lime juice
   - passion fruit syrup

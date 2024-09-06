@@ -3,10 +3,8 @@ layout: _main.njk
 title: Kahiko Punch
 tags: recipes
 type: punch
-characteristic:
-  - communal
-base:
-  - rum base
+characteristic: pre-batched
+base: rum base
 ingredients:
   - lemon juice
   - passion fruit syrup
