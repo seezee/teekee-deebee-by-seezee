@@ -58,7 +58,7 @@ Garnish
 ```
   Let ɑ = Ingredient amount for 1 individual serving
   Let β = Guests quantity
-  let ɣ = Teetotalers quantity
+  Let ɣ = Teetotalers quantity
   Let δ = Total ingredient amount for final pre-batched punch
 
   For each ingredient, δ = 1.5 × ɑ × (β - ɣ)
