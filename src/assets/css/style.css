@@ -306,6 +306,11 @@ textarea {
   }
 }
 
+code,
+.x-govuk-code {
+  font-family: var(--tiki-font-mono);
+}
+
 [href^='#fnref:'] {
   text-decoration: none;
 }

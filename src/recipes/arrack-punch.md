@@ -19,7 +19,7 @@ ingredients:
 garnish:
   - lemon wheels
   - lime wheels
-glass: small punch bowls
+glass: small punch bowl
 origin: Created by Smuggler's Cove, inspired by traditional colonial-era punch recipes.
 source: Punch&colon; The Delights (and Dangers) of the Flowing Bowl
 decade:
@@ -63,5 +63,5 @@ Garnish
 4. For each tin
    1. Add 12 ounces of crushed ice + 4 to 6 small ice cubes
    2. Flash blend 3 to 4 seconds
-   3. Open pour with gated finish into a large scorpion bowl or other decorative or punch bowl
+   3. Open pour with gated finish into a small punch bowl
 5. Float lime & lemon wheels on top
