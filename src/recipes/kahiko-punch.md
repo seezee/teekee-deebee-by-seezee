@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Hondo Hattie’s Jungle Punch!
+title: Kahiko Punch
 tags: recipes
 type: punch
 characteristic:
@@ -9,15 +9,14 @@ base:
   - rum base
 ingredients:
   - lemon juice
-  - honey syrup
-  - blue curacao
-  - tawny port
-  - falernum
-  - pear liqueur
-  - blended aged rum (3)
-  - Angostura bitters
+  - passion fruit syrup
+  - cinnamon syrup
+  - hibiscus liqueur
+  - pot still unaged rum
+  - Bittermens 'Elemakule Tiki bitters
+garnish: edible orchid
 glass: punch bowl
-origin: Created by Smuggler's Cove for a <a href="https://www.tikioasis.com" target="_blank" rel="external noopener">Tiki Oasis</a> pre-party at the Walt Disney Family Museum.
+origin: Created by Martin Cate.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
@@ -42,16 +41,14 @@ Glassware
 ### Per Serving
 
 * 1 ounce fresh lemon juice
-* 1/2 ounce honey syrup
-* 1/4 ounce blue curaçao
-* 1/4 ounce tawny port
-* 1/2 ounce falernum
-* 1/4 ounce natural pear liqueur
-* 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-* 1 dash Angostura bitters
+* 1&frac12; ounces passion fruit syrup
+* 1/2 ounce cinnamon syrup
+* 1/2 ounce hibiscus liqueur
+* 2 ounces pot still unaged rum
+* 6 drops Bittermens ʻElemakule Tiki Bitters
 
 Garnish
-  : None
+  : Edible orchid
 
 ## Instructions
 
@@ -70,5 +67,6 @@ Garnish
 4. Chill for at least an hour prior to guests arriving
 5. Add a large block of ice to the dispenser if using, or pour the contents of the container into a punch bowl and add a smaller block of ice[^1]
 6. If using a punch bowl, serve with a ladle
+7. Garnish individual servings with an edible orchid
 
 [^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.

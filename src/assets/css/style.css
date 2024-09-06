@@ -306,8 +306,7 @@ textarea {
   }
 }
 
-code,
-.x-govuk-code {
+code {
   font-family: var(--tiki-font-mono);
 }
 

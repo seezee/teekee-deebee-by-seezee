@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Hondo Hattie’s Jungle Punch!
+title: Triumvirate Punch
 tags: recipes
 type: punch
 characteristic:
@@ -8,20 +8,18 @@ characteristic:
 base:
   - rum base
 ingredients:
-  - lemon juice
-  - honey syrup
-  - blue curacao
-  - tawny port
-  - falernum
-  - pear liqueur
-  - blended aged rum (3)
+  - lime juice
+  - passion fruit syrup
+  - allspice dram
+  - pimento dram
+  - pot still unaged Rum
   - Angostura bitters
+  - grated nutmeg
+garnish: mint sprig
 glass: punch bowl
-origin: Created by Smuggler's Cove for a <a href="https://www.tikioasis.com" target="_blank" rel="external noopener">Tiki Oasis</a> pre-party at the Walt Disney Family Museum.
+origin: When first three graduates of Smuggler's Cove <a href="https://www.smugglerscovesf.com/rumbustion-society" target="_blank" rel="external noopener">Rumbustion Society</a> (Ron Roumas, Mark Holt, and John Boatwright) matriculated in 2009, they were honored with the title Masters of the Cove and a trip to Portland, Oregon distillery House Spirits to make their own rum. They named the resulting 105 proof elixir "Triumvirate."
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
-decade:
-  - 2000
-  - 2010
+decade: 2000
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -41,17 +39,15 @@ Glassware
 
 ### Per Serving
 
-* 1 ounce fresh lemon juice
-* 1/2 ounce honey syrup
-* 1/4 ounce blue curaçao
-* 1/4 ounce tawny port
-* 1/2 ounce falernum
-* 1/4 ounce natural pear liqueur
-* 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-* 1 dash Angostura bitters
+* 3/4 ounce fresh lime juice
+* 1 ounce passion fruit honey
+* 1/4 ounce allspice dram
+* 1&frac12; ounces pot still unaged Rum
+* 2 dashes Angostura bitters
+* 1 pinch freshly grated nutmeg
 
 Garnish
-  : None
+  : Mint sprig
 
 ## Instructions
 
@@ -70,5 +66,6 @@ Garnish
 4. Chill for at least an hour prior to guests arriving
 5. Add a large block of ice to the dispenser if using, or pour the contents of the container into a punch bowl and add a smaller block of ice[^1]
 6. If using a punch bowl, serve with a ladle
+7. Garnish individual servings with a mint sprig and serve with a smile
 
 [^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
