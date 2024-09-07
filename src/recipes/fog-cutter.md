@@ -74,6 +74,6 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a zombie glass or fog cutter mug
 4. Float the sherry (gently pour on top of the drink surface)[^1]
-5. Garnish with a mint sprig swizzle stick
+5. Garnish with a mint sprig and a swizzle stick
 
 [^1]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
