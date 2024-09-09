@@ -20,7 +20,6 @@ ingredients:
   - rich Demerara syrup
   - orgeat
   - brandy
-  - grape brandy
   - London dry gin
   - black blended lightly aged rum (2)
 glass: scorpion bowl
@@ -56,9 +55,9 @@ Serves
 * 4 ounces fresh orange juice
 * 1&frac12; ounces rich Demerara syrup
 * 2 ounces orgeat
-* 2 ounces (grape) brandy
+* 2 ounces brandy
 * 4 ounces London dry gin
-* 4 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 4 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
   : None

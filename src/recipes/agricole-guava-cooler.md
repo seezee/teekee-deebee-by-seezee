@@ -49,7 +49,7 @@ Glassware
 * 2 ounces guava soda (Smuggler's Cove uses Bundaberg)
 * 3/4 ounce fresh lime juice
 * 3/4 ounce Licor 43
-* 2 ounces cane AOC Martinique rhum agricole blanc<icon-l space="1em" label="(7)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l>
+* 2 ounces [cane AOC Martinique rhum agricole blanc](/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/)<icon-l space="1em" label="(7)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l>
 * 2 dashes Angostura bitters
 
 Garnish

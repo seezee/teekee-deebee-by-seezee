@@ -51,8 +51,8 @@ Glassware
 
 - 1/2 ounce fresh lime juice
 - 1/2 ounce Martinique sugarcane syrup[^1]
-- 1/4 ounce allspice dram
-- 2 ounces cane AOC Martinique rhum agricole vieux<icon-l space="1em" class="bigger" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
+- 1/4 ounce allspice (pimento) dram
+- 2 ounces [cane AOC Martinique rhum agricole vieux](/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" class="bigger" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 - 1 pinch freshly ground nutmeg
 
 [^1]: The Smuggler's Cove book recommended sourcing this syrup from Kegworks, but it appears they no longer sell bar ingredients. Instead, look for online retailers selling <a href="https://bit.ly/3WEiuK1" target="_blank" rel="external noopener">Rhum J.M. Sirop</a> sugarcane syrup.
@@ -69,4 +69,4 @@ Garnish
 4. Top up with more crushed ice
 5. Add garnish
 
-[^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="<https://cocktailkingdom.com/products/swizzle-stick> target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
+[^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.

@@ -43,7 +43,7 @@ Glassware
 * 4 ounces coconut water
 * 3/4 ounce fresh lime juice
 * 3/4 ounce rich Demerara syrup
-* 2 ounces column still lightly aged rum
+* 2 ounces [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)
 
 Garnish
   : None

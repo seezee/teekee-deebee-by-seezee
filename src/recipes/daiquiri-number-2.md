@@ -40,7 +40,7 @@ Glassware
 * 1/2 ounce fresh orange juice
 * 1/2 ounce orange curaçao
 * <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce rich Demerara syrup
-* 2 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
   : None

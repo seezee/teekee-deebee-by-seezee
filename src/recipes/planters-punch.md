@@ -55,8 +55,8 @@ Glassware
 
 * 1 ounce fresh lime juice
 * 3/4 ounce rich Demerara syrup
-* 1/4 ounce allspice dram
-* 3 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1/4 ounce allspice (pimento) dram
+* 3 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 2 dashes Angostura bitters
 
 Garnish

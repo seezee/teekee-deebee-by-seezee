@@ -39,8 +39,8 @@ Glassware
 
 * 3/4 ounce fresh lime juice
 * 1 ounce passion fruit honey
-* 1/4 ounce allspice dram
-* 1&frac12; ounces pot still unaged Rum
+* 1/4 ounce allspice (pimento) dram
+* 1&frac12; ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)
 * 2 dashes Angostura bitters
 * 1 pinch freshly grated nutmeg
 

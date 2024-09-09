@@ -6,10 +6,10 @@ type:
   - tropical
   - sour
 characteristic: flash-blended
-base: bourbon whiskey base
+base: whiskey base
 ingredients:
   - egg white
-  - bourbon
+  - bourbon whiskey
   - lemon juice
   - honey syrup
   - passion fruit syrup

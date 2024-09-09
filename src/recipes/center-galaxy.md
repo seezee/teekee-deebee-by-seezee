@@ -45,7 +45,7 @@ Glassware
 * 1/2 ounce rich Demerara syrup
 * 1/2 ounce honey syrup
 * 1/2 ounce St. George Raspberry liqueur[^1]
-* 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1 pinch freshly grated cinnamon
 
 [^1]: Or similar natural raspberry liqueur.

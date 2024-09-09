@@ -49,7 +49,7 @@ Glassware
 - 4 mint leaves
 - 1/2 ounce fresh lime juice
 - 1/2 ounce rich Demerara syrup
-- 2 ounces black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+- 2 ounces [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 - 2 dashes Angostura bitters
 
 Garnish
@@ -71,6 +71,6 @@ Garnish
 {% callout "note" %}
 <!-- markdownlint-enable MD012 -->
 
-  Smuggler's Cove notes that Trinidad only started producing rum in large quantities after World War II. Even though this drink has Trinidadian origins, they recommend a black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l><span class="after-icon"></span>as being the likely choice at the time the drink was first formulated.
+  Smuggler's Cove notes that Trinidad only started producing rum in large quantities after World War II. Even though this drink has Trinidadian origins, they recommend a [black blended rum](/rums/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l><span class="after-icon"></span>as being the likely choice at the time the drink was first formulated.
 
 {% endcallout %}

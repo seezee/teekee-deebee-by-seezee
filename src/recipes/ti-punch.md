@@ -48,9 +48,11 @@ Glassware
 
 ## Ingredients
 
-- 1 teaspoon Martinique sugarcane syrup
-- 2 ounces cane AOC Martinique rhum agricole blanc<icon-l space="1em" label="(7)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l><span class="after-icon"></span>(see tip)
+- 1 teaspoon Martinique sugarcane syrup[^1]
+- 2 ounces [cane AOC Martinique rhum agricole blanc](/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/)<icon-l space="1em" label="(7)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l><span class="after-icon"></span>(see tip)
 - 1 quarter-sized chunk of fresh lime, cut from the side of the fruit, with some pulp attached
+
+[^1]: The Smuggler's Cove book recommended sourcing this syrup from Kegworks, but it appears they no longer sell bar ingredients. Instead, look for online retailers selling <a href="https://bit.ly/3WEiuK1" target="_blank" rel="external noopener">Rhum J.M. Sirop</a> sugarcane syrup.
 
 Garnish
   : None

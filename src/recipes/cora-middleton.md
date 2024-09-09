@@ -42,7 +42,7 @@ Glassware
 ## Ingredients
 
 * 2 teaspoons egg white
-* 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 3/4 ounce fresh lime juice
 * 1/4 ounce rich Demerara syrup
 * 1/2 ounce Small Hand Foods Raspberry Gum Syrup
@@ -52,7 +52,7 @@ Garnish
 
 ## Instructions
 
-1. Combine all ingredients in a cocktail shaker with cracked or cube ice
+1. Combine all ingredients in a cocktail shaker with two small ice cubes
 2. <a href="https://punchdrink.com/articles/who-said-whip-shake-ramos-gin-fizz-cocktail-technique/" target="_blank" rel="external noopener">Whip shake</a> until the ice completely melts and the egg forms a fine foam, at least 15 seconds
 3. Double-strain into a chilled coupé
 4. Garnish by dropping 1 dash Angostura bitters on top of the egg foam

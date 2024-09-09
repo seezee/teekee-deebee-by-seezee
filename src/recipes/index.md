@@ -115,11 +115,11 @@ eleventyExcludeFromCollections: true
     <!-- <dt id="x">X</dt>
     {%- for post in collections.recipesAscendingX -%}
       <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
-    {%- endfor -%}
+    {%- endfor -%} -->
     <dt id="y">Y</dt>
     {%- for post in collections.recipesAscendingY -%}
       <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
-    {%- endfor -%} -->
+    {%- endfor -%}
     <dt id="z">Z</dt>
     {%- for post in collections.recipesAscendingZ -%}
       <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>

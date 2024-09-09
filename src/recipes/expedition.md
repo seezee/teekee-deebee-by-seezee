@@ -16,10 +16,9 @@ ingredients:
   - seltzer
   - coffee liqueur
   - black blended rum (5)
-  - bourbon 
+  - bourbon whiskey
 garnish: edible orchid
-glass:
-  - Kuhiko tiki mug
+glass: Kuhiko tiki mug
 origin: Created by Martin Cate and inspired by the journeys of Donn Beach. For the full story behind the recipe, see page 140 of <cite><a href="https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite>
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
@@ -48,7 +47,7 @@ Glassware
 * 1/4 ounce vanilla syrup
 * 2 ounces seltzer
 * 1/4 ounce Bittermens New Orleans coffee liqueur (or other coffee liqueur)
-* 2 ounces black blended rum<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+* 2 ounces [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 ounce bourbon
 
 Garnish

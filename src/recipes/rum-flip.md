@@ -17,7 +17,7 @@ ingredients:
   - blended aged rum (3)
 garnish: nutmeg
 glass: coupe
-origin: Descended from the tavern flip, which called for rum and beer. At some point, egg entered the recipe, then the beer disappeared.
+origin: Descended from the tavern flip, which called for rum and beer. At some point, egg entered the recipe; later, the beer disappeared.
 source: How to Mix Drinks&colon; The Bon-Vivant's Companion
 decade:
 - 2000
@@ -40,7 +40,7 @@ Glassware
 
 * 1 medium egg
 * 1/2 ounce rich Demerara syrup
-* 2 ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
   : Freshly grated nutmeg

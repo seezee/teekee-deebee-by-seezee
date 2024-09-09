@@ -61,7 +61,7 @@ Glassware
 * 1/4 grenadine
 * 1/2 ounce rich Demerara syrup
 * 1/4 ounce Herbsaint (or substitute other pastis or absinthe)
-* 2&frac14; ounces black pot still rum
+* 2&frac14; ounces [black pot still rum](/rums/10-rum-black-pot-still/)
 * 1 ounce seltzer
 
 Garnish
@@ -71,9 +71,19 @@ Garnish
 ## Instructions
 
 1. Add all ingredients + 12 ounces crushed ice + a 4 to 6 small ice cubes to a drink mixer tin
-3. Flash-blend 3 to 4 seconds
-4. Open pour with gated finish into a double old-fashioned glass
-5. Garnish with a ti leaf or 3 pineapple fronds
+2. Flash-blend 3 to 4 seconds
+3. Open pour with gated finish into a double old-fashioned glass
+4. Garnish with a ti leaf or 3 pineapple fronds
+
+<!-- markdownlint-disable MD012 -->
+{% callout "warning" %}
+<!-- markdownlint-enable MD012 -->
+
+  Do not consume or ingest the leaves of the ti plant (Cordyline fruticosa) as they are toxic.
+
+  Dispose of the garnish carefully, as it is also toxic to dogs and cats.
+
+{% endcallout %}
 
 <!-- markdownlint-disable MD012 -->
 {% callout "note" %}
@@ -81,7 +91,7 @@ Garnish
 
 ### Doctor Funk's Son
 
-  To make the Doctor Funk's Son, omit the Herbsaint, reduce the rum to 1&frac34; ounces, and add 1/2 ounce black blended rum overproof rum<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>.
+  To make the Doctor Funk's Son, omit the Herbsaint, reduce the rum to 1&frac34; ounces, and add 1/2 ounce [black blended rum overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>.
 
 {% endcallout %}
 
@@ -98,7 +108,7 @@ Garnish
 * 1/2 ounce fresh lime juice
 * 1/2 ounce tonga mix[^1]
 * 1 teaspoon Herbsaint, Pernod, or other pastis liqueur
-* 1 ounce white rum (blended lightly aged<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>or column still lightly aged rum)
+* 1 ounce white rum ([blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>or [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/))
 * 3 ounces crushed ice
 
 [^1]: To make tonga mix, combine 4 parts grenadine to 1 part passion fruit juice (<em>not</em> passion fruit syrup).

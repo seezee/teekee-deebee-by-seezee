@@ -43,7 +43,7 @@ Glassware
 * 1/2 ounce Cherry Heering liqueur
 * 1/2 ounce falernum
 * 3/4 ounce Pierre Ferrand Dry Curaçao
-* 1&frac12; ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
   : Luxardo maraschino cherries on a cocktail pick

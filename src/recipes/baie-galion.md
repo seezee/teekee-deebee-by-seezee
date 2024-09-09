@@ -43,7 +43,7 @@ Glassware
 
 * 1/2 ounce Green Chartreuse
 * 1/4 ounce Drambuie
-* 2 ounces cane AOC Martinique rhum agricole blanc<icon-l space="1em" class="bigger" label="(7)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l>
+* 2 ounces [cane AOC Martinique rhum agricole blanc](/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/)<icon-l space="1em" class="bigger" label="(7)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l>
 
 Garnish
   : Lemon twist

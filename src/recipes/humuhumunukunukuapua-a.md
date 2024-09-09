@@ -71,6 +71,6 @@ Garnish
 
 ### Lauwiliwilinukunukuʻoiʻoi
 
-  Substitute blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l> <span class="after-icon"></span>for the gin in this recipe to make a Lauwiliwilinukunukuʻoiʻoi.
+  Substitute [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l> <span class="after-icon"></span>for the gin in this recipe to make a Lauwiliwilinukunukuʻoiʻoi.
 
 {% endcallout %}

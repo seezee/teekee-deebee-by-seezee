@@ -47,10 +47,10 @@ Glassware
 * 1&frac12; ounces fresh lemon juice
 * 3/4 ounce cinnamon syrup
 * 1 ounce rye whiskey
-* 1 ounce blended lightly aged rum<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 3 drops almond extract
 * 6 drops Bittermens ʻElemakule Tiki Bitters
-* 1 ounce black blended overproof rum<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
+* 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 
 Garnish
   : Pineapple lid with two straw holes[^1]

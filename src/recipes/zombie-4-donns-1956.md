@@ -56,9 +56,9 @@ decade: 1950
 - <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce cinnamon syrup
 - 1&frac12; ounces pineapple juice
 - 1/4 ounce falernum
-- 1 ounce blended aged rum (Jamaican)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-- 1&frac14; ounces column still aged rum<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
-- 1 ounce black blended overproof rum<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
+- 1 ounce [blended aged rum](/rums/05-rum-blended-aged/) (Jamaican)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+- 1&frac14; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
+- 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 - 3/4 ounce maraschino liqueur
 - 1/4 teaspoon grenadine
 - 2 dashes Angostura bitters

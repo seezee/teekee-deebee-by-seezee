@@ -51,7 +51,7 @@ Glassware
 * 1/2 ounce fresh lime juice
 * 1 ounce [hibiscus liqueur](/mixes/hibiscus-liqueur/)
 * 1/3 ounce rich Demerara syrup
-* 1&frac12; ounces blended aged rum<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
   : Edible hibiscus flower

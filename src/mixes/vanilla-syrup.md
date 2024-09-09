@@ -14,8 +14,6 @@ ingredients:
 
 ## Ingredients
 
-Measure water and sugar by weight.
-
 * 160 milliliters water
 * 320 grams granulated sugar
 * 1 (5&frac12;-inch) vanilla bean, split lengthwise (use 1 piece vanilla bean for every 160 grams of water)
@@ -38,14 +36,5 @@ Measure water and sugar by weight.
 <!-- markdownlint-enable MD012 -->
 
   This syrup will keep, refrigerated, for a few weeks.
-
-{% endcallout %}
-
-<!-- markdownlint-disable MD012 -->
-
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
-
-  If you like your syrup more tart, increase the ratio of purée to simple syrup.
 
 {% endcallout %}

@@ -45,7 +45,7 @@ Glassware
 * 1/4 barspoon li hing mui powder
 * 2 ounces seltzer
 * 1 barspoon maraschino liqueur
-* 2 ounces pot still unaged rum
+* 2 ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)
 
 Garnish
   : Mint sprig

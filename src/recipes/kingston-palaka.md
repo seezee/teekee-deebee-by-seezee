@@ -44,7 +44,7 @@ Glassware
 * 1/2 ounce fresh lemon juice
 * <span class="frac"><sup>1</sup>&frasl;<sub>8</sub></span> teaspoon li hing mui powder
 * 1 ounce Drambuie
-* 1&frac12; ounces blended aged rum (Jamaica)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/) (Jamaica)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
   : Lemon peel

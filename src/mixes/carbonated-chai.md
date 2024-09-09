@@ -13,7 +13,7 @@ ingredients:
 
 ## Ingredients
 
-* 1 teaspoon Premium or Gold <abbr title="crush, tear, curl"><a href="https://www.seriouseats.com/chai-recipe-8364307#toc-select-brew-how-to-choose-the-best-type-of-tea-for-chai black tea leaves" target="_blank" rel="external noopener">CTC</a></abbr>[^1]
+* 1 teaspoon Premium or Gold <abbr title="crush, tear, curl"><a href="https://www.seriouseats.com/chai-recipe-8364307#toc-select-brew-how-to-choose-the-best-type-of-tea-for-chai black tea leaves" target="_blank" rel="external noopener">CTC</a></abbr> tea[^1]
 * 1 cup water
 
 [^1]: Assam tea is the most readily available. Such tea may be marketed as <q>chai tea.</q>

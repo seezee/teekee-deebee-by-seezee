@@ -48,7 +48,7 @@ Glassware
 
 - 3/4 ounce fresh lemon juice
 - 1&frac12; ounces Amaro Averna
-- 1 ounce blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+- 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 - 1 dash Angostura bitters
 - 2 ounces real ginger ale
 

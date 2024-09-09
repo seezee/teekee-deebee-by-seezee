@@ -50,7 +50,7 @@ Glassware
 - 1/4 ounce cinnamon syrup
 - 1/4 ounce vanilla syrup
 - 1/4 ounce allspice (pimento) dram
-- 2 ounces column still aged rum<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
+- 2 ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 - 1 dash Angostura bitters
 
 Garnish

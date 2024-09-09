@@ -14,7 +14,7 @@ base: gin base
 ingredients:
   - seltzer
   - lemon juice
-  - Demerara syrup
+  - rich Demerara syrup
   - Cherry Heering
   - Benedictine
   - London dry gin
@@ -55,7 +55,7 @@ Glassware
 
 * 2 ounces seltzer
 * 3/4 ounce fresh lemon juice
-* 1/4 ounce Demerara syrup
+* 1/4 ounce rich Demerara syrup
 * 1/2 ounce Cherry Heering liquer
 * 1/4 ounce Benedictine
 * 1&frac12; ounces London dry gin

@@ -41,7 +41,7 @@ Glassware
 * 1/2 ounce fresh grapefruit juice
 * 1/4 ounce maraschino liqueur[^1]
 * <span class="frac"><sup>3</sup>&frasl;<sub>8</sub></span> ounce simple syrup (1:1)
-* 2 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>[^2]
+* 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>[^2]
 * 1 small (1/2-inch &times; 2-inch) piece of grapefruit peel
 
 [^1]: Frizell uses Luxardo.

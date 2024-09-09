@@ -12,6 +12,7 @@ base: rum base
 ingredients:
   - curacao
   - R.L. Seale 10 Year rum
+  - blended aged rum (3)
   - Angostura bitters
   - Peychaud's bitters
   - champagne
@@ -47,10 +48,12 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce dry curaçao
-* 1 ounce R.L. Seale 10 Year Rum
+* 1 ounce R.L. Seale 10 Year Rum[^2]
 * 7 dashes Angostura bitters
 * 7 dashes Peychaud's bitters
 * 4 ounces chilled champagne
+
+[^2]: Substitute [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span>if you cannot source R.L. Seale 10 Year.
 
 Garnish
   : Lemon twist

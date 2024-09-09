@@ -61,7 +61,7 @@ decade: 1940
 - 1/2 ounce orgeat
 - 1 ounce pisco
 - 1/2 ounce gin
-- 2 ounces blended lightly aged rum<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+- 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 - 1/2 ounce oloroso sherry
 
 Garnish

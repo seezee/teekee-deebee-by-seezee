@@ -44,7 +44,7 @@ Glassware
 * 5 fresh mint leaves
 * 3/4 ounce rich Demerara syrup
 * 3/4 ounce fresh lime juice
-* 2 ounces pot still aged cachaça
+* 2 ounces [pot still aged cachaça](/rums/06-rhum-pot-still-aged-cachaca/)
 
 Garnish
   : Lime wheel

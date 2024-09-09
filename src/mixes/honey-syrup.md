@@ -21,10 +21,8 @@ ingredients:
 
 ## Ingredients
 
-Measure ingredients by weight.
-
 * 250 milliliters water
-* 250 milliliters  honey
+* 250 milliliters honey
 
 ## Instructions
 

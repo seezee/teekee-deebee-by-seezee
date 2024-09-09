@@ -16,7 +16,7 @@ ingredients:
   - Licor 43
   - maraschino liqueur
   - blended aged rum (3)
-  - bourbon
+  - bourbon whiskey
   - Peychaud's bitters
 garnish:
   - pineapple lid with two straw holes
@@ -44,6 +44,9 @@ Source
 Glassware
   : Hollowed out pineapple
 
+Serves
+  : 2
+
 ## Ingredients
 
 * 3 ounces pineapple juice
@@ -51,7 +54,7 @@ Glassware
 * 1 ounce passion fruit purée
 * 1/2 ounce Licor 43
 * 1/2 ounce maraschino liqueur
-* 1&frac12; ounces blended aged rum<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1&frac12; bourbon
 * 2 dashes Peychaud's bitters
 

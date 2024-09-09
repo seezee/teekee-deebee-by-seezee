@@ -30,7 +30,7 @@ ingredients:
 * 562.5 grams granulated sugar (approximately; see step 11)
 * &frac18; teaspoons rose water
 * &frac18; teaspoons orange flower water
-* 1 teaspoon column still lightly aged rum
+* 1 teaspoon [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)
 
 ## Instructions
 

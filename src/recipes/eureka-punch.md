@@ -42,7 +42,7 @@ Glassware
 * 1&frac12; ounces fresh lemon juice
 * 1 ounce honey syrup
 * 1/2 ounce Yellow Chartreuse
-* 1&frac12; ounces column still aged rum<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
+* 1&frac12; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
 * 2 ounces real ginger ale
 
@@ -64,7 +64,7 @@ Garnish
 
 1. Determine the number of guests expected to drink; multiply by 1.5
 2. Multiply ingredient quantities by the result of step 1
-3. Combine all ingredients except ginger ale in a beverage dispenser or other sealable container and whisk together
+3. Combine all ingredients except the ginger ale in a beverage dispenser or other sealable container and whisk together
 4. Chill for at least an hour prior to guests arriving
 5. Add a large block of ice to the dispenser if using, or pour the contents of the container into a punch bowl and add a smaller block of ice[^1]
 6. Top the punch with the ginger ale and stir gently

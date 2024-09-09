@@ -49,7 +49,7 @@ Glassware
 * 3/4 ounce fresh lime juice
 * 1/2 ounce Grade A maple syrup
 * 1/2 ounce falernum
-* 2 ounces ounces blended aged rum (Guyana)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 2 ounces ounces [blended aged rum](/rums/05-rum-blended-aged/) (Guyana)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 2 dashes Angostura bitters
 
 Garnish

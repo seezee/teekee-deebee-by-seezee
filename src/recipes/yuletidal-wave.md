@@ -1,20 +1,24 @@
 ---
 layout: _main.njk
-title: Kahiko Punch
+title: Yuletidal Wave
 tags: recipes
 type: punch
 characteristic: pre-batched
-base: rum base
+base:
+  - bourbon base
+  - rum base
 ingredients:
+  - pineapple juice
   - lemon juice
-  - passion fruit syrup
-  - cinnamon syrup
-  - hibiscus liqueur
-  - pot still unaged rum
-  - Bittermens 'Elemakule Tiki bitters
-garnish: edible orchid
+  - pear liqueur
+  - Licor 43
+  - allspice dram
+  - pimento dram
+  - brandy
+  - bourbon whiskey
+  - column still aged rum (4)
 glass: punch bowl
-origin: Created by Martin Cate.
+origin: A winter holiday punch created by Martin Cate.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
@@ -38,15 +42,17 @@ Glassware
 
 ### Per Serving
 
+* 2 ounces fresh pineapple juice
 * 1 ounce fresh lemon juice
-* 1&frac12; ounces passion fruit syrup
-* 1/2 ounce cinnamon syrup
-* 1/2 ounce hibiscus liqueur
-* 2 ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)
-* 6 drops Bittermens ʻElemakule Tiki Bitters
+* 1/2 ounce natural pear liqueur
+* 1/2 ounce Licor 43
+* 1/4 ounce allspice (pimento) dram
+* 1/2 ounce brandy
+* 1 ounce bourbon
+* 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 
 Garnish
-  : Edible orchid
+  : None
 
 ## Instructions
 
@@ -61,10 +67,11 @@ Garnish
 
 1. Determine the number of guests expected to drink; multiply by 1.5
 2. Multiply ingredient quantities by the result of step 1
-3. Combine all ingredients in a beverage dispenser or other sealable container and whisk together
+3. Combine all ingredients ale in a beverage dispenser or other sealable container and whisk together
 4. Chill for at least an hour prior to guests arriving
 5. Add a large block of ice to the dispenser if using, or pour the contents of the container into a punch bowl and add a smaller block of ice[^1]
-6. If using a punch bowl, serve with a ladle
-7. Garnish individual servings with an edible orchid
+6. Top the punch with the ginger ale and stir gently
+7. If using a punch bowl, serve with a ladle
+8. Garnish individual servings with a lemon wedge or a lemon twist and a mint sprig
 
 [^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.

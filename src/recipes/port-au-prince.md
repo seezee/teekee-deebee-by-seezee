@@ -42,7 +42,7 @@ Glassware
 * 1/4 ounce rich Demerara syrup
 * 1 dash grenadine
 * 1/2 ounce falernum
-* 1&frac12; ounces cane coffey still aged rum[^1]
+* 1&frac12; ounces [cane coffey still aged rum](/rums/00-rhum-cane-coffey-still-aged/)[^1]
 * 1 dash Angostura bitters
 
 [^1]: E.g., Rhum Babancourt 5 Star or Rhum Babancourt Estate Reserve (Haiti).

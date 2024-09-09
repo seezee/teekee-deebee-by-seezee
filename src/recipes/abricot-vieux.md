@@ -2,8 +2,7 @@
 layout: _main.njk
 title: Abricot Vieux
 tags: recipes
-type:
-  - cocktail
+type: cocktail
 characteristic:
   - stirred
   - strained
@@ -39,7 +38,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce natural apricot liqueur
-* 2 ounces cane AOC Martinique rhum agricole vieux<icon-l space="1em" label="(8)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
+* 2 ounces [cane AOC Martinique rhum agricole vieux](/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" label="(8)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
 * 1 dash orange bitters
 

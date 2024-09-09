@@ -401,11 +401,11 @@ eleventyConfig.addPassthroughCopy({ 'favicon': '/' });
 // Set custom directory for input; otherwise use defaults
   return {
     // Site URL
-    url: 'https://tiki-deebee.vercel.app',
+    url: 'https://tinypaperumbrella.com',
     // When a passthrough file is modified, rebuild the pages:
     passthroughFileCopy: true,
     // Copy any file in these formats:
-    templateFormats: [`html`, `njk`, `md`, `js`, `woff2`],
+    templateFormats: [`html`, `njk`, `md`, `js`],
     markdownTemplateEngine: `njk`,
     htmlTemplateEngine: `njk`,
     dataTemplateEngine: `njk`,

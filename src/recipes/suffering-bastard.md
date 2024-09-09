@@ -49,7 +49,7 @@ Glassware
 * 1/2 ounce fresh lime juice
 * 1/4 ounce rich Demerara syrup
 * 1 ounce London dry gin
-* 1 ounce aged grape brandy
+* 1 ounce aged brandy
 * 2 dashes Angostura bitters
 
 Garnish

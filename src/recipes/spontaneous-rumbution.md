@@ -45,8 +45,8 @@ Special Equipment
 
 * 3/4 ounce fresh lemon juice
 * 1/2 ounce honey syrup
-* 1&frac12; ounces black blended overproof rum<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
-* 1/2 ounce pot still lightly aged rum<icon-l space="1em" label="(1)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
+* 1&frac12; ounces [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
+* 1/2 ounce [pot still lightly aged rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" label="(1)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 * 4 ounces boiling water
 
 Garnish
