@@ -8,7 +8,7 @@ characteristic:
   - strained
 base: rum base
 ingredients:
-  - pineapple juice
+  - unsweetened pineapple juice
   - grenadine
   - maraschino liqueur
   - blended lightly aged rum (2)
@@ -35,7 +35,7 @@ Glassware
 
 ## Ingredients
 
-* 1&frac12; ounces pineapple juice
+* 1&frac12; ounces unsweetened pineapple juice
 * 1 barspoon grenadine
 * 6 drops marschino liqueur
 * 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>

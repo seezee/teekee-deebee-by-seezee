@@ -9,7 +9,7 @@ characteristic:
   - flash-blended
 base: rum base
 ingredients:
-  - pineapple juice
+  - unsweetened pineapple juice
   - lemon juice
   - cinnamon syrup
   - rye whiskey
@@ -43,7 +43,7 @@ Glassware
 
 ## Ingredients
 
-* 2 ounces pineapple juice
+* 2 ounces unsweetened pineapple juice
 * 1&frac12; ounces fresh lemon juice
 * 3/4 ounce cinnamon syrup
 * 1 ounce rye whiskey

@@ -16,7 +16,7 @@ base:
  - gin base
 ingredients:
   - sparkling wine
-  - pineapple juice
+  - unsweetened pineapple juice
   - lime juice
   - passion fruit syrup
   - apricot liqueur
@@ -45,7 +45,7 @@ Glassware
 ## Ingredients
 
 * 2 ounces sparkling wine
-* 1&frac12; ounces pineapple juice
+* 1&frac12; ounces unsweetened pineapple juice
 * 1/2 ounce fresh lime juice
 * 1/2 ounce passion fruit syrup
 * 1/2 ounce natural apricot liqueur

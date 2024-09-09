@@ -10,7 +10,7 @@ characteristic: flash-blended
 base: rum base
 ingredients:
   - fresh lime juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - rich Demerara syrup
   - grenadine
   - falernum
@@ -38,7 +38,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce pineapple juice
+* 1/2 ounce unsweetened pineapple juice
 * 1/4 ounce rich Demerara syrup
 * 1 dash grenadine
 * 1/2 ounce falernum

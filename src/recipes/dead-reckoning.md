@@ -13,7 +13,7 @@ base: rum base
 ingredients:
   - seltzer
   - lemon juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - maple syrup
 garnish:
   - pineapple fronds
@@ -44,7 +44,7 @@ Glassware
 
 * 1 ounce seltzer
 * 1 ounce fresh lemon juice
-* 1 ounce pineapple juice
+* 1 ounce unsweetened pineapple juice
 * 1/2 ounce Grade A maple syrup
 * 1/2 ounce vanilla brandy
 * 1/2 ounce tawny port

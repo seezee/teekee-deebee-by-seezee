@@ -10,7 +10,7 @@ characteristic:
 base: rum base
 ingredients:
   - lime juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - passion fruit puree
   - rich Demerara syrup
   - maraschino liqueur
@@ -46,7 +46,7 @@ Serves
 ## Ingredients
 
 * 4 ounces fresh lime juice
-* 4 ounces pineapple juice
+* 4 ounces unsweetened pineapple juice
 * 1 ounce passion fruit purée
 * 3 ounces rich Demerara syrup
 * 1 ounce maraschino liqueur

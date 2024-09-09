@@ -8,7 +8,7 @@ base:
   - bourbon base
   - rum base
 ingredients:
-  - pineapple juice
+  - unsweetened pineapple juice
   - lemon juice
   - pear liqueur
   - Licor 43
@@ -42,7 +42,7 @@ Glassware
 
 ### Per Serving
 
-* 2 ounces fresh pineapple juice
+* 2 ounces fresh unsweetened pineapple juice
 * 1 ounce fresh lemon juice
 * 1/2 ounce natural pear liqueur
 * 1/2 ounce Licor 43

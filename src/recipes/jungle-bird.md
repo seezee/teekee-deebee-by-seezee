@@ -10,7 +10,7 @@ characteristic:
   - flash-blended
 base: rum base
 ingredients:
-  - pineapple juice
+  - unsweetened pineapple juice
   - lime juice
   - rich Demerara syrup
   - Campari
@@ -40,7 +40,7 @@ Glassware
 
 ## Ingredients
 
-- 1 ounce pineapple juice
+- 1 ounce unsweetened pineapple juice
 - 1/2 ounce fresh lime juice
 - 1/2 ounce rich Demerara syrup
 - 3/4 ounces Campari

@@ -13,7 +13,7 @@ characteristic:
   - swizzled
 base: liqueur base
 ingredients:
-  - pineapple juice
+  - unsweetened pineapple juice
   - lime juice
   - falernum
   - Green Chartreuse
@@ -45,7 +45,7 @@ Glassware
 
 ## Ingredients
 
-- 1 ounce pineapple juice
+- 1 ounce unsweetened pineapple juice
 - 3/4 ounce fresh lime juice
 - 1/2 ounce falernum
 - 1&frac12; ounces Green Chartreuse

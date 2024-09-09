@@ -13,7 +13,7 @@ base: rum base
 ingredients:
   - lime juice
   - grapefruit juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - falernum
   - blended aged rum (3)
   - column still aged rum (4)
@@ -54,7 +54,7 @@ decade: 1950
 - 3/4 ounce fresh lime juice
 - 1/2 ounce fresh white grapefruit juice[^2]
 - <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce cinnamon syrup
-- 1&frac12; ounces pineapple juice
+- 1&frac12; ounces unsweetened pineapple juice
 - 1/4 ounce falernum
 - 1 ounce [blended aged rum](/rums/05-rum-blended-aged/) (Jamaican)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 - 1&frac14; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>

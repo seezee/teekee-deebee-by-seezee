@@ -13,7 +13,7 @@ base: rum base
 ingredients:
   - lime juice
   - lemon juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - passion fruit syrup
   - grenadine
   - falernum
@@ -51,7 +51,7 @@ decade: 1950
 
 - 1 ounce fresh lime juice
 - 1 ounce fresh lemon juice
-- 1 ounce pineapple juice
+- 1 ounce unsweetened pineapple juice
 - 1 ounce passion fruit syrup
 - 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 - 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>

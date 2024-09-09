@@ -10,7 +10,7 @@ base:
   - rum base
   - whiskey base
 ingredients:
-  - pineapple juice
+  - unsweetened pineapple juice
   - lime juice
   - passion fruit puree
   - Licor 43
@@ -49,7 +49,7 @@ Serves
 
 ## Ingredients
 
-* 3 ounces pineapple juice
+* 3 ounces unsweetened pineapple juice
 * 1/2 ounce fresh lime juice
 * 1 ounce passion fruit purée
 * 1/2 ounce Licor 43

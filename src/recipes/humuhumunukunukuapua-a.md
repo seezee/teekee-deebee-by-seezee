@@ -15,7 +15,7 @@ characteristic:
 base: gin base
 ingredients:
   - lemon juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - orgeat
   - gin
   - Peychaud's bitters
@@ -48,7 +48,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 3/4 ounce pineapple juice
+* 3/4 ounce unsweetened pineapple juice
 * 1/2 ounce orgeat
 * 2 ounces gin
 * 2 dashes Peychaud's bitters

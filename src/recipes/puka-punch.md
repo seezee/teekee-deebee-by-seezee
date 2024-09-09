@@ -11,7 +11,7 @@ base: rum base
 ingredients:
   - lime juice
   - orange juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - honey syrup
   - passion fruit syrup
   - falernum
@@ -43,7 +43,7 @@ Glassware
 
 * 1 ounce fresh lime juice
 * 3/4 ounce fresh orange juice
-* 3/4 ounce pineapple juice
+* 3/4 ounce unsweetened pineapple juice
 * 1 ounce honey syrup
 * 3/4 ounce passion fruit syrup
 * 1/2 ounce falernum

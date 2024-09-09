@@ -11,7 +11,7 @@ characteristic:
 base: rum base
 ingredients:
   - pineapple chunks
-  - pineapple juice
+  - unsweetened pineapple juice
   - lime juice
   - honey syrup
   - blended aged rum (3)
@@ -48,7 +48,7 @@ Serves
 ## Ingredients
 
 * 6 1-inch-square chunks fresh pineapple
-* 2&frac12; ounces pineapple juice
+* 2&frac12; ounces unsweetened pineapple juice
 * 1&frac12; ounces fresh lime juice
 * 1&frac14; ounces honey syrup
 * 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

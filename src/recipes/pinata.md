@@ -9,7 +9,7 @@ type:
 characteristic: flash-blended
 base: rum base
 ingredients:
-  - pineapple juice
+  - unsweetened pineapple juice
   - lemon juice
   - rich Demerara syrup
   - ginger liqueur
@@ -41,7 +41,7 @@ Glassware
 
 ## Ingredients
 
-* 3 ounces pineapple juice
+* 3 ounces unsweetened pineapple juice
 * 1 ounce fresh lemon juice
 * 1/4 to 1/2 ounce[^1] Demerara syrup
 * 1 ounce ginger liqueur

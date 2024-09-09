@@ -11,7 +11,7 @@ characteristic:
 base: rum base
 ingredients:
   - lime juice
-  - pineapple juice
+  - unsweetened pineapple juice
   - allspice dram
   - pimento dram
   - vanilla syrup
@@ -52,7 +52,7 @@ Glassware
 ## Ingredients
 
 * 1 ounce fresh lime juice
-* 1 ounce pineapple juice
+* 1 ounce unsweetened pineapple juice
 * 1 ounce soda water
 * 1 ounce molasses syrup
 * 1/4 ounce allspice (pimento) dram
