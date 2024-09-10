@@ -106,7 +106,8 @@
 
   --tiki-navbar-search-input-background-color: var(--11ty-color-primary-100);
 
-  --tiki-global-shadow-color: oklch(0% 0 0 / 10.2%);
+  --tiki-global-shadow-color: oklch(0% 0 0 / 15%);
+  --tiki-modal-background-color: oklch(0% 0 0 / 50%);
 
   --tiki-nav-current-color: var(--11ty-color-secondary-600);
 
@@ -197,6 +198,12 @@
   }
 }
 
+html,
+body {
+  block-size: 100%;
+  display: grid;
+}
+
 html {
   background: var(--11ty-color-primary-200) no-repeat center;
   background-image: var(--tiki-body-background);
@@ -212,6 +219,10 @@ html {
 
   &[data-theme='dark'] {
     background-blend-mode: initial;
+  }
+
+  &:has([data-disable-document-scroll="true"]) {
+    overflow: hidden;
   }
 }
 
@@ -557,6 +568,36 @@ dd {
   p:not(:last-child),
   li {
     margin-block-end: var(--s1);
+  }
+}
+
+dialog-image {
+
+  a {
+    text-decoration: none;
+  }
+
+  figure,
+  picture,
+  figcaption {
+    color: var(--11ty-color-textPrimary);
+    cursor: default;
+
+    img {
+      cursor: pointer;
+    }
+  }
+}
+
+dialog.image-modal {
+  margin: auto; /* Center the modal */
+  background-color: var(--11ty-color-textSecondary);
+  border: solid var(--s-5) var(--11ty-color-textPrimary);
+  border-radius: var(--tiki-radius-1x);
+
+  &::backdrop {
+    background-color: var(--tiki-modal-background-color);
+    backdrop-filter: blur(4px);
   }
 }
 
