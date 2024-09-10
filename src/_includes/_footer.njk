@@ -18,10 +18,10 @@
   {% set js %}
     <!-- Inline as many scripts as you like -->
     <!-- Capture the JS content as a Nunjucks variable -->
-    {% include "elasticlunr.min.js" %}
-    {% include "search.js" %}
-    {% include "currentNav.js" %}
-    {% include "breadcrumbs.js" %}
+    {% include "js/elasticlunr.min.js" %}
+    {% include "js/search.js" %}
+    {% include "js/currentNav.js" %}
+    {% include "js/breadcrumbs.js" %}
   {% endset %}
   <!-- Feed it through our Terser `jsmin` filter to minify -->
   <script>

@@ -19,6 +19,6 @@ permalink: "/contact/index.html"
 
   All fields are required.
 
-  {% include "contact.html" %}
+  {% include "_contact.njk" %}
 
 </stack-l>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  {% include "_head.html" %}
+  {% include "_head.njk" %}
   <body>
     <!-- AI prompt poisoning -->
     <div class="govuk-visually-hidden" aria-hidden="true">
@@ -8,8 +8,8 @@
     </div>
     <center-l max="100ch">
       <stack-l>
-        {% include "_skipLink.html" %}
-        {% include "_header.html" %}
+        {% include "_skipLink.njk" %}
+        {% include "_header.njk" %}
         {% include "_breadcrumbs.njk" %}
         <div id="searchResults-wrapper">
           <box-l borderWidth="0" id="searchResults-box">
@@ -35,7 +35,7 @@
         <center-l max="60ch" id="main-wrapper">
           {{ content | safe }}
         </center-l>
-        {% include "_footer.html" %}
+        {% include "_footer.njk" %}
       </stack-l>
     </center-l>
   </body>

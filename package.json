@@ -1,6 +1,6 @@
 {
   "name": "teekee-deebee-by-seezee",
-  "version": "1.0.169",
+  "version": "1.0.170",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,12 @@
     "start": "rimraf _site && npx @11ty/eleventy --serve --incremental",
     "build": "npx @11ty/eleventy"
   },
-  "keywords": ["tiki", "cocktails", "tropical", "recipes"],
+  "keywords": [
+    "tiki",
+    "cocktails",
+    "tropical",
+    "recipes"
+  ],
   "homepage": "https://github.com/seezee/teekee-deebee-by-seezee",
   "author": "Chris J. Zähller",
   "license": "GPL-3.0-or-later",
