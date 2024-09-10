@@ -3,7 +3,7 @@
  * @description A custom element for creating image modals
  */
 
-class DialogImage extends HTMLElement {
+export default class DialogImage extends HTMLElement {
   constructor() {
     super();
   }
@@ -91,4 +91,6 @@ class DialogImage extends HTMLElement {
 
 }
 
-if(!customElements.get(`dialog-image`)) customElements.define(`dialog-image`, DialogImage);
+if (`customElements` in window) {
+  customElements.define(`dialog-image`, DialogImage);
+}
