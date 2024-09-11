@@ -11,7 +11,6 @@ export default class DialogImage extends HTMLElement {
   connectedCallback() {
     // Get elements, should be one of each only.
     let img = this.querySelector(`img`);
-    let figure = this.querySelector(`figure`);
     let figcaption = this.querySelector(`figcaption`);
     let caption = figcaption.innerText;
 
@@ -39,11 +38,11 @@ export default class DialogImage extends HTMLElement {
         <stack-l>
           <img src="${fullImageLink}">
           <figcaption>${caption}</figcaption>
-        <stack-l>
+        </stack-l>
       </figure>
-      <p class="aligncenter">
-        <button class="button-primary" type="submit">Close</button>
-      </p>
+      <div class="aligncenter">
+        <button autofocus class="button-primary" type="submit">Close</button>
+      </div>
     </stack-l>
   </form>
     `;
@@ -51,11 +50,7 @@ export default class DialogImage extends HTMLElement {
 
     let button = this.querySelector(`button`);
 
-    figure.addEventListener(`click`, e => {
-      e.preventDefault();
-    });
-
-    figcaption.addEventListener(`click`, e => {
+    parent.addEventListener(`click`, e => {
       e.preventDefault();
     });
 
@@ -67,6 +62,7 @@ export default class DialogImage extends HTMLElement {
 
     button.addEventListener(`click`, e => {
       dialog.removeAttribute(`data-disable-document-scroll`);
+      dialog.hideModal();
     });
 
     window.addEventListener(
