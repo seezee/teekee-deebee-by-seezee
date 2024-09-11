@@ -1,6 +1,7 @@
 /**
  * @module dialog-image
  * @description A custom element for creating image modals
+ * See https://www.raymondcamden.com/2023/12/13/an-image-dialog-web-component.
  */
 
 export default class DialogImage extends HTMLElement {
@@ -10,27 +11,27 @@ export default class DialogImage extends HTMLElement {
 
   connectedCallback() {
     // Get elements, should be one of each only.
-    let img = this.querySelector(`img`);
-    let figcaption = this.querySelector(`figcaption`);
-    let caption = figcaption.innerText;
+    const img           = this.querySelector(`img`);
+    const a             = img.parentNode.parentNode;
+    const figcaption    = this.querySelector(`figcaption`);
+    const caption       = figcaption.innerText;
+    const fullImageLink = a.href;
 
+    // Bail early if there's no image wrapped in a link.
     if(!img) {
       console.warn(`dialog-image: No image found. Exiting.`);
       return;
     }
 
-    let a = img.parentNode.parentNode;
     if(a.nodeName !== `A`) {
       console.warn(`dialog-image: Image not wrapped in link. Exiting.`);
       return;
     }
 
-    let fullImageLink = a.href;
-
+    // Create the dialog.
     let dialog = document.createElement(`dialog`);
-
     dialog.setAttribute(`class`, `image-modal`);
-
+    // `method="dialog"` captures the button click and closes the dialog.
     dialog.innerHTML = `
   <form method="dialog">
     <stack-l>
@@ -46,35 +47,48 @@ export default class DialogImage extends HTMLElement {
     </stack-l>
   </form>
     `;
+    // Add the dialog outside of the anchor tag (which is parent),
+    // but immediately after.
     a.parentNode.insertBefore(dialog, a.nextSibling);
 
     let button = this.querySelector(`button`);
 
+    // Prevent click on anchor tag from navigating to image URL
     a.addEventListener(`click`, e => {
       e.preventDefault();
     });
 
+    // Listen for click on image
     img.addEventListener(`click`, e => {
       e.preventDefault();
+      // Prevent scrolling outside the modal; see
+      // https://www.joshwcomeau.com/css/has/#global-detection-6.
       dialog.setAttribute(`data-disable-document-scroll`, true);
+      // Open the modal.
       dialog.showModal();
     });
 
+    // Listen for button click
     button.addEventListener(`click`, e => {
+      // Stop preventDefault() on anchor from propagating to the button.
       e.stopPropagation();
+      // Allow scrolling outside the modal.
       dialog.removeAttribute(`data-disable-document-scroll`);
+      // Close the modal.
       dialog.hideModal();
     });
 
+    // Listen for the escape key click.
     window.addEventListener(
       `keydown`,
-      (event) => {
-        if (event.defaultPrevented) {
+      (e) => {
+        if (e.defaultPrevented) {
           return;
         }
 
-        switch (event.key) {
+        switch (e.key) {
           case `Escape`:
+            // Allow scrolling outside the modal.
             dialog.removeAttribute(`data-disable-document-scroll`);
             break;
           default:
@@ -83,9 +97,7 @@ export default class DialogImage extends HTMLElement {
       },
       true,
     );
-
   }
-
 }
 
 if (`customElements` in window) {
