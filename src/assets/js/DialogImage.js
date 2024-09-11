@@ -19,13 +19,13 @@ export default class DialogImage extends HTMLElement {
       return;
     }
 
-    let parent = img.parentNode.parentNode;
-    if(parent.nodeName !== `A`) {
+    let a = img.parentNode.parentNode;
+    if(a.nodeName !== `A`) {
       console.warn(`dialog-image: Image not wrapped in link. Exiting.`);
       return;
     }
 
-    let fullImageLink = parent.href;
+    let fullImageLink = a.href;
 
     let dialog = document.createElement(`dialog`);
 
@@ -46,11 +46,11 @@ export default class DialogImage extends HTMLElement {
     </stack-l>
   </form>
     `;
-    parent.parentNode.insertBefore(dialog, parent.nextSibling);
+    a.parentNode.insertBefore(dialog, a.nextSibling);
 
     let button = this.querySelector(`button`);
 
-    parent.addEventListener(`click`, e => {
+    a.addEventListener(`click`, e => {
       e.preventDefault();
     });
 
@@ -61,6 +61,7 @@ export default class DialogImage extends HTMLElement {
     });
 
     button.addEventListener(`click`, e => {
+      e.stopPropagation();
       dialog.removeAttribute(`data-disable-document-scroll`);
       dialog.hideModal();
     });
