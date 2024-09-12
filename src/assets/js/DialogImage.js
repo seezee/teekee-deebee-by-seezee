@@ -54,7 +54,7 @@ export default class DialogImage extends HTMLElement {
     let button = this.querySelector(`button`);
 
     // Prevent click on anchor tag from navigating to image URL
-    a.addEventListener(`click`, e => {
+    a.addEventListener(`click`, (e) => {
       e.preventDefault();
     });
 
@@ -63,7 +63,7 @@ export default class DialogImage extends HTMLElement {
     img.setAttribute(`aria-haspopup`, `dialog`);
 
     // Listen for click on image
-    img.addEventListener(`click`, e => {
+    img.addEventListener(`click`, (e) => {
       e.preventDefault();
       // Prevent scrolling outside the modal; see
       // https://www.joshwcomeau.com/css/has/#global-detection-6.
@@ -90,7 +90,7 @@ export default class DialogImage extends HTMLElement {
     );
 
     // Listen for button click
-    button.addEventListener(`click`, e => {
+    button.addEventListener(`click`, (e) => {
       // Stop preventDefault() on anchor from propagating to the button.
       e.stopPropagation();
       // Allow scrolling outside the modal.
@@ -118,7 +118,7 @@ export default class DialogImage extends HTMLElement {
     );
 
     // Close the dialog when ::backdrop is clicked.
-    dialog.addEventListener(`click`, function(e) {
+    dialog.addEventListener(`click`, (e) => {
       // Get the dialog boundaries
       const rect = dialog.getBoundingClientRect();
       // Define dialog inner boundary.
