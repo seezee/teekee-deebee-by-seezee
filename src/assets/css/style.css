@@ -205,8 +205,9 @@ body {
 }
 
 html {
-  background: var(--11ty-color-primary-200) no-repeat center;
+  background-color: var(--11ty-color-primary-200);
   background-image: var(--tiki-body-background);
+  background-repeat: no-repeat;
   background-blend-mode: soft-light;
   background-size: cover;
   color: var(--11ty-color-textPrimary);

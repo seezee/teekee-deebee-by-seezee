@@ -11,34 +11,38 @@ export default class DialogImage extends HTMLElement {
 
   connectedCallback() {
     // Get elements, should be one of each only.
-    const img           = this.querySelector(`img`);
-    const a             = img.parentNode.parentNode;
-    const figcaption    = this.querySelector(`figcaption`);
-    const caption       = figcaption.innerText;
-    const fullImageLink = a.href;
+    const image       = this.querySelector(`img`);
+    const altAttr     = image.getAttribute(`alt`);
+    const link        = image.parentNode.parentNode;
+    const caption     = this.querySelector(`figcaption`);
+    const captionText = caption.innerText;
+    const linkHref    = link.href;
 
     // Bail early if there's no image wrapped in a link.
-    if(!img) {
+    if(!image) {
       console.warn(`dialog-image: No image found. Exiting.`);
       return;
     }
 
-    if(a.nodeName !== `A`) {
+    if(link.nodeName !== `A`) {
       console.warn(`dialog-image: Image not wrapped in link. Exiting.`);
       return;
     }
 
+    link.setAttribute(`tabindex`, `-1`);
+    link.setAttribute(`role`, `none`);
+
     // Create the dialog.
-    let dialog = document.createElement(`dialog`);
-    dialog.setAttribute(`class`, `image-modal`);
+    let modal = document.createElement(`dialog`);
+    modal.setAttribute(`class`, `image-modal`);
     // `method="dialog"` captures the button click and closes the dialog.
-    dialog.innerHTML = `
+    modal.innerHTML = `
   <form method="dialog">
     <stack-l>
       <figure>
         <stack-l>
-          <img src="${fullImageLink}">
-          <figcaption>${caption}</figcaption>
+          <img src="${linkHref}" alt="${altAttr}">
+          <figcaption>${captionText}</figcaption>
         </stack-l>
       </figure>
       <div class="aligncenter">
@@ -49,38 +53,38 @@ export default class DialogImage extends HTMLElement {
     `;
     // Add the dialog outside of the anchor tag (which is parent),
     // but immediately after.
-    a.parentNode.insertBefore(dialog, a.nextSibling);
+    link.parentNode.insertBefore(modal, link.nextSibling);
 
-    let button = this.querySelector(`button`);
+    let closeButton = this.querySelector(`button`);
 
     // Prevent click on anchor tag from navigating to image URL
-    a.addEventListener(`click`, (e) => {
+    link.addEventListener(`click`, (e) => {
       e.preventDefault();
     });
 
     // Add attribute for accessibility
-    img.setAttribute(`tabindex`, `0`);
-    img.setAttribute(`aria-haspopup`, `dialog`);
+    image.setAttribute(`tabindex`, `0`);
+    image.setAttribute(`aria-haspopup`, `dialog`);
 
     // Listen for click on image
-    img.addEventListener(`click`, (e) => {
+    image.addEventListener(`click`, (e) => {
       e.preventDefault();
       // Prevent scrolling outside the modal; see
       // https://www.joshwcomeau.com/css/has/#global-detection-6.
-      dialog.setAttribute(`data-disable-document-scroll`, true);
+      modal.setAttribute(`data-disable-document-scroll`, true);
       // Open the modal.
-      dialog.showModal();
+      modal.showModal();
     });
 
     // Listen for the enter key click.
-    img.addEventListener(`keydown`, (e) => {
+    image.addEventListener(`keydown`, (e) => {
         switch (e.key) {
           case `Enter`:
             e.preventDefault();
             // Prevent scrolling outside the modal.
-            dialog.setAttribute(`data-disable-document-scroll`, true);
+            modal.setAttribute(`data-disable-document-scroll`, true);
             // Open the modal.
-            dialog.showModal();
+            modal.showModal();
             break;
           default:
             return;
@@ -90,13 +94,13 @@ export default class DialogImage extends HTMLElement {
     );
 
     // Listen for button click
-    button.addEventListener(`click`, (e) => {
+    closeButton.addEventListener(`click`, (e) => {
       // Stop preventDefault() on anchor from propagating to the button.
       e.stopPropagation();
       // Allow scrolling outside the modal.
-      dialog.removeAttribute(`data-disable-document-scroll`);
+      modal.removeAttribute(`data-disable-document-scroll`);
       // Close the modal.
-      dialog.close();
+      modal.close();
     });
 
     // Listen for the escape key click.
@@ -108,7 +112,7 @@ export default class DialogImage extends HTMLElement {
         switch (e.key) {
           case `Escape`:
             // Allow scrolling outside the modal.
-            dialog.removeAttribute(`data-disable-document-scroll`);
+            modal.removeAttribute(`data-disable-document-scroll`);
             break;
           default:
             return;
@@ -118,15 +122,16 @@ export default class DialogImage extends HTMLElement {
     );
 
     // Close the dialog when ::backdrop is clicked.
-    dialog.addEventListener(`click`, (e) => {
+    modal.addEventListener(`click`, (e) => {
       // Get the dialog boundaries
-      const rect = dialog.getBoundingClientRect();
+      const rect = modal.getBoundingClientRect();
       // Define dialog inner boundary.
       const isInDialog = (rect.top <= e.clientY && e.clientY <= rect.top + rect.height && rect.left <= e.clientX && e.clientX <= rect.left + rect.width);
 
       // If the click is not inside the boundary, close the dialog.
       if (!isInDialog) {
-        dialog.close();
+        modal.removeAttribute(`data-disable-document-scroll`);
+        modal.close();
       }
     });
   }
