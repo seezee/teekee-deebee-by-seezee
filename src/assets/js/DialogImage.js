@@ -14,6 +14,7 @@ export default class DialogImage extends HTMLElement {
     const image       = this.querySelector(`img`);
     const altAttr     = image.getAttribute(`alt`);
     const link        = image.parentNode.parentNode;
+    const link2       = this.querySelector(`p:first-of-type`);
     const caption     = this.querySelector(`figcaption`);
     const captionText = caption.innerText;
     const linkHref    = link.href;
@@ -31,6 +32,9 @@ export default class DialogImage extends HTMLElement {
 
     link.setAttribute(`tabindex`, `-1`);
     link.setAttribute(`role`, `none`);
+
+    link2.setAttribute(`tabindex`, `-1`);
+    link2.setAttribute(`role`, `none`);
 
     // Create the dialog.
     let modal = document.createElement(`dialog`);

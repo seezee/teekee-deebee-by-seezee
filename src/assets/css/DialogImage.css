@@ -1,6 +1,10 @@
 
 dialog-image {
 
+  p:first-of-type {
+    line-height: 0;
+  }
+
   a {
     text-decoration: none;
   }
@@ -20,7 +24,7 @@ dialog-image {
 dialog.image-modal {
   margin: auto; /* Center the modal */
   background-color: var(--11ty-color-textSecondary);
-  border: solid var(--s-5) var(--11ty-color-textPrimary);
+  border: solid var(--border-thin) var(--11ty-color-textPrimary);
   border-radius: var(--tiki-radius-1x);
 
   &::backdrop {

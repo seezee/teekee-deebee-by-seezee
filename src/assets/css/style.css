@@ -574,8 +574,7 @@ dd {
 }
 
 figure {
-  margin: 0;
-  padding-block: var(--s2);
+  padding-block-end: var(--s2);
   padding-inline: var(--s3);
   background-color: var(--11ty-color-figureBG);
 }
@@ -602,7 +601,6 @@ img[src$='.svg'] { /* Let SVG scale without boundaries */
 caption, figcaption {
   font-style: italic;
   font-size: smaller;
-  margin-block-end: var(--s2);
 }
 
 a,
