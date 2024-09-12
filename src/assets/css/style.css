@@ -422,6 +422,7 @@ p {
   text-wrap: pretty;
 
   &:empty {
+    line-height: 0;
     margin-block-start: 0;
   }
 }
@@ -574,13 +575,13 @@ dd {
 
 figure {
   margin: 0;
-  padding-block: 1em;
-  padding-inline: 40px;
+  padding-block: var(--s2);
+  padding-inline: var(--s3);
   background-color: var(--11ty-color-figureBG);
 }
 
 picture {
-  margin-block-end: var(--s-1);
+  margin-block-end: var(--s1);
 }
 
 img {
@@ -601,6 +602,7 @@ img[src$='.svg'] { /* Let SVG scale without boundaries */
 caption, figcaption {
   font-style: italic;
   font-size: smaller;
+  margin-block-end: var(--s2);
 }
 
 a,
