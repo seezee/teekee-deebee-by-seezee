@@ -1,0 +1,30 @@
+
+dialog-image {
+
+  a {
+    text-decoration: none;
+  }
+
+  figure,
+  picture,
+  figcaption {
+    color: var(--11ty-color-textPrimary);
+    cursor: default;
+
+    img {
+      cursor: pointer;
+    }
+  }
+}
+
+dialog.image-modal {
+  margin: auto; /* Center the modal */
+  background-color: var(--11ty-color-textSecondary);
+  border: solid var(--s-5) var(--11ty-color-textPrimary);
+  border-radius: var(--tiki-radius-1x);
+
+  &::backdrop {
+    background-color: var(--tiki-modal-background-color);
+    backdrop-filter: blur(4px);
+  }
+}

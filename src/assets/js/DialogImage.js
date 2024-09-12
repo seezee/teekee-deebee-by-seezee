@@ -58,6 +58,10 @@ export default class DialogImage extends HTMLElement {
       e.preventDefault();
     });
 
+    // Add attribute for accessibility
+    img.setAttribute(`tabindex`, `0`);
+    img.setAttribute(`aria-haspopup`, `dialog`);
+
     // Listen for click on image
     img.addEventListener(`click`, e => {
       e.preventDefault();
@@ -68,6 +72,23 @@ export default class DialogImage extends HTMLElement {
       dialog.showModal();
     });
 
+    // Listen for the enter key click.
+    img.addEventListener(`keydown`, (e) => {
+        switch (e.key) {
+          case `Enter`:
+            e.preventDefault();
+            // Prevent scrolling outside the modal.
+            dialog.setAttribute(`data-disable-document-scroll`, true);
+            // Open the modal.
+            dialog.showModal();
+            break;
+          default:
+            return;
+        }
+      },
+      true,
+    );
+
     // Listen for button click
     button.addEventListener(`click`, e => {
       // Stop preventDefault() on anchor from propagating to the button.
@@ -75,13 +96,11 @@ export default class DialogImage extends HTMLElement {
       // Allow scrolling outside the modal.
       dialog.removeAttribute(`data-disable-document-scroll`);
       // Close the modal.
-      dialog.hideModal();
+      dialog.close();
     });
 
     // Listen for the escape key click.
-    window.addEventListener(
-      `keydown`,
-      (e) => {
+    window.addEventListener(`keydown`, (e) => {
         if (e.defaultPrevented) {
           return;
         }
@@ -97,6 +116,19 @@ export default class DialogImage extends HTMLElement {
       },
       true,
     );
+
+    // Close the dialog when ::backdrop is clicked.
+    dialog.addEventListener(`click`, function(e) {
+      // Get the dialog boundaries
+      const rect = dialog.getBoundingClientRect();
+      // Define dialog inner boundary.
+      const isInDialog = (rect.top <= e.clientY && e.clientY <= rect.top + rect.height && rect.left <= e.clientX && e.clientX <= rect.left + rect.width);
+
+      // If the click is not inside the boundary, close the dialog.
+      if (!isInDialog) {
+        dialog.close();
+      }
+    });
   }
 }
 
