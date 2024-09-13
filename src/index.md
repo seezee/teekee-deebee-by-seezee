@@ -48,4 +48,4 @@ Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started (mo
     {% endcallout %}
   </stack-l>
 
-{% endcallout %}$$
+{% endcallout %}
