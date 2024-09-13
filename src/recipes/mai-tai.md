@@ -53,7 +53,7 @@ Garnish
 
 <dialog-image>
 
-  [{% image "./src/assets/images/citrus-squeezer.jpg", "img-constrained", "Stainless steel jaw-style citrus squeezer", "The only correct citrus squeezer for making a mai tai" %}](/assets/images/citrus-squeezer.jpg)
+  {% image "./src/assets/images/citrus-squeezer.jpg", "img-constrained", "Stainless steel jaw-style citrus squeezer", "The only correct citrus squeezer for making a mai tai" %}
 
 </dialog-image>
 <!-- Needed to keep markdown from messing up -->

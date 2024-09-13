@@ -31,7 +31,7 @@ Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started (mo
 
 <dialog-image>
 
-  [{% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood \[cover\], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}](/assets/images/don-beachcomber-menu-cover-1943.jpg)
+  {% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood \[cover\], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}
 
 </dialog-image>
 
@@ -48,4 +48,4 @@ Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started (mo
     {% endcallout %}
   </stack-l>
 
-{% endcallout %}
+{% endcallout %}$$

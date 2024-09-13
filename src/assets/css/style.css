@@ -574,7 +574,7 @@ dd {
 }
 
 figure {
-  padding-block-end: var(--s2);
+  padding-block: var(--s2);
   padding-inline: var(--s3);
   background-color: var(--11ty-color-figureBG);
 }

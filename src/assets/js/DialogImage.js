@@ -11,30 +11,26 @@ export default class DialogImage extends HTMLElement {
 
   connectedCallback() {
     // Get elements, should be one of each only.
-    const image       = this.querySelector(`img`);
-    const altAttr     = image.getAttribute(`alt`);
-    const link        = image.parentNode.parentNode;
-    const link2       = this.querySelector(`p:first-of-type`);
-    const caption     = this.querySelector(`figcaption`);
-    const captionText = caption.innerText;
-    const linkHref    = link.href;
+    const image         = this.querySelector(`img`);
+    const altAttr       = image.getAttribute(`alt`);
+    const imageUrl      = image.getAttribute(`src`);
 
-    // Bail early if there's no image wrapped in a link.
+    let split           = imageUrl.split('.');
+    split.pop();
+    let imageUrlTrimmed = split.join(".");
+
+    const fig           = image.parentNode.parentNode;
+    const caption       = this.querySelector(`figcaption`);
+    const captionText   = caption.innerText;
+
     if(!image) {
       console.warn(`dialog-image: No image found. Exiting.`);
-      return;
+      return; // Bail early.
     }
 
-    if(link.nodeName !== `A`) {
-      console.warn(`dialog-image: Image not wrapped in link. Exiting.`);
-      return;
+    if(!altAttr) {
+      alert(`Image is missing alt attribute!`);
     }
-
-    link.setAttribute(`tabindex`, `-1`);
-    link.setAttribute(`role`, `none`);
-
-    link2.setAttribute(`tabindex`, `-1`);
-    link2.setAttribute(`role`, `none`);
 
     // Create the dialog.
     let modal = document.createElement(`dialog`);
@@ -44,10 +40,14 @@ export default class DialogImage extends HTMLElement {
   <form method="dialog">
     <stack-l>
       <figure>
-        <stack-l>
-          <img src="${linkHref}" alt="${altAttr}">
-          <figcaption>${captionText}</figcaption>
-        </stack-l>
+        <picture>
+          <stack-l>
+            <source srcset="${imageUrlTrimmed}.webp" type="image/webp"/>
+            <source srcset="${imageUrlTrimmed}.jpeg" type="image/jpeg"/>
+            <img src="${imageUrl}" alt="${altAttr}">
+            <figcaption>${captionText}</figcaption>
+          </stack-l>
+        </picture>
       </figure>
       <div class="aligncenter">
         <button autofocus class="button-primary" type="submit">Close</button>
@@ -55,16 +55,12 @@ export default class DialogImage extends HTMLElement {
     </stack-l>
   </form>
     `;
-    // Add the dialog outside of the anchor tag (which is parent),
+
+    // Add the dialog outside of the img tag (which is parent),
     // but immediately after.
-    link.parentNode.insertBefore(modal, link.nextSibling);
+    fig.parentNode.insertBefore(modal, fig.nextSibling);
 
     let closeButton = this.querySelector(`button`);
-
-    // Prevent click on anchor tag from navigating to image URL
-    link.addEventListener(`click`, (e) => {
-      e.preventDefault();
-    });
 
     // Add attribute for accessibility
     image.setAttribute(`tabindex`, `0`);
@@ -99,7 +95,7 @@ export default class DialogImage extends HTMLElement {
 
     // Listen for button click
     closeButton.addEventListener(`click`, (e) => {
-      // Stop preventDefault() on anchor from propagating to the button.
+      // Stop preventDefault() on parent elements from propagating to the button.
       e.stopPropagation();
       // Allow scrolling outside the modal.
       modal.removeAttribute(`data-disable-document-scroll`);
