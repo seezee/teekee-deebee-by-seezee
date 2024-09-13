@@ -19,7 +19,7 @@ dialog.image-modal {
   border: solid var(--border-thin) var(--11ty-color-textPrimary);
   border-radius: var(--tiki-radius-2x);
 
-  width: clamp(320px, calc(50% + var(--s3)), calc(100% - 2em - 6px)); /* Don't use logical property on image */
+  width: clamp(320px, calc(50vw + var(--s3)), calc(100vw - 2em - 6px)); /* Don't use logical property on image */
 
   &::backdrop {
     background-color: var(--tiki-modal-background-color);
