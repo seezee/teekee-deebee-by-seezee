@@ -1,19 +1,17 @@
+/* See main stylesheet for masonry layout */
 
-dialog-image {
+:root {
+  /* Set fade in duration */
+  --fade-time: 0.5s;
+}
 
-  figure,
-  picture,
-  figcaption {
-    color: var(--11ty-color-textPrimary);
-    cursor: default;
-
-    img {
-      cursor: pointer;
-    }
+dialog-gallery {
+  img {
+    cursor: pointer;
   }
 }
 
-dialog.image-modal {
+dialog.gallery-modal {
   /* Variables for animation;
   see https://www.oidaisdes.org/native-dialog-and-popover.en/ */
   --duration: 150ms;
@@ -30,7 +28,7 @@ dialog.image-modal {
   border-radius: var(--tiki-radius-2x);
 
   /* Don't use logical property on image */
-  width: clamp(320px, calc(50vw + var(--s3)), calc(100vw - 2em - 6px));
+  width: clamp(320px, calc(66vw + var(--s3)), calc(100vw - 2em - 6px));
 
   /* End values for fade out. */
   opacity: var(--start-opacity);
@@ -66,6 +64,47 @@ dialog.image-modal {
     &::backdrop {
       /* End value for fade in; start value for fade out. */
       opacity: 1;
+    }
+  }
+
+  .current {
+    opacity: 0.3;
+  }
+
+  .gallery--img_main .gallery--thumbs,
+  .gallery--thumbs img {
+    width: 100%;
+  }
+
+  .gallery--thumbs {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: var(--s-5);
+    margin-block-start: var(--s-5);
+  }
+
+  .gallery--thumbs img {
+    cursor: pointer;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
+
+  /* Fade in animation */
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+
+  .fade-in {
+    opacity: 0;
+    animation: fadeIn var(--fade-time) ease-in 1 forwards;
+  }
+
+  /* Media Queries */
+  @media(max-width: 600px) {
+    .gallery--thumbs {
+      grid-template-columns: repeat(4, 1fr);
     }
   }
 }

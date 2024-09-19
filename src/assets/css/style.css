@@ -180,6 +180,9 @@
   /* Step 5: 22.128px → 43.2488px */
   --tiki-font-size-5: calc(var(--tiki-font-size-factor) * clamp(1.383rem, 0.9239rem + 2.2957cqi, 2.703rem));
 
+  --tiki-masonry-width: min(13rem, 100%);
+  --tiki-masonry-gap: 0.5em;
+
 }
 
 @media (prefers-reduced-transparency: no-preference) {
@@ -201,7 +204,7 @@
 html,
 body {
   block-size: 100%;
-  display: grid;
+  display: grid; /* Needed to center things, e.g., modals */
 }
 
 html {
@@ -624,6 +627,10 @@ kbd {
   color: var(--11ty-color-textPrimary);
   font: 80% monospace;
   padding: .15rem .3rem;
+}
+
+dialog {
+  color: var(--11ty-color-textPrimary);
 }
 
 icon-l {
@@ -1063,4 +1070,19 @@ main ul li::marker {
 
 #starfish {
   margin-block: var(--s1);
+}
+
+/* Masonry */
+
+.masonry {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, var(--tiki-masonry-width));
+  justify-content: center;
+  grid-gap: var(--tiki-masonry-gap);
+  padding: var(--tiki-masonry-gap);
+  grid-template-rows: masonry;
+
+  > * {
+    width: var(--tiki-masonry-width);
+  }
 }
