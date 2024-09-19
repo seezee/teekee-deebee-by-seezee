@@ -31,7 +31,7 @@ permalink: "/gallery/index.html"
   ![Hotel Nacional Special Redux](/assets/images/tiki-gallery/hotel-nacional-special-2.jpg)
   ![Jet Pilot](/assets/images/tiki-gallery/jet-pilot.jpg)
   ![Jungle Bird](/assets/images/tiki-gallery/jungle-bird.jpg)
-  ![Kaiteur Swizzle](/assets/images/tiki-gallery/kaiteur-swizzle.jpg)
+  ![Kaieteur Swizzle](/assets/images/tiki-gallery/kaieteur-swizzle.jpg)
   ![Lauwiliwilinukunukuʻoiʻoi](/assets/images/tiki-gallery/lauwiliwilinukunuku-oi-oi.jpg)
   ![Mai Tai](/assets/images/tiki-gallery/mai-tai.jpg)
   ![Mai Tai (Three Hour Tour)](/assets/images/tiki-gallery/mai-tai-gilligan.jpg)
