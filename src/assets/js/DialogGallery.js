@@ -244,70 +244,110 @@ export default class DialogGallery extends HTMLElement {
 
     thumbs.addEventListener(`keydown`, (e) => {
       let prevFocused = document.activeElement;
-      switch (e.key) {
-        case `Enter`:
-          e.preventDefault();
-          const clickedAlt = e.target.getAttribute(`alt`);
 
-          thumbsList.forEach(thumbsList => (thumbsList.classList.remove(`current`)));
+      if (e.defaultPrevented) {
+        return; // Do nothing if the event was already processed
+      };
 
-          thumbsList.forEach(thumbsList => (thumbsList.removeAttribute(`autofocus`)));
+      // For the CMD + left/right arrow key combination.
+      let keyCode = e.keyCode || e.which,
+          arrow = {left: 37, right: 39 };
 
-          current.src = e.target.src;
-
-          currentCaption.innerText = clickedAlt;
-
-          current.setAttribute(`alt`, clickedAlt);
-
-          current.classList.add(`fade-in`);
-
-          setTimeout(() => current.classList.remove(`fade-in`), 500);
-
-          e.target.classList.add(`current`);
-
-          break;
-
-        case `ArrowLeft`: // Navigate through the thumbnails.
-
-          if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.className === `gallery--thumbs`) {
-
+      // The CMD key combo listener.
+      if (e.metaKey) {
+        switch (keyCode) {
+          case arrow.left:
             e.preventDefault();
 
-            let prevChoice = prevFocused.previousElementSibling;
+            // Get the first thumbnail.
+            let firstFocused = prevFocused.parentNode.firstElementChild;
 
-            if (prevChoice) {
-              prevChoice.focus();
+            // Move focus to the first thumbnail.
+            firstFocused.focus();
+
+            break;
+
+          case arrow.right:
+            e.preventDefault();
+
+             // Get the last thumbnail.
+            let lastFocused = prevFocused.parentNode.lastElementChild;
+
+            // Move focus to the last thumbnail.
+            lastFocused.focus();
+
+            break;
+
+          default:
+            return;
+        }
+      } else {
+        switch (e.key) {
+
+          case `Enter`:
+            e.preventDefault();
+            const clickedAlt = e.target.getAttribute(`alt`);
+
+            thumbsList.forEach(thumbsList => (thumbsList.classList.remove(`current`)));
+
+            thumbsList.forEach(thumbsList => (thumbsList.removeAttribute(`autofocus`)));
+
+            current.src = e.target.src;
+
+            currentCaption.innerText = clickedAlt;
+
+            current.setAttribute(`alt`, clickedAlt);
+
+            current.classList.add(`fade-in`);
+
+            setTimeout(() => current.classList.remove(`fade-in`), 500);
+
+            e.target.classList.add(`current`);
+
+            break;
+
+          case `ArrowLeft`: // Navigate through the thumbnails.
+
+            if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.className === `gallery--thumbs`) {
+
+              e.preventDefault();
+
+              let prevChoice = prevFocused.previousElementSibling;
+
+              if (prevChoice) {
+                prevChoice.focus();
+              } else {
+                prevFocused.parentNode.lastElementChild.focus();
+              };
+
             } else {
-              prevFocused.parentNode.lastElementChild.focus();
+              return;
             };
 
-          } else {
-            return;
-          };
+            break;
 
-          break;
+          case `ArrowRight`:
 
-        case `ArrowRight`:
+            if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.className === `gallery--thumbs`) {
 
-          if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.className === `gallery--thumbs`) {
+              e.preventDefault();
 
-            e.preventDefault();
+              let nextChoice = prevFocused.nextElementSibling;
 
-            let nextChoice = prevFocused.nextElementSibling;
+              if (nextChoice) {
+                nextChoice.focus();
+              } else {
+                prevFocused.parentNode.firstElementChild.focus();
+              }
 
-            if (nextChoice) {
-              nextChoice.focus();
             } else {
-              prevFocused.parentNode.firstElementChild.focus();
-            }
+              return;
+            };
 
-          } else {
+            break;
+          default:
             return;
-          };
-
-          break;
-        default:
-        return;
+        }
       }
     }, true );
   }

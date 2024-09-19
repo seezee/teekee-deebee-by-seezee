@@ -28,19 +28,19 @@
   }
 
   window.addEventListener(
-    "keydown",
+    `keydown`,
     (e) => {
       const key = e.key;
       if (e.defaultPrevented) {
         return; // Do nothing if the event was already processed
-      }
+      };
 
       if ((e.metaKey) && (key == `k`)) {
         e.preventDefault();
         searchField.focus();
       } else {
         return;
-      }
+      };
 
       // Cancel the default action to avoid it being handled twice
       e.preventDefault();
@@ -63,7 +63,7 @@
   });
 
   searchField.addEventListener(`focusout`, (e) => {
-    clear.addEventListener('focusin', (e) => {
+    clear.addEventListener(`focusin`, (e) => {
       let clearIsFocused = TRUE;
     });
     if ((searchField.value !== ``) || (clearIsFocused === TRUE)) {
@@ -109,7 +109,7 @@
       // noResultsEl.style.display = `none`;
       results.map((r) => {
         let { id, title, type, characteristic, base } = r.doc;
-        const sep = ', '
+        const sep = `, `
 
         const el = document.createElement(`li`);
         el.setAttribute(`class`, `search-item`);
