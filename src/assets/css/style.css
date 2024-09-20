@@ -376,11 +376,10 @@ details {
   transition: height 0.5s ease;
   block-size: 2.5rem;
   inline-size: fit-content;
-  max-inline-size: 45ch;
+  max-inline-size: 90%;
   padding-inline: var(--s0);
   padding-block: var(--s-4);
   margin-block-end: var(--s3);
-  border-radius: var(--tiki-radius-1x);
   font-family: var(--tiki-font-mono);
 
   summary {
@@ -412,6 +411,7 @@ details {
     padding: var(--s1);
     border-width: var(--s-5);
     border: solid var(--11ty-color-textPrimary) var(--tiki-radius-1x);
+    border-start-end-radius: var(--tiki-radius-1x);
     border-end-start-radius: var(--tiki-radius-1x);
     border-end-end-radius: var(--tiki-radius-1x);
   }
