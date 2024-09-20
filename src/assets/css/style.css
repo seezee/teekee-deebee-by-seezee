@@ -183,6 +183,8 @@
   --tiki-masonry-width: min(13rem, 100%);
   --tiki-masonry-gap: 0.5em;
 
+  interpolate-size: allow-keywords;
+
 }
 
 @media (prefers-reduced-transparency: no-preference) {
@@ -369,6 +371,66 @@ button,
     background: transparent;
   }
 }
+
+details {
+  transition: height 0.5s ease;
+  block-size: 2.5rem;
+  inline-size: fit-content;
+  max-inline-size: 45ch;
+  padding-inline: var(--s0);
+  padding-block: var(--s-4);
+  margin-block-end: var(--s3);
+  border-radius: var(--tiki-radius-1x);
+  font-family: var(--tiki-font-mono);
+
+  summary {
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+    list-style: none;
+    padding: var(--s0) var(--s1);
+    background-color: var(--11ty-color-textPrimary);
+    color: var(--11ty-color-textSecondary);
+    border-radius: var(--tiki-radius-1x);
+    font-family: var(--tiki-font-sans);
+    line-height: 1;
+    text-wrap: nowrap;
+
+    &::after {
+      width: 1rem;
+      margin-left: var(--s1);
+      content: var(--tiki-details-marker);
+      transition: 0.2s;
+    }
+
+    ::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  > * {
+    padding: var(--s1);
+    border-width: var(--s-5);
+    border: solid var(--11ty-color-textPrimary) var(--tiki-radius-1x);
+    border-end-start-radius: var(--tiki-radius-1x);
+    border-end-end-radius: var(--tiki-radius-1x);
+  }
+
+  &[open] {
+    block-size: auto;
+    overflow: clip; /* Clip off contents while animating */
+
+    summary {
+      border-radius: var(--tiki-radius-1x) var(--tiki-radius-1x) 0 0;
+
+      &::after {
+        transform: rotate(90deg);
+      }
+    }
+  }
+}
+
+
 
 .index {
   li {
@@ -729,13 +791,10 @@ div.col-5 {
 }
 
 .hide,
-#search-hint__wrapper.hide {
+#search-hint__wrapper.hide,
+#searchClear.hide {
   animation: fadeout 0ms;
   display: none;
-}
-.show {
-  display: block;
-  animation: fadein 0ms;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -746,6 +805,11 @@ div.col-5 {
   .show {
     animation: fadein 200ms ease-in;
   }
+}
+
+.show {
+  display: block;
+  animation: fadein 0ms;
 }
 
 :focus-visible {

@@ -11,10 +11,13 @@
 
   clear.addEventListener(`click`, function(){
     form.reset();
+
     clear.setAttribute(`class`, `hide`);
     clear.setAttribute(`aria-hidden`, `true`);
+
     hint.removeAttribute(`class`);
     hint.removeAttribute(`aria-hidden`);
+
     results.setAttribute(`class`, `hide`);
     results.setAttribute(`aria-hidden`, `true`);
   });

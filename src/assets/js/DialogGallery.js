@@ -25,7 +25,7 @@ export default class DialogGallery extends HTMLElement {
         breaks[i].parentNode.removeChild(breaks[i]);
       };
 
-    // Add attribute for keyboard accessibility.
+    // Add attribute for kbd accessibility.
     imgNodeList.forEach(imgNodeList => imgNodeList.setAttribute(`tabindex`, `0`));
 
     // Convert the nodelist to HTML so we can append it to the modal.
@@ -63,6 +63,17 @@ export default class DialogGallery extends HTMLElement {
       <div class="aligncenter">
         <button class="button-primary" type="submit">Close</button>
       </div>
+      <details>
+        <summary>KEYBOARD HINTS</summary>
+          <stack-l>
+          <ul>
+            <li>Move forward = <kbd>Tab</kbd> <em>or</em> <kbd>&rarr;</kbd> </li>
+            <li>Move backward = <kbd>Shift</kbd> + <kbd>Tab</kbd> <em>or</em> <kbd>&larr;</kbd></li>
+            <li>Jump to end = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li>
+            <li>Jump to start = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li>
+            <li>Display selected image = <kbd>Enter</kbd></li>
+          </ul>
+      </details>
     </stack-l>
   </form>
     `;
