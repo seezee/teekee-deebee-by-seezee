@@ -402,7 +402,7 @@ details {
       transition: 0.2s;
     }
 
-    ::-webkit-details-marker {
+    &::-webkit-details-marker {
       display: none;
     }
   }

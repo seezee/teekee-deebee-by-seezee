@@ -4,6 +4,7 @@
  */
 
 export default class DialogGallery extends HTMLElement {
+
   constructor() {
     super();
   }
@@ -44,7 +45,8 @@ export default class DialogGallery extends HTMLElement {
     let modal = document.createElement(`dialog`);
     modal.setAttribute(`class`, `gallery-modal`);
     // `method="dialog"` captures the button click and closes the dialog.
-    modal.innerHTML = `<stack-l>
+    modal.innerHTML = `
+    <stack-l>
       <form method="dialog">
         <stack-l>
           <div class="container">
@@ -65,29 +67,32 @@ export default class DialogGallery extends HTMLElement {
           </div>
         </stack-l>
       </form>
-      <details>
-        <summary>KEYBOARD HINTS</summary>
-        <stack-l>
-        <ul>
-          <li>Move forward = <kbd>Tab</kbd> <em>or</em> <kbd>&rarr;</kbd> </li>
-          <li>Move backward = <kbd>Shift</kbd> + <kbd>Tab</kbd> <em>or</em> <kbd>&larr;</kbd></li>
-          <li>Jump to end = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li>
-          <li>Jump to start = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li>
-          <li>Display selected image = <kbd>Enter</kbd></li>
-        </ul>
-      </details>
-    <stack-l>`;
+        <details>
+          <summary>KEYBOARD HINTS</summary>
+          <stack-l>
+          <ul>
+            <li>Move forward = <kbd>Tab</kbd> <em>or</em> <kbd>&rarr;</kbd> </li>
+            <li>Move backward = <kbd>Shift</kbd> + <kbd>Tab</kbd> <em>or</em> <kbd>&larr;</kbd></li>
+            <li>Jump to end = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li>
+            <li>Jump to start = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li>
+            <li>Display selected image = <kbd>Enter</kbd></li>
+          </ul>
+        </details>
+      </stack-l>`
 
     // Add the dialog outside of the web component, but immediately after.
     this.parentNode.insertBefore(modal, this.parentNode.nextSibling);
 
+    // <dialog> variables.
     const current      = modal.querySelector(`#current`);
     const thumbs       = modal.querySelector(`.gallery--thumbs`);
     const thumbsList   = modal.querySelectorAll(`.gallery--thumbs img`);
     const closeButton  = modal.querySelector(`button`);
+    const details      = modal.getElementsByTagName(`details`)[0];
+    const summary      = details.firstElementChild;
 
     /**
-     * Open and close the dialog stuff.
+     * Open and close the dialog, update the featured image, and handle focus.
      */
 
     // Listen for click on image.
@@ -214,26 +219,9 @@ export default class DialogGallery extends HTMLElement {
     });
 
     /**
-     * Gallery stuff.
+     * Event listeners for *inside* the modal.
+     * Navigate, select featured image, and toggle <details>.
      */
-
-    const details = modal.getElementsByTagName(`details`)[0];
-    const summary = details.firstElementChild;
-
-    summary.addEventListener(`keydown`, (e) => {
-      switch (e.key) {
-        case `Enter`:
-          e.preventDefault();
-          details.toggleAttribute(`open`);
-          break;
-        case ` `:
-          e.preventDefault();
-          summary.toggleAttribute(`open`);
-          break;
-        default:
-          return;
-      }
-    }, true );
 
     // The event listener for the modal thumbnails.
     thumbs.addEventListener(`click`, imgClick);
@@ -379,8 +367,26 @@ export default class DialogGallery extends HTMLElement {
         }
       }
     }, true );
+
+    // Keyboard events for the <details> & <summary> element.
+    summary.addEventListener(`keydown`, (e) => {
+      switch (e.key) {
+        case `Enter`:
+          e.preventDefault();
+          details.toggleAttribute(`open`);
+          break;
+        case ` `:
+          e.preventDefault();
+          details.toggleAttribute(`open`);
+          break;
+        default:
+          return;
+      }
+    }, true );
+
   }
-}
+
+};
 
 if (`customElements` in window) {
   customElements.define(`dialog-gallery`, DialogGallery);
