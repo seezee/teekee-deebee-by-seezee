@@ -44,39 +44,39 @@ export default class DialogGallery extends HTMLElement {
     let modal = document.createElement(`dialog`);
     modal.setAttribute(`class`, `gallery-modal`);
     // `method="dialog"` captures the button click and closes the dialog.
-    modal.innerHTML = `
-  <form method="dialog">
-    <stack-l>
-      <div class="container">
-        <div class="gallery--img_main">
-          <figure>
-            <stack-l>
-              <img src="${defaultSrc}" alt="${defaultAlt}" id="current">
-              <figcaption></figcaption>
-            </stack-l>
-          </figure>
-        </div>
-        <div class="gallery--thumbs">
-        ${imgListHtml}
-        </div>
-      </div>
-      <div class="aligncenter">
-        <button class="button-primary" type="submit">Close</button>
-      </div>
+    modal.innerHTML = `<stack-l>
+      <form method="dialog">
+        <stack-l>
+          <div class="container">
+            <div class="gallery--img_main">
+              <figure>
+                <stack-l>
+                  <img src="${defaultSrc}" alt="${defaultAlt}" id="current">
+                  <figcaption></figcaption>
+                </stack-l>
+              </figure>
+            </div>
+            <div class="gallery--thumbs">
+              ${imgListHtml}
+            </div>
+          </div>
+          <div class="aligncenter">
+            <button class="button-primary" type="submit">Close</button>
+          </div>
+        </stack-l>
+      </form>
       <details>
         <summary>KEYBOARD HINTS</summary>
-          <stack-l>
-          <ul>
-            <li>Move forward = <kbd>Tab</kbd> <em>or</em> <kbd>&rarr;</kbd> </li>
-            <li>Move backward = <kbd>Shift</kbd> + <kbd>Tab</kbd> <em>or</em> <kbd>&larr;</kbd></li>
-            <li>Jump to end = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li>
-            <li>Jump to start = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li>
-            <li>Display selected image = <kbd>Enter</kbd></li>
-          </ul>
+        <stack-l>
+        <ul>
+          <li>Move forward = <kbd>Tab</kbd> <em>or</em> <kbd>&rarr;</kbd> </li>
+          <li>Move backward = <kbd>Shift</kbd> + <kbd>Tab</kbd> <em>or</em> <kbd>&larr;</kbd></li>
+          <li>Jump to end = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li>
+          <li>Jump to start = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li>
+          <li>Display selected image = <kbd>Enter</kbd></li>
+        </ul>
       </details>
-    </stack-l>
-  </form>
-    `;
+    <stack-l>`;
 
     // Add the dialog outside of the web component, but immediately after.
     this.parentNode.insertBefore(modal, this.parentNode.nextSibling);
@@ -216,6 +216,24 @@ export default class DialogGallery extends HTMLElement {
     /**
      * Gallery stuff.
      */
+
+    const details = modal.getElementsByTagName(`details`)[0];
+    const summary = details.firstElementChild;
+
+    summary.addEventListener(`keydown`, (e) => {
+      switch (e.key) {
+        case `Enter`:
+          e.preventDefault();
+          details.toggleAttribute(`open`);
+          break;
+        case ` `:
+          e.preventDefault();
+          summary.toggleAttribute(`open`);
+          break;
+        default:
+          return;
+      }
+    }, true );
 
     // The event listener for the modal thumbnails.
     thumbs.addEventListener(`click`, imgClick);
