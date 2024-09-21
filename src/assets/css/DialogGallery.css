@@ -68,7 +68,13 @@ dialog.gallery-modal {
   }
 
   .current {
-    opacity: 0.3;
+    filter: grayscale(.9);
+    opacity: .66;
+    outline-style: dotted;
+
+    &:focus-visible {
+      outline: var(--11ty-color-secondary-300) auto 1px;
+    }
   }
 
   .gallery--img_main .gallery--thumbs,

@@ -110,8 +110,12 @@ export default class DialogGallery extends HTMLElement {
         // Remove the `current` class from every image.
         thumbsList.forEach(thumbsList => (thumbsList.classList.remove(`current`)));
         // Change featured image src to src of clicked image.
-        let imgSrc  = e.target.src;
-        imgSrc      = imgSrc.replace(/^.*\/\/[^\/]+/, '');
+        let imgSrc = e.target.src;
+
+        // Strip the protocol and domain from the URL.
+        imgSrc = imgSrc.replace(/^.*\/\/[^\/]+/, '');
+
+        // Set the featured image path.
         current.src = imgSrc;
 
         // Set the featured image alt.
