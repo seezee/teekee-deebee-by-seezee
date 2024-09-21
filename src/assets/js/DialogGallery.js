@@ -109,9 +109,9 @@ export default class DialogGallery extends HTMLElement {
 
         // Remove the `current` class from every image.
         thumbsList.forEach(thumbsList => (thumbsList.classList.remove(`current`)));
-
         // Change featured image src to src of clicked image.
-        const imgSrc = e.target.src;
+        let imgSrc  = e.target.src;
+        imgSrc      = imgSrc.replace(/^.*\/\/[^\/]+/, '');
         current.src = imgSrc;
 
         // Set the featured image alt.
@@ -122,13 +122,16 @@ export default class DialogGallery extends HTMLElement {
 
         // Find the matching thumbnail. Resulting nodelist should contain only
         // one item.
-        const matchingImgNodeList = thumbs.querySelectorAll(`[src="${imgSrc}"]`);
+        const matchingImg = thumbs.querySelectorAll(`[src="${imgSrc}"]`)[0];
 
         // Add the `current` class to the thumbnail.
-        matchingImgNodeList.forEach(matchingImg => matchingImg.classList.add(`current`));
+        matchingImg.classList.add(`current`);
+
+        // Remove autofocus if it is set.
+        thumbsList.forEach(thumbsList => (thumbsList.removeAttribute(`autofocus`)));
 
         // Autofocus on the thumbnail.
-        matchingImgNodeList.forEach(matchingImg => matchingImg.setAttribute(`autofocus`, true));
+        matchingImg.setAttribute(`autofocus`, true);
 
         // Open the modal.
         modal.showModal();
@@ -145,10 +148,8 @@ export default class DialogGallery extends HTMLElement {
 
             modal.setAttribute(`data-disable-document-scroll`, true);
 
-            thumbsList.forEach(thumbsList => (thumbsList.classList.remove(`current`)));
-
-            const imgSrc = e.target.src;
-
+            let imgSrc  = e.target.src;
+            imgSrc      = imgSrc.replace(/^.*\/\/[^\/]+/, '');
             current.src = imgSrc;
 
             current.setAttribute(`alt`, clickedAlt);
@@ -157,10 +158,13 @@ export default class DialogGallery extends HTMLElement {
 
             thumbsList.forEach(thumbsList => (thumbsList.classList.remove(`current`)));
 
-            const matchingImgNodeList = thumbs.querySelectorAll(`[src="${imgSrc}"]`);
-            matchingImgNodeList.forEach(matchingImg => matchingImg.classList.add(`current`));
+            const matchingImg = thumbs.querySelectorAll(`[src="${imgSrc}"]`)[0];
 
-            matchingImgNodeList.forEach(matchingImg => matchingImg.setAttribute(`autofocus`, true));
+            matchingImg.classList.add(`current`);
+
+            thumbsList.forEach(thumbsList => (thumbsList.removeAttribute(`autofocus`)));
+
+            matchingImg.setAttribute(`autofocus`, true);
 
             modal.showModal();
 
