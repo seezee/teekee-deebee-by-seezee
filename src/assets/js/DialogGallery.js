@@ -76,7 +76,7 @@ export default class DialogGallery extends HTMLElement {
                 <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>Tab</kbd></li><li>Jump to end      = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre>
                 </dd>
                 <dt>Windows</dt>
-                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>Tab</kbd></li><li>Jump to end      = <kbd>⊞ Win</kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd>⊞ Win</kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre></details></stack-l></dd>
+                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>Tab</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⊞</span><span class="sr-only">Windows key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⊞</span><span class="sr-only">Windows key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre></details></stack-l></dd>
               </stack-l>
             </dl>
           </stack-l>

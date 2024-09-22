@@ -376,7 +376,7 @@ details {
   transition: height 0.5s ease;
   block-size: 2.5rem;
   inline-size: fit-content;
-  max-inline-size: 90%;
+  max-inline-size: 100%;
   padding-inline: var(--s0);
   padding-block: var(--s-4);
   margin-block-end: var(--s3);
@@ -405,6 +405,7 @@ details {
     &::-webkit-details-marker {
       display: none;
     }
+
   }
 
   > * {
@@ -427,6 +428,10 @@ details {
         transform: rotate(90deg);
       }
     }
+  }
+
+  pre {
+    white-space: pre-wrap;
   }
 }
 
