@@ -1,11 +1,11 @@
 {
   "name": "teekee-deebee-by-seezee",
-  "version": "1.0.196",
+  "version": "1.0.197",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "rimraf _site && npx @11ty/eleventy --serve --incremental",
+    "start": "npx rimraf _site && npx @11ty/eleventy --serve --incremental",
     "build": "npx @11ty/eleventy"
   },
   "keywords": [

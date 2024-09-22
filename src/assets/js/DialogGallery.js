@@ -67,18 +67,20 @@ export default class DialogGallery extends HTMLElement {
           </div>
         </stack-l>
       </form>
-        <details>
-          <summary>KEYBOARD HINTS</summary>
+      <details>
+        <summary>KEYBOARD HINTS</summary>
           <stack-l>
-          <ul>
-            <li>Move forward = <kbd>Tab</kbd> <em>or</em> <kbd>&rarr;</kbd> </li>
-            <li>Move backward = <kbd>Shift</kbd> + <kbd>Tab</kbd> <em>or</em> <kbd>&larr;</kbd></li>
-            <li>Jump to end = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li>
-            <li>Jump to start = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li>
-            <li>Display selected image = <kbd>Enter</kbd></li>
-          </ul>
-        </details>
-      </stack-l>`
+            <dl>
+              <stack-l>
+                <dt>MacOS</dt>
+                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>Tab</kbd></li><li>Jump to end      = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre>
+                </dd>
+                <dt>Windows</dt>
+                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>Tab</kbd></li><li>Jump to end      = <kbd>⊞ Win</kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd>⊞ Win</kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre></details></stack-l></dd>
+              </stack-l>
+            </dl>
+          </stack-l>
+            `
 
     // Add the dialog outside of the web component, but immediately after.
     this.parentNode.insertBefore(modal, this.parentNode.nextSibling);
@@ -90,6 +92,28 @@ export default class DialogGallery extends HTMLElement {
     const closeButton  = modal.querySelector(`button`);
     const details      = modal.getElementsByTagName(`details`)[0];
     const summary      = details.firstElementChild;
+    let   cols         = this.getAttribute(`cols`);
+    let   hint;
+
+    // Default columns for thumbnails is 8.
+    if (!cols) {
+      cols = `8`;
+    };
+
+    // Show the keyboard hint only if the hint attribute === TRUE.
+    if (!this.hasAttribute(`hint`)) {
+      details.setAttribute(`hidden`, true);
+    } else {
+      details.removeAttribute(`hidden`);
+    };
+
+    // Update the number of columns based on the cols attribute.
+    const style = document.createElement(`style`);
+    style.innerHTML = `
+    dialog.gallery-modal .gallery--thumbs {
+      grid-template-columns: repeat(${cols}, 1fr);
+    }`;
+    this.appendChild(style);
 
     /**
      * Open and close the dialog, update the featured image, and handle focus.
@@ -392,8 +416,7 @@ export default class DialogGallery extends HTMLElement {
       }
     }, true );
 
-  }
-
+  };
 };
 
 if (`customElements` in window) {
