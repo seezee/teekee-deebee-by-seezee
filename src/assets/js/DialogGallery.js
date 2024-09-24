@@ -73,10 +73,10 @@ export default class DialogGallery extends HTMLElement {
             <dl>
               <stack-l>
                 <dt>MacOS</dt>
-                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>Tab</kbd></li><li>Jump to end      = <kbd>⌘</kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd>⌘</kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre>
+                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>↹ Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>⇧ Shift</kbd> + <kbd>↹ Tab</kbd></li><li>Move down        = <kbd>⇧ Shift</kbd> + <kbd>&uarr;</kbd></li><li>Move up          = <kbd>⇧ Shift</kbd> + <kbd>&darr;</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⌘</span><span class="sr-only">Command key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⌘</span><span class="sr-only">Command key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre>
                 </dd>
                 <dt>Windows</dt>
-                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>Tab</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⊞</span><span class="sr-only">Windows key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⊞</span><span class="sr-only">Windows key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre></details></stack-l></dd>
+                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>↹ Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>↹ Tab</kbd></li><li>Move down        = <kbd>⇧ Shift</kbd> + <kbd>&uarr;</kbd></li><li>Move up          = <kbd>⇧ Shift</kbd> + <kbd>&darr;</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⊞ Windows</span><span class="sr-only">Windows key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⊞ Windows</span><span class="sr-only">Windows key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre></details></stack-l></dd>
               </stack-l>
             </dl>
           </stack-l>
@@ -95,9 +95,11 @@ export default class DialogGallery extends HTMLElement {
     let   cols         = this.getAttribute(`cols`);
     let   hint;
 
+    cols               = parseInt(cols);
+
     // Default columns for thumbnails is 8.
     if (!cols) {
-      cols = `8`;
+      cols = 8;
     };
 
     // Show the keyboard hint only if the hint attribute === TRUE.
@@ -293,19 +295,26 @@ export default class DialogGallery extends HTMLElement {
 
     thumbs.addEventListener(`keydown`, (e) => {
       let prevFocused = document.activeElement;
+      let parent      = prevFocused.parentNode;
+      let prevIndex   = Array.prototype.indexOf.call(parent.children, prevFocused);
+      let total       = thumbsList.length;
+      let remainder   = total % cols;
+      let goUp        = (total - remainder) + 1 + prevIndex;
+      let goUpShort   = (total - remainder) - (cols - 1) + prevIndex;
+      let goDown      = (remainder - total) + (prevIndex + 1);
+      let goDownShort = (remainder - total) + (cols + 1) + prevIndex;
+
+      if (goDownShort > cols) {
+        goDownShort = goDownShort - cols;
+      };
 
       if (e.defaultPrevented) {
         return; // Do nothing if the event was already processed
       };
 
-      // For the CMD + left/right arrow key combination.
-      let keyCode = e.keyCode || e.which,
-          arrow = {left: 37, right: 39 };
-
-      // The CMD key combo listener.
-      if (e.metaKey) {
-        switch (keyCode) {
-          case arrow.left:
+      if (e.metaKey) { // The CMD key combo listener.
+        switch (e.key) {
+          case `ArrowLeft`:
             e.preventDefault();
 
             // Get the first thumbnail.
@@ -316,7 +325,7 @@ export default class DialogGallery extends HTMLElement {
 
             break;
 
-          case arrow.right:
+          case `ArrowRight`:
             e.preventDefault();
 
              // Get the last thumbnail.
@@ -330,6 +339,60 @@ export default class DialogGallery extends HTMLElement {
           default:
             return;
         }
+        // Cancel the default action to avoid it being handled twice.
+        e.preventDefault();
+      } else if (e.shiftKey) { // The shift key combo listener.
+        switch (e.key) {
+          case `ArrowUp`:
+            e.preventDefault();
+
+            // Get the offset, based on the `cols` attribute.
+            let upFocusedIndex = prevIndex - (cols - 1);
+
+            let upFocused;
+
+            if (upFocusedIndex > 0) {
+            // Find the element directly above.
+              upFocused = parent.querySelector(`:nth-child(${upFocusedIndex})`);
+            } else {
+              upFocused = parent.querySelector(`:nth-child(${goUp})`);
+
+              if (upFocused < total) {
+                upFocused = parent.querySelector(`:nth-child(${goUpShort})`);
+              };
+
+            };
+
+            // Move focus to the element.
+            upFocused.focus();
+
+            break;
+
+          case `ArrowDown`:
+            e.preventDefault();
+
+            let downFocusedIndex = prevIndex + (cols + 1);
+
+            let downFocused;
+
+            if (downFocusedIndex < total + 1) {
+              downFocused = parent.querySelector(`:nth-child(${downFocusedIndex})`);
+            } else {
+              downFocused = parent.querySelector(`:nth-child(${goDown})`);
+              if (downFocusedIndex > total - (cols + 1)) {
+                downFocused = parent.querySelector(`:nth-child(${goDownShort})`);
+                console.log(`Foo`);
+              };
+            };
+
+            downFocused.focus();
+
+            break;
+
+          default:
+            return;
+        }
+        e.preventDefault();
       } else {
         switch (e.key) {
 
@@ -397,7 +460,8 @@ export default class DialogGallery extends HTMLElement {
           default:
             return;
         }
-      }
+        e.preventDefault();
+      };
     }, true );
 
     // Keyboard events for the <details> & <summary> element.
