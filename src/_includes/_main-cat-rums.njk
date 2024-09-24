@@ -6,7 +6,7 @@ layout: layout.njk
     {{ content | safe }}
     <switcher-l threshold="32.5rem">
       <stack-l>
-        <h2>Molasses &amp; Evaporated Cane Rums</h2>
+        <h2 id="molasses-evaporated-cane-rums"><a href="#molasses-evaporated-cane-rums" class="app-link--heading govuk-link">Molasses &amp; Evaporated Cane Rums</a></h2>
         <ul class="index">
           {%- for post in collections.rumsAscending -%}
             <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}<icon-l space="1em" class="bigger" label="{{ post.data.label }}"><span class="with-icon"><svg class="icon"><use href="{{ post.data.category }}"></use></svg></span></icon-l></a></li>
@@ -14,7 +14,7 @@ layout: layout.njk
         </ul>
       </stack-l>
       <stack-l>
-        <h2>Fresh Cane Juice Rums</h2>
+        <h2 id="fresh-cane-juice-rums"><a href="#fresh-cane-juice-rums" class="app-link--heading govuk-link">Fresh Cane Juice Rums</a></h2>
         <ul class="index">
           {%- for post in collections.rhumsAscending -%}
             <li{% if page.url == post.url %} aria-current="page"{% endif %}><a href="{{ post.url }}">{{ post.data.title }}<icon-l space="1em" class="bigger" label="{{ post.data.label }}"><span class="with-icon"><svg class="icon"><use href="{{ post.data.category }}"></use></svg></span></icon-l></a></li>

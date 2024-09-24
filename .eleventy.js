@@ -219,7 +219,7 @@ module.exports = function(eleventyConfig) {
   });
   // Extended Markdown
   eleventyConfig.addPlugin(govukEleventyPlugin, {
-    // Options
+    headingPermalinks: true,
   })
   // HTML minification
   eleventyConfig.addPlugin(eleventyPluginFilesMinifier);

@@ -435,8 +435,6 @@ details {
   }
 }
 
-
-
 .index {
   li {
     list-style-type: none;
@@ -683,6 +681,23 @@ a:visited {
     text-decoration-thickness: .5rem;
     text-underline-offset: .5rem;
     color: var(--tiki-nav-current-color);
+  }
+}
+
+.app-link--heading.govuk-link {
+  text-decoration: none;
+
+  /* Prevent layout shift on hover */
+  &:after {
+    display: inline-block;
+    white-space: pre;
+    content: '\0020\0020';
+    min-inline-size: 2ch;
+  }
+
+  &:hover:after,
+  &:focus:after {
+    content: '\0020#';
   }
 }
 
