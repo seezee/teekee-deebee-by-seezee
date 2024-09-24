@@ -8,7 +8,9 @@
 dialog-gallery {
   img {
     cursor: pointer;
-  }
+    box-shadow: var(--tiki-shadow-elevation-high);
+    border-radius: var(--tiki-radius-2x);
+   }
 }
 
 dialog.gallery-modal {
@@ -68,6 +70,7 @@ dialog.gallery-modal {
   }
 
   img {
+    box-shadow: var(--tiki-shadow-image-gallery-modal);
 
     &.current {
       filter: grayscale(.9);
@@ -78,6 +81,14 @@ dialog.gallery-modal {
 
     &:focus-visible {
       outline: var(--11ty-color-secondary-300) solid var(--s-5);
+    }
+
+    &:not(#current) {
+      border-radius: var(--tiki-radius-2x);
+    }
+
+    &#current {
+      border: var(--s1) solid var(--tiki-photo-border-color);
     }
   }
 
