@@ -3,12 +3,25 @@
 :root {
   /* Set fade in duration */
   --fade-time: 0.5s;
+  --tiki-shadow-color-modal: 340deg 9% 49%;
+
+  & dialog.gallery-modal {
+    --tiki-shadow-color: var(--tiki-shadow-color-modal);
+  }
+
+  &[data-theme='dark'] {
+    --tiki-shadow-color-modal: 0deg 13% 0%;
+
+    & dialog.gallery-modal {
+      --tiki-shadow-color: var(--tiki-shadow-color-modal);
+    }
+  }
 }
 
 dialog-gallery {
   img {
     cursor: pointer;
-    box-shadow: var(--tiki-shadow-elevation-high);
+    box-shadow: var(--tiki-shadow-elevation-med);
     border-radius: var(--tiki-radius-2x);
    }
 }
@@ -70,7 +83,7 @@ dialog.gallery-modal {
   }
 
   img {
-    box-shadow: var(--tiki-shadow-image-gallery-modal);
+    box-shadow: var(--tiki-shadow-elevation-med);
 
     &.current {
       filter: grayscale(.9);

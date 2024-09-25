@@ -9,7 +9,9 @@ document.addEventListener(`DOMContentLoaded`, () => {
 
   let grids = [...document.querySelectorAll(`.masonry`)];
 
-  if((grids.length && getComputedStyle(grids[0]).gridTemplateRows === `masonry`)) {
+  // Check for support using both of the proposed syntaxes;
+  // see https://github.com/w3c/csswg-drafts/issues/9041
+  if((grids.length && (getComputedStyle(grids[0]).gridTemplateRows === `masonry` || getComputedStyle(grids[0]).display === `masonry`))) {
     console.log(`Masonry supported in this browser; doing nothing`);
   } else { // Masonry not supported in this browser.
     grids = grids.map(grid => ({
