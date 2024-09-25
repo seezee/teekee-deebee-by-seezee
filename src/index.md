@@ -1,5 +1,7 @@
 ---
 layout: _article.njk
+title: Home
+tags: home
 ---
 
 <!-- markdownlint-disable MD025 -->

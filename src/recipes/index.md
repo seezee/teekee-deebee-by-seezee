@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Recipe Index
+index: true
 eleventyExcludeFromCollections: true
 ---
 
@@ -54,7 +55,9 @@ eleventyExcludeFromCollections: true
     {%- endfor -%}
     <!-- <dt id="i"><a href="#recipes-i" class="app-link--heading govuk-link"><span id="recipes-i">I</span></a></dt>
     {%- for post in collections.recipesAscendingI -%}
-      <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
+      {% if not (index) %}
+        <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
+      {% endif %}
     {%- endfor -%} -->
     <dt id="j"><a href="#recipes-j" class="app-link--heading govuk-link"><span id="recipes-j">J</span></a></dt>
     {%- for post in collections.recipesAscendingJ -%}
