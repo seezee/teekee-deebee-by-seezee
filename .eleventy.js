@@ -396,8 +396,10 @@ module.exports = function(eleventyConfig) {
       return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
     });
   });
-// Copy `/favicon/` to `_site/`
-eleventyConfig.addPassthroughCopy({ 'favicon': '/' });
+eleventyConfig.addPassthroughCopy({
+  // Copy `/favicon/` to `_site/`
+  'favicon': '/'
+ });
 // Set custom directory for input; otherwise use defaults
   return {
     // Site URL
@@ -411,7 +413,7 @@ eleventyConfig.addPassthroughCopy({ 'favicon': '/' });
     dataTemplateEngine: `njk`,
     // Set up directory structure:
     dir: {
-      input: `src`
+      input: `src`,
     },
   };
 };
