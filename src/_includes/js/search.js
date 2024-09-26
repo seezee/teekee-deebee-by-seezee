@@ -8,9 +8,12 @@
   const results = document.getElementById(`searchResults-box`);
   const close   = document.getElementsByClassName(`searchClose`);
   const clear   = document.getElementById(`searchClear`);
+  const resEl   = document.getElementById(`searchResults`);
+
 
   clear.addEventListener(`click`, function(){
     form.reset();
+    resEl.innerHTML = ``;
 
     clear.setAttribute(`class`, `hide`);
     clear.setAttribute(`aria-hidden`, `true`);
@@ -66,15 +69,16 @@
   });
 
   searchField.addEventListener(`focusout`, (e) => {
+    let clearIsFocused = false;
     clear.addEventListener(`focusin`, (e) => {
-      let clearIsFocused = TRUE;
+      clearIsFocused = true;
+      if ((searchField.value !== ``) || (clearIsFocused === true)) {
+        return;
+      } else {
+        hint.removeAttribute(`class`);
+        hint.removeAttribute(`aria-hidden`);
+      };
     });
-    if ((searchField.value !== ``) || (clearIsFocused === TRUE)) {
-      return;
-    } else {
-      hint.removeAttribute(`class`);
-      hint.removeAttribute(`aria-hidden`);
-    }
     // Don't hide the results box on focusout so users have time to parse and
     // act on the results.
   });
@@ -100,7 +104,6 @@
       expand: true,
     });
 
-    const resEl = document.getElementById(`searchResults`);
     // The message to display when no results are found.
     const noResultsEl = document.getElementById(`noResultsFound`);
 

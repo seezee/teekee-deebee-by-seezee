@@ -1,5 +1,3 @@
-@import 'https://unpkg.com/open-props/easings.min.css';
-
 @property --11ty-color-primary-900 {
     syntax: '<color>';
     inherits: false;
