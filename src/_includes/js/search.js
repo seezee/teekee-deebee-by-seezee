@@ -163,7 +163,7 @@
         charSVG.setAttribute(`width`, `24px`);
 
         typeTitle.textContent = `Type: `;
-        charTitle.textContent = `Charcteristic: `;
+        charTitle.textContent = `Characteristic: `;
         baseTitle.textContent = `Base: `;
 
         typePath.setAttribute(`d`, `M35.3 0C15.8 0 0 15.8 0 35.3c0 9.4 3.7 18.3 10.3 25L232 281.9V464h-80c-13.3 0-24 10.7-24 24s10.7 24 24 24h208c13.3 0 24-10.7 24-24s-10.7-24-24-24h-80V281.9L501.7 60.3c6.6-6.6 10.3-15.6 10.3-25C512 15.8 496.2 0 476.7 0H35.3zm282.8 176L256 238.1 193.9 176h124.2zm48-48H145.9l-80-80h380.2l-80 80z`); // Cocktail glass
