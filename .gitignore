@@ -1,10 +1,10 @@
 # VSCode
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# *.code-workspace
 # Local History for Visual Studio Code
 .history/
 
@@ -22,7 +22,7 @@ node_modules/
 creds.js
 
 # Private Files
-*.json
+# *.json
 *.csv
 *.csv.gz
 *.tsv
