@@ -58,5 +58,3 @@ permalink: "/gallery/index.html"
   ![Zombie Frankenstein](/assets/images/tiki-gallery/zombie-frank.jpg)
   ![Zombie (Beachbum Berry Edition)](/assets/images/tiki-gallery/zombie-bumberry.jpg)
 </dialog-gallery>
-
-<hello-world></hello-world>

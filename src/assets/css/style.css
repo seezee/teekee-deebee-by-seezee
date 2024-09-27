@@ -1185,18 +1185,21 @@ main ul li::marker {
 .masonry {
   display: grid;
   grid-template-columns: repeat(auto-fit, var(--tiki-masonry-width));
-  justify-content: center;
   grid-gap: var(--tiki-masonry-gap);
+  justify-content: center;
   padding: var(--tiki-masonry-gap);
-  grid-template-rows: masonry;
 
-  > * {
-    width: var(--tiki-masonry-width);
-  }
+  /* @supports (grid-template-rows: masonry) { */
+    grid-template-rows: masonry;
+  /* } */
 
   @supports (display: masonry) { /* Alternate syntax. */
     display: masonry;
     masonry-template-tracks: repeat(auto-fit, var(--tiki-masonry-width));
     gap: var(--tiki-masonry-gap);
+  }
+
+  > * {
+    width: var(--tiki-masonry-width);
   }
 }
