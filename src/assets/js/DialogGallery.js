@@ -92,6 +92,7 @@ export default class DialogGallery extends HTMLElement {
     const closeButton  = modal.querySelector(`button`);
     const details      = modal.getElementsByTagName(`details`)[0];
     const summary      = details.firstElementChild;
+    const hostname     = this.getAttribute(`host`);
     let   cols         = this.getAttribute(`cols`);
 
     cols               = parseInt(cols);
@@ -137,8 +138,16 @@ export default class DialogGallery extends HTMLElement {
         // Change featured image src to src of clicked image.
         let imgSrc = e.target.src;
 
-        // Strip the protocol and domain from the URL.
-        imgSrc = imgSrc.replace(/^.*\/\/[^\/]+/, '');
+        // Get the hostname from the image URL
+        let host = imgSrc.match(/:\/\/(www\.)?(.[^/:]+)/i)[2];
+
+        // If the image is hosted on the dev or production server,
+        // strip the protocol and domain from the URL.
+        // Only works if the URL uses a relative path!
+        // `hostename` constant is an attribute of <dialog-gallery>.
+        if (host === `localhost` || host === `127.0.0.1` || host === hostname) {
+          imgSrc = imgSrc.replace(/^.*\/\/[^\/]+/, '');
+        };
 
         // Set the featured image path.
         current.src = imgSrc;
@@ -178,7 +187,12 @@ export default class DialogGallery extends HTMLElement {
             modal.setAttribute(`data-disable-document-scroll`, true);
 
             let imgSrc  = e.target.src;
-            imgSrc      = imgSrc.replace(/^.*\/\/[^\/]+/, '');
+            let host = imgSrc.match(/:\/\/(www\.)?(.[^/:]+)/i)[2];
+
+            if (host === `localhost` || host === `127.0.0.1` || host === hostname) {
+              imgSrc = imgSrc.replace(/^.*\/\/[^\/]+/, '');;
+            };
+
             current.src = imgSrc;
 
             current.setAttribute(`alt`, clickedAlt);

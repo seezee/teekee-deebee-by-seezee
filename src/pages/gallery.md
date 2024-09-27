@@ -8,7 +8,7 @@ permalink: "/gallery/index.html"
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<dialog-gallery hint>
+<dialog-gallery hint host="tinypaperumbrella.com">
 
   ![12 Mile Limit](/assets/images/tiki-gallery/12-mile-limit.jpg)
   ![Aku Aku](/assets/images/tiki-gallery/aku-aku.jpg)
