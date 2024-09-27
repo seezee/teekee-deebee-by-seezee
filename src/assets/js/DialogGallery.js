@@ -138,7 +138,7 @@ export default class DialogGallery extends HTMLElement {
         let imgSrc = e.target.src;
 
         // Strip the protocol and domain from the URL.
-        // imgSrc = imgSrc.replace(/^.*\/\/[^\/]+/, '');
+        imgSrc = imgSrc.replace(/^.*\/\/[^\/]+/, '');
 
         // Set the featured image path.
         current.src = imgSrc;
