@@ -9,7 +9,7 @@
   const close   = document.getElementsByClassName(`searchClose`);
   const clear   = document.getElementById(`searchClear`);
   const resEl   = document.getElementById(`searchResults`);
-
+  const resLink = document.getElementById(`results-link`);
 
   clear.addEventListener(`click`, function(){
     form.reset();
@@ -23,6 +23,8 @@
 
     results.setAttribute(`class`, `hide`);
     results.setAttribute(`aria-hidden`, `true`);
+
+    resLink.setAttribute(`tabindex`, `-1`);
   });
 
 
@@ -66,6 +68,7 @@
     clear.removeAttribute(`aria-hidden`);
     results.setAttribute(`class`,`show`);
     results.removeAttribute(`aria-hidden`);
+    resLink.removeAttribute(`tabindex`);
   });
 
   searchField.addEventListener(`focusout`, (e) => {

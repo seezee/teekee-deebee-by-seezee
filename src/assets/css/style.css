@@ -978,7 +978,7 @@ div.col-5 {
 /* Search */
 
 #results-link {
-  inline-size: 100%;
+  z-index: 100;
 }
 
 #searchField {
