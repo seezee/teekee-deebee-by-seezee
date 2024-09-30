@@ -58,20 +58,3 @@ permalink: "/gallery/index.html"
   ![Zombie Frankenstein](/assets/images/tiki-gallery/zombie-frank.jpg)
   ![Zombie (Beachbum Berry Edition)](/assets/images/tiki-gallery/zombie-bumberry.jpg)
 </dialog-gallery>
-
-## Test Gallery
-
-<dialog-gallery>
-
-  ![Foo](https://picsum.photos/id/237/200/300)
-  ![Foo](https://picsum.photos/id/238/200/400)
-  ![Foo](https://picsum.photos/id/239/300/300)
-  ![Foo](https://picsum.photos/id/240/300/200)
-  ![Foo](https://picsum.photos/id/241/400/300)
-  ![Foo](https://picsum.photos/id/23/200/300)
-  ![Foo](https://picsum.photos/id/24/200/400)
-  ![Foo](https://picsum.photos/id/25/300/300)
-  ![Foo](https://picsum.photos/id/26/300/200)
-  ![Foo](https://picsum.photos/id/27/400/300)
-  ![Foo](https://picsum.photos/id/28/600/300)
-</dialog-gallery>
