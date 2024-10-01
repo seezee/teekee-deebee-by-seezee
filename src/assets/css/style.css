@@ -753,8 +753,8 @@ icon-l {
   inline-size: .5ch;
 }
 
-svg:not(#tiki-mask-icon),
-svg:not(#tiki-mask-icon)  path {
+svg:not(#wagasa-umbrella-icon):not(#tiki-mask-icon),
+svg:not(#wagasa-umbrella-icon):not(#tiki-mask-icon)  path {
   fill: var(--11ty-color-textPrimary);
 }
 

@@ -8,6 +8,9 @@
       {% if previousRecipe %}
         <a href="{{ previousRecipe.url }}" id="page-previous">← Previous</a>
       {% endif %}
+      <div id="tiki-mask-icon-wrapper">
+        <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
+      </div>
       {% if nextRecipe %}
         <a href="{{ nextRecipe.url }}" id="page-next">Next →</a>
       {% endif %}

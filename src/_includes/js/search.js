@@ -23,6 +23,7 @@
 
     results.setAttribute(`class`, `hide`);
     results.setAttribute(`aria-hidden`, `true`);
+    results.setAttribute(`aria-expanded`, `false`);
 
     resLink.setAttribute(`tabindex`, `-1`);
   });
@@ -32,6 +33,8 @@
     closeButton.addEventListener(`click`, function(){
       results.setAttribute(`class`, `hide`);
       results.setAttribute(`aria-hidden`, `true`);
+      results.setAttribute(`aria-expanded`, `false`);
+
     });
   }
 
@@ -59,6 +62,7 @@
   if (results) {
     results.setAttribute(`class`, `hide`);
     results.setAttribute(`aria-hidden`, `true`);
+    results.setAttribute(`aria-expanded`, `false`);
   }
 
   searchField.addEventListener(`focusin`, (e) => {
@@ -67,6 +71,7 @@
     clear.removeAttribute(`class`);
     clear.removeAttribute(`aria-hidden`);
     results.setAttribute(`class`,`show`);
+    results.setAttribute(`aria-expanded`, `true`);
     results.removeAttribute(`aria-hidden`);
     resLink.removeAttribute(`tabindex`);
   });
