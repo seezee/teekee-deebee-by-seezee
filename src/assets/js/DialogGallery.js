@@ -94,7 +94,7 @@ export default class DialogGallery extends HTMLElement {
     const details       = modal.getElementsByTagName(`details`)[0];
     const summary       = details.firstElementChild;
     // Set this attribute if the image source path is relative.
-    const stripProtocol = this.getAttribute(`strip`);
+    const stripProtocol = this.getAttribute(`rel`);
     // If this attribute is present, it will affect all galleries on the page.
     // The final gallery wins because its style rule is read last.
     let   cols          = this.getAttribute(`cols`);
@@ -103,8 +103,11 @@ export default class DialogGallery extends HTMLElement {
 
     // Default columns for thumbnails is 8.
     if (!cols) {
-      cols = 8;
+      cols = 6;
     };
+
+    // Update the number of columns based on the cols attribute.
+    thumbs.classList.add(`gallery--thumbs_` + cols);
 
     // Show the keyboard hint only if the hint attribute === TRUE.
     if (!this.hasAttribute(`hint`)) {
@@ -112,14 +115,6 @@ export default class DialogGallery extends HTMLElement {
     } else {
       details.removeAttribute(`hidden`);
     };
-
-    // Update the number of columns based on the cols attribute.
-    const style = document.createElement(`style`);
-    style.innerHTML = `
-    dialog.gallery-modal .gallery--thumbs {
-      grid-template-columns: repeat(${cols}, 1fr);
-    }`;
-    this.appendChild(style);
 
     /**
      * Open and close the dialog, update the featured image, and handle focus.
@@ -148,7 +143,7 @@ export default class DialogGallery extends HTMLElement {
         // If the image is hosted on the dev or production server or if the
         // stripProtocol attribute is set, strip the protocol and domain from
         // the URL. Only works if the URL uses a relative path!
-        if (host === `localhost` || host === `127.0.0.1` || this.hasAttribute(`strip`)) {
+        if (host === `localhost` || host === `127.0.0.1` || this.hasAttribute(`rel`)) {
           imgSrc = imgSrc.replace(/^.*\/\/[^\/]+/, '');
         };
 
@@ -446,7 +441,7 @@ export default class DialogGallery extends HTMLElement {
 
           case `ArrowLeft`: // Navigate through the thumbnails.
 
-            if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.className === `gallery--thumbs`) {
+            if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.classList.contains(`gallery--thumbs`)) {
 
               e.preventDefault();
 
@@ -466,7 +461,7 @@ export default class DialogGallery extends HTMLElement {
 
           case `ArrowRight`:
 
-            if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.className === `gallery--thumbs`) {
+            if (prevFocused.nodeName === `IMG` && prevFocused.parentNode.classList.contains(`gallery--thumbs`)) {
 
               e.preventDefault();
 

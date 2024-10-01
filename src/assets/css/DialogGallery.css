@@ -114,8 +114,48 @@ dialog.gallery-modal {
 
   .gallery--thumbs {
     display: grid;
-    grid-template-columns: repeat(8, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-gap: var(--s-2);
+
+    &.gallery--thumbs_3 {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    &.gallery--thumbs_4 {
+      grid-template-columns: repeat(4, 1fr);
+    }
+
+    &.gallery--thumbs_5 {
+      grid-template-columns: repeat(5, 1fr);
+    }
+
+    &.gallery--thumbs_6 {
+      grid-template-columns: repeat(6, 1fr);
+    }
+
+    &.gallery--thumbs_7 {
+      grid-template-columns: repeat(7, 1fr);
+    }
+
+    &.gallery--thumbs_8 {
+      grid-template-columns: repeat(8, 1fr);
+    }
+
+    &.gallery--thumbs_9 {
+      grid-template-columns: repeat(9, 1fr);
+    }
+
+    &.gallery--thumbs_10 {
+      grid-template-columns: repeat(10, 1fr);
+    }
+
+    &.gallery--thumbs_11 {
+      grid-template-columns: repeat(11, 1fr);
+    }
+
+    &.gallery--thumbs_12 {
+      grid-template-columns: repeat(12, 1fr);
+    }
   }
 
   .gallery--thumbs img {
