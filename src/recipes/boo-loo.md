@@ -68,5 +68,5 @@ Garnish
 1. Add the first three ingredients (pineapple chunks, pineapple juice, and lime juice) to a drink mixer tin and muddle
 2. Add the remaining ingredients along with 12 ounces of crushed ice and 4 to 6 small ice cubes to the tin
 3. Flash blend 3 to 4 seconds
-4. Pour with gated finish in to a hollowed-out pineapple
+4. Pour with gated finish into a hollowed-out pineapple
 5. Close the pineapple with the lid and insert two straws

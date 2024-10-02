@@ -18,6 +18,13 @@ eleventyExcludeFromCollections: true
   You are free to change portions and proportions to suit your own stamina and taste.
 
 {% endcallout %}
+<!-- markdownlint-disable MD012 -->
+{% callout "note" %}
+<!-- markdownlint-enable MD012 -->
+
+  In recipes calling for pineapple juice, use either fresh or unsweetened packaged juice. Do not used sweetened juice.
+
+{% endcallout %}
 
 <div class="col-3">
   <dl class="recipe-index">
