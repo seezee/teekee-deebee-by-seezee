@@ -21,7 +21,7 @@ glass:
   - mai tai
   - double old-fashioned
   - double rocks
-origin: <stack-l><p>Trader Vic invented this classic in 1944, although Don the Beachcomber claims it was merely a copy of his Q.B. Cooler. Don also claimed to have invented the mai tai, but in 1970 an out-of-court settlement awarded the naming rights to Vic.</p><p>According to legend, he was entertaining two friends from Tahiti, Ham and Carrie Guild, when he concocted the recipe. When Carrie sipped the elixir, she exclaimed <q>Maita'i Roe A'e</q> (<q>Out of this World&thinsp;—&thinsp;The Best</q>), giving the drink its moniker.</p>
+origin: <stack-l><p>Trader Vic invented this classic in 1944, although Don the Beachcomber claims it was merely a copy of his Q.B. Cooler. Don also claimed to have invented the mai tai, but in 1970 an out-of-court settlement awarded the naming rights to Vic.</p><p>According to legend, Vic was entertaining two friends from Tahiti, Ham and Carrie Guild, when he concocted the recipe. When Carrie sipped the elixir, she exclaimed <q>Maita'i Roe A'e</q> (<q>Out of this World&thinsp;—&thinsp;The Best</q>), giving the drink its moniker.</p>
 source: Trader Vic's Bartender's Guide
 decade:
 - 1940
