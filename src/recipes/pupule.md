@@ -64,3 +64,11 @@ Garnish
 3. Flash blend 3 to 4 seconds
 4. Open pour with gated finish into footed pilsner glass
 5. Add garnish
+
+<!-- markdownlint-disable MD012 -->
+{% callout "note" %}
+<!-- markdownlint-enable MD012 -->
+
+  Jeff Berry specifies gold Virgin Islands rum, such as Cruzan Single Barrel, in this recipe.
+
+{% endcallout %}

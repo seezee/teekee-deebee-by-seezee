@@ -7,12 +7,20 @@
     <cluster-l justify="space-between">
       {% if previousRecipe %}
         <a href="{{ previousRecipe.url }}" id="page-previous">← Previous</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
       <div id="tiki-mask-icon-wrapper">
-        <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}</a>
+        {% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}
       </div>
       {% if nextRecipe %}
         <a href="{{ nextRecipe.url }}" id="page-next">Next →</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
     </cluster-l>
   </nav>
@@ -27,9 +35,20 @@
     <cluster-l justify="space-between">
       {% if previousMix %}
         <a href="{{ previousMix.url }}" id="page-previous">← Previous</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
+      <div id="tiki-mask-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}
+      </div>
       {% if nextMix %}
         <a href="{{ nextMix.url }}" id="page-next">Next →</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
     </cluster-l>
   </nav>
@@ -44,9 +63,20 @@
     <cluster-l justify="space-between">
       {% if previousRum %}
         <a href="{{ previousRum.url }}" id="page-previous">← Previous</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
+      <div id="tiki-mask-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}
+      </div>
       {% if nextRum %}
         <a href="{{ nextRum.url }}" id="page-next">Next →</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
     </cluster-l>
   </nav>
@@ -62,9 +92,20 @@
     <cluster-l justify="space-between">
       {% if previousrhum %}
         <a href="{{ previousrhum.url }}" id="page-previous">← Previous</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
+      <div id="tiki-mask-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/tiki-mask.svg" %}
+      </div>
       {% if nextrhum %}
         <a href="{{ nextrhum.url }}" id="page-next">Next →</a>
+      {% else %}
+      <div id="wagasa-icon-wrapper">
+        {% svgIcon "./_site/assets/images/icons/wagasa.svg" %}
+      </div>
       {% endif %}
     </cluster-l>
   </nav>

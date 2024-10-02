@@ -52,7 +52,7 @@ ingredients:
   <stack-l>
   <p>Note the expiration date on the butter before making this mixture. The batter will keep, sealed and refrigerated, until that date.</p>
   
-  <p>Alternatively, pour the batter into an ice cube tray and freeze. Remove the frozen batter cubes from the tray and store frozen in a freezer bag (remove as much air from the bag before sealing). Allow to thaw partially before using.</p>
+  <p>Alternatively, pour the batter into an ice cube tray and freeze. Remove the frozen batter cubes from the tray and store frozen in a freezer bag (remove as much air from the bag as possible before sealing). Allow to thaw partially before using.</p>
   <stack-l>
 
 {% endcallout %}
