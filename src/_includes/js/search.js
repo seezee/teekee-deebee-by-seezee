@@ -3,15 +3,15 @@
 (function (window, document) {
   `use strict`;
 
-  const form    = document.getElementById(`searchForm`);
-  const hint    = document.getElementById(`search-hint__wrapper`);
-  const results = document.getElementById(`searchResults-box`);
-  const close   = document.getElementsByClassName(`searchClose`);
-  const clear   = document.getElementById(`searchClear`);
-  const resEl   = document.getElementById(`searchResults`);
-  const resLink = document.getElementById(`results-link`);
+  const form     = document.getElementById(`searchForm`);
+  const hint     = document.getElementById(`search-hint__wrapper`);
+  const results  = document.getElementById(`searchResults-box`);
+  const close    = document.getElementsByClassName(`searchClose`);
+  const clear    = document.getElementById(`searchClear`);
+  const resEl    = document.getElementById(`searchResults`);
+  const resLink  = document.getElementById(`results-link`);
 
-  clear.addEventListener(`click`, function(){
+  clear.addEventListener(`click`, function() {
     form.reset();
     resEl.innerHTML = ``;
 
@@ -30,7 +30,7 @@
 
 
   for (let closeButton of close) {
-    closeButton.addEventListener(`click`, function(){
+    closeButton.addEventListener(`click`, function() {
       results.setAttribute(`class`, `hide`);
       results.setAttribute(`aria-hidden`, `true`);
       results.setAttribute(`aria-expanded`, `false`);
@@ -275,6 +275,20 @@
 
     // Hide the no results message when the search input loses focus.
     document.getElementById(`searchField`).addEventListener(`focusout`, hide);
+
+    // Highlight the first search result.
+    let   resActive   = resEl.getElementsByTagName(`li`)[0];
+    const linkFocus   = resActive.firstElementChild;
+
+    linkFocus.setAttribute(`id`, `searchResults--firstLink`)
+
+    form.addEventListener(
+      `submit`,
+      (e) => {
+        e.preventDefault();
+        linkFocus.focus();
+      }
+    );
   };
 
   fetch(`/search-index.json`).then((response) =>
