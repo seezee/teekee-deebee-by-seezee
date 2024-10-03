@@ -1022,21 +1022,35 @@ div.col-5 {
 
 .search-item {
 
-  & a {
+  a {
     font-weight: 700;
     text-decoration: none;
   }
 
-  & svg {
+  svg {
     display: inline-block;
     vertical-align: middle;
     margin-inline: .5ch;
   }
 
-  & .search-list-nested {
+
+  .search-list-nested {
     padding-inline-start: 0;
     margin-inline-start: -.5ch;
     list-style: none;
+
+    li { /* hanging indent */
+      text-indent: -2.7ch;
+      margin-inline-start: 2.7ch;
+    }
+  }
+
+  @supports (hanging-punctuation: first) {
+    .search-list-nested li {
+      text-indent: 0;
+      margin-inline-start: revert;
+      hanging-punctuation: first allow-end last;
+    }
   }
 }
 
