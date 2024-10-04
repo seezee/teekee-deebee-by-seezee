@@ -33,7 +33,7 @@ Origin
   : {{ origin }}
 
 Source
-  : {{ source }}.
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Footed pilsner
