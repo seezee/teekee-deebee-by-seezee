@@ -41,7 +41,7 @@ Glassware
 ## Ingredients
 
 - 1 ounce fresh lemon juice
-- 1&frac12; ounces coconut cream
+- 1&frac12; ounces [coconut cream](/mixes/coconut-cream)
 - 1 ounce natural apricot liqueur
 - 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 - 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>

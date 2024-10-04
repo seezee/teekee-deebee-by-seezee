@@ -42,7 +42,7 @@ Glassware
 
 - 1 ounce unsweetened pineapple juice
 - 1/2 ounce fresh lime juice
-- 1/2 ounce rich Demerara syrup
+- 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 - 3/4 ounces Campari
 - 1&frac12; ounces [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 

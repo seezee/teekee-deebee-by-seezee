@@ -40,7 +40,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/2 ounce passion fruit syrup
+* 1/2 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce natural pear liqueur
 * 1/4 ounce Drambuie liqueur
 * 2 ounces seltzer

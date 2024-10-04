@@ -43,7 +43,7 @@ Glassware
 
 * 3 ounces unsweetened pineapple juice
 * 1 ounce fresh lemon juice
-* 1/4 to 1/2 ounce[^1] Demerara syrup
+* 1/4 to 1/2 ounce[^1] [rich Demerara syrup](/mixes/rich-demerara-syrup)
 * 1 ounce ginger liqueur
 * 1/2 ounce allspice (pimento) dram
 * 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" label="(5)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>

@@ -40,7 +40,7 @@ Glassware
 ### Per Serving
 
 * 1&frac12; ounces fresh lemon juice
-* 1 ounce honey syrup
+* 1 ounce [honey syrup](/mixes/honey-syrup)
 * 1/2 ounce Yellow Chartreuse
 * 1&frac12; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
@@ -71,4 +71,4 @@ Garnish
 7. If using a punch bowl, serve with a ladle
 8. Garnish individual servings with a lemon wedge or a lemon twist and a mint sprig
 
-[^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.

@@ -44,7 +44,7 @@ Glassware
 
 - 1/2 ounce fresh lime juice
 - 1/2 ounce fresh orange juice
-- 1/2 ounce honey syrup
+- 1/2 ounce [honey syrup](/mixes/honey-syrup)
 - 1/4 ounce falernum
 - 1/4 ounce allspice (pimento) dram
 - 1&frac12; [cane AOC Martinique rhum agricole vieux](/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" class="bigger" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>

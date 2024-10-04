@@ -38,11 +38,11 @@ Glassware
 ### Per Serving
 
 * 1 ounce fresh lime juice
-* 1/2 ounce rich Demerara syrup
-* 1/4 ounce cinnamon syrup
+* 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
+* 1/4 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-* 2 dashes Herbstura
+* 2 dashes [Herbstura](/mixes/herbstura/)
 
 Garnish
   : None
@@ -67,4 +67,4 @@ Garnish
 7. If using a punch bowl, serve with a ladle
 8. Garnish individual servings with a lemon wedge or a lemon twist and a mint sprig
 
-[^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.

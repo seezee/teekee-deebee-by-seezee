@@ -48,7 +48,7 @@ Glassware
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce fresh grapefruit juice
-* 1/2 ounce grade A maple syrup
+* 1/2 ounce grade A maple syrup[^1]
 * 3 drops pure vanilla extract
 * 3 drops pure almond extract
 * 1 ounce seltzer
@@ -57,6 +57,8 @@ Glassware
 * 3/4 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 3/4 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 3/4 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+
+[^1]: Under the new Vermont maple syrup <a href="https://vermontmaple.org/maple-syrup-grades" target="_blank" rel="external noopener">grading system</a>, the grades formerly known as "Grade A Medium Amber" or "Grade A Dark Amber" are now "Grade A | Amber Color and Rich Flavor."
 
 Garnish
   : Mint sprig

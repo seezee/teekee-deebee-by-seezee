@@ -39,7 +39,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce rich Demerara syrup
+* 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 2 ounces rum (see note)
 
 Garnish

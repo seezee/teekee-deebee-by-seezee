@@ -43,7 +43,7 @@ Glassware
 ## Ingredients
 
 * 1 ounce fresh lemon juice
-* 1 ounce coconut cream
+* 1 ounce [coconut cream](/mixes/coconut-cream)
 * 1 ounce seltzer
 * 1/2 ounce falernum
 * 2 ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>

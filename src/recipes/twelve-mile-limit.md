@@ -41,7 +41,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lemon juice
-* 1/2 ounce grenadine
+* 1/2 ounce [grenadine](/mixes/grenadine)
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1/2 ounce rye whiskey
 * 1/2 ounce brandy

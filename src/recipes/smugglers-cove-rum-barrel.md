@@ -54,9 +54,9 @@ Glassware
 * 1 ounce fresh lime juice
 * 1 ounce unsweetened pineapple juice
 * 1 ounce soda water
-* 1 ounce molasses syrup
+* 1 ounce [molasses syrup](/mixes/molasses-syrup)
 * 1/4 ounce allspice (pimento) dram
-* 1/4 ounce vanilla syrup
+* 1/4 ounce [vanilla syrup](/mixes/vanilla-syrup)
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1/2 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>

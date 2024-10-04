@@ -16,7 +16,7 @@ ingredients:
 
 * 1 (13&frac12; ounce) can unsweetened coconut milk, e.g., Thai Kitchen
 * &frac14; teaspoon table salt
-* 13&frac12; ounces 2:1 rich simple syrup
+* 13&frac12; ounces [2:1 rich simple syrup](/mixes/2-1-simple-syrup/)
 
 ## Instructions
 

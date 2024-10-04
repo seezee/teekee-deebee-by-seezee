@@ -48,7 +48,7 @@ Serves
 * 4 ounces fresh lime juice
 * 4 ounces unsweetened pineapple juice
 * 1 ounce passion fruit purée
-* 3 ounces rich Demerara syrup
+* 3 ounces [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1 ounce maraschino liqueur
 * 4 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 4 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
@@ -70,7 +70,7 @@ Garnish
 5. If using a scorpion bowl, serve with 20-inch luau straws; otherwise encourage guests to ladle the punch into individual cups
 6. Garnish with fire[^1] or float lime & orange slices on top
 
-[^1]: See <cite>{{ source }}</cite>, page 245 for instructions and precautions on how to garnish with fire.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
 <!-- markdownlint-disable MD012 -->
 {% callout "danger" %}

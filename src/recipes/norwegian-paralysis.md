@@ -50,8 +50,8 @@ Glassware
 * 1&frac12; ounces fresh orange juice
 * 1&frac12; ounces unsweetened pineapple juice
 * 1/2 ounce fresh lemon juice
-* 1/4 ounce rich Demerara syrup
-* 1/4 ounce orgeat
+* 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
+* 1/4 ounce [orgeat](/mixes/orgeat/)
 * 1&frac12; ounces akvavit (aquavit)
 
 Garnish

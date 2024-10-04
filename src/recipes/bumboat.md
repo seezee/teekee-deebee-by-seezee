@@ -45,7 +45,7 @@ Glassware
 
 * 2 ounces unsweetened pineapple juice
 * 1&frac12; ounces fresh lemon juice
-* 3/4 ounce cinnamon syrup
+* 3/4 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1 ounce rye whiskey
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 3 drops almond extract
@@ -57,7 +57,7 @@ Garnish
   : Drinking straws
   : Mermaid island (see note)
 
-[^1]: See <cite>{{ source }}</cite>, page 238.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">{{ source }}</a></cite>, p. 238.
 
 ## Instructions
 

@@ -42,7 +42,7 @@ Glassware
 ## Ingredients
 
 * 5 fresh mint leaves
-* 3/4 ounce rich Demerara syrup
+* 3/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 3/4 ounce fresh lime juice
 * 2 ounces [pot still aged cachaça](/rums/06-rhum-pot-still-aged-cachaca/)
 

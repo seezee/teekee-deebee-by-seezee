@@ -15,14 +15,15 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-This recipe yields 15 servings.
+Yield
+  : 15 servings
 
 ## Ingredients
 
 * 1 ounce unsalted butter
 * 1 ounce orange blossom honey
-* 1 teaspoon cinnamon syrup
-* 1/2 teaspoon vanilla syrup
+* 1 teaspoon [cinnamon syrup](/mixes/cinnamon-syrup)
+* 1/2 teaspoon [vanilla syrup](/mixes/vanilla-syrup)
 * 1/2 teaspoon allspice (pimento) dram
 
 ## Instructions

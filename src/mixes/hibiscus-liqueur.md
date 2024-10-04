@@ -25,7 +25,7 @@ ingredients:
 
 * &frac12; cup honey
 * 2&frac12; cups [spiced hibiscus infusion](/mixes/spiced-hibiscus-infusion/)
-* 1 cup [2:1 simple syrup](/mixes/2-1-simple-syrup/)
+* 1 cup [2:1 rich simple syrup](/mixes/2-1-simple-syrup/)
 
 ## Instructions
 

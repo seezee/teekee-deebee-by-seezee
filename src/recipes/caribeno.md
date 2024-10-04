@@ -36,13 +36,13 @@ Glassware
   : Drained young coconut shell[^1]
   : Ceramic coconut mug
 
-[^1]: See <cite>{{ source }}</cite>, page 238.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 238.
 
 ## Ingredients
 
 * 4 ounces coconut water
 * 3/4 ounce fresh lime juice
-* 3/4 ounce rich Demerara syrup
+* 3/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 2 ounces [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)
 
 Garnish

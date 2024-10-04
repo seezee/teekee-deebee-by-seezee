@@ -40,8 +40,8 @@ Glassware
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce fresh lemon juice
-* 1/2 ounce orgeat
-* 1 teaspoon grenadine
+* 1/2 ounce [orgeat](/mixes/orgeat/)
+* 1 teaspoon [grenadine](/mixes/grenadine)
 * 1&frac12; ounces 80-proof vodka
 
 Garnish

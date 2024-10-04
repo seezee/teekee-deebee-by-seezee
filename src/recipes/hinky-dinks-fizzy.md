@@ -47,7 +47,7 @@ Glassware
 * 2 ounces sparkling wine
 * 1&frac12; ounces unsweetened pineapple juice
 * 1/2 ounce fresh lime juice
-* 1/2 ounce passion fruit syrup
+* 1/2 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce natural apricot liqueur
 * 1 ounce London dry gin
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>

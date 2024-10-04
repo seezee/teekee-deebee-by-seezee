@@ -40,7 +40,7 @@ Glassware
 ### Per Serving
 
 * 1 ounce fresh lemon juice
-* 1/2 ounce honey syrup
+* 1/2 ounce [honey syrup](/mixes/honey-syrup)
 * 1/4 ounce blue curaçao
 * 1/4 ounce tawny port
 * 1/2 ounce falernum
@@ -69,4 +69,4 @@ Garnish
 5. Add a large block of ice to the dispenser if using, or pour the contents of the container into a punch bowl and add a smaller block of ice[^1]
 6. If using a punch bowl, serve with a ladle
 
-[^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.

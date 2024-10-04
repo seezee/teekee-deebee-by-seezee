@@ -22,6 +22,6 @@ You didn't seriously expect us to provide a crouton recipe, did you? Just <a hre
 
   Guests should blow out the burning crouton(s) before sipping. Use tongs to handle the burnt crouton and extinguish it in a container of water.
 
-  See <cite>{{ source }}</cite>, page 245 for instructions and precautions on how to garnish with fire.
+  See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">{{ source }}</a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
 {% endcallout %}

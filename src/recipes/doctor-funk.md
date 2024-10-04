@@ -59,7 +59,7 @@ Glassware
 * 1/2 ounce fresh lemon juice
 * 1/2 ounce fresh lime juice
 * 1/4 grenadine
-* 1/2 ounce rich Demerara syrup
+* 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1/4 ounce Herbsaint (or substitute other pastis or absinthe)
 * 2&frac14; ounces [black pot still rum](/rums/10-rum-black-pot-still/)
 * 1 ounce seltzer
@@ -106,12 +106,10 @@ Garnish
   Jeff "Beachbum" Berry records the recipe in <cite>Sippin&rsquo; Safari</cite> (2007):
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce tonga mix[^1]
+* 1/2 ounce [tonga mix](/mixes/tonga-mix)
 * 1 teaspoon Herbsaint, Pernod, or other pastis liqueur
 * 1 ounce white rum ([blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>or [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/))
 * 3 ounces crushed ice
-
-[^1]: To make tonga mix, combine 4 parts grenadine to 1 part passion fruit juice (<em>not</em> passion fruit syrup).
 
 1. Place all ingredients in a blender; put the ice in last
 2. Blend at high speed for up to 5 seconds

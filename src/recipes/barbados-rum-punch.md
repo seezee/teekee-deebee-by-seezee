@@ -45,7 +45,7 @@ Glassware
 ## Ingredients
 
 - 1 ounce fresh lime juice
-- 1 ounce rich Demerara syrup
+- 1 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 - 2 ounces [blended aged rum](/rums/05-rum-blended-aged/) (Barbados)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 - 1 dash Angostura bitters
 

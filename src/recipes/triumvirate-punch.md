@@ -38,7 +38,7 @@ Glassware
 ### Per Serving
 
 * 3/4 ounce fresh lime juice
-* 1 ounce passion fruit honey
+* 1 ounce [passion fruit honey](/mixes/passion-fruit-honey)
 * 1/4 ounce allspice (pimento) dram
 * 1&frac12; ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)
 * 2 dashes Angostura bitters
@@ -66,4 +66,4 @@ Garnish
 6. If using a punch bowl, serve with a ladle
 7. Garnish individual servings with a mint sprig and serve with a smile
 
-[^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.

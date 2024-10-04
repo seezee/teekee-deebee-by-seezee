@@ -16,7 +16,7 @@ ingredients:
 
 * 160 milliliters water
 * 320 grams granulated sugar
-* 1 (5&frac12;-inch) vanilla bean, split lengthwise (use 1 piece vanilla bean for every 160 grams of water)
+* 1 (5&frac12;-inch) vanilla bean, split lengthwise
 
 ## Instructions
 

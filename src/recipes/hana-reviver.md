@@ -41,7 +41,7 @@ Glassware
 ## Ingredients
 
 * 1 ounce fresh lemon juice
-* 1 ounce passion fruit syrup
+* 1 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/4 barspoon li hing mui powder
 * 2 ounces seltzer
 * 1 barspoon maraschino liqueur

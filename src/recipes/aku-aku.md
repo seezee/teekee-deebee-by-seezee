@@ -42,7 +42,7 @@ Glassware
 * 5 (1-inch-square) pieces fresh pineapple chunks
 * 8 mint leaves
 * 1 ounce fresh lime juice
-* 1/2 (scant) ounce rich Demerara syrup
+* 1/2 (scant) ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish

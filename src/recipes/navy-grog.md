@@ -48,7 +48,7 @@ Glassware
 
 * 3/4 ounce fresh lime juice
 * 3/4 fresh white grapefruit juice[^1]
-* 1/4 ounce rich Demerara syrup
+* 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1/4 ounce allspice (pimento) dram
 * 1 ounce [pot still lightly aged (overproof) rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
@@ -72,6 +72,6 @@ Garnish
 {% callout "note" %}
 <!-- markdownlint-enable MD012 -->
 
-  To make Don the Beachcomber's (1941) version of the Navy Grog, substitute 1 ounce honey syrup and 3/4 ounce seltzer for the Demerara syrup and allspice dram. Strain the drink over an ice cone placed in a double old-fashioned glass.
+  To make Don the Beachcomber's (1941) version of the Navy Grog, substitute 1 ounce [honey syrup](/mixes/honey-syrup) and 3/4 ounce seltzer for the Demerara syrup and allspice dram. Strain the drink over an ice cone placed in a double old-fashioned glass.
 
 {% endcallout %}

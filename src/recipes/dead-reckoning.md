@@ -45,13 +45,15 @@ Glassware
 * 1 ounce seltzer
 * 1 ounce fresh lemon juice
 * 1 ounce unsweetened pineapple juice
-* 1/2 ounce Grade A maple syrup
-* 1/2 ounce vanilla brandy
+* 1/2 ounce Grade A maple syrup[^1]
+* 1/2 ounce [vanilla brandy](/mixes/vanilla-brandy)
 * 1/2 ounce tawny port
 * 2 ounces seltzer
 * 1/4 ounce Bittermens New Orleans coffee liqueur (or other coffee liqueur)
 * 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
+
+[^1]: Under the new Vermont maple syrup <a href="https://vermontmaple.org/maple-syrup-grades" target="_blank" rel="external noopener">grading system</a>, the grades formerly known as "Grade A Medium Amber" or "Grade A Dark Amber" are now "Grade A | Amber Color and Rich Flavor."
 
 Garnish
   : Pineapple fronds

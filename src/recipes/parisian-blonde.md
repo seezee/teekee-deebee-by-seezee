@@ -35,7 +35,7 @@ Glassware
 
 * 1 ounce dry curaçao
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-* 1 ounce sweet cream ([see recipe](/mixes/sweet-cream/))
+* 1 ounce [sweet cream](/mixes/sweet-cream/)
 
 Garnish
   : Freshly grated cinnamon

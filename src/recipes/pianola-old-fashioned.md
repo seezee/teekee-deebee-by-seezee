@@ -9,7 +9,7 @@ characteristic:
   - aromatic
 base: rum base
 ingredients:
-  - Li Hing Mui syrup
+  - li hing mui syrup
   - blended aged rum (3)
   - Angostura bitters
 garnish: orange peel
@@ -38,7 +38,7 @@ Glassware
 
 ## Ingredients
 
-* 1 teaspoon Li Hing Mui syrup
+* 1 teaspoon [li hing mui syrup](/mixes/li-hing-mui-syrup)
 * 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
 

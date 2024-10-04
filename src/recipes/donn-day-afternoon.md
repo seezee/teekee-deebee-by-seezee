@@ -43,7 +43,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce cinnamon syrup
+* 1/2 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
 * 4 ounces chilled Stiegl-Radler Grapefruit Beer
 * 2 ounces [cane AOC Martinique rhum agricole blanc](/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/)<icon-l space="1em" class="bigger" label="(7)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l>
 

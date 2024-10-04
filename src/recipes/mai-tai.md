@@ -43,8 +43,8 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/4 ounce mai tai rich simple syrup
-* 1/4 ounce orgeat
+* 1/4 ounce [mai tai rich simple syrup](/mixes/mai-tai-rich-simple-syup)
+* 1/4 ounce [orgeat](/mixes/orgeat/)
 * 1/2 ounce dry curaçao
 * 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 

@@ -42,7 +42,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lemon juice
-* 1/2 ounce rich (2:1) simple syrup
+* 1/2 ounce [2:1 rich simple syrup](/mixes/2-1-simple-syrup/)
 * 1/2 ounce dry curaçao
 * 1&frac12; ounces [pot still lightly aged rum](/rums/01-rum-pot-still-lightly-aged/) (New England)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 * 3/4 ounce Blandy's 5 Year Verdelho madeira

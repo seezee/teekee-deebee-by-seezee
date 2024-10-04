@@ -46,7 +46,7 @@ Glassware
 
 * 2 ounces champagne or sparkling wine
 * 3/4 ounce fresh lime juice
-* 1/2 ounce orgeat
+* 1/2 ounce [orgeat](/mixes/orgeat/)
 * 1/2 ounce blue curaçao
 * 1/2 ounce falernum
 * 1&frac12; ounces tequila blanco

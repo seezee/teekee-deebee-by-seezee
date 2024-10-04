@@ -47,10 +47,12 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/2 ounce Grade A maple syrup
+* 1/2 ounce Grade A maple syrup[^1]
 * 1/2 ounce falernum
 * 2 ounces ounces [blended aged rum](/rums/05-rum-blended-aged/) (Guyana)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 2 dashes Angostura bitters
+
+[^1]: Under the new Vermont maple syrup <a href="https://vermontmaple.org/maple-syrup-grades" target="_blank" rel="external noopener">grading system</a>, the grades formerly known as "Grade A Medium Amber" or "Grade A Dark Amber" are now "Grade A | Amber Color and Rich Flavor."
 
 Garnish
   : Swizzle napkin wrap
@@ -60,8 +62,8 @@ Garnish
 
 1. Add all ingredients to a Collins or highball glass
 2. Fill the glass 3/4 full with crushed ice
-3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener">lélé</a> until the glass is frosty[^1]
+3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener">lélé</a> until the glass is frosty[^2]
 4. Top up with more crushed ice
 5. Add garnish
 
-[^1]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
+[^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.

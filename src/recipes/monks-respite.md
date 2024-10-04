@@ -39,13 +39,13 @@ Glassware
   : Drained young coconut shell[^1]
   : Ceramic coconut mug
 
-[^1]: See <cite>{{ source }}</cite>, page 238.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 238.
 
 ## Ingredients
 
 * 4 ounces coconut water
 * 1/2 ounce fresh lemon juice
-* 1/4 ounce honey syrup
+* 1/4 ounce [honey syrup](/mixes/honey-syrup)
 * 1/4 ounce Yellow Chartreuse
 * 1&frac12; ounces Brokers's gin (or substitute London dry gin)
 * 1 ounce seltzer

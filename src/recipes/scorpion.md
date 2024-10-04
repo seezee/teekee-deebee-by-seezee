@@ -53,8 +53,8 @@ Serves
 
 * 2 ounces fresh lime juice
 * 4 ounces fresh orange juice
-* 1&frac12; ounces rich Demerara syrup
-* 2 ounces orgeat
+* 1&frac12; ounces [rich Demerara syrup](/mixes/2-1-simple-syrup)
+* 2 ounces [orgeat](/mixes/orgeat/)
 * 2 ounces brandy
 * 4 ounces London dry gin
 * 4 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
@@ -70,7 +70,9 @@ Garnish
 4. Add cracked ice to each cup and flash blend each for 3 seconds
 5. Pour entire contents into a tiki bowl for four
 6. Serve with long luau straws
-7. Optional: Add fire
+7. Optional: Add fire[^1]
+
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
 <!-- markdownlint-disable MD012 -->
 {% callout "danger" %}

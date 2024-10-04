@@ -72,7 +72,7 @@ Garnish
 
   Fire is dramatic, but also dangerous. Do not serve fire if you or your guests are not reasonably sober. Give fair warning to your guests that you will be setting the drink ablaze and advise everyone to keep themselves and any flammables on their persons (hair, scarves, and so forth) at a safe distance.
 
-  See <cite>Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki</cite>, page 245 for instructions and precautions on how to garnish with fire.
+  See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
 {% endcallout %}
 

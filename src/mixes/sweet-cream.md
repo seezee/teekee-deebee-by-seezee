@@ -14,7 +14,7 @@ ingredients:
 ## Ingredients
 
 * 6 ounces heavy whipping cream
-* 1 ounce rich Demerara syrup
+* 1 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 
 ## Instructions
 

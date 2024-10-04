@@ -39,7 +39,7 @@ Glassware
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce unsweetened pineapple juice
-* 1/4 ounce rich Demerara syrup
+* 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1 dash grenadine
 * 1/2 ounce falernum
 * 1&frac12; ounces [cane coffey still aged rum](/rums/00-rhum-cane-coffey-still-aged/)[^1]

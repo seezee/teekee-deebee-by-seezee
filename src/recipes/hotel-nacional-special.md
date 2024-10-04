@@ -37,7 +37,7 @@ Glassware
 
 * 3 or 4 (1-inch square) pineapple chunks
 * 3/4 ounce fresh lime juice
-* 1/2 ounce rich Demerara syrup
+* 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1/2 ounce natural apricot liqueur
 * 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 

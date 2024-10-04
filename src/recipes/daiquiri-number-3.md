@@ -44,7 +44,7 @@ Glassware
 * 1 teaspoon fresh grapefruit juice
 * 1 teaspoon maraschino liqueur
 * 1/2 ounce fresh lime juice
-* 1/2 ounce rich Demerara syrup
+* 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
@@ -62,7 +62,7 @@ Garnish
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
-Omit the grapefruit juice from this recipe for a Daiquiri N<sup>o.</sup> 4 or substitute 1 teaspoon grenadine for the grapefruit juice for a Daiquiri N<sup>o.</sup> 5.
+Omit the grapefruit juice from this recipe for a Daiquiri N<sup>o.</sup> 4 or substitute 1 teaspoon [grenadine](/mixes/grenadine) for the grapefruit juice for a Daiquiri N<sup>o.</sup> 5.
 
 {% endcallout %}
 

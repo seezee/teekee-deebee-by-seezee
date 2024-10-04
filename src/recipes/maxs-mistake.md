@@ -39,8 +39,8 @@ decade: 2000
 ## Ingredients
 
 * 1 ounce fresh lemon juice
-* 1 ounce passion fruit syrup
-* 1/2 ounce honey syrup
+* 1 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
+* 1/2 ounce [honey syrup](/mixes/honey-syrup)
 * 2 ounces London dry gin
 * 1 dash Angostura bitters
 * 2 ounces dry sparkling lemonade

@@ -44,7 +44,7 @@ Glassware
 
 * 1 ounce whole milk
 * 1 ounce heavy whipping cream
-* 1/2 ounce rich Demerara syrup
+* 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1 ounce [black blended rum](/rums/11-rum-black-blended/) (Jamaica)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 6 drops vanilla extract
 * 1 dash Angostura bitters

@@ -39,9 +39,9 @@ Glassware
 ### Per Serving
 
 * 1 ounce fresh lemon juice
-* 1&frac12; ounces passion fruit syrup
-* 1/2 ounce cinnamon syrup
-* 1/2 ounce hibiscus liqueur
+* 1&frac12; ounces [passion fruit syrup](/mixes/passion-fruit-syrup)
+* 1/2 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
+* 1/2 ounce [hibiscus liqueur](/mixes/hibiscus-liqueur)
 * 2 ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)
 * 6 drops Bittermens ʻElemakule Tiki Bitters
 
@@ -67,4 +67,4 @@ Garnish
 6. If using a punch bowl, serve with a ladle
 7. Garnish individual servings with an edible orchid
 
-[^1]: See <cite>{{ source }}</cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.

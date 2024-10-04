@@ -45,7 +45,7 @@ Glassware
 * 1/2 yellow or white peach, pitted & coarsely chopped[^1]
 * 3 ounces fresh orange juice
 * 1/2 ounce fresh lemon juice
-* 1 ounce coconut cream
+* 1 ounce [coconut cream](/mixes/coconut-cream)
 * 1/4 ounce natural peach liqueur
 * 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1 ounce seltzer

@@ -44,7 +44,7 @@ Special Equipment
 ## Ingredients
 
 * 3/4 ounce fresh lemon juice
-* 1/2 ounce honey syrup
+* 1/2 ounce [honey syrup](/mixes/honey-syrup)
 * 1&frac12; ounces [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 * 1/2 ounce [pot still lightly aged rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" label="(1)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 * 4 ounces boiling water
@@ -71,6 +71,6 @@ Garnish
 
   Practice this drinks's technique before entertaining guests. Keep a fire extinguisher handy and ensure that the area around the drink making space is free of flammable materials. An outdoor concrete or brick patio on a calm day makes an ideal practice space.
 
-  See <cite>{{ source }}</cite>, page 245 for instructions and precautions on how to garnish with fire.
+  See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
 {% endcallout %}

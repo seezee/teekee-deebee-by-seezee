@@ -44,8 +44,8 @@ Glassware
 * 1 ounce fresh lime juice
 * 3/4 ounce fresh orange juice
 * 3/4 ounce unsweetened pineapple juice
-* 1 ounce honey syrup
-* 3/4 ounce passion fruit syrup
+* 1 ounce [honey syrup](/mixes/honey-syrup)
+* 3/4 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce falernum
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

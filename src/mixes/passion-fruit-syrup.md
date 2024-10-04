@@ -16,7 +16,7 @@ ingredients:
 Measure ingredients by volume.
 
 * 250 milliliters Funkin passion fruit purée
-* 250 milliliters 2:1 simple syrup, cooled
+* 250 milliliters [2:1 simple syrup](/mixes/2-1-simple-syrup/), cooled
 
 ## Instructions
 

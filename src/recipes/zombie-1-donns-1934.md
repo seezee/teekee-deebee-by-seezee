@@ -61,13 +61,13 @@ decade: 1930
 
 - 3/4 ounce fresh lime juice
 - 1/3 ounce fresh white grapefruit juice[^3]
-- <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce cinnamon syrup
-- 1 teaspoon grenadine
+- <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce [cinnamon syrup](/mixes/cinnamon-syrup)
+- 1 teaspoon [grenadine](/mixes/grenadine)
 - 1/2 ounce falernum
 - 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 - 1&frac12; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 - 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
-- 2 dashes Herbstura
+- 2 dashes [Herbstura](/mixes/herbstura/)
 
 [^3]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
 

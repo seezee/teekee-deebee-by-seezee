@@ -63,7 +63,7 @@ Garnish
   : Drinking straws
   : Mermaid island (see note)
 
-[^1]: See <cite>{{ source }}</cite>, page 238.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 238.
 
 ## Instructions
 

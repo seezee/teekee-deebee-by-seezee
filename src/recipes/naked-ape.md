@@ -45,7 +45,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lemon juice
-* 1/2 ounce cinnamon syrup
+* 1/2 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1/2 ounce banana liqueur
 * 1&frac12; ounces [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1/2 ounce [pot still lightly aged rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>

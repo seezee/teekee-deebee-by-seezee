@@ -43,7 +43,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/4 ounce rich Demerara syrup
+* 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1 dash grenadine
 * 1/2 Leopold Bros. Rocky Mountain blackberry liqueur
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="3"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

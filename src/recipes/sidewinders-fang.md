@@ -37,7 +37,7 @@ Glassware
 
 * Sidewinder’s Fang orange peel[^1]
 * 1&frac12; ounces fresh lime juice
-* 1&frac12; ounces passion fruit syrup
+* 1&frac12; ounces [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 3 ounces seltzer
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
@@ -54,4 +54,4 @@ Garnish
 5. Open pour with gated finish into the snifter
 6. Garish with a mint sprig
 
-[^1]: See <cite>Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</cite>, p. 242.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite></cite>, p. 242.

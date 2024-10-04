@@ -16,7 +16,7 @@ ingredients:
 
 * 1 4-inch vanilla bean
 * 500 milliliters aged brandy
-* 1 ounce rich Demerara syrup
+* 1 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 
 ## Instructions
 

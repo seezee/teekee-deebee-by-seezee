@@ -46,10 +46,10 @@ Serves
 
 * 2 ounces fresh lemon juice
 * 2 ounces fresh lime juice
-* 3 ounces rich Demerara syrup
+* 3 ounces [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 6 ounces Batavia arrack
 * 2 ounces [pot still lightly aged (overproof) rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
-* 6 ounces carbonated chai
+* 6 ounces [carbonated chai](/mixes/carbonated-chai)
 
 Garnish
   : Lime wheels

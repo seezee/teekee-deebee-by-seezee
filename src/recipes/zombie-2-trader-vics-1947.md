@@ -49,7 +49,7 @@ Glassware
 
 - 1 ounce fresh lemon juice
 - 1 ounce fresh orange juice
-- 1/2 ounce grenadine
+- 1/2 ounce [grenadine](/mixes/grenadine)
 - 1 ounce orange curaçao
 - 1 ounce [pot still lightly aged rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 - 2 ounces [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)

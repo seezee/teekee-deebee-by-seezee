@@ -43,7 +43,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lemon juice
-* 1/2 ounce passion fruit syrup
+* 1/2 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce falernum
 * 1&frac12; ounces Peruvian pisco
 * 1/2 ounce gin

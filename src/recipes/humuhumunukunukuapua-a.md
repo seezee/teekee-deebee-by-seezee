@@ -49,7 +49,7 @@ Glassware
 
 * 3/4 ounce fresh lime juice
 * 3/4 ounce unsweetened pineapple juice
-* 1/2 ounce orgeat
+* 1/2 ounce [orgeat](/mixes/orgeat/)
 * 2 ounces gin
 * 2 dashes Peychaud's bitters
 
