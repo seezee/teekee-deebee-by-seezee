@@ -1055,11 +1055,12 @@ div.col-5 {
 }
 
 #searchResults-wrapper {
+  text-align: start;
+  position: relative;
 
   & box-l {
     position: absolute;
     z-index: 99;
-    inset-block-start: 7rem;
     background-color: var(--11ty-color-primary-100);
   }
 
@@ -1082,6 +1083,12 @@ div.col-5 {
       }
     }
   }
+}
+
+#searchResults-box {
+  inline-size: max-content;
+  /* Magic number; ideal width for smaller phones in portrait orientation. */
+  max-inline-size: 82vi;
 }
 
 /* Recipe index */

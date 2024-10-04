@@ -5,16 +5,37 @@
       <div id="wagasa-umbrella-icon-wrapper">
         <a href="/"><span class="sr-only">Home</span>{% svgIcon "./_site/assets/images/icons/wagasa.svg" %}</a>
       </div>
-      <form class="field" id="searchForm" action="/">
-        <label for="searchField" class="sr-only">Search</label>
-        <input type="search" id="searchField" required />
-        <button type="button" id="searchClear" class="hide" aria-hidden value="×" aria-label="Clear search results">&times;</button>
-        <a class="sr-only" href="#searchResults--firstLink" id="results-link">Jump to search results</a>
-        <div id="search-hint__wrapper">
-          <kbd>⌘</kbd>
-          <kbd>K</kbd>
+      <div id="form-wrapper">
+        <form class="field" id="searchForm" action="/">
+          <label for="searchField" class="sr-only">Search</label>
+          <input type="search" id="searchField" required />
+          <button type="button" id="searchClear" class="hide" aria-hidden value="×" aria-label="Clear search results">&times;</button>
+          <a class="sr-only" href="#searchResults--firstLink" id="results-link">Jump to search results</a>
+          <div id="search-hint__wrapper">
+            <kbd>⌘</kbd>
+            <kbd>K</kbd>
+          </div>
+        </form>
+        <div id="searchResults-wrapper">
+          <box-l borderWidth="0" id="searchResults-box">
+            <section>
+              <stack-l>
+                <h3 tabindex="0" id="searchResultsHeading">Search Results</h3>
+                <center-l>
+                  <button class="searchClose button button-primary">close results</button>
+                </center-l>
+                <ol id="searchResults"></ol>
+                <div id="noResultsFound" hidden>
+                  <p>No results found.</p>
+                </div>
+                <center-l>
+                  <button class="searchClose button button-primary">close results</button>
+                </center-l>
+              </stack-l>
+            </section>
+          </box-l>
         </div>
-      </form>
+      </div>
     </cluster-l>
     <nav id="nav-primary" class="header-footer">
       <cluster-l role="list" justify="flex-start" space="var(--s-1)">

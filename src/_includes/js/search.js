@@ -3,13 +3,13 @@
 (function (window, document) {
   `use strict`;
 
-  const form     = document.getElementById(`searchForm`);
-  const hint     = document.getElementById(`search-hint__wrapper`);
-  const results  = document.getElementById(`searchResults-box`);
-  const close    = document.getElementsByClassName(`searchClose`);
-  const clear    = document.getElementById(`searchClear`);
-  const resEl    = document.getElementById(`searchResults`);
-  const resLink  = document.getElementById(`results-link`);
+  const form       = document.getElementById(`searchForm`);
+  const hint       = document.getElementById(`search-hint__wrapper`);
+  const results    = document.getElementById(`searchResults-box`);
+  const close      = document.getElementsByClassName(`searchClose`);
+  const clear      = document.getElementById(`searchClear`);
+  const resEl      = document.getElementById(`searchResults`);
+  const resLink    = document.getElementById(`results-link`);
 
   clear.addEventListener(`click`, function() {
     form.reset();
@@ -28,7 +28,7 @@
     resLink.setAttribute(`tabindex`, `-1`);
   });
 
-
+  // Loop through the close buttons.
   for (let closeButton of close) {
     closeButton.addEventListener(`click`, function() {
       results.setAttribute(`class`, `hide`);
@@ -95,7 +95,6 @@
 
     const results = window.searchIndex.search(e.target.value, {
       fields:{ // See http://elasticlunr.com/docs/configuration.js.html
-        id: {bool: `OR`},
         title: {boost: 4, bool: `AND`},
         searchTitle: {boost: 4, bool: `AND`},
         type: {boost: 1, bool: `AND`},
@@ -184,6 +183,7 @@
         typeSVG.appendChild(typeTitle);
         typeSVG.appendChild(typePath);
         charSVG.appendChild(charTitle);
+
         charSVG.appendChild(charPath);
         baseSVG.appendChild(baseTitle);
         baseSVG.appendChild(basePath);
@@ -276,9 +276,8 @@
     // Hide the no results message when the search input loses focus.
     document.getElementById(`searchField`).addEventListener(`focusout`, hide);
 
-    // Highlight the first search result.
-    let   resActive   = resEl.getElementsByTagName(`li`)[0];
-    const linkFocus   = resActive.firstElementChild;
+    let   resActive  = resEl.getElementsByTagName(`li`)[0];
+    const linkFocus  = resActive.firstElementChild;
 
     linkFocus.setAttribute(`id`, `searchResults--firstLink`)
 
