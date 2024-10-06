@@ -107,10 +107,10 @@ eleventyExcludeFromCollections: true
     {%- for post in collections.recipesAscendingU -%}
       <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
     {%- endfor -%}
-    <!-- <dt id="v"><a href="#recipes-v" class="app-link--heading govuk-link"><span id="recipes-v">V</span></a></dt>
+    <dt id="v"><a href="#recipes-v" class="app-link--heading govuk-link"><span id="recipes-v">V</span></a></dt>
     {%- for post in collections.recipesAscendingV -%}
       <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
-    {%- endfor -%} -->
+    {%- endfor -%}
     <dt id="w"><a href="#recipes-w" class="app-link--heading govuk-link"><span id="recipes-w">W</span></a></dt>
     {%- for post in collections.recipesAscendingW -%}
       <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
