@@ -29,14 +29,14 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite>{{ source }}</cite>, 10<sup>th</sup> Anniversary Expanded Edition
 
 Glassware
   : Chilled coupé
 
 ## Ingredients
 
-* 1/4 ounce [simple syrup](/mixes/2-1-simple-syrup/#fn:2) (1:1)
+* 1/4 ounce 1:1 [simple syrup](/mixes/2-1-simple-syrup/#fn:2)
 * 1/4 ounce falernum
 * 1/2 ounce fresh lime juice
 * 1/2 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged) (Puerto Rico)
