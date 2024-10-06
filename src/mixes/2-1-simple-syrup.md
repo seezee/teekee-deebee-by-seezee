@@ -14,16 +14,18 @@ ingredients:
 ## Ingredients
 
 * 250 milliliters water
-* 500 grams granulated sugar
+* 500 grams granulated sugar[^1]
+
+[^1]: For 1:1 simple syrup, combine equal weights of water and sugar. Proceed as for 2:1 simple syrup.
 
 ## Instructions
 
 1. Bring water to a boil in a saucepan over high heat
-2. Add sugar & whisk until sugar dissolves completely, about 1 minute[^1]
+2. Add sugar & whisk until sugar dissolves completely, about 1 minute[^2]
 3. Immediately remove from heat & allow to cool
 4. Bottle & refrigerate
 
-[^1]: The water should become clear enough that you can see the bottom of the pan.
+[^2]: The water should become clear enough that you can see the bottom of the pan.
 
 <!-- markdownlint-disable MD012 -->
 {% callout "note" %}
