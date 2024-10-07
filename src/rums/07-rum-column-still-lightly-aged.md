@@ -15,6 +15,7 @@ tags: rums
 * Crusoe Organic White (Calif., USA)
 * Cruzan Estate Diamond (U.S. Virgin Islands)
 * Don Q Cristal (Puerto Rico)
+* Don Q 151 (overproof) (Puerto Rico)
 * Facundo Neo (Bahamas/Puerto Rico)
 * Flor de Caña Extra Dry 4 Year (Nicaragua)
 * Ron Del Barrilito 2 Star (Puerto Rico)
