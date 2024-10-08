@@ -70,7 +70,7 @@ Garnish
 [^2]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
 
 <!-- markdownlint-disable MD012 -->
-{% callout "note" %}
+{% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
 ### Mermaid Island

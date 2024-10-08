@@ -13,8 +13,8 @@ ingredients:
   - lime juice
   - falernum
   - simple syrup
-  - column still lightly aged rum (Puerto Rico)
-  - column still aged rum (Virgin Islands) (4)
+  - blended lightly aged rum (2)
+  - blended aged rum (3)
 garnish: maraschino cherry
 glass: coupe
 origin: A Don the Beachcomber recipe from 1937, found in bartender Mariano Licudine's personal notebook. Licudine, a.k.a. "The Houdini of Liquids," started at the Hollywood Beachcomber's in 1939.
@@ -39,8 +39,8 @@ Glassware
 * 1/4 ounce 1:1 [simple syrup](/mixes/2-1-simple-syrup/#fn:2)
 * 1/4 ounce falernum
 * 1/2 ounce fresh lime juice
-* 1/2 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged) (Puerto Rico)
-* 1 ounce [column still aged rum](/rums/08-rum-column-still-aged) (Virgin Islands)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
+* 1/2 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
   : Maraschino cherry
@@ -51,3 +51,10 @@ Garnish
 2. Flash-blend for 3 to 4 seconds
 3. Fine-strain into a chilled coupé glass
 4. Add garnish
+
+<!-- markdownlint-disable MD012 -->
+{% callout "note" %}
+
+  Jeff Berry specifies white Puerto Rican and gold U.S. Virgin Islands rums in this recipe.
+
+{% endcallout %}

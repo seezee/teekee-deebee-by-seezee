@@ -108,12 +108,14 @@ Garnish
 * 1/2 ounce fresh lime juice
 * 1/2 ounce [tonga mix](/mixes/tonga-mix)
 * 1 teaspoon Herbsaint, Pernod, or other pastis liqueur
-* 1 ounce white rum ([blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>or [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/))
+* 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>
 * 3 ounces crushed ice
 
 1. Place all ingredients in a blender; put the ice in last
 2. Blend at high speed for up to 5 seconds
 3. Pour into a footed pilsner glass
 4. Top with more crushed ice
+
+We recommend you flash-blend this recipe in a drink mixer as instructed in the Dr. Funk recipe.
 
 {% endcallout %}

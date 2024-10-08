@@ -43,7 +43,7 @@ Glassware
 
 * 1 ounce fresh lime juice
 * 1/2 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
-* 1/2 ounce [honey syrup](/mixes/honey-syrup)
+* 1/2 ounce [honey syrup](/mixes/honey-syrup/)
 * 1/4 ounce [vanilla syrup](/mixes/vanilla-syrup)
 * 2 ounces seltzer
 * 1/4 ounce Bittermens New Orleans coffee liqueur (or other coffee liqueur)

@@ -16,7 +16,7 @@ ingredients:
   - Herbsaint
   - Angostura bitters
   - cane AOC Martinique rhum agricole vieux (8)
-  - black blended rum (Jamaican) (5)
+  - black blended rum (5)
   - brandy
 garnish:
   - mint sprig
@@ -53,7 +53,7 @@ Glassware
 - 1/2 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 - 1/4 ounce brandy
 - 1/2 ounce [Cane AOC Martinique Rhum Agricole Vieux](/rhums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux)<icon-l space="1em" class="bigger" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
-- 1/2 ounce [black blended rum](/rums/11-rum-black-blended) (Jamaica)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+- 1/2 ounce [black blended rum](/rums/11-rum-black-blended)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 - 1 dash Pernod, Herbsaint, or other pastis
 - 1 dash Angostura bitters
 

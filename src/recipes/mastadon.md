@@ -69,11 +69,11 @@ Garnish
 
 1. Add all ingredients + 12 ounces of crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
-3. Open pour into to a hollowed-out pineapple
+3. Open pour into a hollowed-out pineapple
 4. Close the pineapple with the lid and insert two straws, unless making a mermaid island (see note)
 
 <!-- markdownlint-disable MD012 -->
-{% callout "note" %}
+{% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
 ### Mermaid Island

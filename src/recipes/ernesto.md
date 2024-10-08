@@ -47,7 +47,7 @@ Glassware
 
 * 2 ounces Ting grapefruit soda
 * 1 ounce fresh lime juice
-* 1 ounce [honey syrup](/mixes/honey-syrup)
+* 1 ounce [honey syrup](/mixes/honey-syrup/)
 * 1/2 ounce natural apricot liqueur
 * 2 ounces tequila blanco
 * 1 dash [Herbstura](/mixes/herbstura/)

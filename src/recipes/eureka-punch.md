@@ -40,7 +40,7 @@ Glassware
 ### Per Serving
 
 * 1&frac12; ounces fresh lemon juice
-* 1 ounce [honey syrup](/mixes/honey-syrup)
+* 1 ounce [honey syrup](/mixes/honey-syrup/)
 * 1/2 ounce Yellow Chartreuse
 * 1&frac12; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 1 dash Angostura bitters

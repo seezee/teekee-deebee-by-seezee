@@ -61,3 +61,4 @@ Garnish
   According to Jim Meehan (in <cite>Meehan's Bartenders Manual</cite> and elsewhere), this drink was originally made with French sweet white vermouth (vermouth blanc).
 
 {% endcallout %}
+<!-- markdownlint-enable MD012 -->

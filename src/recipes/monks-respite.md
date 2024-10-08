@@ -45,7 +45,7 @@ Glassware
 
 * 4 ounces coconut water
 * 1/2 ounce fresh lemon juice
-* 1/4 ounce [honey syrup](/mixes/honey-syrup)
+* 1/4 ounce [honey syrup](/mixes/honey-syrup/)
 * 1/4 ounce Yellow Chartreuse
 * 1&frac12; ounces Brokers's gin (or substitute London dry gin)
 * 1 ounce seltzer

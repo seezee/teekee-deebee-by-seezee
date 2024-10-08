@@ -11,7 +11,7 @@ base: rum base
 ingredients:
   - pot still unaged rum (Jamaica) (1)
   - blended lightly aged rum (Jamaica) (2)
-  - blended lightly aged rum (overproof) (Guyana) (2)
+  - black blended overproof rum (6)
   - coffee
   - sugar cubes
   - nutmeg
@@ -53,8 +53,8 @@ Glassware
 - 1 pinch ground clove
 - 1 pinch freshly grated nutmeg
 - 6 ounces steaming hot coffee
-- 1/2 ounce [pot still unaged rum](/rums/00-rum-pot-still-unaged/) (Jamaican) *or* [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (Jamaican)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-- 1/2 ounce [blended lightly aged (overproof) rum](/rums/04-rum-blended-lightly-aged/) (Guyanese)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+- 1/2 ounce [pot still unaged rum](/rums/00-rum-pot-still-unaged/) *or* [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+- 1/2 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/) <icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 
 Garnish
   : Cinnamon stick
@@ -83,5 +83,14 @@ Garnish
   Serve in <a href="https://www.vagabondhouse.com/collections/bar-glasses/products/tall_glasses_wicker_rt474" target="_blank" rel="external noopener">small tumblers with wicker cozies</a> to insulate the imbiber's hands, as pictured on p. 48 of <cite>{{ source }}</cite>, revised edition (2017).
 
   Or serve in a coffee mug if you cannot source the aforementioned glasses.
+
+{% endcallout %}
+
+<!-- markdownlint-disable MD012 -->
+
+{% callout "note" %}
+<!-- markdownlint-enable MD012 -->
+
+  Jeff Berry specifies <q>gold Jamaican rum</q> as the lower-proof component in this recipe.
 
 {% endcallout %}

@@ -40,7 +40,7 @@ Glassware
 ### Per Serving
 
 * 1 ounce fresh lemon juice
-* 1/2 ounce [honey syrup](/mixes/honey-syrup)
+* 1/2 ounce [honey syrup](/mixes/honey-syrup/)
 * 1/4 ounce blue curaçao
 * 1/4 ounce tawny port
 * 1/2 ounce falernum

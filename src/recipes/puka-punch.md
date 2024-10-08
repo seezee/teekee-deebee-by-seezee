@@ -18,7 +18,7 @@ ingredients:
   - blended lightly aged rum (2)
   - blended aged rum (3)
   - black blended rum (5)
-  - Angostura Rum
+  - Angostura bitters
   - black blended overproof rum (6)
 garnish: mint sprig
 glass: brandy snifter
@@ -44,7 +44,7 @@ Glassware
 * 1 ounce fresh lime juice
 * 3/4 ounce fresh orange juice
 * 3/4 ounce unsweetened pineapple juice
-* 1 ounce [honey syrup](/mixes/honey-syrup)
+* 1 ounce [honey syrup](/mixes/honey-syrup/)
 * 3/4 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce falernum
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
@@ -65,3 +65,11 @@ Garnish
 5. Garnish with a mint sprig
 
 [^1]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
+
+<!-- markdownlint-disable MD012 -->
+{% callout "note" %}
+
+  Jeff Berry specifies a tall glass or tiki mug instead of a brandy snifter.
+
+{% endcallout %}
+<!-- markdownlint-enable MD012 -->

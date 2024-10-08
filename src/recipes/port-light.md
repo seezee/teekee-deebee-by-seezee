@@ -39,7 +39,7 @@ Glassware
 * 1 ounce fresh lime juice
 * 2 ounces bourbon
 * 1 ounce fresh lemon juice
-* 3/4 ounce [honey syrup](/mixes/honey-syrup)
+* 3/4 ounce [honey syrup](/mixes/honey-syrup/)
 * 1/2 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 
 Garnish

@@ -45,7 +45,7 @@ Glassware
 
 * 3/4 ounce fresh lemon juice
 * 3/4 ounce fresh lime juice
-* 1/2 ounce [honey syrup](/mixes/honey-syrup)
+* 1/2 ounce [honey syrup](/mixes/honey-syrup/)
 * 3/4 ounce [molasses syrup](/mixes/molasses-syrup)
 * 1/2 ounce Amaro Di Angostura
 * 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
