@@ -15,6 +15,7 @@ tags: rums
 * Crusoe Organic White (Calif., USA)
 * Cruzan Estate Diamond Light (U.S. Virgin Islands)
 * Cruzan Estate Diamond Dark (U.S. Virgin Islands)
+* Cruzan 151 (overproof) (U.S. Virgin Islands)
 * Don Q Cristal (Puerto Rico)
 * Don Q 151 (overproof) (Puerto Rico)
 * Facundo Neo (Bahamas/Puerto Rico)

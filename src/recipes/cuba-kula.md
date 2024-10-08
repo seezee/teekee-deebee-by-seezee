@@ -70,6 +70,6 @@ Garnish
 {% callout "info" %}
 <!-- markdownlint-enable MD012 -->
 
-  With the [discontinuation of Bacardi 151](https://www.bacardi.com/us/en/the-legend-of-bacardi-151-rum/) in 2016, the only remaining overproof Puerto Rican rum is Don Q 151.
+  With the [discontinuation of Bacardi 151](https://www.bacardi.com/us/en/the-legend-of-bacardi-151-rum/) in 2016, the only remaining overproof Puerto Rican rum is Don Q 151. However, Cruzan 151 (U.S. Virgin Islands) is an acceptable substitute.
 
 {% endcallout %}
