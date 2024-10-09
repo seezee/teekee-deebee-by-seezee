@@ -16,11 +16,11 @@ ingredients:
   - dry sparkling lemonade
 garnish: mint sprig
 glass: brandy snifter
-origin:
-  - <p>Created by Martin Cate when he worked at Trader Vic's and named in honor of Tiki-Ti's <cite>Ray's Mistake</cite>. The drink was the result of Cate accidentally combining two other drinks.</p><p><q>Max</q> is Cate's mother's nickname for her son.</p>
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+origin: <p>Created by Martin Cate when he worked at Trader Vic’s and named in honor of Tiki-Ti’s <a href="/recipes/rays-mistake/">Ray’s Mistake</a>. The drink was the result of Cate accidentally combining two other drinks.</p><p><q>Max</q> is Cate’s mother's nickname for her son.</p>
+source: Smuggler’s Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2000
 ---
+
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
