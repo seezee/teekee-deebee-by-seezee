@@ -1,7 +1,7 @@
 {
   "name": "teekee-deebee-by-seezee",
-  "version": "1.0.234",
-  "description": "",
+  "version": "1.0.235",
+  "description": "A collection of exotic and tropical drink recipes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
