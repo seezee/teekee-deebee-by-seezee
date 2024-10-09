@@ -76,7 +76,7 @@ Garnish
 {% callout "tip" %}
 <!-- markdownlint-enable MD012 -->
 
-  Be sure to serve this with an straw lest you (or your guest) taste nothing but the float. Tiki-Ti uses an oversized specimen: the pink straws Braum's restaurants serve with their malts and shakes seem purpose-made for this potion.
+  Be sure to serve this with a straw lest you (or your guest) taste nothing but the float. Tiki-Ti furnishes oversized straws; the pink straws Braum's restaurants provides with their malts and shakes seem purpose-made for this.
 
 {% endcallout %}
 
