@@ -354,6 +354,10 @@ code {
   text-decoration: none;
 }
 
+cite.short-work {
+  font-style: normal;
+}
+
 button,
 .button {
   appearance: none;

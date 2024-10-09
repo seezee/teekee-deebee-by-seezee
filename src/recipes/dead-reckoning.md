@@ -48,7 +48,6 @@ Glassware
 * 1/2 ounce Grade A maple syrup[^1]
 * 1/2 ounce [vanilla brandy](/mixes/vanilla-brandy)
 * 1/2 ounce tawny port
-* 2 ounces seltzer
 * 1/4 ounce Bittermens New Orleans coffee liqueur (or other coffee liqueur)
 * 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 1 dash Angostura bitters

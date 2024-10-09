@@ -108,7 +108,7 @@ Garnish
 * 1/2 ounce fresh lime juice
 * 1/2 ounce [tonga mix](/mixes/tonga-mix)
 * 1 teaspoon Herbsaint, Pernod, or other pastis liqueur
-* 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>
+* 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 3 ounces crushed ice
 
 1. Place all ingredients in a blender; put the ice in last
