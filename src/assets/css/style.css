@@ -1,4 +1,4 @@
-@property --11ty-color-primary-900 {
+@property --tiki-color-primary-900 {
     syntax: '<color>';
     inherits: false;
     initial-value: currentColor;
@@ -24,39 +24,62 @@
 
 :root {
 
-  --11ty-size-textDefault: 1.25em;
+  --tiki-size-textDefault: 1.25em;
 
-  --11ty-color-primary-50:  oklch(95% 0.012 0.012); /* Default dark theme */
-  --11ty-color-primary-100: oklch(90% 0.012 0.012);
-  --11ty-color-primary-200: oklch(80% 0.012 0.012);
-  --11ty-color-primary-300: oklch(70% 0.012 0.012);
-  --11ty-color-primary-400: oklch(60% 0.012 0.012);
-  --11ty-color-primary-500: oklch(50% 0.012 0.012);
-  --11ty-color-primary-600: oklch(40% 0.012 0.012);
-  --11ty-color-primary-700: oklch(30% 0.012 0.012);
-  --11ty-color-primary-800: oklch(20% 0.012 0.012);
-  --11ty-color-primary-900: oklch(10% 0.012 0.012); /* Default light theme */
+  --tiki-c-p-50:  95% 0.012 0.012; /* Default dark theme */
+  --tiki-c-p-100: 90% 0.012 0.012;
+  --tiki-c-p-200: 80% 0.012 0.012;
+  --tiki-c-p-300: 70% 0.012 0.012;
+  --tiki-c-p-400: 60% 0.012 0.012;
+  --tiki-c-p-500: 50% 0.012 0.012;
+  --tiki-c-p-600: 40% 0.012 0.012;
+  --tiki-c-p-700: 30% 0.012 0.012;
+  --tiki-c-p-800: 20% 0.012 0.012;
+  --tiki-c-p-900: 10% 0.012 0.012; /* Default light theme */
 
-  --11ty-color-secondary-50:  oklch(95% 0.163 64.47);
-  --11ty-color-secondary-100: oklch(90% 0.163 64.47);
-  --11ty-color-secondary-200: oklch(80% 0.163 64.47);
-  --11ty-color-secondary-300: oklch(70% 0.163 64.47); /* Default dark theme */
-  --11ty-color-secondary-400: oklch(60% 0.163 64.47);
-  --11ty-color-secondary-500: oklch(50% 0.163 64.47);
-  --11ty-color-secondary-600: oklch(40% 0.163 64.47);
-  --11ty-color-secondary-700: oklch(30% 0.163 64.47);
-  --11ty-color-secondary-800: oklch(20% 0.163 64.47);
-  --11ty-color-secondary-900: oklch(10% 0.163 64.47);
+  --tiki-color-primary-50:  oklch(var(--tiki-c-p-50)); /* Default dark theme */
+  --tiki-color-primary-100: oklch(var(--tiki-c-p-100));
+  --tiki-color-primary-200: oklch(var(--tiki-c-p-200));
+  --tiki-color-primary-300: oklch(var(--tiki-c-p-300));
+  --tiki-color-primary-400: oklch(var(--tiki-c-p-400));
+  --tiki-color-primary-500: oklch(var(--tiki-c-p-500));
+  --tiki-color-primary-600: oklch(var(--tiki-c-p-600));
+  --tiki-color-primary-700: oklch(var(--tiki-c-p-700));
+  --tiki-color-primary-800: oklch(var(--tiki-c-p-800));
+  --tiki-color-primary-900: oklch(var(--tiki-c-p-900)); /* Default light theme */
 
-  --11ty-color-textPrimary: var(--11ty-color-primary-900);
-  --11ty-color-textSecondary: var(--11ty-color-primary-50);
+  --tiki-c-s-50:  95% 0.163 64.47;
+  --tiki-c-s-100: 90% 0.163 64.47;
+  --tiki-c-s-200: 80% 0.163 64.47;
+  --tiki-c-s-300: 70% 0.163 64.47; /* Default dark theme */
+  --tiki-c-s-400: 60% 0.163 64.47;
+  --tiki-c-s-500: 50% 0.163 64.47;
+  --tiki-c-s-600: 40% 0.163 64.47;
+  --tiki-c-s-700: 30% 0.163 64.47;
+  --tiki-c-s-800: 20% 0.163 64.47;
+  --tiki-c-s-900: 10% 0.163 64.47;
 
-  --11ty-color-hoverPrimary: var(--11ty-color-primary-700);
-  --11ty-color-hoverSecondary: var(--11ty-color-primary-200);
+  --tiki-color-secondary-50:  oklch(var(--tiki-c-s-50));
+  --tiki-color-secondary-100: oklch(var(--tiki-c-s-100));
+  --tiki-color-secondary-200: oklch(var(--tiki-c-s-200));
+  --tiki-color-secondary-300: oklch(var(--tiki-c-s-300)); /* Default dark theme */
+  --tiki-color-secondary-400: oklch(var(--tiki-c-s-400));
+  --tiki-color-secondary-500: oklch(var(--tiki-c-s-500));
+  --tiki-color-secondary-600: oklch(var(--tiki-c-s-600));
+  --tiki-color-secondary-700: oklch(var(--tiki-c-s-700));
+  --tiki-color-secondary-800: oklch(var(--tiki-c-s-800));
+  --tiki-color-secondary-900: oklch(var(--tiki-c-s-900));
 
-  --11ty-color-iconFillHover: var(--11ty-color-hoverPrimary);
+  --tiki-color-textPrimary: var(--tiki-color-primary-900);
+  --tiki-color-textSecondary: var(--tiki-color-primary-50);
 
-  --11ty-color-figureBG: oklch(97.5% 0.012 0.012);
+  --tiki-color-hoverPrimary: var(--tiki-color-primary-700);
+  --tiki-color-hoverSecondary: var(--tiki-color-primary-200);
+
+  --tiki-color-iconFillHover: var(--tiki-color-hoverPrimary);
+
+  --tiki-color-figureBG: oklch(var(--tiki-c-p-100));
+  --tiki-color-imgBG: oklch(var(--tiki-c-p-50));
 
   --tiki-alert-color-lightness: 95%;
   --tiki-alert-color-chroma: 0.1;
@@ -102,12 +125,12 @@
   --tiki-radius-1x: .2em;
   --tiki-radius-2x: .4em;
 
-  --tiki-navbar-search-input-background-color: var(--11ty-color-primary-100);
+  --tiki-navbar-search-input-background-color: var(--tiki-color-primary-100);
 
   --tiki-global-shadow-color: oklch(0% 0 0 / 15%);
   --tiki-modal-background-color: oklch(0% 0 0 / 50%);
 
-  --tiki-nav-current-color: var(--11ty-color-secondary-600);
+  --tiki-nav-current-color: var(--tiki-color-secondary-600);
 
   --tiki-photo-border-color: oklch(98.08% 3.5594404384177905e-8 106.37411429114086);
 
@@ -133,29 +156,27 @@
     32.5px 65px 81.8px -2.5px hsl(var(--tiki-shadow-color) / 0.44);
 
   &[data-theme='dark'] {
-    --11ty-color-primary-50:  oklch(10% 0.012 0.012);
-    --11ty-color-primary-100: oklch(20% 0.012 0.012);
-    --11ty-color-primary-200: oklch(30% 0.012 0.012);
-    --11ty-color-primary-300: oklch(40% 0.012 0.012);
-    --11ty-color-primary-400: oklch(50% 0.012 0.012);
-    --11ty-color-primary-500: oklch(60% 0.012 0.012);
-    --11ty-color-primary-600: oklch(70% 0.012 0.012);
-    --11ty-color-primary-700: oklch(80% 0.012 0.012);
-    --11ty-color-primary-800: oklch(90% 0.012 0.012);
-    --11ty-color-primary-900: oklch(95% 0.012 0.012); /* Default */
+    --tiki-c-p-50:  10% 0.012 0.012;
+    --tiki-c-p-100: 20% 0.012 0.012;
+    --tiki-c-p-200: 30% 0.012 0.012;
+    --tiki-c-p-300: 40% 0.012 0.012;
+    --tiki-c-p-400: 50% 0.012 0.012;
+    --tiki-c-p-500: 60% 0.012 0.012;
+    --tiki-c-p-600: 70% 0.012 0.012;
+    --tiki-c-p-700: 80% 0.012 0.012;
+    --tiki-c-p-800: 90% 0.012 0.012;
+    --tiki-c-p-900: 95% 0.012 0.012; /* Default */
 
-    --11ty-color-secondary-50:  oklch(10% 0.163 64.47);
-    --11ty-color-secondary-100: oklch(20% 0.163 64.47);
-    --11ty-color-secondary-200: oklch(30% 0.163 64.47);
-    --11ty-color-secondary-300: oklch(40% 0.163 64.47); /* Default dark theme */
-    --11ty-color-secondary-400: oklch(50% 0.163 64.47);
-    --11ty-color-secondary-500: oklch(60% 0.163 64.47);
-    --11ty-color-secondary-600: oklch(70% 0.163 64.47);
-    --11ty-color-secondary-700: oklch(80% 0.163 64.47);
-    --11ty-color-secondary-800: oklch(90% 0.163 64.47);
-    --11ty-color-secondary-900: oklch(95% 0.163 64.47);
-
-    --11ty-color-figureBG: oklch(17.5% 0.012 0.012); /* 900 */
+    --tiki-c-s-50:  10% 0.163 64.47;
+    --tiki-c-s-100: 20% 0.163 64.47;
+    --tiki-c-s-200: 30% 0.163 64.47;
+    --tiki-c-s-300: 40% 0.163 64.47; /* Default dark theme */
+    --tiki-c-s-400: 50% 0.163 64.47;
+    --tiki-c-s-500: 60% 0.163 64.47;
+    --tiki-c-s-600: 70% 0.163 64.47;
+    --tiki-c-s-700: 80% 0.163 64.47;
+    --tiki-c-s-800: 90% 0.163 64.47;
+    --tiki-c-s-900: 95% 0.163 64.47;
 
     --tiki-alert-color-lightness: 30%;
 
@@ -212,10 +233,12 @@
 
 @media (prefers-reduced-transparency: no-preference) {
   :root {
-    --11ty-color-figureBG: oklch(97.5% 0.012 0.012 / .5);
+    --tiki-color-figureBG: oklch(var(--tiki-c-p-100) / .5);
+    --tiki-color-imgBG: oklch(var(--tiki-c-p-50) / .5);
 
     &[data-theme='dark'] {
-      --11ty-color-figureBG: oklch(17.5% 0.012 0.012 / .5);
+      --tiki-color-figureBG: oklch(var(--tiki-c-p-100) / .5);
+      --tiki-color-imgBG: oklch(var(--tiki-c-p-50) / .5);
     }
   }
 }
@@ -233,16 +256,16 @@ body {
 }
 
 html {
-  background-color: var(--11ty-color-primary-200);
+  background-color: var(--tiki-color-primary-200);
   background-image: var(--tiki-body-background);
   background-repeat: no-repeat;
   background-blend-mode: soft-light;
   background-size: cover;
-  color: var(--11ty-color-textPrimary);
+  color: var(--tiki-color-textPrimary);
   transition: background-color 0.1s ease, color 0.1s ease;
 
   font-family: var(--tiki-font-default);
-  font-size: var(--11ty-size-textDefault);
+  font-size: var(--tiki-size-textDefault);
 
   padding-block: var(--s1);
 
@@ -278,7 +301,7 @@ header {
 
   & #nav-primary-wrapper {
     padding-block-end: var(--s1);
-    border-block-end: 1px solid var(--11ty-color-textPrimary);
+    border-block-end: 1px solid var(--tiki-color-textPrimary);
   }
 }
 
@@ -307,7 +330,7 @@ label {
 }
 
 hr {
-  border-color: var(--11ty-color-textPrimary);
+  border-color: var(--tiki-color-textPrimary);
 }
 
 label span {
@@ -318,9 +341,9 @@ label span {
 }
 
 input, textarea {
-  color: var(--11ty-color-textPrimary);
-  background-color: var(--11ty-color-textSecondary);
-  border: solid 2px var(--11ty-color-textPrimary);
+  color: var(--tiki-color-textPrimary);
+  background-color: var(--tiki-color-textSecondary);
+  border: solid 2px var(--tiki-color-textPrimary);
   font-family: var(--tiki-font-mono);
 }
 
@@ -370,23 +393,23 @@ button,
   padding-block: var(--s-4);
 
   &.button-primary {
-    color: var(--11ty-color-textSecondary);
-    background-color: var(--11ty-color-textPrimary);
+    color: var(--tiki-color-textSecondary);
+    background-color: var(--tiki-color-textPrimary);
 
     &:hover,
     &:active {
-      background-color: var(--11ty-color-hoverPrimary);
+      background-color: var(--tiki-color-hoverPrimary);
     }
   }
 
   &.button-secondary {
-    color: var(--11ty-color-textPrimary);
-    background-color: var(--11ty-color-textSecondary);
-    border-color: var(--11ty-color-textPrimary);
+    color: var(--tiki-color-textPrimary);
+    background-color: var(--tiki-color-textSecondary);
+    border-color: var(--tiki-color-textPrimary);
 
     &:hover,
     &:active {
-      background-color: var(--11ty-color-hoverSecondary);
+      background-color: var(--tiki-color-hoverSecondary);
     }
   }
 
@@ -394,7 +417,7 @@ button,
     position: relative;
     inset-inline-start: -1.5rem;
     padding: 0;
-    color: var(--11ty-color-textPrimary);
+    color: var(--tiki-color-textPrimary);
     background: transparent;
   }
 }
@@ -415,8 +438,8 @@ details {
     cursor: pointer;
     list-style: none;
     padding: var(--s0) var(--s1);
-    background-color: var(--11ty-color-textPrimary);
-    color: var(--11ty-color-textSecondary);
+    background-color: var(--tiki-color-textPrimary);
+    color: var(--tiki-color-textSecondary);
     border-radius: var(--tiki-radius-1x);
     font-family: var(--tiki-font-sans);
     line-height: 1;
@@ -438,7 +461,7 @@ details {
   > * {
     padding: var(--s1);
     border-width: var(--s-5);
-    border: solid var(--11ty-color-textPrimary) var(--tiki-radius-1x);
+    border: solid var(--tiki-color-textPrimary) var(--tiki-radius-1x);
     border-start-end-radius: var(--tiki-radius-1x);
     border-end-start-radius: var(--tiki-radius-1x);
     border-end-end-radius: var(--tiki-radius-1x);
@@ -671,7 +694,15 @@ dd {
 figure {
   padding-block: var(--s2);
   padding-inline: var(--s3);
-  background-color: var(--11ty-color-figureBG);
+  background-color: var(--tiki-color-figureBG);
+
+  & img {
+    background-color: var(--tiki-color-imgBG);
+  }
+}
+
+dialog figure img {
+  --tiki-color-imgBG: oklch(var(--tiki-c-p-50));
 }
 
 picture {
@@ -700,7 +731,7 @@ caption, figcaption {
 
 a,
 a:visited {
-  color: var(--11ty-color-textPrimary);
+  color: var(--tiki-color-textPrimary);
 
   &.current {
     text-decoration-line: underline;
@@ -729,17 +760,17 @@ a:visited {
 }
 
 kbd {
-  background-color: var(--11ty-color-textSecondary);
-  border: 1px solid var(--11ty-color-textPrimary);
+  background-color: var(--tiki-color-textSecondary);
+  border: 1px solid var(--tiki-color-textPrimary);
   border-radius: var(--tiki-radius-1x);
-  box-shadow: inset 0 -1px 0 var(--11ty-color-textPrimary);
-  color: var(--11ty-color-textPrimary);
+  box-shadow: inset 0 -1px 0 var(--tiki-color-textPrimary);
+  color: var(--tiki-color-textPrimary);
   font: 80% var(--tiki-font-mono);
   padding: .15rem .3rem;
 }
 
 dialog {
-  color: var(--11ty-color-textPrimary);
+  color: var(--tiki-color-textPrimary);
 }
 
 icon-l {
@@ -759,7 +790,7 @@ icon-l {
 
 svg:not(#wagasa-umbrella-icon):not(#tiki-mask-icon),
 svg:not(#wagasa-umbrella-icon):not(#tiki-mask-icon)  path {
-  fill: var(--11ty-color-textPrimary);
+  fill: var(--tiki-color-textPrimary);
 }
 
 .alignleft {
@@ -855,7 +886,7 @@ div.col-5 {
 }
 
 :focus-visible {
-  outline: var(--11ty-color-secondary-300) auto 1px;
+  outline: var(--tiki-color-secondary-300) auto 1px;
 }
 
 #skip-link {
@@ -901,11 +932,11 @@ div.col-5 {
   }
 
   &:hover > .sun-and-moon > :is(.moon,.sun) {
-	  fill: var(--11ty-color-iconFillHover);
+	  fill: var(--tiki-color-iconFillHover);
   }
 
   &:hover .sun-and-moon >.sun-beams {
-    stroke: var(--11ty-color-iconFillHover);
+    stroke: var(--tiki-color-iconFillHover);
   }
 }
 
@@ -916,11 +947,11 @@ div.col-5 {
   }
 
   > :is(.moon,.sun) {
-    fill: var(--11ty-color-textPrimary);
+    fill: var(--tiki-color-textPrimary);
   }
 
   > .sun-beams {
-    stroke: var(--11ty-color-textPrimary);
+    stroke: var(--tiki-color-textPrimary);
     stroke-width: 2px;
   }
 }
@@ -979,7 +1010,7 @@ div.col-5 {
 #searchField {
   appearance: none;
   -webkit-appearance: none;
-  color: var(--11ty-color-textPrimary);
+  color: var(--tiki-color-textPrimary);
   background-color: var(--tiki-navbar-search-input-background-color);
   background-image: var(--tiki-search-icon);
   background-repeat: no-repeat;
@@ -1008,9 +1039,9 @@ div.col-5 {
   inset-block-start: .2rem;
 
   & kbd {
-    background-color: var(--11ty-color-textPrimary);
-    border: 1px solid var(--11ty-color-textSecondary);
-    color: var(--11ty-color-textSecondary);
+    background-color: var(--tiki-color-textPrimary);
+    border: 1px solid var(--tiki-color-textSecondary);
+    color: var(--tiki-color-textSecondary);
   }
 }
 
@@ -1065,7 +1096,7 @@ div.col-5 {
   & box-l {
     position: absolute;
     z-index: 99;
-    background-color: var(--11ty-color-primary-100);
+    background-color: var(--tiki-color-primary-100);
   }
 
   & li {
@@ -1079,7 +1110,7 @@ div.col-5 {
     padding: var(--s-5);
 
     &:has(a:focus-visible) {
-      outline: var(--11ty-color-secondary-300) auto 1px;
+      outline: var(--tiki-color-secondary-300) auto 1px;
       border-radius: var(--tiki-radius-1x);
 
       & a:focus-visible {

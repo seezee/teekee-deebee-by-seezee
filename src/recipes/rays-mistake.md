@@ -6,7 +6,9 @@ type:
   - tropical
   - tall drink
 characteristic: flash-blended
-base: rum base
+base:
+  - rum base
+  - gin base
 ingredients:
   - falernum
   - seltzer

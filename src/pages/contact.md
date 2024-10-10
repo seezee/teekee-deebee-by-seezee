@@ -17,6 +17,8 @@ permalink: "/contact/index.html"
 
 <stack-l>
 
+  Let us know what you think! Send your feedback, questions, corrections, criticism, or praise.
+
   All fields are required.
 
   {% include "_contact.njk" %}
