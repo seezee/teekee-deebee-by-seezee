@@ -51,11 +51,11 @@ Glassware
 Garnish
   : Mint sprig
 
-<dialog-image>
+<tiki-dialog-img>
 
   {% image "./src/assets/images/citrus-squeezer.jpg", "img-constrained", "Stainless steel jaw-style citrus squeezer", "The only correct citrus squeezer for making a mai tai" %}
 
-</dialog-image>
+</tiki-dialog-img>
 <!-- Needed to keep markdown from messing up -->
 
 ## Instructions

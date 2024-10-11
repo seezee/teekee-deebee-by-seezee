@@ -1,5 +1,5 @@
 /**
- * @module dialog-image
+ * @module tiki-dialog-img
  * @description A custom element for creating image modals
  * See https://www.raymondcamden.com/2023/12/13/an-image-dialog-web-component.
  */
@@ -24,7 +24,7 @@ export default class DialogImage extends HTMLElement {
     const captionText   = caption.innerText;
 
     if(!image) {
-      console.warn(`dialog-image: No image found. Exiting.`);
+      console.warn(`tiki-dialog-img: No image found. Exiting.`);
       return; // Bail early.
     }
 
@@ -138,5 +138,5 @@ export default class DialogImage extends HTMLElement {
 }
 
 if (`customElements` in window) {
-  customElements.define(`dialog-image`, DialogImage);
+  customElements.define(`tiki-dialog-img`, DialogImage);
 }

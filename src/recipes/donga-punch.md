@@ -40,11 +40,11 @@ Glassware
   : Donn Beach mug (pictured)
   : Tiki mug
 
-<dialog-image id="donn-beach-mug">
+<tiki-dialog-img id="donn-beach-mug">
 
   {% image "./src/assets/images/donn-beach-mug.png", "img-constrained", "Brown-glazed tiki mug in the form of a bust of Don the Beachcomber. Don wears a broad-brimmed hat. His name is inscribed around the base.", "Donn Beach tiki mug" %}
 
-</dialog-image>
+</tiki-dialog-img>
 
 ## Ingredients
 

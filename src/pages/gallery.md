@@ -8,7 +8,7 @@ permalink: "/gallery/index.html"
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<dialog-gallery hint rel cols="8">
+<tiki-dialog-gallery hint rel cols="8">
   
   ![12 Mile Limit](/assets/images/tiki-gallery/12-mile-limit.jpg)
   ![Aku Aku](/assets/images/tiki-gallery/aku-aku.jpg)
@@ -57,4 +57,4 @@ permalink: "/gallery/index.html"
   ![Zombie](/assets/images/tiki-gallery/zombie.jpg)
   ![Zombie Frankenstein](/assets/images/tiki-gallery/zombie-frank.jpg)
   ![Zombie (Beachbum Berry Edition)](/assets/images/tiki-gallery/zombie-bumberry.jpg)
-</dialog-gallery>
+</tiki-dialog-gallery>

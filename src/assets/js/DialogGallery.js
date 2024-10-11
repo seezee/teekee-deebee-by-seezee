@@ -1,5 +1,5 @@
 /**
- * @module dialog-gallery
+ * @module tiki-dialog-gallery
  * @description A custom element for creating gallery modals
  */
 
@@ -505,5 +505,5 @@ export default class DialogGallery extends HTMLElement {
 };
 
 if (`customElements` in window) {
-  customElements.define(`dialog-gallery`, DialogGallery);
+  customElements.define(`tiki-dialog-gallery`, DialogGallery);
 }

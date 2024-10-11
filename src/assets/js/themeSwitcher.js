@@ -1,3 +1,8 @@
+/**
+ * @module tiki-theme-toggle
+ * @description Light/dark theme switcher.
+ */
+
 export default class ThemeSwitcher extends HTMLElement {
   constructor() {
     super();
@@ -117,6 +122,6 @@ export default class ThemeSwitcher extends HTMLElement {
 
 if ('customElements' in window) {
 
-  // let the browser know that <theme-toggle> is served by our new class
-  customElements.define(`theme-toggle`, ThemeSwitcher);
+  // let the browser know that <tiki-theme-toggle> is served by our new class
+  customElements.define(`tiki-theme-toggle`, ThemeSwitcher);
 }
