@@ -1,4 +1,5 @@
 @import "./reset.css";
+@import "./easings.min.css";
 @import "./variables.css";
 @import "./utilities.css";
 @import "./Box.css";
@@ -16,5 +17,4 @@
 @import "./Sidebar.css";
 @import "./Stack.css";
 @import "./Switcher.css";
-@import "./easings.min.css";
 @import "./style.css";

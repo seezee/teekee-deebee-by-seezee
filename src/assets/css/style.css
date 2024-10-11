@@ -13,6 +13,10 @@ html {
   color: var(--tiki-color-textPrimary);
   transition: background-color 0.1s ease, color 0.1s ease;
 
+  @starting-style {
+    transition: background-color 0s ease, color 0s ease;
+  }
+
   font-family: var(--tiki-font-default);
   font-size: var(--tiki-size-textDefault);
 
@@ -597,10 +601,10 @@ div.col-5 {
 @media (prefers-reduced-motion: no-preference) {
   .hide,
   #search-hint__wrapper.hide {
-    animation: fadeout 200ms ease-out;
+    animation: fadeout 200ms var(--ease-out-1);
   }
   .show {
-    animation: fadein 200ms ease-in;
+    animation: fadein 200ms var(--ease-in-1);
   }
 }
 

@@ -4,7 +4,7 @@ tiki-dialog-img {
   figure,
   picture,
   figcaption {
-    color: var(--11ty-color-textPrimary);
+    color: var(--tiki-color-textPrimary);
     cursor: default;
 
     img {
@@ -24,8 +24,8 @@ tiki-dialog-img {
 
     pointer-events: none;
     margin: auto;
-    background-color: var(--11ty-color-textSecondary);
-    border: solid var(--border-thin) var(--11ty-color-textPrimary);
+    background-color: var(--tiki-color-textSecondary);
+    border: solid var(--border-thin) var(--tiki-color-textPrimary);
     border-radius: var(--tiki-radius-2x);
 
     /* Don't use logical property on image */
@@ -35,7 +35,7 @@ tiki-dialog-img {
     opacity: var(--start-opacity);
     transform: var(--start-scale);
     transition:
-      opacity var(--duration) ease-out,
+      opacity var(--duration) var(--ease-out-1),
       transform var(--duration) cubic-bezier(0, 0, 0.2, 1),
       overlay var(--duration) allow-discrete,
       display var(--duration) allow-discrete;
@@ -57,7 +57,7 @@ tiki-dialog-img {
       transform: scale(1);
 
       @starting-style {
-        /* Start values vor fade in. */
+        /* Start values for fade in. */
         opacity: var(--start-opacity);
         transform: var(--start-scale);
       }
