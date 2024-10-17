@@ -15,13 +15,14 @@
     form.reset();
     resEl.innerHTML = ``;
 
-    clear.setAttribute(`class`, `hide`);
+    clear.classList.add(`hide`);
     clear.setAttribute(`aria-hidden`, `true`);
 
-    hint.removeAttribute(`class`);
+    hint.classList.remove(`hide`);
     hint.removeAttribute(`aria-hidden`);
 
-    results.setAttribute(`class`, `hide`);
+    results.classList.add(`hide`);
+    results.classList.remove(`show`);
     results.setAttribute(`aria-hidden`, `true`);
     results.setAttribute(`aria-expanded`, `false`);
 
@@ -31,7 +32,8 @@
   // Loop through the close buttons.
   for (let closeButton of close) {
     closeButton.addEventListener(`click`, function() {
-      results.setAttribute(`class`, `hide`);
+      results.classList.add(`hide`);
+      results.classList.remove(`show`);
       results.setAttribute(`aria-hidden`, `true`);
       results.setAttribute(`aria-expanded`, `false`);
 
@@ -60,17 +62,19 @@
   );
 
   if (results) {
-    results.setAttribute(`class`, `hide`);
+    results.classList.add(`hide`);
+    results.classList.remove(`show`);
     results.setAttribute(`aria-hidden`, `true`);
     results.setAttribute(`aria-expanded`, `false`);
   }
 
   searchField.addEventListener(`focusin`, (e) => {
-    hint.setAttribute(`class`, `hide`);
+    hint.classList.add(`hide`);
     hint.setAttribute(`aria-hidden`, `true`);
-    clear.removeAttribute(`class`);
+    clear.classList.remove(`hide`);
     clear.removeAttribute(`aria-hidden`);
-    results.setAttribute(`class`,`show`);
+    results.classList.add(`show`);
+    results.classList.remove(`hide`);
     results.setAttribute(`aria-expanded`, `true`);
     results.removeAttribute(`aria-hidden`);
     resLink.removeAttribute(`tabindex`);
@@ -83,7 +87,7 @@
       if ((searchField.value !== ``) || (clearIsFocused === true)) {
         return;
       } else {
-        hint.removeAttribute(`class`);
+        hint.classList.remove(`hide`);
         hint.removeAttribute(`aria-hidden`);
       };
     });
@@ -125,7 +129,7 @@
         const sep = `, `
 
         const el = document.createElement(`li`);
-        el.setAttribute(`class`, `search-item`);
+        el.classList.add( `search-item`);
         resEl.appendChild(el);
 
         const a = document.createElement(`a`);
@@ -150,12 +154,12 @@
         const baseTitle = document.createElement(`title`);
         const basePath = document.createElement(`path`);
 
-        innerList.setAttribute(`class`, `search-list-nested`);
+        innerList.classList.add( `search-list-nested`);
         innerList.setAttribute(`aria-role`, `list`);
 
-        typeItem.setAttribute(`class`, `type`);
-        charItem.setAttribute(`class`, `char`);
-        baseItem.setAttribute(`class`, `base`);
+        typeItem.classList.add( `type`);
+        charItem.classList.add( `char`);
+        baseItem.classList.add( `base`);
 
         typeSVG.setAttribute(`xmlns`, `http://www.w3.org/2000/svg`);
         typeSVG.setAttribute(`viewBox`, `0 0 512 512`);

@@ -1,0 +1,81 @@
+/**
+ * Utilities CSS
+ *
+ * 1. .alignleft, .alignright, .aligncenter
+ * 2. .no-break
+ * 3. .sr-only, .govuk-visually-hidden
+ * 4. .frac
+ * 5. .small-caps, #breadcrumbs
+ * 6. .short-work
+ */
+
+ /* .alignleft, .alignright, .aligncenter */
+.alignleft {
+  text-align: start;
+}
+
+.alignright {
+  text-align:end
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+/* .no-break */
+.no-break {
+  break-inside: avoid;
+}
+
+/* .sr-only, .govuk-visually-hidden */
+.sr-only,
+.govuk-visually-hidden {
+  position: absolute;
+  display: inline-block;
+  inline-size: 1px;
+  block-size: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+
+  white-space: nowrap;
+
+  border-width: 0;
+}
+
+/* .frac */
+.frac sup,
+.frac sub {
+  font-size: .55rem;
+}
+
+.frac sub {
+  display: inline-block;
+  position: relative;
+  inset-inline-start: -.1rem;
+  inset-block-start: -.2rem;
+}
+
+/* .small-caps, #breadcrumbs */
+.small-caps,
+#breadcrumbs {
+  font-variant: small-caps;
+  letter-spacing: .05ch;
+}
+
+/* .short-work */
+.short-work {
+  font-style: normal;
+
+  quotes: "\201C" "\201D" "\2018" "\2019";
+
+  &::before {
+    content: open-quote;
+  }
+
+  &::after {
+    content: close-quote;
+  }
+
+}

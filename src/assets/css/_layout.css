@@ -1,0 +1,443 @@
+/**
+* Layout
+*
+* 1.  noscript
+* 2.  #skip-link
+* 3.  Search
+* 3.  Theme toggle
+* 4.  #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper
+* 5.  .masonry
+* 6.  Columns (.col-2, .col-3, .col-4, .col-5)
+* 7.  .index
+* 8.  <dd> styles: .dd-add-space, dd+br
+* 9.  .after-icon spacer
+* 10. .recipe-index
+* 11. #starfish (footer icon)
+*/
+
+/* No script */
+noscript div {
+  inline-size: fit-content;
+  max-inline-size: 100ch;
+  margin-inline: auto;
+  padding: var(--s1);
+
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+
+  color: #fff;
+  background-color: oklch(30% var(--tiki-alert-color-chroma) 19.75);
+
+  svg {
+    display: inline-block;
+    margin-inline-end: .5ch;
+    margin-block-start: calc(1ex - 1cap);
+
+    vertical-align: middle;
+
+    fill: #fff;
+  }
+}
+
+/* #skip-link */
+#skip-link {
+  inset-block-start: var(--s-5);
+}
+
+/* Search */
+#searchField {
+  appearance: none;
+  -webkit-appearance: none;
+  color: var(--tiki-color-textPrimary);
+  background-color: var(--tiki-navbar-search-input-background-color);
+  background-image: var(--tiki-search-icon);
+  background-repeat: no-repeat;
+  background-size: 1em;
+  background-position: .5em center;
+
+  &:focus,
+  &:active,
+  &:valid {
+    background-image: none!important;
+  }
+}
+
+.field {
+  position: relative;
+}
+
+#search-hint__wrapper {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: right;
+  pointer-events: none;
+  position: absolute;
+  inset-inline-start: 9.8rem;
+  inset-block-start: .2rem;
+
+  & kbd {
+    background-color: var(--tiki-color-textPrimary);
+    border: 1px solid var(--tiki-color-textSecondary);
+    color: var(--tiki-color-textSecondary);
+  }
+}
+
+@media screen and (pointer:fine) {
+  #search-hint__wrapper {
+    inset-inline-start: 9.8rem;
+  }
+}
+
+#searchClose {
+  max-inline-size: 13ch;
+}
+
+.search-item {
+
+  a {
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  svg {
+    display: inline-block;
+    margin-inline: .5ch;
+
+    vertical-align: middle;
+  }
+
+
+  .search-list-nested {
+    padding-inline-start: 0;
+    margin-inline-start: -.5ch;
+
+    list-style: none;
+
+    li { /* hanging indent */
+      margin-inline-start: 2.7ch;
+
+      text-indent: -2.7ch;
+    }
+  }
+
+  @supports (hanging-punctuation: first) {
+    .search-list-nested li {
+      margin-inline-start: revert;
+
+      text-indent: 0;
+      hanging-punctuation: first allow-end last;
+    }
+  }
+}
+
+#searchResults-wrapper {
+  position: relative;
+
+  text-align: start;
+
+  & box-l {
+    position: absolute;
+    z-index: 99;
+
+    background-color: var(--tiki-color-primary-100);
+  }
+
+  & li {
+    max-inline-size: 32ch;
+  }
+}
+
+#searchResults {
+
+  > li {
+    padding: var(--s-5);
+
+    &:has(a:focus-visible) {
+      border-radius: var(--tiki-radius-1x);
+      outline: var(--tiki-color-secondary-300) auto 1px;
+
+      & a:focus-visible {
+        outline: none;
+      }
+    }
+  }
+}
+
+#searchResults-box {
+  inline-size: max-content;
+  /* Magic number; ideal width for smaller phones in portrait orientation. */
+  max-inline-size: 82vi;
+}
+
+/* Theme toggle based on
+https://web.dev/articles/building/a-theme-switch-component */
+#theme-toggle {
+  margin-block-start: var(--margin-top);
+  padding: 0;
+  inline-size: var(--size);
+  block-size: var(--size);
+  min-inline-size: var(--min-size);
+  min-block-size: var(--min-size);
+  aspect-ratio: 1;
+
+  -webkit-tap-highlight-color: transparent;
+  background: none;
+  border: none;
+  border-radius: 50%;
+  outline-offset: 5px;
+  cursor: pointer;
+
+  touch-action: manipulation;
+
+  > svg {
+    inline-size: 100%;
+    block-size: 100%;
+
+    stroke-linecap: round;
+  }
+
+  &:hover > .sun-and-moon > :is(.moon,.sun) {
+    fill: var(--tiki-color-iconFillHover);
+  }
+
+  &:hover .sun-and-moon >.sun-beams {
+    stroke: var(--tiki-color-iconFillHover);
+  }
+}
+
+.sun-and-moon {
+
+  > :is(.moon,.sun,.sun-beams) {
+    transform-origin: center center;
+  }
+
+  > :is(.moon,.sun) {
+    fill: var(--tiki-color-textPrimary);
+  }
+
+  > .sun-beams {
+    stroke: var(--tiki-color-textPrimary);
+    stroke-width: 2px;
+  }
+}
+
+[data-theme='dark'] .sun-and-moon {
+  > .sun {
+    transform: scale(1.75);
+  }
+
+  > .sun-beams {
+    opacity: 0;
+  }
+
+  > .moon > circle {
+    transform: translate(-7px);
+
+    @supports (cx: 1px) {
+      transform: translateX(0);
+      cx: 17px;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .sun-and-moon {
+    > .sun {
+      transition: transform .5s var(--ease-elastic-3) .5s;
+    }
+
+    > .sun-beams {
+      transition: transform .5s var(--ease-elastic-4), opacity .5s var(--ease-3) .5s;
+    }
+
+    .moon > circle {
+      transition: cx .25s var(--ease-out-5) .5s;
+    }
+  }
+
+  [data-theme='dark'] .sun-and-moon {
+    > .sun {
+      transition: transform .25s var(--ease-out-5) .5s;
+    }
+
+    > .sun-beams {
+      transform: rotate(-25deg);
+      transition-duration: .15s;
+    }
+
+    > .moon > circle {
+      transition-delay: .25s;
+      transition-duration: .5s;
+    }
+  }
+}
+
+/* #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper */
+#nav-primary-wrapper {
+  padding-block-end: var(--s1);
+
+  border-block-end: 1px solid var(--tiki-color-textPrimary);
+}
+
+.breadcrumbs-separator {
+  opacity: .5;
+}
+
+#main-wrapper {
+  inline-size: 100%
+}
+
+/**
+ * Masonry layout
+ *
+ * This code may need different syntax when masonry ships to browsers;
+ * see https://github.com/w3c/csswg-drafts/issues/9041 and also commented
+ * example code below
+ */
+ .masonry {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, var(--tiki-masonry-width));
+  grid-gap: var(--tiki-masonry-gap);
+  justify-content: center;
+  padding: var(--tiki-masonry-gap);
+
+  /* @supports (grid-template-rows: masonry) { */
+    grid-template-rows: masonry;
+  /* } */
+
+  @supports (display: masonry) { /* Alternate syntax. */
+    display: masonry;
+    masonry-template-tracks: repeat(auto-fit, var(--tiki-masonry-width));
+    gap: var(--tiki-masonry-gap);
+  }
+
+  > * {
+    width: var(--tiki-masonry-width);
+  }
+}
+
+/*
+* Masonry syntax after feature ships to browsers:
+*
+* `display: masonry`, fall back to Flexbox
+*
+* All of the rules for this class are in the same place
+*
+* .masonry {
+*   display: flex;
+*   flex-wrap: wrap;
+*   // The following lines will be ignored by browsers that don't understand
+*   // masonry and applied by browsers that understand masonry, overriding the
+*   // previous lines
+*   display: masonry;
+*   masonry-template: repeat(auto-fill, auto);
+* }
+*
+* Masonry as part of Grid, fall back to Flexbox
+*
+* Rules for the class are split across different layers/queries, resulting in
+* bulkier CSS and making it less efficient to update
+*
+* Media queries do not increase specificity, so make sure fallbacks are
+* de-prioritized
+*
+* @layer fallbacks {
+*   .masonry {
+*      display: flex;
+*      flex-wrap: wrap;
+*   }
+* }
+*
+* @supports (grid-template-rows: masonry) {
+*  .masonry {
+*      display: grid;
+*      grid-template-rows: masonry;
+*  }
+* } */
+
+/* Columns */
+.col-2,
+.col-3,
+.col-4,
+.col-5 {
+  columns: 1;
+  column-gap: var(--s-1);
+}
+
+div.col-2,
+div.col-3,
+div.col-4,
+div.col-5 {
+  margin-block-end: var(--s-1);
+}
+
+@media screen and (min-width: 62.25rem) {
+  .col-2 {
+    columns: 2;
+  }
+
+  .col-3 {
+    columns: 3;
+  }
+
+  .col-4 {
+    columns: 4;
+  }
+
+  .col-5 {
+    columns: 5;
+  }
+}
+
+/* .index */
+.index {
+  font-family: var(--tiki-font-sans);
+
+  & a {
+    text-decoration: none;
+  }
+
+  li {
+    margin-block-end: var(--s-1);
+
+    line-height: calc(1em + .25rem);
+
+    list-style-type: none;
+  }
+}
+
+/* <dd> styles */
+.dd-add-space {
+  dd + dd {
+    margin-block-start: var(--s1);
+  }
+}
+
+[data-i='Stack-var(--s1)false'] > dd+br {
+  margin-block-start: 0;
+  }
+
+/* .after-icon spacer */
+.after-icon {
+  display: inline-block;
+  inline-size: .5ch;
+}
+
+/* .recipe-index */
+.recipe-index {
+
+  dd:not(:has(+ dt)) {
+    margin-block-end: var(--s0);
+  }
+
+  dd a {
+    text-decoration: none;
+  }
+}
+
+/* #starfish (footer icon) */
+#starfish {
+  margin-block: var(--s1);
+}

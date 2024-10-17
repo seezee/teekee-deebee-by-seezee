@@ -54,7 +54,7 @@ initial-value: 0.1;
   --tiki-c-s-50:  95% 0.163 64.47;
   --tiki-c-s-100: 90% 0.163 64.47;
   --tiki-c-s-200: 80% 0.163 64.47;
-  --tiki-c-s-300: 70% 0.163 64.47; /* Default dark theme */
+  --tiki-c-s-300: 70% 0.163 64.47;
   --tiki-c-s-400: 60% 0.163 64.47;
   --tiki-c-s-500: 50% 0.163 64.47;
   --tiki-c-s-600: 40% 0.163 64.47;
@@ -65,7 +65,7 @@ initial-value: 0.1;
   --tiki-color-secondary-50:  oklch(var(--tiki-c-s-50));
   --tiki-color-secondary-100: oklch(var(--tiki-c-s-100));
   --tiki-color-secondary-200: oklch(var(--tiki-c-s-200));
-  --tiki-color-secondary-300: oklch(var(--tiki-c-s-300)); /* Default dark theme */
+  --tiki-color-secondary-300: oklch(var(--tiki-c-s-300));
   --tiki-color-secondary-400: oklch(var(--tiki-c-s-400));
   --tiki-color-secondary-500: oklch(var(--tiki-c-s-500));
   --tiki-color-secondary-600: oklch(var(--tiki-c-s-600));
@@ -74,7 +74,7 @@ initial-value: 0.1;
   --tiki-color-secondary-900: oklch(var(--tiki-c-s-900));
 
   --tiki-color-textPrimary: var(--tiki-color-primary-900);
-  --tiki-color-textSecondary: var(--tiki-color-primary-50);
+  --tiki-color-textSecondary: var(--tiki-color-secondary-50);
 
   --tiki-color-hoverPrimary: var(--tiki-color-primary-700);
   --tiki-color-hoverSecondary: var(--tiki-color-primary-200);
@@ -172,12 +172,12 @@ initial-value: 0.1;
     --tiki-c-p-600: 70% 0.012 0.012;
     --tiki-c-p-700: 80% 0.012 0.012;
     --tiki-c-p-800: 90% 0.012 0.012;
-    --tiki-c-p-900: 95% 0.012 0.012; /* Default */
+    --tiki-c-p-900: 95% 0.012 0.012; /* Primary */
 
     --tiki-c-s-50:  10% 0.163 64.47;
     --tiki-c-s-100: 20% 0.163 64.47;
     --tiki-c-s-200: 30% 0.163 64.47;
-    --tiki-c-s-300: 40% 0.163 64.47; /* Default dark theme */
+    --tiki-c-s-300: 40% 0.163 64.47;
     --tiki-c-s-400: 50% 0.163 64.47;
     --tiki-c-s-500: 60% 0.163 64.47;
     --tiki-c-s-600: 70% 0.163 64.47;
@@ -247,5 +247,16 @@ initial-value: 0.1;
       --tiki-color-figureBG: oklch(var(--tiki-c-p-100) / .5);
       --tiki-color-imgBG: oklch(var(--tiki-c-p-50) / .5);
     }
+  }
+}
+
+#theme-toggle {
+  --size: 1rem;
+  --min-size: 24px; /* Minimum WCAG target size */
+  --margin-top: .2em;
+
+  @media screen and (pointer: coarse) {
+    --size: 1.5rem;
+    --margin-top: unset;
   }
 }

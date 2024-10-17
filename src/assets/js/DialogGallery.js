@@ -64,7 +64,7 @@ export default class DialogGallery extends HTMLElement {
             </div>
           </div>
           <div class="aligncenter">
-            <button class="button-primary" type="submit">Close</button>
+            <button class="button button-primary" type="submit">Close</button>
           </div>
         </stack-l>
       </form>

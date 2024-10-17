@@ -50,7 +50,7 @@ export default class DialogImage extends HTMLElement {
         </picture>
       </figure>
       <div class="aligncenter">
-        <button autofocus class="button-primary" type="submit">Close</button>
+        <button autofocus class="button button-primary" type="submit">Close</button>
       </div>
     </stack-l>
   </form>

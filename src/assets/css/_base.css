@@ -1,0 +1,557 @@
+/**
+ * Layout > Text > Appearance > Animation > Generated Content > Other
+ * Appearance includes color, background, border, outline, list-style, & cursor
+ *
+ * Block elements
+ * 1.  html, body
+ * 2.  h1 – h6
+ * 3.  p
+ * 4.  blockquote
+ * 5.  ol, ul, dt
+ * 6.  details, summary
+ * 7.  table
+ * 8.  form, inline form elements (input, textarea, button, select, option,
+ *     optgroup, fieldset, label, output)
+ * 9.  pre
+ * 10. kbd
+ * 11. figure, picture, img, canvas, video, svg
+ * 12. dialog
+ * 13. Every Layout custom elements
+ *
+ * Inline elements
+ * 1. a
+ * 2. code
+ * 3. strong, em
+ * 4. sub, sup
+ * 5. q
+ * 6. cite
+ * 7. small
+ *
+ * Sectioning elements
+ * 1. header
+ * 2. footer
+ * 3. main, article
+ * 4. nav
+ * 5. aside
+ * 6. address
+ * 7. section
+ * 8. hr
+ *
+ * Pseudo-elements
+ * 1. ::marker
+ *
+ */
+
+
+/**
+ * Block elements
+ */
+
+ /* html, body */
+html,
+body {
+  block-size: 100%;
+  display: grid; /* Needed to center things, e.g., modals */
+}
+
+html {
+  padding-block: var(--s1);
+
+  &:has([data-disable-document-scroll="true"]) {
+    overflow: hidden;
+  }
+
+  font-family: var(--tiki-font-default);
+  font-size: var(--tiki-size-textDefault);
+
+  color: var(--tiki-color-textPrimary);
+  background-color: var(--tiki-color-primary-200);
+  background-image: var(--tiki-body-background);
+  background-repeat: no-repeat;
+  background-blend-mode: soft-light;
+  background-size: cover;
+
+  &[data-theme='dark'] {
+    background-blend-mode: initial;
+  }
+  transition: background-color 0.1s ease, color 0.1s ease;
+
+  @starting-style {
+    transition: background-color 0s ease, color 0s ease;
+  }
+}
+
+@media (prefers-reduced-motion) {
+  html {
+    transition: background-color 0s ease, color 0s ease;
+  }
+}
+
+body {
+  padding-inline: 1ch;
+}
+
+/* h1 – h6 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--tiki-font-sans);
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: var(--tiki-font-size-5);
+}
+
+h1 {
+  font-size: var(--tiki-font-size-5);
+}
+
+h2 {
+  font-size: var(--tiki-font-size-4);
+}
+
+h3 {
+  font-size: var(--tiki-font-size-3);
+}
+
+h4 {
+  font-size: var(--tiki-font-size-2);
+}
+
+h5 {
+  font-size: var(--tiki-font-size-1);
+}
+
+h6 {
+  font-size: var(--tiki-font-size-0);
+}
+
+/* p */
+p {
+  text-wrap: pretty;
+
+  &:empty {
+    line-height: 0;
+    margin-block-start: 0;
+  }
+}
+
+/* blockquote */
+blockquote {
+  text-indent: -0.45em;
+  margin-inline: 2.5rem;
+  quotes: "\201C" "\201D" "\2018""\2019";
+
+  &::before {
+    position: relative;
+    inset-inline-start: -.75ch;
+    inset-block-start: 2ex;
+    font-size: 2rem;
+    content: open-quote;
+  }
+
+  &::after {
+    content: no-close-quote;
+  }
+
+  & p:not(:last-child) {
+    margin-block-end: var(--s1);
+  }
+}
+
+@supports (hanging-punctuation: first) {
+  blockquote {
+    text-indent: 0;
+    hanging-punctuation: first allow-end last;
+  }
+}
+
+/* ol, ul, dt */
+dl {
+  margin-block-start: 0;
+}
+
+dt {
+  font-family: var(--tiki-font-sans);
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
+dt,
+dd {
+  break-inside: avoid;
+}
+
+dt {
+  margin-inline-start: var(--s1);
+
+  font-size: var(--tiki-font-size-1);
+  font-weight: 700;
+
+  &.no-break {
+    break-before: avoid;
+  }
+
+  &:not(:first-child) {
+    margin-block-start:  var(--s1);
+  }
+
+  &+dt:not(:first-child) {
+    margin-block-start: 0;
+  }
+
+  & p:last-of-type {
+    margin-block-end: 0;
+  }
+}
+
+dd {
+  margin-inline-start: var(--s3);
+
+  &:last-of-type {
+    margin-block-end: var(--s1);
+  }
+
+  p:last-of-type {
+    margin-block-end: 0;
+  }
+
+  &+dd {
+    break-before: avoid;
+
+    & span.spacer {
+      display: block;
+      margin-block-start: var(--s1);
+    }
+  }
+}
+
+/* details, summary */
+details {
+  block-size: 2.5rem;
+  inline-size: fit-content;
+  max-inline-size: 100%;
+  padding-inline: var(--s0);
+  padding-block: var(--s-4);
+  margin-block-end: var(--s3);
+
+  font-family: var(--tiki-font-mono);
+
+  transition: block-size 0.5s ease;
+
+  pre {
+    white-space: pre-wrap;
+  }
+
+  > * {
+    padding: var(--s1);
+
+    border-width: var(--s-5);
+    border: solid var(--tiki-color-textPrimary) var(--tiki-radius-1x);
+    border-start-end-radius: var(--tiki-radius-1x);
+    border-end-start-radius: var(--tiki-radius-1x);
+    border-end-end-radius: var(--tiki-radius-1x);
+  }
+
+  &[open] {
+    block-size: auto;
+    overflow: clip; /* Clip off contents while animating */
+
+    summary {
+      border-radius: var(--tiki-radius-1x) var(--tiki-radius-1x) 0 0;
+
+      &::after {
+        transform: rotate(90deg);
+      }
+    }
+  }
+}
+
+summary {
+  display: inline-flex;
+  align-items: center;
+  padding: var(--s0) var(--s1);
+
+  font-family: var(--tiki-font-sans);
+  line-height: 1;
+  text-wrap: nowrap;
+
+  color: var(--tiki-color-textSecondary);
+  background-color: var(--tiki-color-textPrimary);
+  border-radius: var(--tiki-radius-1x);
+
+  list-style: none;
+  cursor: pointer;
+
+  &::after {
+    width: 1rem; /* Don't use logical property; this is an image */
+    margin-left: var(--s1);
+
+    content: var(--tiki-details-marker);
+
+    transition: 0.2s;
+  }
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+}
+
+/* form */
+input, textarea {
+  font-family: var(--tiki-font-mono);
+  color: var(--tiki-color-textPrimary);
+  background-color: var(--tiki-color-textSecondary);
+  border: solid 2px var(--tiki-color-textPrimary);
+  border-radius: var(--tiki-radius-1x);
+}
+
+textarea {
+  padding: var(--s0);
+}
+
+button,
+label {
+  font-family: var(--tiki-font-sans);
+
+  & a {
+    text-decoration: none;
+  }
+}
+
+button {
+  inline-size: fit-content;
+  padding-inline: var(--s0);
+  padding-block: var(--s-4);
+
+  text-transform: lowercase;
+  font-variant: small-caps;
+  letter-spacing: .05ch;
+
+  border: solid 2px transparent;
+  border-radius: var(--tiki-radius-1x);
+  appearance: none;
+  -webkit-appearance: none;
+
+  &.button-primary {
+    color: var(--tiki-color-textSecondary);
+    background-color: var(--tiki-color-textPrimary);
+
+    &:hover,
+    &:active {
+      color: var(--tiki-color-hoverSecondary);
+      background-color: var(--tiki-color-hoverPrimary);
+    }
+  }
+
+  &.button-secondary {
+    color: var(--tiki-color-textPrimary);
+    background-color: var(--tiki-color-textSecondary);
+    border-color: var(--tiki-color-textPrimary);
+
+    &:hover,
+    &:active {
+      color: var(--tiki-color-hoverPrimary);
+      background-color: var(--tiki-color-hoverSecondary);
+    }
+  }
+
+  &#searchClear {
+    position: relative;
+    inset-inline-start: -1.5rem;
+    padding: 0;
+    color: var(--tiki-color-textPrimary);
+    background: transparent;
+  }
+}
+
+label span {
+  color: crimson;
+  font-size: 2em;
+  line-height: 1;
+  vertical-align: text-top;
+}
+
+/* kbd */
+kbd {
+  padding: .15rem .3rem;
+
+  font: 80% var(--tiki-font-mono);
+
+  color: var(--tiki-color-textPrimary);
+  background-color: var(--tiki-color-textSecondary);
+  border: 1px solid var(--tiki-color-textPrimary);
+  border-radius: var(--tiki-radius-1x);
+  box-shadow: inset 0 -1px 0 var(--tiki-color-textPrimary);
+}
+
+/* figure, picture, img, canvas, video, svg */
+figure {
+  padding-block: var(--s2);
+  padding-inline: var(--s3);
+  background-color: var(--tiki-color-figureBG);
+
+  & img {
+    background-color: var(--tiki-color-imgBG);
+  }
+}
+
+figure {
+  padding-block: var(--s2);
+  padding-inline: var(--s3);
+
+  background-color: var(--tiki-color-figureBG);
+
+  & img {
+    background-color: var(--tiki-color-imgBG);
+  }
+}
+
+caption, figcaption {
+  font-style: italic;
+  font-size: smaller;
+}
+
+dialog figure img {
+  --tiki-color-imgBG: oklch(var(--tiki-c-p-50));
+}
+
+picture {
+  margin-block-end: var(--s1);
+}
+
+img {
+  margin-inline: auto;
+  object-fit: cover;
+}
+
+img[width][height] {
+  block-size: auto; /* Preserve aspect ratio */
+}
+
+img[src$='.svg'] { /* Let SVG scale without boundaries */
+  inline-size: 100%;
+  block-size: auto;
+  max-inline-size: none;
+}
+
+svg:not(#wagasa-umbrella-icon):not(#tiki-mask-icon):not(#noscript-icon),
+svg:not(#wagasa-umbrella-icon):not(#tiki-mask-icon):not(#noscript-icon)  path {
+  fill: var(--tiki-color-textPrimary);
+}
+
+/* dialog */
+dialog {
+  color: var(--tiki-color-textPrimary);
+}
+
+/* Every Layout custom elements*/
+icon-l {
+  break-before: avoid;
+  break-after: avoid;
+
+  &::before,
+  &::after {
+    content: '\FEFF'; /* Word joiner */
+  }
+
+  &.bigger[data-i="Icon-1em"] {
+    align-items: center;
+
+    & .icon {
+      height: 1.3459cap; /* 1em/20px for default font; YMMV */
+      width: 1.3459cap;
+    }
+  }
+}
+
+/**
+ * Inline elements
+ */
+
+/* a (anchor) */
+a,
+a:visited {
+  color: var(--tiki-color-textPrimary);
+
+  &.current {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: .5rem;
+    text-underline-offset: .5rem;
+
+    color: var(--tiki-nav-current-color);
+  }
+}
+
+a[href^='http://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after,
+a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after {
+  display: inline-block;
+  margin-inline-start: .5ch;
+  inline-size: 1ch;
+  block-size: 1lh;
+
+  content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
+}
+
+/* sub, sup */
+sub, sup {
+  line-height: 1;
+}
+
+/* q, generated content */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+
+  &::before {
+    content: open-quote;
+  }
+
+  &::after {
+    content: close-quote;
+  }
+}
+
+/* code */
+code {
+  font-family: var(--tiki-font-mono);
+}
+
+/**
+ * Sectioning elements
+ */
+
+/* main, header, footer */
+main,
+footer {
+  font-variant-numeric: oldstyle-nums;
+
+  ul li,
+  [aria-describedby='footnotes-label'],
+  code {
+    font-variant-numeric: proportional-nums lining-nums;
+  }
+}
+
+/* nav */
+nav {
+  font-family: var(--tiki-font-sans);
+
+  & a {
+    text-decoration: none;
+  }
+}
+
+/* hr */
+hr {
+  border-color: var(--tiki-color-textPrimary);
+}
+
+/**
+ * Pseudo-elements
+ */
+
+/* ::marker */
+main ul li::marker {
+  content: var(--tiki-list-marker) '\00A0\202F';
+}

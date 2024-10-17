@@ -1,0 +1,122 @@
+/**
+ * 1. Admonitions
+ * 2. Footnotes
+ * 3. Icons
+ * 4. Miscellaneous govuk plugin styles
+ */
+
+/* Admonitions (callouts) */
+.admonition {
+  padding: var(--s1) var(--s2);
+
+  background-color: var(--tiki-alert-color-background);
+  border: 0 solid var(--tiki-alert-border-color);
+  border-left-width: var(--tiki-alert-border-width);
+  border-radius: var(--tiki-radius-2x);
+  box-shadow: var(--tiki-global-shadow-color);
+}
+
+.admonition.tip {
+  background-color: var(--tiki-alert-color-tip-background);
+  border-color: var(--tiki-alert-tip-border-color);
+}
+
+.admonition.info {
+  background-color: var(--tiki-alert-color-info-background);
+  border-color: var(--tiki-alert-info-border-color);
+}
+
+.admonition.warning {
+  background-color: var(--tiki-alert-color-warning-background);
+  border-color: var(--tiki-alert-warning-border-color);
+}
+
+.admonition.danger {
+  background-color: var(--tiki-alert-color-danger-background);
+  border-color: var(--tiki-alert-danger-border-color);
+}
+
+.admonition-heading {
+  font-family: var(--tiki-font-sans);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.admonition-icon {
+  display: inline-block;
+  height: 1.6em; /* Use width & height, not logical properties, on images */
+  width: 1.6em;
+  margin-inline-end: .5ch;
+  vertical-align: bottom;
+}
+
+/* Footnotes */
+[aria-describedby='footnotes-label'] {
+  text-decoration: none;
+
+  &::before {
+    content: '[';
+  }
+
+  &::after {
+    content: ']';
+  }
+}
+
+[href^='#fnref:'] {
+  text-decoration: none;
+}
+
+.app-footnotes-list {
+  p:not(:last-child),
+  li {
+    margin-block-end: var(--s1);
+  }
+}
+
+/* Icons */
+.icon {
+  width: 1cap;
+  height: 1cap;
+}
+
+.with-icon {
+  display: inline-flex;
+  align-items: baseline;
+}
+
+.with-icon .icon {
+  margin-inline-start: .5ch;
+}
+
+/* Miscellaneous govuk plugin styles */
+.govuk-section-break { /* <hr> + footnote(s) */
+  margin-block-end: var(--s1);
+}
+
+.govuk-body {
+  break-inside: avoid;
+}
+
+.govuk-link {
+  break-before:avoid;
+}
+
+.app-link--heading.govuk-link { /* Linked headings */
+  text-decoration: none;
+
+  /* Prevent layout shift on hover */
+  &:after {
+    display: inline-block;
+    min-inline-size: 2ch;
+
+    white-space: pre;
+
+    content: '\0020\0020'; /* double-space */
+  }
+
+  &:hover:after,
+  &:focus:after {
+    content: '\0020#'; /* space + octothorpe */
+  }
+}
