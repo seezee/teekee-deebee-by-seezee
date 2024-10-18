@@ -66,10 +66,8 @@ Garnish
 
 [^1]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
+<tiki-callout type="note">
 
   Jeff Berry specifies a tall glass or tiki mug instead of a brandy snifter.
 
-{% endcallout %}
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>

@@ -56,12 +56,10 @@ Garnish
 
 [^1]: If you put the condensed milk in first it may get too cold and stick to the tin.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
 ### Batida de Maracujá
 
   To make Batida de Maracujá, omit the coconut and increase the passion fruit purée to 1 ounce.
 
-{% endcallout %}
+</tiki-callout>

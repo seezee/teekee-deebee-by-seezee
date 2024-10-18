@@ -67,10 +67,8 @@ Garnish
 
 [^1]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Smuggler's Cove notes that Trinidad only started producing rum in large quantities after World War II. Even though this drink has Trinidadian origins, they recommend a [black blended rum](/rums/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l><span class="after-icon"></span>as being the likely choice at the time the drink was first formulated.
 
-{% endcallout %}
+</tiki-callout>

@@ -74,18 +74,14 @@ Garnish
 
 [^1]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Be sure to serve this with a straw lest you (or your guest) taste nothing but the float. Tiki-Ti furnishes oversized straws; the pink straws Braum's restaurants provides with their malts and shakes seem purpose-made for this.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Tiki-Ti uses "bottom-shelf" white rum (Barton, U.S. Virgin Islands) for the base and Coruba dark rum for the float. If you can't get your hands on Coruba, mix 3 parts Gosling's Black Seal to 1 part Smith & Cross to approximate Coruba's flavor and aroma.
 
-{% endcallout %}
+</tiki-callout>

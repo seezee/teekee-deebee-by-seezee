@@ -6,6 +6,7 @@
 @import "./_modules.css";
 @import "./_utilities.css";
 @import "./_state.css";
+@import "./Admonitions.css";
 @import "./Box.css";
 @import "./Center.css";
 @import "./Cluster.css";

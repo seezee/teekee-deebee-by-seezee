@@ -28,17 +28,13 @@ ingredients:
 
 [^1]: The water should become clear enough that you can see the bottom of the pan.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Li hing mui powder is a salty, sour, and savory mixture made from dried Chinese plums.
 
@@ -46,4 +42,4 @@ ingredients:
 
   Available in a <a href="https://www.amazon.com/Powder-Hawaiis-Snack-Seasoning-1-8oz/dp/B07MJM6SQT" target="_blank" rel="external noopener">white</a> or <a href="https://www.amazon.com/POWDER-PRESERVED-FRUIT-ASPARTAME-2-5oz/dp/B00CY3TB56/" target="_blank" rel="external nofollow">colored</a> form; the latter is dyed with carmine and is *not* vegetarian.
 
-{% endcallout %}
+</tiki-callout>

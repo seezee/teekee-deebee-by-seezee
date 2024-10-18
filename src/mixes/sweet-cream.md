@@ -21,10 +21,8 @@ ingredients:
 1. Blend the ingredients in a drink mixer until slightly thickened but still pourable (a few seconds)
 2. If not using right away, bottle and refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "notes" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Bottle and store refrigerated for up to a week.
 
-{% endcallout %}
+</tiki-callout>

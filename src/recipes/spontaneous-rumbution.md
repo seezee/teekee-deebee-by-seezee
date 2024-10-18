@@ -63,9 +63,7 @@ Garnish
 7. Express the oil from a piece of lemon peel longe enough to rest on top of the glass
 8. Place the peel in the glass, draping one end over the rim
 
-<!-- markdownlint-disable MD012 -->
-{% callout "danger" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="danger">
 
   Fire is dramatic, but also dangerous. Do not serve fire if you or your guests are not reasonably sober. Give fair warning to your guests that you will be setting the drink ablaze and advise everyone to keep themselves and any flammables on their persons (hair, scarves, and so forth) at a safe distance.
 
@@ -73,4 +71,4 @@ Garnish
 
   See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
-{% endcallout %}
+</tiki-callout>

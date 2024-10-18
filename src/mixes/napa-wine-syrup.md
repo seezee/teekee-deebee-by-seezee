@@ -24,10 +24,8 @@ ingredients:
 4. Remove from heat and allow to cool
 5. Bottle and refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for up to three months.
 
-{% endcallout %}
+</tiki-callout>

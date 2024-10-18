@@ -12,17 +12,13 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<!-- markdownlint-disable MD012 -->
-{% callout "danger" %}
-
+<tiki-callout type="danger">
 
   Wear a dust mask and gloves and work in a well-ventilated area when making this preparation. Open windows if necessary.
 
   Do not touch your face or eyes until you have washed your hands thoroughly with hot, soapy water.
 
-{% endcallout %}
-
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>
 
 ## Ingredients
 
@@ -39,10 +35,8 @@ ingredients:
 5. Strain through a cheesecloth into a large container
 6. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>

@@ -25,10 +25,8 @@ ingredients:
 3. Steep the tea in the water for 5 minutes
 4. Strain the tea and carbonate using a home soda maker
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Use an iSi siphon or SodaStream to carbonate this preparation.
 
-{% endcallout %}
+</tiki-callout>

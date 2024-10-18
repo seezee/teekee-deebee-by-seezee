@@ -75,29 +75,23 @@ Garnish
 3. Open pour with gated finish into a double old-fashioned glass
 4. Garnish with a ti leaf or 3 pineapple fronds
 
-<!-- markdownlint-disable MD012 -->
-{% callout "warning" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="warning">
 
   Do not consume or ingest the leaves of the ti plant (Cordyline fruticosa) as they are toxic.
 
   Dispose of the garnish carefully, as it is also toxic to dogs and cats.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
 ### Doctor Funk's Son
 
   To make the Doctor Funk's Son, omit the Herbsaint, reduce the rum to 1&frac34; ounces, and add 1/2 ounce [black blended rum overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
 ### Doctor Wong
 
@@ -118,4 +112,4 @@ Garnish
 
 We recommend you flash-blend this recipe in a drink mixer as instructed in the Dr. Funk recipe.
 
-{% endcallout %}
+</tiki-callout>

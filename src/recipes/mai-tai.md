@@ -66,26 +66,20 @@ Garnish
 4. Pour entire contents into a mai tai or double old-fashioned glass
 5. Garnish with a mint sprig and one of the spent lime shells
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Use a jaw-style citrus squeezer such as a <a href="https://www.amazon.com/Winco-LS-3-Lemon-Lime-Squeezer/dp/B000HVQCKY" target="_blank" rel="external noopener">Winco LS-3</a> to extract the lime juice; this type of squeezer also extracts citrus oil from the fruit's rind into the drink.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   The closest rum today to the original 17-year-old Wray & Nephew used by Trader Vic is Denizen Merchant's Reserve. Smuggler's Cove uses this rum in their mai tais exclusively.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   According to Trader Vic, the garnish should resemble a little island with a minty palm tree, floating peacefully in a sea of rum.
 
-{% endcallout %}
+</tiki-callout>

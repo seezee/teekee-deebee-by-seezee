@@ -28,17 +28,13 @@ ingredients:
 3. Immediately remove from heat & allow to cool
 4. Fine-strain into a bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
 ### Donn's Mix
 
@@ -46,4 +42,4 @@ ingredients:
 
   If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
 
-{% endcallout %}
+</tiki-callout>

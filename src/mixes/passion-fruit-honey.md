@@ -25,19 +25,14 @@ Measure ingredients by volume.
 3. Allow mixture to cool
 4. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for up to ten days.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   If you like your syrup more tart, increase the ratio of purée to simple syrup.
 
-{% endcallout %}
+</tiki-callout>

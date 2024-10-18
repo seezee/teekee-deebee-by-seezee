@@ -45,9 +45,7 @@ ingredients:
 9. Allow to cool completely
 10. Seal tightly and refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   <stack-l>
   <p>Note the expiration date on the butter before making this mixture. The batter will keep, sealed and refrigerated, until that date.</p>
@@ -55,4 +53,4 @@ ingredients:
   <p>Alternatively, pour the batter into an ice cube tray and freeze. Remove the frozen batter cubes from the tray and store frozen in a freezer bag (remove as much air from the bag as possible before sealing). Allow to thaw partially before using.</p>
   <stack-l>
 
-{% endcallout %}
+</tiki-callout>

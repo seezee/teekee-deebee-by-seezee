@@ -27,10 +27,8 @@ ingredients:
 5. Blend the simple syrup with the coconut milk mixture until well-combined
 6. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   The coconut cream will keep, refrigerated, for two few weeks.
 
-{% endcallout %}
+</tiki-callout>

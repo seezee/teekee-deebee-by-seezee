@@ -56,11 +56,8 @@ Garnish
 3. Open pour with a gated finish into a zombie glass
 4. Garnish
 
-<!-- markdownlint-disable MD012 -->
-
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   A delicious variation may be had by substituting two ounces of London dry gin for the rums.
 
-{% endcallout %}
+</tiki-callout>

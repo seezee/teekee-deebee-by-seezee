@@ -19,10 +19,8 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Rather than reprint Martin Cate's recipe here, we'll encourage you <a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">to purchase</a> <cite>Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</cite>. You'll find the recipe on p. 193.
 
-{% endcallout %}
+</tiki-callout>

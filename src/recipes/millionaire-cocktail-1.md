@@ -55,10 +55,8 @@ Garnish
 3. Double-strain into a chilled coupé
 4. Garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Craddock describes the Millionaire Cocktail N<sup>o.</sup> 2 as consisting of <q>1 Dash Anisette, The white of 1 Egg, 1/3 Absinthe, 2/3 Dry gin.</q>
 
-{% endcallout %}
+</tiki-callout>

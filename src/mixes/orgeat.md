@@ -15,13 +15,11 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
+<tiki-callout type="tip">
 
   If your budget is not a concern, substitute <a href="https://www.amazon.com/SMALL-HAND-FOODS-Orgeat-Syrup/dp/B074SQHTJ4/" target="_blank" rel="external noopener">Small Hands orgeat</a> or <a href="https://www.amazon.com/BG-Reynolds-Cocktail-Original-Packaging/dp/B074SQPT97/" target="_blank" rel="external noopener">B.C. Reynolds orgeat</a> for this ingredient in any recipe calling for orgeat.
 
-{% endcallout %}
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>
 
 ## Ingredients
 
@@ -54,10 +52,8 @@ ingredients:
 
 [^1]: About the consistency of Cream of Wheat or watery oatmeal.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   The orgeat will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>

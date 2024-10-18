@@ -59,10 +59,8 @@ Garnish
 3. Double-strain into a chilled coupé
 4. Add garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Substitute other fruit bitters if you are unable to obtain Burlesque bitters.
 
-{% endcallout %}
+</tiki-callout>

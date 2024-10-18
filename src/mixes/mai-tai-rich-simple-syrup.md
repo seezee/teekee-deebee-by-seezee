@@ -31,21 +31,16 @@ ingredients:
 
 [^1]: The water should become clear enough that you can see the bottom of the pan.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   This recipe makes about 1 cup of syrup.
 
   The liquid yield is equal to the volume of sugar, so 250 grams of sugar + 125 milliliters of water makes 250 milliliters (about 1 cup) of syrup.
 
-{% endcallout %}
+</tiki-callout>

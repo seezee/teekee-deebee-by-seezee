@@ -11,13 +11,11 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
+<tiki-callout type="tip">
 
   For a richer honey flavor, you may increase the ratio of honey to water. However, you may need to reduce the amount of syrup in a given recipe to keep the drink balanced.
 
-{% endcallout %}
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>
 
 ## Ingredients
 
@@ -31,10 +29,8 @@ ingredients:
 3. Immediately remove from heat & allow to cool
 4. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>

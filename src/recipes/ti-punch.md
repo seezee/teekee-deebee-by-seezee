@@ -66,19 +66,15 @@ Garnish
 
 [^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
 ### Ti' Punch Vieux
 
   Substitute an élevé sous bois or rhum vieux<icon-l space="1em" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l><span class="after-icon"></span>to make Ti' Punch Vieux.
 
-{% endcallout %}
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>
+<tiki-callout type="note">
 
   This drink is traditionally prepared without ice, but if you prefer the drink cold you may add ice to it. We won't judge you.
 
-{% endcallout %}
+</tiki-callout>

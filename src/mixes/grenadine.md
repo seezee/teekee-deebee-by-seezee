@@ -28,17 +28,13 @@ ingredients:
 4. Stir in orange flower water
 5. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   The grenadine will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Scale this recipe up or down to fit your needs. For example,
 
@@ -49,4 +45,4 @@ ingredients:
 
 yields 18 ounces of grenadine.
 
-{% endcallout %}
+</tiki-callout>

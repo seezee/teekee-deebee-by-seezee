@@ -21,12 +21,10 @@ ingredients:
 1. Place ingredients ingredients in a container and mix thoroughly
 2. Bottle and store refrigerated
 
-<!-- markdownlint-disable MD012 -->
-{% callout "notes" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Tonga Mix will last, refrigerated, for several weeks.
   
   Scale this recipe as needed.
 
-{% endcallout %}
+</tiki-callout>

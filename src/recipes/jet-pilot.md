@@ -60,9 +60,7 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with gated finish into double old-fashioned glass
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
-{% endcallout %}
+</tiki-callout>

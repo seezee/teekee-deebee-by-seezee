@@ -67,9 +67,7 @@ Garnish
 3. Open pour with a gated finish into a zombie glass
 4. Garnish with a mint sprig and prepare to wake up with no memory of the night before
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
-{% endcallout %}
+</tiki-callout>

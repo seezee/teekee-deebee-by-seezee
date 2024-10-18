@@ -67,10 +67,8 @@ Garnish
 4. Open pour with gated finish into the snifter or mug
 5. Spear a pineapple wedge and a maraschino cherry on a cocktail spear and garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   The recipe as published in <cite>{{ source }}</cite> calls for Tiki-Ti's proprietary mai tai mix. It's not too hard to work out a reasonable approximation, as we have done here.
 
-{% endcallout %}
+</tiki-callout>

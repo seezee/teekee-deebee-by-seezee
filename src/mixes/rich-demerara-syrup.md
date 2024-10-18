@@ -26,11 +26,8 @@ ingredients:
 4. Immediately remove from heat & allow to cool
 5. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   The liquid yield is equal to the volume of sugar, so 250 grams of combined sugars + 125 milliliters of water makes 250 milliliters (about 1 cup) of syrup.
 
-{% endcallout %}
+</tiki-callout>

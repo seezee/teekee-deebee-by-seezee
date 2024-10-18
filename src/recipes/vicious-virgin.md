@@ -52,9 +52,8 @@ Garnish
 3. Fine-strain into a chilled coupé glass
 4. Add garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
+<tiki-callout type="note">
 
   Jeff Berry specifies white Puerto Rican and gold U.S. Virgin Islands rums in this recipe.
 
-{% endcallout %}
+</tiki-callout>

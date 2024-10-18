@@ -48,12 +48,10 @@ Garnish
 2. Top with hot water and stir well
 3. Garnish with a cinnamon stick
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Smuggler's Cove bartender Dane Barca created a variation[^1] on this drink. To make it, add 2 teaspoons of the batter, 1 ounce of [coconut cream](/mixes/coconut-cream) and 1 ounce of [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l><span class="after-icon"></span> to the mug. Add hot water, then top with 1 ounce of [sweet cream](/mixes/sweet-cream) and garnish with freshly grated nutmeg.
 
   [^1]: The variation is named after the late American actor Wilford Brimley.
 
-{% endcallout %}
+</tiki-callout>

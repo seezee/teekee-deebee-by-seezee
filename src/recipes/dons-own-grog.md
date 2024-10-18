@@ -23,7 +23,7 @@ garnish: grated nutmeg
 glass:
   - double old-fashioned
   - double rocks
-origin: Don the Beachcomber, circa 1937
+origin: Donn Beach, a.k.a. Don the Beachcomber, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
 ---
@@ -45,11 +45,13 @@ Glassware
 * 3/4 ounce fresh lime juice
 * 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1 dash grenadine
-* 1/2 Leopold Bros. Rocky Mountain blackberry liqueur
-* 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="3"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1/2 Leopold Bros. Rocky Mountain blackberry liqueur[^1]
+* 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l class="bigger" label="3"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span>(see tip)
 * 1/2 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-* 1/2 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+* 1/2 ounce [black blended rum](/rums/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
+
+[^1]: If you can't find Leopold Bros. Rocky Mountain blackberry liqueur, substitute crème de mûre or other blackberry-flavored brandy.
 
 Garnish
   : Freshly grated nutmeg
@@ -60,3 +62,11 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with gated finish into double old-fashioned glass
 4. Top with nutmeg
+
+<tiki-callout type="tip">
+
+  According to Jeff Berry, Donn often used a Louisiana rum, especially a rum called Pontalba,[^2] in his early recipes. Berry recommends New Orleans-based Celebration Distillation's Old New Orleans Amber in this and Donn's other recipes calling for Pontalba.
+
+[^2]: Don't confuse this with the contemporary Puerto Rican rum of the same name.
+
+</tiki-callout>

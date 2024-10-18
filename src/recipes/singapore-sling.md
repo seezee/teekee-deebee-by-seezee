@@ -75,18 +75,14 @@ Garnish
 5. Gently add cracked or cube ice to fill
 6. Garnish with a lemon wedge speared with a cocktail umbrella (but see note)
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Trader Vic printed four sling recipes in his 1947 Bartender's Guide. These include the Raffles Hotel Sling, Singapore Sling N<sup>o.</sup> 1, Singapore Sling N<sup>o.</sup> 2, and the Gin Sling. Each of these recipes is quite different from the version printed here.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Many early recipes call for this drink to be garnished with a "horse's neck," a long spiral lime peel with one end left hanging over the rim of the glass.
 
-{% endcallout %}
+</tiki-callout>

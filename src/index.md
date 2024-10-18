@@ -37,17 +37,18 @@ Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started (mo
 
 </tiki-dialog-img>
 
-{% callout "note" %}
+<tiki-callout type="note">
 
   Many of the recipes call for a <a href="/rums" >rum category</a> followed by a numbered icon, based on <a href="https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324/">Martin Cate’s rum taxonomy</a>.
 
   Cate recommends you affix tape or DYMO-style labels with corresponding numbers to the necks of your rum bottles for a quick visual reference.
 
   <stack-l>
-    {% callout "tip" %}
+    <tiki-callout type="tip">
 
       To search for a rum by its category number, type the number surrounded by parentheses, e.g. type `(2)` to search for recipes calling for blended lightly aged rums.
-    {% endcallout %}
+
+    </tiki-callout>
   </stack-l>
 
-{% endcallout %}
+</tiki-callout>

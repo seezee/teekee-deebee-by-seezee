@@ -63,20 +63,16 @@ Garnish
 3. Open pour into a hollowed-out pineapple
 4. Close the pineapple with the lid and insert two straws, unless making a mermaid island (see note)
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
 ### Mermaid Island
 
   To make a mermaid island: rather than cutting out the pineapple core, leave it in place to create a small island, then top it with a cocktail umbrella and a plastic mermaid. Discard the pineapple lid.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Jeff Berry's published recipe serves one person, but if you're going to go to the trouble of hollowing out a pineapple, we think you should double the recipe and share it with a friend.
 
-{% endcallout %}
+</tiki-callout>

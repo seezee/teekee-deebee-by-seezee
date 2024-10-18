@@ -65,10 +65,8 @@ Garnish
 4. Open pour with gated finish into footed pilsner glass
 5. Add garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Jeff Berry specifies gold Virgin Islands rum, such as Cruzan Single Barrel, in this recipe.
 
-{% endcallout %}
+</tiki-callout>

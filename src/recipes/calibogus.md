@@ -60,10 +60,8 @@ Garnish
 5. Carefully add cracked or cube ice to the glass
 6. Garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
  Spruce beer soda extract is available from home brew suppliers.
 
-{% endcallout %}
+</tiki-callout>

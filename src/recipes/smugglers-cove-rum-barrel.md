@@ -75,17 +75,13 @@ Garnish
 3. Open pour with gated finish into a rum barrel tiki mug or a large brandy snifter
 4. Add garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Smuggler's Cove seems to use a blend of El Dorado 3 Year and El Dorado 8 Year rums along with Lemon-Hart 151 in this recipe, based on the Reddit discussion and <a href="https://youtu.be/qy3XKn88xBA?si=nCuIKLyl344MzS4k" target="_blank" rel="external noopener">this video</a>.
 
-{% endcallout %}
-<!-- markdownlint-disable MD012 -->
-{% callout "info" %}
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>
+<tiki-callout type="info">
 
   The Reddit tiki discussions also make a strong case for Herbstura in this recipe.
 
-{% endcallout %}
+</tiki-callout>

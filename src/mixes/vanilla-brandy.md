@@ -27,12 +27,10 @@ ingredients:
 5. Add the Demerara syrup and mix well
 6. Reseal the bottle and store
 
-<!-- markdownlint-disable MD012 -->
-{% callout "notes" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Store away from heat and light for up to 1 year.
   
   Scale this recipe as needed.
 
-{% endcallout %}
+</tiki-callout>

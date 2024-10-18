@@ -18,6 +18,9 @@
   <!-- Web components, including Every Layout -->
   <!-- Load only if needed -->
   <script>
+    if (document.querySelector('tiki-callout')) {
+      import('/assets/js/Admonition.js');
+    };
     if (document.querySelector('box-l')) {
       import('/assets/js/Box.js');
     };

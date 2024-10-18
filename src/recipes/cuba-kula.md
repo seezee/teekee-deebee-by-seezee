@@ -66,10 +66,8 @@ Garnish
 5. Garnish with a maraschino cherry speared to a slice of lime or a lime wheel
 6. Serve with a short straw
 
-<!-- markdownlint-disable MD012 -->
-{% callout "info" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="info">
 
   With the <a href="https://www.bacardi.com/us/en/the-legend-of-bacardi-151-rum/" target="_blank" rel="external noopener">discontinuation of Bacardi 151</a> in 2016, the only remaining overproof Puerto Rican rum is Don Q 151. However, Cruzan 151 (U.S. Virgin Islands) is an acceptable substitute.
 
-{% endcallout %}
+</tiki-callout>

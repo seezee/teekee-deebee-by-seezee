@@ -56,9 +56,8 @@ Garnish
 3. Double-strain into a chilled coupé
 4. Garnish
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
+<tiki-callout type="note">
 
   Harry & Wynn's <cite>Barflies & Cocktails</cite> (1927) includes a recipe for this drink's predecessor, the Three Mile Limit. It dictates different proportions and omits the whiskey.
 
-{% endcallout %}
+</tiki-callout>

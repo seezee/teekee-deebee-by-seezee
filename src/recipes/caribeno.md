@@ -54,10 +54,8 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Strain into a coconut shell or ceramic coconut mug filled with fresh cracked or cube ice
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   A variation on this drink may be made by substituting London dry gin for the rum.
 
-{% endcallout %}
+</tiki-callout>

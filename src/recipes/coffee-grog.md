@@ -66,31 +66,24 @@ Garnish
 3. Place rums in a metal ladle and ignite, pouring the flaming rum into the glass
 4. Allow the flames to fully extinguish before garnishing with a cinnamon stick
 
-<!-- markdownlint-disable MD012 -->
-{% callout "danger" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="danger">
 
   Fire is dramatic, but also dangerous. Do not serve fire if you or your guests are not reasonably sober. Give fair warning to your guests that you will be setting the drink ablaze and advise everyone to keep themselves and any flammables on their persons (hair, scarves, and so forth) at a safe distance.
 
   See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Serve in <a href="https://www.vagabondhouse.com/collections/bar-glasses/products/tall_glasses_wicker_rt474" target="_blank" rel="external noopener">small tumblers with wicker cozies</a> to insulate the imbiber's hands, as pictured on p. 48 of <cite>{{ source }}</cite>, revised edition (2017).
 
   Or serve in a coffee mug if you cannot source the aforementioned glasses.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Jeff Berry specifies <q>gold Jamaican rum</q> as the lower-proof component in this recipe.
 
-{% endcallout %}
+</tiki-callout>

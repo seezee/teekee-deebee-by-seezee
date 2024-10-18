@@ -68,10 +68,8 @@ Garnish
 3. Open pour with a gated finish into a double old-fashioned glass
 4. Garnish with a mint sprig *or* a rock candy stick
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   To make Don the Beachcomber's (1941) version of the Navy Grog, substitute 1 ounce [honey syrup](/mixes/honey-syrup/) and 3/4 ounce seltzer for the Demerara syrup and allspice dram. Strain the drink over an ice cone placed in a double old-fashioned glass.
 
-{% endcallout %}
+</tiki-callout>

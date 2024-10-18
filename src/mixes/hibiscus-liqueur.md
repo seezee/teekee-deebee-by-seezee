@@ -13,13 +13,11 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
+<tiki-callout type="tip">
 
   Scale this recipe up or down as needed.
 
-{% endcallout %}
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>
 
 ## Ingredients
 
@@ -35,10 +33,8 @@ ingredients:
 
 [^1]: Alternatively, heat the honey in a saucepan for about 3 minutes over medium heag.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This liqueur will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>

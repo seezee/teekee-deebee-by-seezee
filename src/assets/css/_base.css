@@ -455,7 +455,7 @@ icon-l {
     content: '\FEFF'; /* Word joiner */
   }
 
-  &.bigger[data-i="Icon-1em"] {
+  &.bigger {
     align-items: center;
 
     & .icon {

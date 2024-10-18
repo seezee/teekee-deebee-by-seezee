@@ -51,9 +51,7 @@ Garnish
 2. Shake until very cold, about 15 seconds
 3. Strain into an ice-filled old-fashioned glass
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
  To mimic a grog from the 1700s, use [pot still unaged rum](/rums/00-rum-pot-still-unaged/) or [black pot still rum](/rums/10-rum-black-pot-still/), skipping the ice. No need to use a dirty glass or dilute with brackish water.
 
@@ -61,4 +59,4 @@ Garnish
 
  Smuggler's Cove eschews historical authenticity by using [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>.<span class="after-icon"></span>Who are we to argue with them?
 
-{% endcallout %}
+</tiki-callout>

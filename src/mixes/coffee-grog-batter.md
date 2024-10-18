@@ -34,9 +34,7 @@ Yield
 
 [^1]: If scaling up the recipe, you may use an electric mixer or an eggbeater.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   <stack-l>
   <p>Note the expiration date on the butter before making this mixture. The batter will keep, sealed and refrigerated, until that date.</p>
@@ -44,4 +42,4 @@ Yield
   <p>You may also store frozen in a freezer bag (remove as much air from the bag as possible before sealing). Allow to thaw partially before using.</p>
   <stack-l>
 
-{% endcallout %}
+</tiki-callout>

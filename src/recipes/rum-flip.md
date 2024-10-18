@@ -52,10 +52,8 @@ Garnish
 3. Double-strain into a chilled coupé
 4. Top with freshly grated nutmeg
 
-<!-- markdownlint-disable MD012 -->
-{% callout "warning" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="warning">
 
   Consuming raw eggs may increase your risk of food-borne illness.
 
-{% endcallout %}
+</tiki-callout>

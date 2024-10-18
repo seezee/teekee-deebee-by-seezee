@@ -72,12 +72,10 @@ Garnish
 
 [^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "danger" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="danger">
 
   Fire is dramatic, but also dangerous. Do not serve fire if you or your guests are not reasonably sober. Give fair warning to your guests that you will be setting the drink ablaze and advise everyone to keep themselves and any flammables on their persons (hair, scarves, and so forth) at a safe distance.
 
   Guests should blow out the burning crouton(s) before sipping. Use tongs to handle the burnt crouton and extinguish it in a container of water.
 
-{% endcallout %}
+</tiki-callout>

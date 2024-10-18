@@ -26,17 +26,13 @@ ingredients:
 4. Strain through a cheesecloth into a mixing bowl, batter bowl, or large measuring cup
 5. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   Scale this recipe up or down to fit your needs. For example,
 
@@ -46,4 +42,4 @@ ingredients:
 
 yields about 18 ounces of grenadine.
 
-{% endcallout %}
+</tiki-callout>

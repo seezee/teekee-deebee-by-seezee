@@ -70,9 +70,7 @@ Garnish
 4. Pour contents, unstrained, into a zombie glass
 5. Garnish with a mint sprig and pray to Papa Legba
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
   Berry calls for Puerto Rican rum in this recipe. While none are listed in the matching rum categories, Bacardi makes a number of appropriate rums.
 
-{% endcallout %}
+</tiki-callout>

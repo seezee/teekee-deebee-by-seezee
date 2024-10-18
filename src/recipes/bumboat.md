@@ -69,12 +69,10 @@ Garnish
 
 [^2]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
 ### Mermaid Island
 
   To make a mermaid island: rather than cutting out the pineapple core, leave it in place to create a small island, then top it with a cocktail umbrella and a plastic mermaid. Discard the pineapple lid.
 
-{% endcallout %}
+</tiki-callout>

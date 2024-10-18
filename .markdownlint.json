@@ -15,8 +15,6 @@
       "container-l",
       "cover-l",
       "dialog",
-      "tiki-dialog-gallery",
-      "tiki-dialog-img",
       "div",
       "dl",
       "dd",
@@ -45,6 +43,9 @@
       "switcher-l",
       "svg",
       "ThemeSwitcher",
+      "tiki-callout",
+      "tiki-dialog-gallery",
+      "tiki-dialog-img",
       "time",
       "use"
     ]

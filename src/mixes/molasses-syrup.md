@@ -28,18 +28,14 @@ ingredients:
 
 [^1]: The water should become clear enough that you can see the bottom of the pan.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for a few weeks.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   For a richer molasses flavor, increase the molasses to sugar ratio.
 
-{% endcallout %}
+</tiki-callout>

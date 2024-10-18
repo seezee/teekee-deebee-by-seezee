@@ -58,10 +58,8 @@ Garnish
 
     Then again, this drink was originally made entirely without ice, and sometimes served hot. So perhaps not?
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   For an eighteenth century take on this drink, substitute pot still unaged rum or pot still lightly aged rum.
 
-{% endcallout %}
+</tiki-callout>

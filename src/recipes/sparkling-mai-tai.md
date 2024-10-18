@@ -65,11 +65,8 @@ Garnish
 4. Top with sparkling wine
 5. Garnish
 
-<!-- markdownlint-disable MD012 -->
-
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   If you plan to serve several guests, scale-up and pre-batch this recipe. Combine and chill all ingredients *except* sparkling wine for one hour; chill wine separately. To serve, pour 1&frac34; ounces of mix into each glass and top with 4 ounces of chilled sparkling wine; garnish.
 
-{% endcallout %}
+</tiki-callout>

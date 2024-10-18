@@ -78,9 +78,7 @@ Garnish
 
 [^3]: Paraphrased from the <cite>Cabaret</cite> article.
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
   Berry calls for gold Puerto Rican rum where we have specified column still aged rum. Bacardi Gold or similar would be appropriate.
 
-{% endcallout %}
+</tiki-callout>

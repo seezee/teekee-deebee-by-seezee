@@ -23,19 +23,14 @@ Measure ingredients by volume.
 1. Whisk ingredients together in a mixing bowl, batter bowl, or large measuring cup
 2. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This syrup will keep, refrigerated, for up to ten days.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
   If you like your syrup more tart, increase the ratio of purée to simple syrup.
 
-{% endcallout %}
+</tiki-callout>

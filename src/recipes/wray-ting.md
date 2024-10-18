@@ -48,10 +48,8 @@ Garnish
 3. Carefully top with grapefruit soda an stir gently
 4. Squeeze in some juice from a lime wedge and drop it into the glass
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   Substitute other good-quality grapefruit soda if you cannot source Ting.
 
-{% endcallout %}
+</tiki-callout>

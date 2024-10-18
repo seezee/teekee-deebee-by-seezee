@@ -9,9 +9,7 @@ eleventyExcludeFromCollections: true
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<!-- markdownlint-disable MD012 -->
-{% callout "a note on the recipes" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout title="a note on the recipes" type="note">
 
   For recipes previously published in <cite>Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</cite>, we reprint the Smuggler's Cove adaptation, regardless of their cited source. However, we have made minor changes to some proportions. Most notably, we changed the ratio of grapefruit juice to cinnamon syrup from 1:1 to 2:1 in recipes that would have originally called for Donn's Mix; this matches the ratio Don the Beachcomber would have deployed.
 
@@ -19,7 +17,7 @@ eleventyExcludeFromCollections: true
 
   You are free to change portions and proportions to suit your own stamina and taste.
 
-{% endcallout %}
+</tiki-callout>
 
 <div class="col-3">
   <dl class="recipe-index">

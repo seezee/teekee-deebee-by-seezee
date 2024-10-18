@@ -13,13 +13,11 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
+<tiki-callout type="tip">
 
   Scale this recipe up or down as needed.
 
-{% endcallout %}
-<!-- markdownlint-enable MD012 -->
+</tiki-callout>
 
 ## Ingredients
 
@@ -36,10 +34,8 @@ ingredients:
 4. Strain flowers and discard
 5. Bottle & refrigerate
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
   This infusion will keep, refrigerated, for at least six months.
 
-{% endcallout %}
+</tiki-callout>

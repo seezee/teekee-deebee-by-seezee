@@ -57,12 +57,10 @@ Garnish
 3. Blend at high speed no more than 5 seconds
 4. Fine-strain into an old-fashioned glass or other small tumbler
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
 Jeff Berry specifies a specialty glass, which he pictures on p. 66 of the revised edition (2007) of <cite>{{ source }}</cite>. We have not succeeded in identifying the glass.
 
 Our best guess is that it is a vintage glass from The China Trader restaurant.
 
-{% endcallout %}
+</tiki-callout>

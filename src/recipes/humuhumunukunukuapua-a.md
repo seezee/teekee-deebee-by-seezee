@@ -65,12 +65,10 @@ Garnish
 3. Open pour into a double old-fashioned glass
 4. Garnish with an edible orchid and 2 or more maraschino cherries speared on a cocktail pick
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
 ### Lauwiliwilinukunukuʻoiʻoi
 
   Substitute [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l> <span class="after-icon"></span>for the gin in this recipe to make a Lauwiliwilinukunukuʻoiʻoi.
 
-{% endcallout %}
+</tiki-callout>

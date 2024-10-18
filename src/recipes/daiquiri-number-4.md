@@ -55,18 +55,14 @@ Garnish
 3. Pour into a large chilled coupé or wine glass
 4. Garnish; serve with a straw
 
-<!-- markdownlint-disable MD012 -->
-{% callout "tip" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="tip">
 
 Add 1 teaspoon grapefruit juice to this recipe for a Daiquiri N<sup>o.</sup> 3 or add 1 teaspoon [grenadine](/mixes/grenadine) for a Daiquiri N<sup>o.</sup> 5.
 
-{% endcallout %}
+</tiki-callout>
 
-<!-- markdownlint-disable MD012 -->
-{% callout "note" %}
-<!-- markdownlint-enable MD012 -->
+<tiki-callout type="note">
 
 The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.bz/1935-Bar-la-Florida-Cocktails" target="_blank" rel="external noopener">{{ source }}</a></cite> presented the recipes in Spanish on the left side of each page, with the English translation to the right. The translation introduced numerous errors, most notably translating <q>limón verde</q> (lime; literally <q>green lemon</q>) as <q>lemon.</q>
 
-{% endcallout %}
+</tiki-callout>
