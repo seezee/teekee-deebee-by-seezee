@@ -34,7 +34,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe in Don the Beachcomber bartender Dick Santiago's personal notebook.
+  : <cite>{{ source }}</cite>, from an unpublished recipe in Don the Beachcomber maître d’ Dick Santiago's personal notebook.
 
 Glassware
   : Mai tai glass
