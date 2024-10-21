@@ -22,26 +22,26 @@
     return;
   } else if (recipes) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div><a href="/recipes/">recipes</a></div>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span><span><a href="/recipes/">recipes</a></span>`);
   } else if (rums) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div><a href="/rums/">rum categories</a></div>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span><span><a href="/rums/">rum categories</a></span>`);
   } else if (mixes) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div><a href="/mixes/">syrups &amp; mixes</a></div>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span><span><a href="/mixes/">syrups &amp; mixes</a></span>`);
   } else if (legal) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div><div>legal</div>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span><span>legal</span>`);
   } else {
-    home.insertAdjacentHTML(`afterend`, `<div class="breadcrumbs-separator"> ❖ </div>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator"> ❖ </span>`);
   };
 
 })(document);

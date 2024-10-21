@@ -42,12 +42,11 @@
  *
  */
 
-
 /**
  * Block elements
  */
 
- /* html, body */
+/* html, body */
 html,
 body {
   block-size: 100%;

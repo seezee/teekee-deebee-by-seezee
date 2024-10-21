@@ -36,7 +36,7 @@ Glassware
 
 ## Ingredients
 
-* 1/4 ounce 1:1 [simple syrup](/mixes/2-1-simple-syrup/#fn:2)
+* 1/4 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
 * 1/4 ounce falernum
 * 1/2 ounce fresh lime juice
 * 1/2 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>

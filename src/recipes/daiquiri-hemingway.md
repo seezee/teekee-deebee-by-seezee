@@ -40,7 +40,7 @@ Glassware
 * 3/4 ounce fresh lime juice
 * 1/2 ounce fresh grapefruit juice
 * 1/4 ounce maraschino liqueur[^1]
-* <span class="frac"><sup>3</sup>&frasl;<sub>8</sub></span> ounce simple syrup (1:1)
+* <span class="frac"><sup>3</sup>&frasl;<sub>8</sub></span> ounce simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
 * 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>[^2]
 * 1 small (1/2-inch &times; 2-inch) piece of grapefruit peel
 

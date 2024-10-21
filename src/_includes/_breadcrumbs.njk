@@ -2,17 +2,17 @@
   <cluster-l role="list" justify="flex-start" space="var(--s-1)">
     <p>you are here: </p>
     {% if tags == "home" %}
-      <div role="listitem" id="breadcrumb-home" aria-current="page"><a href="/">home</a></div>
+      <span role="listitem" id="breadcrumb-home" aria-current="page"><a href="/">home</a></span>
     {% else%}
-      <div role="listitem" id="breadcrumb-home"><a href="/">home</a></div>
+      <span role="listitem" id="breadcrumb-home"><a href="/">home</a></span>
     {% endif %}
     {%- for post in collections.all -%}
       {% if page.url == post.url %}
         {% if tags == "home" %}<!-- Do nothing -->
         {% else %}
-        <div role="listitem">
+        <span role="listitem">
           <a href="{{ post.url }}" id="breadcrumb-current" aria-current="page">{{ post.data.title }}</a>
-        </div>
+        </span>
         {% endif %}
       {% endif %}
     {%- endfor -%}

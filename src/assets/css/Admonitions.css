@@ -37,8 +37,10 @@
 
 .admonition-icon {
   display: inline-block;
+  position: relative;
   height: 1.6em; /* Use width & height, not logical properties, on images */
   width: 1.6em;
+  inset-block-end: .1rem;
   margin-inline-end: .5ch;
-  vertical-align: bottom;
+  vertical-align: middle;
 }
