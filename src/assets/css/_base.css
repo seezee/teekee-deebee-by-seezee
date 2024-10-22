@@ -297,8 +297,17 @@ summary {
 }
 
 /* form */
-input, textarea {
+input, textarea, select, option {
+
+  &:not(#searchField) {
+    inline-size: fit-content;
+    min-inline-size: 30ch;
+    max-inline-size: 100%;
+    field-sizing: content;
+  }
+
   font-family: var(--tiki-font-mono);
+
   color: var(--tiki-color-textPrimary);
   background-color: var(--tiki-color-textSecondary);
   border: solid 2px var(--tiki-color-textPrimary);
