@@ -36,7 +36,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
+* 1/2 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
 * 1 ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)<span class="after-icon"></span>(see note)
 * 1/2 ounce [black blended rum](/rums/11-rum-black-blended/) <icon-l space="1em" label="(5)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l><span class="after-icon"></span>(see note)
 * 1/2 ounce [blended aged rum](/rums/05-rum-blended-aged/) <icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span>(see note)
