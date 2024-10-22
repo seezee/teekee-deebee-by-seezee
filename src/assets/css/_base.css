@@ -314,8 +314,13 @@ input, textarea, select, option {
   border-radius: var(--tiki-radius-1x);
 }
 
+select{
+  min-block-size: 1.5rlh;
+}
+
 textarea {
   padding: var(--s0);
+  min-block-size: 5rlh;
 }
 
 button,

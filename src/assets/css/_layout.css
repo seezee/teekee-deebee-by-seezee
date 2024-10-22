@@ -49,8 +49,6 @@ noscript div {
 #searchField {
   appearance: none;
   -webkit-appearance: none;
-  color: var(--tiki-color-textPrimary);
-  background-color: var(--tiki-navbar-search-input-background-color);
   background-image: var(--tiki-search-icon);
   background-repeat: no-repeat;
   background-size: 1em;
@@ -136,23 +134,20 @@ noscript div {
   position: relative;
 
   text-align: start;
+}
 
-  & box-l {
-    position: absolute;
-    z-index: 99;
+#searchResults-box {
+  position: absolute;
+  z-index: 99;
 
-    background-color: var(--tiki-color-primary-100);
-  }
-
-  & li {
-    max-inline-size: 32ch;
-  }
+  background-color: var(--tiki-color-textSecondary);
 }
 
 #searchResults {
 
   > li {
     padding: var(--s-5);
+    max-inline-size: 32ch;
 
     &:has(a:focus-visible) {
       border-radius: var(--tiki-radius-1x);
