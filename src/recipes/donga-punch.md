@@ -34,7 +34,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from the personal notebook of 15-year veteran Beachcomber's maître d’ Dick Santiago
+  : <cite>{{ source }}</cite>, from the personal notebook of 15-year veteran Beachcomber's <span lang="fr">maître d’</span> Dick Santiago
 
 Glassware
   : Donn Beach mug (pictured)

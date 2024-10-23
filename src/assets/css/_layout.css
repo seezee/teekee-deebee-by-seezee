@@ -6,13 +6,14 @@
 * 3.  Search
 * 3.  Theme toggle
 * 4.  #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper
-* 5.  .masonry
-* 6.  Columns (.col-2, .col-3, .col-4, .col-5)
-* 7.  .index
-* 8.  <dd> styles: .dd-add-space, dd+br
-* 9.  .after-icon spacer
-* 10. .recipe-index
-* 11. #starfish (footer icon)
+* 5.  #ingredients, #per-serving
+* 6.  .masonry
+* 7.  Columns (.col-2, .col-3, .col-4, .col-5)
+* 8.  .index
+* 9.  <dd> styles: .dd-add-space, dd+br
+* 10.  .after-icon spacer
+* 11. .recipe-index
+* 12. #starfish (footer icon)
 */
 
 /* No script */
@@ -73,7 +74,7 @@ noscript div {
   pointer-events: none;
   position: absolute;
   inset-inline-start: 9.8rem;
-  inset-block-start: .2rem;
+  inset-block-start: .275rem;
 
   & kbd {
     background-color: var(--tiki-color-textPrimary);
@@ -276,12 +277,24 @@ https://web.dev/articles/building/a-theme-switch-component */
   border-block-end: 1px solid var(--tiki-color-textPrimary);
 }
 
+.breadcrumbs {
+
+  [role="listitem"] {
+    font-variant-numeric: lining-nums slashed-zero;
+  }
+}
+
 .breadcrumbs-separator {
   opacity: .5;
 }
 
 #main-wrapper {
   inline-size: 100%
+}
+
+/* #ingredients, #per-serving */
+#ingredients + ul li, #per-serving + ul li {
+  font-variant-numeric: proportional-nums lining-nums;
 }
 
 /**

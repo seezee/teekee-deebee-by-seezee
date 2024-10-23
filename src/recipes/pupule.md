@@ -18,7 +18,7 @@ ingredients:
   - cinnamon syrup
   - vanilla syrup
   - allspice pimento dram
-  - column still age rum (4)
+  - column still aged rum (4)
   - Angostura bitters
 garnish:
   - swizzle stick
@@ -67,6 +67,6 @@ Garnish
 
 <tiki-callout type="note">
 
-  Jeff Berry specifies gold Virgin Islands rum, such as Cruzan Single Barrel, in this recipe.
+  Jeff Berry specifies gold U.S. Virgin Islands rum, such as Cruzan Single Barrel, in this recipe.
 
 </tiki-callout>

@@ -20,7 +20,7 @@
  *
  * Inline elements
  * 1. a
- * 2. code
+ * 2. code, math
  * 3. strong, em
  * 4. sub, sup
  * 5. q
@@ -62,6 +62,11 @@ html {
 
   font-family: var(--tiki-font-default);
   font-size: var(--tiki-size-textDefault);
+  /* Don't let Safari on iOS for phones resize text in landscape orientation */
+  /* Modern browsers allow users to zoom text with these rule */
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
 
   color: var(--tiki-color-textPrimary);
   background-color: var(--tiki-color-primary-200);
@@ -88,11 +93,17 @@ html {
 
 body {
   padding-inline: 1ch;
+
+  font-optical-sizing: auto;
+  font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+  font-kerning: normal;
+  font-variant-numeric: proportional-nums oldstyle-nums diagonal-fractions;
 }
 
 /* h1 – h6 */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--tiki-font-sans);
+  font-variant-numeric: lining-nums;
   line-height: 1.1;
   text-wrap: balance;
 }
@@ -296,6 +307,11 @@ summary {
   }
 }
 
+/* table */
+th, td {
+  font-variant-numeric: tabular-nums lining-nums slashed-zero;
+}
+
 /* form */
 input, textarea, select, option {
 
@@ -307,11 +323,21 @@ input, textarea, select, option {
   }
 
   font-family: var(--tiki-font-mono);
+  line-height: 1.1;
 
   color: var(--tiki-color-textPrimary);
   background-color: var(--tiki-color-textSecondary);
   border: solid 2px var(--tiki-color-textPrimary);
   border-radius: var(--tiki-radius-1x);
+}
+
+input {
+
+  &:not(#searchField) {
+    padding-inline: var(--s0);
+  }
+
+  padding-block: var(--s-5);
 }
 
 select{
@@ -335,8 +361,9 @@ label {
 button {
   inline-size: fit-content;
   padding-inline: var(--s0);
-  padding-block: var(--s-4);
+  padding-block: var(--s-2);
 
+  line-height: 1.1;
   text-transform: lowercase;
   font-variant: small-caps;
   letter-spacing: .05ch;
@@ -513,8 +540,38 @@ sub, sup {
 }
 
 /* q, generated content */
+
+:lang(en) > *, :lang(en-us) > * {
+  q {
+    quotes: '\201C' '\201D' '\2018' '\2019';
+  }
+}
+
+:lang(en-GB) > * {
+  q {
+    quotes: '\2018' '\2019' '\201C' '\201D';
+  }
+}
+
+:lang(es) > * {
+  font-variant: italic;
+
+  quotes: '«' '»' '\201C' '\201D' '\2018' '\2019';
+}
+
+:lang(fr) > * {
+  font-variant: italic;
+
+  quotes: '«\00202F' '\00202F»' '“' '”';
+}
+
+:lang(de) > * {
+  font-variant: italic;
+
+  quotes: '\201E' '\201C' '\201A' '\2018';
+}
+
 q {
-  quotes: "\201C" "\201D" "\2018" "\2019";
 
   &::before {
     content: open-quote;
@@ -525,9 +582,10 @@ q {
   }
 }
 
-/* code */
-code {
+/* code, math */
+code, math {
   font-family: var(--tiki-font-mono);
+  font-variant-numeric: tabular-nums lining-nums slashed-zero;
 }
 
 /**
@@ -535,13 +593,10 @@ code {
  */
 
 /* main, header, footer */
-main,
-footer {
-  font-variant-numeric: oldstyle-nums;
+main {
+  font-variant-numeric: proportional-nums oldstyle-nums;
 
-  ul li,
-  [aria-describedby='footnotes-label'],
-  code {
+  [aria-describedby='footnotes-label'] {
     font-variant-numeric: proportional-nums lining-nums;
   }
 }

@@ -15,8 +15,8 @@ ingredients:
   - orange juice
   - grenadine
   - orange curacao
-  - pot still lightly aged rum (1)
-  - column still lightly aged rum
+  - pot still unaged rum
+  - blended lightly aged rum (2)
   - black blended overproof rum (6)
   - Pernod
   - pastis
@@ -51,8 +51,8 @@ Glassware
 - 1 ounce fresh orange juice
 - 1/2 ounce [grenadine](/mixes/grenadine)
 - 1 ounce orange curaçao
-- 1 ounce [pot still lightly aged rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
-- 2 ounces [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)
+- 1 ounce [pot still unaged rum](/rums/00-rum-pot-still-unaged/)
+- 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 - 1/2 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 - 1 dash Pernod or other pastis liqueur
 

@@ -18,7 +18,7 @@ ingredients:
   - grenadine
   - falernum
   - blended lightly aged rum (2)
-  - column still aged rum (4)
+  - blended aged rum (3)
   - black blended overproof rum (6)
   - brown sugar
   - Angostura bitters
@@ -54,7 +54,7 @@ decade: 1950
 - 1 ounce unsweetened pineapple juice
 - 1 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 - 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-- 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
+- 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 - 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 - 1 teaspoon brown sugar
 - 1 dash Angostura bitters
@@ -71,6 +71,6 @@ Garnish
 5. Garnish with a mint sprig and pray to Papa Legba
 
 <tiki-callout type="tip">
-  Berry calls for Puerto Rican rum in this recipe. While none are listed in the matching rum categories, Bacardi makes a number of appropriate rums.
+  Berry calls for Puerto Rican rum for the two 80-proof rums in this recipe. While none are listed in the matching rum categories, Bacardi makes a number of appropriate rums.
 
 </tiki-callout>

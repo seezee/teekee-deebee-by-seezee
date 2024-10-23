@@ -28,7 +28,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe in Don the Beachcomber maître d’ Dick Santiago's personal notebook.
+  : <cite>{{ source }}</cite>, from an unpublished recipe in Don the Beachcomber <span lang="fr">maître d’</span> Dick Santiago's personal notebook.
 
 Glassware
   : Chilled coupé

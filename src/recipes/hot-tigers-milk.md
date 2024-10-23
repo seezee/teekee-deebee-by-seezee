@@ -50,3 +50,8 @@ Garnish
 1. Place all ingredients except hot water in a heatproof mug
 2. Pour in the boiling water and stir to dissolve the batter
 3. Garnish and serve
+
+<tiki-callout type="note">
+
+Jeff Berry specifies gold U.S. Virigin Islands rum, such as Cruzan Single Barrel, in this recipe.
+</tiki-callout>

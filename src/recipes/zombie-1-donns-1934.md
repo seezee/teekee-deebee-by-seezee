@@ -82,6 +82,6 @@ Garnish
 4. Garnish with a mint sprig and proceed with caution
 
 <tiki-callout type="tip">
-  Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
 
+  Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
 </tiki-callout>

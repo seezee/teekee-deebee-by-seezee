@@ -20,6 +20,7 @@
 
 .aligncenter {
   text-align: center;
+  text-wrap: balance;
 }
 
 /* .no-break */

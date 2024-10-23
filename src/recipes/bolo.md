@@ -13,7 +13,7 @@ ingredients:
   - lime juice
   - passion fruit syrup
   - honey syrup
-  - blended lightly aged rum (3)
+  - column still aged rum (4)
   - cane AOC Martinique rhum agricole vieux (8)
   - Angostura bitters
 garnish:
@@ -46,7 +46,7 @@ Serves
 * 1 ounce fresh lime juice
 * 1 ounce [passion fruit syrup](/mixes/passion-fruit-syrup/)
 * 1/2 ounce [honey syrup](/mixes/honey-syrup/)
-* 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 2 ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 1&frac12; ounces [Cane AOC Martinique Rhum Agricole Vieux](/rhums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" label="(8)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 * 2 dashes Angostura bitters
 

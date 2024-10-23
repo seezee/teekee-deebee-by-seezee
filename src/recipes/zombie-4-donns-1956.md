@@ -15,8 +15,8 @@ ingredients:
   - grapefruit juice
   - unsweetened pineapple juice
   - falernum
+  - black blended rum (5)
   - blended aged rum (3)
-  - column still aged rum (4)
   - black blended overproof rum (6)
   - maraschino liqueur
   - grenadine
@@ -56,8 +56,8 @@ decade: 1950
 - <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce [cinnamon syrup](/mixes/cinnamon-syrup)
 - 1&frac12; ounces unsweetened pineapple juice
 - 1/4 ounce falernum
-- 1 ounce [blended aged rum](/rums/05-rum-blended-aged/) (Jamaican)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-- 1&frac14; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
+- 1 ounce [black blended rum](/rums/11-rum-black-blended/) (Jamaican)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+- 1&frac14; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 - 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 - 3/4 ounce maraschino liqueur
 - 1/4 teaspoon [grenadine](/mixes/grenadine)
@@ -79,6 +79,6 @@ Garnish
 [^3]: Paraphrased from the <cite>Cabaret</cite> article.
 
 <tiki-callout type="tip">
-  Berry calls for gold Puerto Rican rum where we have specified column still aged rum. Bacardi Gold or similar would be appropriate.
+  Berry calls for gold Puerto Rican rum where we have specified blended aged rum. Bacardi Gold or similar would be appropriate.
 
 </tiki-callout>

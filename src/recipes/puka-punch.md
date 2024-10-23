@@ -16,7 +16,7 @@ ingredients:
   - passion fruit syrup
   - falernum
   - blended lightly aged rum (2)
-  - blended aged rum (3)
+  - column still aged rum (4)
   - black blended rum (5)
   - Angostura bitters
   - black blended overproof rum (6)
@@ -48,7 +48,7 @@ Glassware
 * 3/4 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce falernum
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-* 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 3/4 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" label="(5)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
 * 3/4 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>

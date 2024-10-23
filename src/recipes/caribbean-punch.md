@@ -12,7 +12,7 @@ ingredients:
   - simple syrup
   - grenadine
   - pot still unaged rum
-  - blended aged rum (3)
+  - column still aged rum (4)
   - Pernod
   - Herbsaint
   - almond extract
@@ -34,7 +34,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe in Don the Beachcomber maître d’ Dick Santiago's personal notebook.
+  : <cite>{{ source }}</cite>, from an unpublished recipe in Don the Beachcomber <span lang="fr">maître d’</span> Dick Santiago's personal notebook.
 
 Glassware
   : Mai tai glass
@@ -48,7 +48,7 @@ Glassware
 * 1/2 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
 * 1/4 teaspoon [grenadine](/src/mixes/grenadine/)
 * 1 ounce [pot still unaged rum](/src/rums/02-rum-pot-still-aged/)
-* 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 6 drops (<span class="frac"><sup>1</sup>&frasl;<sub>8</sub></span> ounce) Pernod or Herbsaint
 * 3 drops almond extract
 * 3 dashes Angostura bitters
