@@ -43,7 +43,7 @@ Glassware
 * 1/2 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1/2 ounce [hibiscus liqueur](/mixes/hibiscus-liqueur)
 * 2 ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)
-* 6 drops Bittermens ʻElemakule Tiki Bitters
+* 6 drops Bittermens <span lang="haw">ʻElemakule</span> Tiki Bitters
 
 Garnish
   : Edible orchid

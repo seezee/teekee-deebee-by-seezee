@@ -52,7 +52,7 @@ Glassware
 - 1 dash Angostura bitters
 
 Garnish
-  : Three Luxardo maraschino cherries & a pineapple chuck speared on a cocktail pick
+  : Three Luxardo maraschino cherries & a pineapple chunk speared on a cocktail pick
   : *or* three Luxardo maraschino cherries on a cocktail pick & a pineapple frond
 
 ## Instructions

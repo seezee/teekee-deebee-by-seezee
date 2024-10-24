@@ -65,8 +65,8 @@ Garnish
 
 1. Combine all ingredients in a Collins or zombie glass
 2. Add crushed ice until the glass is 3/4 full
-3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener">lélé</a> until the glass is frosty[^2]
+3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener"><span lang="fr">lélé</span></a> until the glass is frosty[^2]
 4. Top up with more crushed ice
 5. Add garnish
 
-[^2]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
+[^2]: You can purchase a traditional <span lang="fr">le bois lélé</span> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.

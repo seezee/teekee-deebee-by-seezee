@@ -36,7 +36,7 @@ Source
   : <cite>{{ source }}</cite>
 
 Glassware
-  : <a href="https://www.smugglerscovesf.com/store" target="_blank" rel="external noopener">Kuhiko tiki mug</a>
+  : <a href="https://www.smugglerscovesf.com/store" target="_blank" rel="external noopener"><span lang="haw">Kuhiko</span> tiki mug</a>
   : Other 16-ounce mug or glass
 
 ## Ingredients
@@ -57,5 +57,10 @@ Garnish
 
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
-3. Open pour with a gated finish into a Kuhiko tiki mug or other 16-ounce mug or glass
+3. Open pour with a gated finish into a <span lang="haw">Kuhiko</span> tiki mug or other 16-ounce mug or glass
 4. Garnish with a mint sprig
+
+<tiki-callout type="info">
+
+The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahiko</span> [sic] was once a chief on the Earth, living in <span lang="haw">Olalowaia</span>. He is mentioned in the chant <cite lang="haw">Kumulipo</cite> and in the <cite lang="haw">Chant of Kūaliʻi</cite>.
+</tiki-callout>

@@ -112,10 +112,6 @@ h1 {
   font-size: var(--tiki-font-size-5);
 }
 
-h1 {
-  font-size: var(--tiki-font-size-5);
-}
-
 h2 {
   font-size: var(--tiki-font-size-4);
 }
@@ -251,6 +247,8 @@ details {
 
   pre {
     white-space: pre-wrap;
+    -webkit-hyphens: manual;
+    hyphens: manual;
   }
 
   > * {
@@ -541,7 +539,9 @@ sub, sup {
 
 /* q, generated content */
 
-:lang(en) > *, :lang(en-us) > * {
+:lang(en) > *,
+:lang(en-US) > *,
+:lang(pt-BR) {
   q {
     quotes: '\201C' '\201D' '\2018' '\2019';
   }
@@ -554,21 +554,24 @@ sub, sup {
 }
 
 :lang(es) > * {
-  font-variant: italic;
-
   quotes: '«' '»' '\201C' '\201D' '\2018' '\2019';
 }
 
 :lang(fr) > * {
-  font-variant: italic;
-
-  quotes: '«\00202F' '\00202F»' '“' '”';
+   quotes: '«\00202F' '\00202F»' '“' '”';
 }
 
 :lang(de) > * {
-  font-variant: italic;
-
   quotes: '\201E' '\201C' '\201A' '\2018';
+}
+
+:lang(es),
+:lang(fr),
+:lang(de),
+:lang(pt-BR),
+:lang(ty),
+:lang(haw) {
+  font-style: italic;
 }
 
 q {
@@ -586,6 +589,8 @@ q {
 code, math {
   font-family: var(--tiki-font-mono);
   font-variant-numeric: tabular-nums lining-nums slashed-zero;
+  -webkit-hyphens: manual;
+  hyphens: manual;
 }
 
 /**

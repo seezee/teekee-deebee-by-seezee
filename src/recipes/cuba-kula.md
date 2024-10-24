@@ -13,7 +13,7 @@ ingredients:
   - honey
   - orange juice
   - lime juice
-  - black blended rum (Jamaica) (5)
+  - black pot still rum (Jamaica)
   - blended aged rum (Guyana) (3)
   - pot still unaged rum (overproof) (Jamaica)
 garnish:
@@ -50,7 +50,7 @@ Glassware
 * 2 ounces fresh lime juice
 * 1/2 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (overproof) (Puerto Rico)
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/) (Guyana)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-* 1 ounce [black blended rum](/rums/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+* 1 ounce [black pot still rum](/rums/10-rum-black-pot-still/)
 
 Garnish
   : Maraschino cherry

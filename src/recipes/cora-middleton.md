@@ -25,10 +25,9 @@ decade: 1950
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
-> [Cora Middleton] is really a cocktail, not a lady; although somewhere in the dim and distant past it probably was named for some female of consequence to some good mixing-man. Actually it impressed us as being a Clover Club’s &frac12;
-> -sister, only done with good amber rum instead of gin.
+> [Cora Middleton] is really a cocktail, not a lady; although somewhere in the dim and distant past it probably was named for some female of consequence to some good mixing-man. Actually it impressed us as being a Clover Club’s &frac12;-sister, only done with good amber rum instead of gin.
 >
-> — <cite>{{ source }}</cite> (1951), Charles H. Baker
+> — Charles H. Baker
 
 Origin
   : {{ origin }}

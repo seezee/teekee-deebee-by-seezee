@@ -5,11 +5,11 @@ tags: recipes
 type:
   - cocktail
   - digestif
-  - sweet
 characteristic:
   - stirred
   - strained
   - aromatic
+  - sweet
 base: rum base
 ingredients:
   - tawny port

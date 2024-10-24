@@ -19,7 +19,7 @@ glass:
   - old-fashioned
   - rocks
 garnish: mint sprig
-origin: A traditional Brazilian drink which, while originating nearly a century ago, only gained sufficient popularity to be considered a <q>national drink</q> in the 1960s. <em>Batida</em> is Portuguese for <q>shaken</q> or <q>milk shake.</q> When made with coconut milk, it is Batida de Coco; with passion fruit, Batida de Maracujá. Combine them to make Batida de Maracujá e Coco.
+origin: A traditional Brazilian drink which, while originating nearly a century ago, only gained sufficient popularity to be considered a <q>national drink</q> in the 1960s. <span lang="pt-Br">Batida</span> is Portuguese for "shaken" or "milk shake." When made with coconut milk, it is <span lang="pt-BR">Batida de Coco</span>; with passion fruit, <span lang="pt-BR">Batida de Maracujá</span>. Combine them to make <span lang="pt-BR">Batida de Maracujá e Coco</span>.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 1930
 ---
@@ -60,6 +60,6 @@ Garnish
 
 ### Batida de Maracujá
 
-  To make Batida de Maracujá, omit the coconut and increase the passion fruit purée to 1 ounce.
+  To make <span lang="pt-BR">Batida de Maracujá</span>, omit the coconut and increase the passion fruit purée to 1 ounce.
 
 </tiki-callout>

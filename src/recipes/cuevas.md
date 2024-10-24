@@ -20,7 +20,7 @@ ingredients:
   - Bittermens 'Elemakule Tiki Bitters
 garnish: maraschino cherry
 glass: coupe
-origin: Dane Barca from Smuggler's Cove created this cocktail as an homage to Panamanian roots as he was participating in an event for Abuelo Rum. The name Cuevas honors an indigenous people of Panama who were exterminated by Spanish colonists in the 16<sup>th</sup> century.
+origin: Dane Barca from Smuggler's Cove created this cocktail as an homage to Panamanian roots as he was participating in an event for Abuelo Rum. The name <span lang="es">cuevas</span> honors an indigenous people of Panama who were exterminated by Spanish colonists in the 16<sup>th</sup> century.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
@@ -45,7 +45,7 @@ Glassware
 * 1/2 ounce Punt e Mes or other quinquina
 * 1/4 ounce tawny port
 * 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-* 6 drops Bittermens ʻElemakule Tiki Bitters
+* 6 drops Bittermens <span lang="haw">ʻElemakule</span> Tiki Bitters
 
 Garnish
   : Luxardo maraschino cherry

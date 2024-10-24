@@ -1,6 +1,6 @@
 {
   "name": "teekee-deebee-by-seezee",
-  "version": "1.0.253",
+  "version": "1.0.254",
   "description": "A collection of exotic and tropical drink recipes",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,6 @@
     "eleventy-plugin-footnotes": "^0.11.0",
     "esbuild": "^0.19.11",
     "esbuild-plugin-browserslist": "^0.10.0",
-    "lightningcss": "^1.22.1",
     "markdown-it": "^14.0.0",
     "markdown-it-anchor": "^8.6.7",
     "markdown-it-attrs": "^4.1.6",

@@ -17,7 +17,7 @@ ingredients:
   - blackberry liqueur
   - blended aged rum (3)
   - blended lightly aged rum (2)
-  - black blended rum (5)
+  - black pot still rum
   - Angostura bitters
 garnish: grated nutmeg
 glass:
@@ -48,7 +48,7 @@ Glassware
 * 1/2 Leopold Bros. Rocky Mountain blackberry liqueur[^1]
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l class="bigger" label="3"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span>(see tip)
 * 1/2 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-* 1/2 ounce [black blended rum](/rums/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+* 1/2 ounce [black pot still rum](/rums/10-rum-black-pot-still/)
 * 1 dash Angostura bitters
 
 [^1]: If you can't find Leopold Bros. Rocky Mountain blackberry liqueur, substitute crème de mûre or other blackberry-flavored brandy.

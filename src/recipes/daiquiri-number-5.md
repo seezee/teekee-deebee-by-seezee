@@ -22,7 +22,7 @@ garnish:
   - maraschino cherry
   - cocktail pick
   - straw
-origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2, 3, and 4, was codified by barman Constante Ribalaigua at Havana's Floridita Bar. It first appeared on the menu in 1939 alongside the two earlier frappé variants (3 and 4).
+origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2, 3, and 4, was codified by barman Constante Ribalaigua at Havana's Floridita Bar. It first appeared on the menu in 1939 alongside the two earlier <span lang="fr">frappé</span> variants (3 and 4).
 source: Bar la Florida Cocktails
 decade: 1930
 ---
@@ -57,7 +57,7 @@ Garnish
 ## Instructions
 
 1. Combine all ingredients in a blender with 4 ounces of crushed ice
-2. Blend at low speed until smooth (frappé)
+2. Blend at low speed until smooth (<span lang="fr">frappé</span>)
 3. Pour into a large chilled coupé or wine glass
 4. Garnish with either a fresh cherry with the stem intact or a Luxardo maraschino cherry on a cocktail pick; serve with a straw
 
@@ -69,6 +69,6 @@ Substitute 1 teaspoon grapefruit juice for the grenadine in this recipe for a Da
 
 <tiki-callout type="note">
 
-The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.bz/1935-Bar-la-Florida-Cocktails" target="_blank" rel="external noopener">{{ source }}</a></cite> presented the recipes in Spanish on the left side of each page, with the English translation to the right. The translation introduced numerous errors, most notably translating <q>limón verde</q> (lime; literally <q>green lemon</q>) as <q>lemon.</q>
+The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.bz/1935-Bar-la-Florida-Cocktails" target="_blank" rel="external noopener">{{ source }}</a></cite> presented the recipes in Spanish on the left side of each page, with the English translation to the right. The translation introduced numerous errors, most notably translating <span lang="es">limón verde</span> (lime; literally "green lemon") as <q>lemon.</q>
 
 </tiki-callout>

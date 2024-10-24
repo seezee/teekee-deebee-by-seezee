@@ -61,11 +61,11 @@ Garnish
 1. Gently muddle the mint leaves, lime juice, and syrup in a Collins or highball glass
 2. Add the rum and bitters
 3. Add crushed ice until the glass is 3/4 full
-4. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener">lélé</a> until the glass is frosty[^1]
+4. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener"><span lang="fr">lélé</span></a> until the glass is frosty[^1]
 5. Top up with more crushed ice
 6. Add garnish
 
-[^1]: You can purchase a traditional <q>le bois lélé</q> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
+[^1]: You can purchase a traditional <span lang="fr">le bois lélé</span> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
 
 <tiki-callout type="note">
 
