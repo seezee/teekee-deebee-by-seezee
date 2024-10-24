@@ -31,15 +31,16 @@
 .admonition-heading {
   font-family: var(--tiki-font-sans);
   font-weight: 700;
-  font-size: 1em;
-  text-transform: uppercase;
+  font-size: var(--tiki-font-size-1);
+  letter-spacing: .05ch;
+  font-variant: all-small-caps;
 }
 
 .admonition-icon {
   display: inline-block;
   position: relative;
-  height: 1.6em; /* Use width & height, not logical properties, on images */
-  width: 1.6em;
+  height: auto; /* Use width & height, not logical properties, on images */
+  width: 1.3em;
   inset-block-end: .1rem;
   margin-inline-end: .5ch;
   vertical-align: middle;

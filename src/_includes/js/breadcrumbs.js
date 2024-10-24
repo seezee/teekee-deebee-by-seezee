@@ -14,9 +14,9 @@
   let pathArray = path.split('/');
   let child  = pathArray[2];
 
-  if (current) {
+/*   if (current) {
     current.innerHTML = current.innerHTML.toLowerCase();
-  };
+  }; */
 
   if (path === `/`) {
     return;

@@ -61,7 +61,7 @@
 /* .small-caps, #breadcrumbs */
 .small-caps,
 #breadcrumbs {
-  font-variant: small-caps;
+  font-variant:  all-small-caps;
   letter-spacing: .05ch;
 }
 
