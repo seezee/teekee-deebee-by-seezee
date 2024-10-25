@@ -24,22 +24,22 @@
     if (child) {
       home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span><a href="/recipes/">recipes</a></span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span><a href="/recipes/" role="listitem">recipes</a></span>`);
   } else if (rums) {
     if (child) {
       home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span><a href="/rums/">rum categories</a></span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span><a href="/rums/" role="listitem">rum categories</a></span>`);
   } else if (mixes) {
     if (child) {
       home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span><a href="/mixes/">syrups &amp; mixes</a></span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span><a href="/mixes/" role="listitem">syrups &amp; mixes</a></span>`);
   } else if (legal) {
     if (child) {
       home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span>legal</span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span role="listitem">legal</span>`);
   } else {
     home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
   };
