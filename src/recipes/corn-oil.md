@@ -47,5 +47,5 @@ Garnish
 ## Instructions
 
 1. Add all ingredients to an old-fashioned glass
-2. Fill the glass with crushed increase
+2. Fill the glass with crushed ice
 3. Stir until frost forms on the glass
