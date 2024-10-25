@@ -194,6 +194,8 @@ dt {
   font-size: var(--tiki-font-size-1);
   font-weight: 700;
 
+  break-after: avoid;
+
   &.no-break {
     break-before: avoid;
   }
