@@ -29,7 +29,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, 10<sup>th</sup> Anniversary Expanded Edition
+  : <cite>{{ source }}</cite>, 10<sup>th</sup> Anniversary Expanded Edition (2017)
 
 Glassware
   : Chilled coupé
