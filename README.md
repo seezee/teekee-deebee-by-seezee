@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.260
+* Version: 1.0.261
 * License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 * License URI: <https://www.gnu.org/licenses/gpl-3.0.html>
 * Tags: recipes, tiki, rum, cocktails
@@ -15,24 +15,26 @@ A tiki recipe database built with Eleventy
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+## :notebook_with_decorative_cover: Table of Contents
 
-- [Tiki DB by SEEZEE](#tiki-db-by-seezee)
-- [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-  - [:star2: About the Project](#star2-about-the-project)
-  - [:warning: License](#warning-license)
-  - [:handshake: Contact](#handshake-contact)
+* [Tiki DB by SEEZEE](#tiki-db-by-seezee)
+  * [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+    * [:star2: About the Project](#star2-about-the-project)
+    * [:warning: License](#warning-license)
+    * [:handshake: Contact](#handshake-contact)
 
-## :star2: About the Project
+### :star2: About the Project
 
-This is a personal project meant to help me decide what to drink when it’s hot.
+A personal collection of exotic and historical drink recipes based on Martin Cate’s rum taxonomy. We encourage you to purchase the cited books as they contain useful and sometimes vital information not found on this site.
 
-## :warning: License
+### :warning: License
 
 Distributed under [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later.
 
-## :handshake: Contact
+### :handshake: Contact
 
 Chris J Zähller — [@czahller](https://x.com/czahller/) — <chris@messengerwebdesign.com>
 
-Project Link: [https://github.com/seezee/teekee-deebee-by-seezee](https://github.com/seezee/teekee-deebee-by-seezee)
+Project link: [https://github.com/seezee/teekee-deebee-by-seezee](https://github.com/seezee/teekee-deebee-by-seezee)
+
+Website: [Tiny Paper Umbrella](https://tinypaperumbrella.com)
