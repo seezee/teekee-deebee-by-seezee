@@ -44,7 +44,7 @@ Source
 
 Glassware
   : Collins
-  : Zombie
+  : Highball
 
 ## Ingredients
 
@@ -68,5 +68,5 @@ Garnish
 
 1. Add all ingredients along with 12 ounces of crushed ice and 4 to 6 small ice cubes to the tin
 2. Flash blend 3 to 4 seconds
-3. Pour with gated finish into a Collins or zombie glass
+3. Pour with gated finish into a Collins or highball glass
 4. Garnish with a maraschino cherry speared between two pineapple chunks on a cocktail pick, plus a mint sprig and a swizzle stick

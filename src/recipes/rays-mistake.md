@@ -44,7 +44,7 @@ Source
 
 Glassware
   : Collins
-  : highball
+  : Highball
 
 ## Ingredients
 
@@ -68,7 +68,7 @@ Garnish
 
 1. Add all ingredients *except* black blended rum to a drink mixer tin filled with 12 ounces crushed ice + 4 to 6 small ice cubes
 2. Flash blend 3 to 4 seconds
-3. Open pour with gated finish into a Collins or zombie glass
+3. Open pour with gated finish into a Collins or highball glass
 4. Float black blended rum on top [^1]
 5. Spear a pineapple wedge and a maraschino cherry on a cocktail spear and garnish
 

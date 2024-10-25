@@ -31,7 +31,7 @@ Source
 
 Glassware
   : Collins
-  : highball
+  : Highball
 
 ## Ingredients
 

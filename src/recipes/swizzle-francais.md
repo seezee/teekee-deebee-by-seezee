@@ -63,7 +63,7 @@ Garnish
 
 ## Instructions
 
-1. Combine all ingredients in a Collins or zombie glass
+1. Combine all ingredients in a Collins or highball glass
 2. Add crushed ice until the glass is 3/4 full
 3. Swizzle with a barspoon or <a href="https://www.uncommoncaribbean.com/martinique/uncommon-buy-le-bois-lele-the-authentic-caribbean-swizzle-stick/" target="_blank" rel="external noopener"><span lang="fr">lélé</span></a> until the glass is frosty[^2]
 4. Top up with more crushed ice
