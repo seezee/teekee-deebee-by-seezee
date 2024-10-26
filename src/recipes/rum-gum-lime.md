@@ -57,5 +57,5 @@ Garnish
 
   Jeff Berry notes that Donn Beach made this drink with a 20-year-old Cuban rum called Infierno, long extinct.
 
-  Berry also suggests alternate glassware, a kind of short, heavy footed goblet, which he pictures on p. 89 of <cite>{{ source }}</cite>, 10<sup>th</sup> Anniversary Expanded Edition (2017).
+  Berry also suggests alternate glassware (a short, heavy footed goblet), which he pictures on p. 89 of <cite>{{ source }}</cite>, 10<sup>th</sup> Anniversary Expanded Edition (2017).
 </tiki-callout>
