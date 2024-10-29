@@ -32,7 +32,7 @@ decade: 1930
 
 Jeff "Beachbum" Berry had to tinker with this recipe quite a bit to make something drinkable and historically accurate. The original recipe was short on details, calling for 1/2 ounce lime, 1/4 ounce Markeza (Donn Beach's code for passion fruit syrup), 1 ounce Myer's [sic] Jamaican, a piece of pineapple, and 1 teaspoon of honey, with no instructions on how to prepare.
 
-In 1937 the Myers's rum was probably their Light Vatted, a (now extinct) lightly aged Jamaican rum, so Berry recommends something similar. Berry says to go for a higher proof rum, at least 86 proof.
+In 1937 the Myers's rum was probably their Light Vatted, a (now extinct) lightly aged Jamaican rum, so Berry recommends something similar, at least 86 proof.
 
 Origin
   : {{ origin }}
@@ -50,7 +50,7 @@ Glassware
 * 1/4 ounce [passion fruit syrup](/mixes/passion-fruit-syrup/)
 * 1/4 ounce [honey syrup](/mixes/honey-syrup/)
 * 2 level teaspoons diced fresh pineapple
-* 1 ounce 86 proof or higher [blended aged rum](/rums/05-rum-blended-aged/) (Jamaican)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1 ounce 86 proof or higher [blended aged rum](/rums/05-rum-blended-aged/) <icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
   : Cocktail pick
@@ -63,3 +63,8 @@ Garnish
 2. Blend at high speed until the pineapple has liquefied, about 20 seconds
 3. Using a fine cone strainer, strain into a chilled coupé or other stemmed cocktail glass, tapping and agitating the strainer to extract as much liquid as possible
 4. Garnish with a maraschino cherry and a pineapple chunck speared on a cocktail pick
+
+<tiki-callout type="note">
+
+  Jeff Berry specifies Jamaican rum.
+</tiki-callout>

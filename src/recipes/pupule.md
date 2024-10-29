@@ -17,7 +17,8 @@ ingredients:
   - fresh orange juice
   - cinnamon syrup
   - vanilla syrup
-  - allspice pimento dram
+  - allspice dram
+  - pimento dram
   - column still aged rum (4)
   - Angostura bitters
 garnish:
