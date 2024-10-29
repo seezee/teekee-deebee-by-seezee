@@ -11,8 +11,8 @@ tags: rums
 
 <div class="index">
 
-* Appleton Estate Reserve Blend (Jamaica)
-* Appleton Estate Rare Blend 12 (Jamaica)
+* Appleton Estate Reserve Blend 8 (Jamaica)[^1]
+* Appleton Estate Rare Blend 12 (Jamaica)[^1]
 * Cadenhead Green Label (regional blend)
 * Cartavio Selecto 12 (Peru)
 * Cartavio Selecto 18 (Peru)
@@ -43,3 +43,5 @@ tags: rums
 * R.L. Seale 10 Year (Barbados)
 
 </div>
+
+[^1]: Both of these Appleton Estate rums are bottled at 86 proof.

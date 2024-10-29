@@ -71,6 +71,6 @@ Garnish
 5. Garnish with a mint sprig and pray to Papa Legba
 
 <tiki-callout type="tip">
-  Berry calls for Puerto Rican rum for the two 80-proof rums in this recipe. While none are listed in the matching rum categories, Bacardi makes a number of appropriate rums.
+  Berry calls for Puerto Rican rum for the two 80 proof rums in this recipe. While none are listed in the matching rum categories, Bacardi makes a number of appropriate rums.
 
 </tiki-callout>

@@ -40,7 +40,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe in Beachcomber's maître d' Dick Santiago's personal notebook.
+  : <cite>{{ source }}</cite>, from an unpublished recipe in Beachcomber's <span lang="fr">maître d'</span> Dick Santiago's personal notebook.
 
 Glassware
   : Collins

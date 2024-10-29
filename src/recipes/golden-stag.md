@@ -15,7 +15,9 @@ ingredients:
   - pot still unaged rum
   - black blended rum (5)
   - blended aged rum (3)
-glass: coupe
+glass:
+  - coupe
+  - stemmed cocktail glass
 origin: Don the Beachcomber created this daiquiri variation, which takes its name from the rum brand that serves as its base, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
@@ -32,12 +34,13 @@ Source
 
 Glassware
   : Chilled coupé
+  : Stemmed cocktail glass
 
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
-* 1 ounces [pot still unaged rum](/rums/00-rum-pot-still-unaged/)<span class="after-icon"></span>(see note)
+* 1 ounce [pot still unaged rum](/rums/00-rum-pot-still-unaged/) (see note)
 * 1/2 ounce [black pot still rum](/rums/10-rum-black-pot-still/) (see note)
 * 1/2 ounce [blended aged rum](/rums/05-rum-blended-aged/) <icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span>(see note)
 * 1 dash Angostura bitters
