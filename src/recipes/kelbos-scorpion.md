@@ -41,8 +41,8 @@ Glassware
 
 ## Ingredients
 
-* 3/4 ounces fresh lime juice
-* 3/4 ounces fresh orange juice
+* 3/4 ounce fresh lime juice
+* 3/4 ounce fresh orange juice
 * 1/2 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce [orgeat](/mixes/orgeat/)
 * 3/4 ounce brandy

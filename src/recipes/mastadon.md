@@ -55,7 +55,7 @@ Serves
 * 1/2 ounce Licor 43
 * 1/2 ounce maraschino liqueur
 * 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-* 1&frac12; bourbon
+* 1&frac12; ounces bourbon
 * 2 dashes Peychaud's bitters
 
 Garnish

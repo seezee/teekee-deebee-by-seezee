@@ -55,4 +55,4 @@ Garnish
 1. Add all ingredients to a drink mixer tin along with 12 ounces crushed ice + 4 to 6 small ice cubes
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a double old-fashioned glass
-4. Garnish with a maraschino cherry and a pineapple speared on a cocktail pick
+4. Garnish with a maraschino cherry and a pineapple chunk speared on a cocktail pick

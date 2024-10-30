@@ -51,7 +51,7 @@ Glassware
 * 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1/2 ounce [hibiscus liqueur](/mixes/hibiscus-liqueur)
 * 1/2 ounce Cherry Heering
-* 1&frac12; Peruvian pisco
+* 1&frac12; ounces Peruvian pisco
 * 1 dash Angostura bitters
 
 Garnish

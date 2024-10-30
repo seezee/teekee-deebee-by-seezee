@@ -47,7 +47,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 3/4 fresh white grapefruit juice[^1]
+* 3/4 ounce fresh white grapefruit juice[^1]
 * 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1/4 ounce allspice (pimento) dram
 * 1 ounce [pot still lightly aged (overproof) rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>

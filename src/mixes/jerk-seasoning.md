@@ -24,7 +24,7 @@ ingredients:
 * &frac12; teaspoon freshly ground cinnamon
 * &frac14; teaspoon freshly ground nutmeg
 * 1 teaspoon ground cayenne
-* &frac14; table salt
+* &frac14; teaspoon table salt
 
 ## Instructions
 
