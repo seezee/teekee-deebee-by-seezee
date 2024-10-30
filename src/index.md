@@ -2,6 +2,7 @@
 layout: _article.njk
 title: Home
 tags: home
+ogtype: website
 ---
 
 <!-- markdownlint-disable MD025 -->

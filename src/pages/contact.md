@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Talk to Us
 permalink: "/contact/index.html"
+ogtype: website
 ---
 
 <script src="https://www.google.com/recaptcha/api.js"></script>

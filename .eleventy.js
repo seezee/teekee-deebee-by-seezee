@@ -10,6 +10,7 @@ const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
 const markdownItAttrs             = require('markdown-it-attrs');
 const outdent                     = require('outdent');
+const pluginSEO                   = require("eleventy-plugin-seo");
 // Next 2 constants for JS bundling browser targets
 const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
 const target                      = resolveToEsbuildTarget(browserslist(
@@ -125,6 +126,19 @@ module.exports = function(eleventyConfig) {
 
     return outdent`${picture}`;
   };
+  // SEO
+  eleventyConfig.addPlugin(pluginSEO, {
+    title: "Tiny Paper Umbrella",
+    author: "Chris J. Zähller",
+    twitter: "czahller",
+    image: "/assets/images/site/starfish.webp/",
+    options: {
+      titleDivider: "|",
+      imageWithBaseUrl: true,
+      twitterCardType: "summary_large_image",
+      showPageNumbers: false
+    }
+  });
   // Needed for paired shortcodes
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   // For inline SVG; see https://medium.com/@brettdewoody/inlining-svgs-in-eleventy-cffb1114e7b
