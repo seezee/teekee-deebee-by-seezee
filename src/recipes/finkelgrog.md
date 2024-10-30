@@ -45,7 +45,7 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* 1/2 ounce fresh grapefruit juice
+* 1/2 ounce fresh white grapefruit juice[^1]
 * 1/2 ounce [orgeat](/mixes/orgeat/)
 * 1/2 ounce [Napa wine syrup](/mixes/napa-wine-syrup)
 * 1/2 ounce Licor 43
@@ -53,6 +53,8 @@ Glassware
 * 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 ounce seltzer
 * 1 pinch freshly ground cinnamon
+
+[^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
   : Zesty conversation

@@ -69,7 +69,7 @@ decade: 1930
 - 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 - 2 dashes [Herbstura](/mixes/herbstura/)
 
-[^3]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
+[^3]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
   : Mint sprig

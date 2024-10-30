@@ -49,7 +49,7 @@ Glassware
 * 3/4 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 * 1 dash [Herbstura](/mixes/herbstura/)
 
-[^1]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
+[^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
   : None

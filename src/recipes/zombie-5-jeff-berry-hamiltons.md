@@ -55,7 +55,7 @@ Glassware
 - 1 dash grenadine
 - 2 dashes [Herbstura](/mixes/herbstura/)
 
-[^2]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
+[^2]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
   : Mint sprig

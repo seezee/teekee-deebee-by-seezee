@@ -40,6 +40,6 @@ ingredients:
 
   To make Donn's Mix, combine 2 parts fresh white grapefruit juice to 1 part cinnamon syrup.
 
-  If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
+  If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 </tiki-callout>

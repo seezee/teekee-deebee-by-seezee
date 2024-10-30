@@ -49,9 +49,11 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1 ounce fresh grapefruit juice
+* 1 ounce fresh white grapefruit juice[^1]
 * 1/2 ounce [cinnamon syrup](/mixes/honey-syrup/)
 * 1&frac12; ounces [cane AOC Martinique rhum agricole vieux](/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" label="(8)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
+
+[^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
   : Pineapple wedge

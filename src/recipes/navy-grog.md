@@ -59,7 +59,7 @@ Garnish
   : Rock candy stick
   : Ice cone
 
-[^1]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
+[^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 ## Instructions
 

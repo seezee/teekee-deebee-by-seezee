@@ -38,15 +38,17 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1/2 ounce fresh grapefruit juice
-* 1/4 ounce maraschino liqueur[^1]
+* 1/2 ounce fresh white grapefruit juice[^1]
+* 1/4 ounce maraschino liqueur[^2]
 * <span class="frac"><sup>3</sup>&frasl;<sub>8</sub></span> ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
-* 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>[^2]
+* 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>[^3]
 * 1 small (1/2-inch &times; 2-inch) piece of grapefruit peel
 
-[^1]: Frizell uses Luxardo.
+[^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
-[^2]: Frizell uses Denizen Aged White Rum.
+[^2]: Frizell uses Luxardo.
+
+[^3]: Frizell uses Denizen Aged White Rum.
 
 Garnish
   : Very thin lime wheel

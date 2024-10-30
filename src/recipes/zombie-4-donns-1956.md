@@ -64,7 +64,7 @@ decade: 1950
 - 2 dashes Angostura bitters
 - 6 drops Pernod (or other pastis or abinthe)
 
-[^2]: If you can't find white grapefruit, use pink. Use red grapefruit juice only as a last resort.
+[^2]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
   : Mint sprig

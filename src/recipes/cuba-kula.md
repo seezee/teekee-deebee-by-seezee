@@ -15,7 +15,7 @@ ingredients:
   - lime juice
   - black pot still rum (Jamaica)
   - blended aged rum (Guyana) (3)
-  - pot still unaged rum (overproof) (Jamaica)
+  - column still lightly aged rum (overproof) (Puerto Rico)
 garnish:
   - maraschino cherry
   - lime wheel

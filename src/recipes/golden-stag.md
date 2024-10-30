@@ -12,7 +12,7 @@ base: rum base
 ingredients:
   - lime juice
   - simple syrup
-  - pot still unaged rum
+  - blended lightly aged rum
   - black blended rum (5)
   - blended aged rum (3)
 glass:
@@ -40,7 +40,7 @@ Glassware
 
 * 1/2 ounce fresh lime juice
 * 1/2 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
-* 1 ounce [pot still unaged rum](/rums/00-rum-pot-still-unaged/) (see note)
+* 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>(see note)
 * 1/2 ounce [black pot still rum](/rums/10-rum-black-pot-still/) (see note)
 * 1/2 ounce [blended aged rum](/rums/05-rum-blended-aged/) <icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span>(see note)
 * 1 dash Angostura bitters
@@ -56,9 +56,9 @@ Garnish
 
 <tiki-callout type="note">
 
-  According to Jeff Berry, this recipe specified Golden Stag (an extinct gold Jamaican rum) for the pot still unaged rum and Pontalba[^1] (a now extinct Louisiana rum) for the blended aged rum.
+  According to Jeff Berry, this recipe specified Golden Stag (an extinct gold Jamaican rum) for the blended lightly aged rum and Pontalba[^1] (a now extinct Louisiana rum) for the blended aged rum.
   
-  Berry recommends you substitute any gold Jamaican rum for the Golden Stag and  New Orleans-based Celebration Distillation's Old New Orleans Amber for the Pontalba.
+  Berry recommends you substitute any gold Jamaican rum for the Golden Stag and  Celebration Distillation Old New Orleans Amber for the Pontalba.
 
 [^1]: Don't confuse this with the contemporary Puerto Rican rum of the same name.
 

@@ -58,7 +58,7 @@ Glassware
 
 * 1/2 ounce fresh lemon juice
 * 1/2 ounce fresh lime juice
-* 1/4 grenadine
+* 1/4 ounce grenadine
 * 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1/4 ounce Herbsaint (or substitute other pastis or absinthe)
 * 2&frac14; ounces [black pot still rum](/rums/10-rum-black-pot-still/)

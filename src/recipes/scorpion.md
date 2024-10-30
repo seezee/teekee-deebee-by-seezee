@@ -81,3 +81,8 @@ Garnish
   Guests should blow out the burning crouton(s) before sipping. Use tongs to handle the burnt crouton and extinguish it in a container of water.
 
 </tiki-callout>
+
+<tiki-callout type="tip">
+
+  For a 1950s spin on this tropical classic, see the recipe for [Kelbo's Scorpion](/recipes/kelbos-scorpion/).
+</tiki-callout>
