@@ -15,6 +15,8 @@ ingredients:
   - lime coin
   - column still long aged rum
 glass:
+  - grapefruit supreme
+  - sundae dish
   - old-fashioned
   - rocks
 origin: Don the Beachcomber's version of [ti' punch](/recipes/ti-punch/), as served in the 1930s and 1940s.
@@ -33,6 +35,7 @@ Source
   : <cite>{{ source }}</cite>
 
 Glassware
+  : Grapefruit supreme dish
   : Old-fashioned
 
 ## Ingredients
@@ -49,13 +52,19 @@ Garnish
 
 ## Instructions
 
-1. Add all ingredients to an old-fashioned glass
+1. Add all ingredients to a grapefruit supreme dish[^1] or old-fashioned glass
 2. Fill the glass with crushed ice
 3. Stir about 30 seconds
+
+<tiki-dialog-img>
+
+  {% image "./src/assets/images/supreme-dish.jpg", "img-constrained", "Grapefruit supreme dish: a short, heavy, footed dessert glass.", "Grapefruit supreme dish, a.k.a. sundae dish, a.k.a. sherbet dish" %}
+
+</tiki-dialog-img>
+
+[^1]: Also called a sundae dish or a sherbet dish: a short, heavy, footed glass bowl for serving grapefruit, ice-cream, sherbet, or other desserts.
 
 <tiki-callout type="note">
 
   Jeff Berry notes that Donn Beach made this drink with a 20-year-old Cuban rum called Infierno, long extinct.
-
-  Berry also suggests alternate glassware (a short, heavy footed goblet), which he pictures on p. 89 of <cite>{{ source }}</cite>, 10<sup>th</sup> Anniversary Expanded Edition (2017).
 </tiki-callout>
