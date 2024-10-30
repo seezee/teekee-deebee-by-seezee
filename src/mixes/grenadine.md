@@ -13,6 +13,9 @@ ingredients:
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
 
+Yield
+  : 36 ounces
+
 ## Ingredients
 
 * 500 milliliters fresh or bottled 100% pomegranate juice, e.g. POM Wonderful

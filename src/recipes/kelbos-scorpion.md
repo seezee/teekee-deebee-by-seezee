@@ -20,7 +20,7 @@ ingredients:
   - black pot still rum
   - London dry gin
   - cognac
-glass: small scorpion bowl
+glass: scorpion bowl
 garnish: edible flower
 origin: An adaptation of the famous Scorpion Bowl, as served by Hank Riddle at Kelbo's on L.A.’s Fairfax Avenue in the 1950s.
 source: Beachbum Berry's Sippin' Safari
@@ -34,10 +34,11 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from Don the Beachcomber's waiter Hank Riddle's personal papers
+  : <cite>{{ source }}</cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers
 
 Glassware
-  : Small (single-serving) tiki bowl + long (20-inch) luau straw
+  : Small (single-serving) tiki bowl
+  : Drinking straw
 
 ## Ingredients
 
@@ -57,4 +58,4 @@ Garnish
 1. Add all ingredients to a drink mixer tin along with 12 ounces crushed ice + 4 to 6 small ice cubes
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a small (single-serving) tiki Bowl
-4. Garnish and serve with a long luau straw
+4. Garnish and serve with a drinking straw

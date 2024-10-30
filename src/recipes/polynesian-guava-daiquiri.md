@@ -33,10 +33,10 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from Don the Beachcomber's waiter Hank Riddle's personal papers
+  : <cite>{{ source }}</cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers
 
 Glassware
-  : Double old-fashiond
+  : Double old-fashioned
 
 ## Ingredients
 
