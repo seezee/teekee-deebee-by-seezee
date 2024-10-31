@@ -28,6 +28,7 @@ glass: zombie
 origin: In 2021, Jeff "Beachbum" Berry collaborated with Ed Hamilton of Hamilton Rum to create Beachbum Berry's Zombie Blend Rum. This recipe, as printed on the label, makes use of this bottling.
 source: BeachbumBerry.com
 decade: 2020
+excerpt: In 2021, Jeff Berry collaborated with Ed Hamilton of Hamilton Rum to create Beachbum Berry's Zombie Blend Rum. This recipe, as printed on the label, makes use of this bottling.
 ---
 
 <!-- markdownlint-disable MD025 -->

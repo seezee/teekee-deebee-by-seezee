@@ -20,6 +20,7 @@ glass: punch bowl
 origin: Martin Cate created this drink for National Lemonade Day in 2013. That same year it was added to the menu of San Francisco's famous <a href="https://en.wikipedia.org/wiki/Tonga_Room" target="_blank" rel="external noopener">Tonga Room</a>.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
+excerpt: Martin Cate created this drink for National Lemonade Day in 2013.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

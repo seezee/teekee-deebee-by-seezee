@@ -16,6 +16,7 @@ glass: brandy snifter
 origin: An early experiment by Don the Beachcomber, circa 1930s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: An early experiment by Don the Beachcomber, circa 1930s.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

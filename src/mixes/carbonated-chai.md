@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - water
   - loose leaf black tea
+excerpt: Recipe for Smuggler's Cove carbonated chai (spiced tea)
 ---
 
 <!-- markdownlint-disable MD025 -->

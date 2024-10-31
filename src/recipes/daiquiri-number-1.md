@@ -17,6 +17,7 @@ glass: coupe
 origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 2, 3, 4, and 5, was codified by barman Constante Ribalaigua at Havana's Floridita Bar.
 source: Bar la Florida Cocktails
 decade: 1930
+excerpt: This variant of the popular Cuban sour, along with N<sup>os.</sup> 2, 3, 4, and 5, was codified by barman Constante Ribalaigua at Havana's Floridita Bar.
 ---
 <!-- markdownlint-disable MD025 -->
 # Daiquiri N<sup>o.</sup> 1

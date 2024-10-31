@@ -27,6 +27,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: Created by Justin Oliver for Smuggler's Cove.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -23,11 +23,12 @@ garnish:
 glass:
   - collins
   - highball
-origin: Created by Martin Cate and named for the Kaieteur Falls in Guyana. The Smuggler's Cove book misspells the name as <q>Kaiteur</q>.
+origin: Created by Martin Cate and named for the Kaieteur Falls in Guyana. The Smuggler's Cove book misspells the name as <q>Kaiteur.</q>
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: Created by Martin Cate and named for the Kaieteur Falls in Guyana. The Smuggler's Cove book misspells the name as “Kaiteur.”
 ---
 
 <!-- markdownlint-disable MD025 -->

@@ -22,6 +22,7 @@ garnish: mint sprig
 origin: One of food and cocktail writer Charles H. Baker Jr.&rsquo;s favorite Cuban drinks. In his 1939 introduction to the recipe, Baker calls it <q><span class="small-caps">A Lovely Thing Introduced to Us</span> through the <span class="small-caps">Gracious Offices</span> of the <span class="small-caps">Late Facuno Bacardi</span>, of <span class="small-caps">Lamented Memory</span>.</q>
 source: The Gentleman's Companion. Vol. 2
 decade: 1930
+excerpt: One of food and cocktail writer Charles H. Baker Jr.'s favorite Cuban drinks, circa 1939.
 ---
 <!-- markdownlint-disable MD025 -->
 {{ title }}

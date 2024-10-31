@@ -27,6 +27,7 @@ glass:
 origin: Created in 2003 by Marcovaldo Dionysos for the annual San Francisco cocktail competition sponsored by Chartreuse Diffusion, the company representing the Chartreuse distillery.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2000
+excerpt: Created in 2003 by Marcovaldo Dionysos for the annual San Francisco cocktail competition.
 ---
 
 <!-- markdownlint-disable MD025 -->

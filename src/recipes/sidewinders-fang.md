@@ -19,6 +19,7 @@ glass: brandy snifter
 origin: Lanai restaurant, San Mateo, Calif., circa 1960s
 source: Beachbum Berry's Remixed
 decade: 1960
+excerpt: A recipe from the Lanai restaurant, San Mateo, Calif., circa 1960s
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

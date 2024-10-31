@@ -129,6 +129,8 @@ module.exports = function(eleventyConfig) {
   // SEO
   eleventyConfig.addPlugin(pluginSEO, {
     title: "Tiny Paper Umbrella",
+    description: "A collections of tropical and exotic mixed drink recipes, with a sprinkling of history",
+    url: 'https://tinypaperumbrella.com',
     author: "Chris J. Zähller",
     twitter: "czahller",
     image: "/assets/images/site/starfish.webp/",

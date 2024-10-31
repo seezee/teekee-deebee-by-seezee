@@ -21,6 +21,7 @@ glass:
 origin: Created by Hank Riddle in his final year at Kelbo's on L.A.’s Fairfax Avenue in 1970. He became the manager of Kelbo's West L.A. location the following year.
 source: Beachbum Berry's Sippin' Safari
 decade: 1970
+excerpt: Created by Hank Riddle in his final year at Kelbo's on L.A.’s Fairfax Avenue in 1970. He became the manager of Kelbo's West L.A. location the following year.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

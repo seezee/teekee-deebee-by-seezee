@@ -10,6 +10,7 @@ ingredients:
   - ground nutmeg
   - ground cayenne pepper
   - salt
+excerpt: Recipe for Smuggler's Cove jerk seasoning
 ---
 
 <!-- markdownlint-disable MD025 -->

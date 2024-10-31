@@ -25,6 +25,7 @@ garnish: edible flower
 origin: An adaptation of the famous Scorpion Bowl, as served by Hank Riddle at Kelbo's on L.A.’s Fairfax Avenue in the 1950s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1950
+excerpt: An adaptation of the famous Scorpion Bowl, as served by Hank Riddle at Kelbo's on L.A.’s Fairfax Avenue in the 1950s.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -24,6 +24,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+excerpt: Created by Martin Cate in San Francisco in honor of the exotica band APE on the occasion of their concert appearance at Smuggler's Cove.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -36,11 +37,21 @@ Source
   : <cite>{{ source }}</cite>
 
 Glassware
-  : APE the Band "Fez Wearin'" Monkey Mug[^1]
+  : APE the Band “Fez Wearin'&thinsp;” Monkey Mug[^1]
   : Other tiki mug
   : Double old-fashioned
 
 [^1]: Designed by Crazy Al Evans as merchandise for his band APE, only about 570 of these mugs were manufactured by Tiki Farm. You can find them (priced exorbitantly) on the secondary market.
+
+<tiki-dialog-img>
+
+<stack-l>
+  {% image "./src/assets/images/ape-the-band-mug-tiki-farm.jpg", "img-constrained", "Tiki mug in the shape of a monkey's head. The monkey wears a fez with a long tassel", "Ape the Band tiki mug by Tiki Farm." %}
+
+  <small>Photo by <a href="https://www.flickr.com/photos/aloha75/9539250518/in/photostream/" target="_blank" rel="external noopener">Steven Miller</a>; provided under the <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="external noopener"><abbr title="Creative Commons">CC</abbr> Attribution 2.0 Generic Deed</a></small>
+</stack-l>
+
+</tiki-dialog-img>
 
 ## Ingredients
 

@@ -27,6 +27,7 @@ source: Beachbum Berry Remixed
 decade:
   - 1970
   - 2010
+excerpt: In 2013, Smuggler's Cove adapted the Lei Lani Volcano from Walt Disney World. The original circa 1970s drink called for coconut rum and guava nectar.
 ---
 
 <!-- markdownlint-disable MD025 -->

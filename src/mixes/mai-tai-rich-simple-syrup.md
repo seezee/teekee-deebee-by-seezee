@@ -7,6 +7,7 @@ ingredients:
   - Demerara sugar
   - vanilla extract
   - salt
+excerpt: Recipe for mai ti rich (2:1) simple syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

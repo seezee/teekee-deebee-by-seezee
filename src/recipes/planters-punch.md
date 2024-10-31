@@ -20,6 +20,7 @@ origin: The first printed recipe for this Jamaican traditional punch appeared in
 source: Fun
 decade:
 - 1870
+excerpt: The first printed recipe for this Jamaican traditional punch appeared in the London-based magazine Fun in 1870. However, the drink or class of drinks was probably invented in the late 18th or early 19th century.
 ---
 
 <!-- markdownlint-disable MD025 -->

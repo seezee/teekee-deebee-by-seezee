@@ -19,9 +19,10 @@ glass:
   - sundae dish
   - old-fashioned
   - rocks
-origin: Don the Beachcomber's version of [ti' punch](/recipes/ti-punch/), as served in the 1930s and 1940s.
+origin: Don the Beachcomber's version of Martinique's [ti' punch](/recipes/ti-punch/), as served in his establishment in the 1930s and 1940s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: Don the Beachcomber's version of Martinique's ti' punch, as served in in his establishment in the 1930s and 1940s.
 ---
 
 <!-- markdownlint-disable MD025 -->

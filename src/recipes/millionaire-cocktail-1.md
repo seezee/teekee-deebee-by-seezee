@@ -23,6 +23,7 @@ garnish: lime wheel
 origin: A Prohibition-era sour first recorded by Harry Craddock.
 source: The Savoy Cocktail Book
 decade: 1930
+excerpt: A Prohibition-era sour first recorded by Harry Craddock.
 ---
 <!-- markdownlint-disable MD025 -->
 # Millionaire Cocktail N<sup>o.</sup> 1

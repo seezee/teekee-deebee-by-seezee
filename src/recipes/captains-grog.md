@@ -30,6 +30,7 @@ glass:
 origin: Captain's Inn, Long Beach, Calif., circa 1962.
 source: Beachbum Berry Remixed
 decade: 1960
+excerpt: Captain's Inn, Long Beach, Calif., circa 1962.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

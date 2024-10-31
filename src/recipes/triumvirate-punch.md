@@ -18,6 +18,7 @@ glass: punch bowl
 origin: When first three graduates of Smuggler's Cove <a href="https://www.smugglerscovesf.com/rumbustion-society" target="_blank" rel="external noopener">Rumbustion Society</a> (Ron Roumas, Mark Holt, and John Boatwright) matriculated in 2009, they were honored with the title Masters of the Cove and a trip to Portland, Oregon distillery House Spirits to make their own rum. They named the resulting 105 proof elixir "Triumvirate."
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2000
+excerpt: A recipe by the first three Rumbustion Society graduates, Ron Roumas, Mark Holt, and John Boatwright.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

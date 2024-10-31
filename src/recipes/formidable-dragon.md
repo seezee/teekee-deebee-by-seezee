@@ -27,6 +27,7 @@ glass: brandy snifter
 origin: Created by Martin Cate in 2015, this drink was first served at the Tiki Tower Takeover at The Hukilau in San Jose, California. The name is a coinage by <a href="https://en.wikipedia.org/wiki/Edward_Vernon" target="_blank" rel="external noopener">Admiral Vernon</a>, who described drunkenness as <q>that formidable dragon.</q>
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
+excerpt: Created by Martin Cate in 2015, this drink was first served at the Tiki Tower Takeover at The Hukilau in San Jose, California.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

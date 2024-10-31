@@ -22,6 +22,7 @@ origin: Bumbo, also spelled bumbu, bombo, or bumboo, was commonly used to secure
 source: And a Bottle of Rum&colon; A History of the New World in Ten Cocktails
 decade:
 - 1750
+excerpt: Bumbo was commonly used to secure votes during election campaigns in colonial British America. George Washington used 160 gallons of rum to treat 391 voters to bumbo during his Virginia House campaign.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

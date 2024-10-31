@@ -29,6 +29,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+excerpt: Apricot, tequila, and grapefruit soda form the base of this Martin Cate original.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

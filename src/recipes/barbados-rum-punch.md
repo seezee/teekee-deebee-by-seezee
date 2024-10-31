@@ -22,6 +22,7 @@ decade:
   - 1655
   - 2000
   - 2010
+excerpt: Smuggler's Cove original based on traditional recipes.
 ---
 
 <!-- markdownlint-disable MD025 -->

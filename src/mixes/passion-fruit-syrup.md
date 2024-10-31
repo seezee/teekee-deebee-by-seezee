@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - passion fruit puree
   - 2:1 simple syrup
+excerpt: Recipe for passion fruit syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

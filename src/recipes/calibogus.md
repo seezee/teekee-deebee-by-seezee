@@ -24,6 +24,7 @@ garnish: swizzle stick
 origin: This popular tavern drink was once served throughout colonial Canada and the United States. Originally a boilermaker made with rum and spruce beer, the recipe eventually came to include lime and sugar. The earliest reference to the drink is from 1785, in a dictionary by Francis Grose.
 source: And a Bottle of Rum&colon; A History of the New World in Ten Cocktails
 decade: 1780
+excerpt: This popular tavern drink was once served throughout colonial Canada and the United States.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

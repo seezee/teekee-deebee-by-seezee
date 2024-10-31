@@ -7,6 +7,7 @@ ingredients:
   - whole cloves
   - blended lightly aged rum (2)
   - dried hibiscus flowers
+excerpt: Recipe for Smuggler's Cove spiced hibiscus infusion
 ---
 
 <!-- markdownlint-disable MD025 -->

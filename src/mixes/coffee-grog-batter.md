@@ -9,6 +9,7 @@ ingredients:
   - vanilla syrup
   - allspice dram
   - pimento dram
+excerpt: Recipe for coffee grog batter
 ---
 
 <!-- markdownlint-disable MD025 -->

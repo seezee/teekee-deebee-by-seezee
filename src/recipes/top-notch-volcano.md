@@ -23,8 +23,8 @@ garnish:
 glass: scorpion bowl
 origin: Martin Cate created this drink in honor of Smuggler's Cove's interior designer, Ignacio "Notch" Gonzalez.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
-decade:
-  - 2000
+decade: 2000
+excerpt: Martin Cate created this drink in honor of Smuggler's Cove's interior designer, Ignacio "Notch" Gonzalez.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

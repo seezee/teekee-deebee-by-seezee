@@ -32,6 +32,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: Created by Martin Cate. Not to be confused with the 1970s negroni riff called the Rosita.
 ---
 
 <!-- markdownlint-disable MD025 -->

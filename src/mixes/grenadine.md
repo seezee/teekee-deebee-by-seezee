@@ -7,6 +7,7 @@ ingredients:
   - pomegranate juice
   - granulated sugar
   - orange flower water
+excerpt: Recipe for grenadine
 ---
 
 <!-- markdownlint-disable MD025 -->

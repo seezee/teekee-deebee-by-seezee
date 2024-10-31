@@ -31,6 +31,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: A pisco-based tropical drink by Martin Cate.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

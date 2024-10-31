@@ -4,6 +4,7 @@ title: Column Still Aged
 category: /assets/images/icons/circle-4.svg#circle-4
 label: (4)
 tags: rums
+excerpt: Index of column still aged rums.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}<icon-l space="1em" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>

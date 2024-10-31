@@ -27,9 +27,10 @@ garnish:
 glass:
   - double old-fashioned
   - double rocks
-origin: <stack-l><p>During tiki's peak, purveyors of tropical drinks faced a marketing problem&colon; the perception among their male clientele that fruity rum drinks weren't "manly." Their solution was to concoct strong drinks branded as "grogs" and tout them as masculine tipples drunk by sailors of yore. Apart from the name, these drinks bore little resemblance to historical grogs.</p><p>Don the Beachcomber invented the Navy Grog, but it's Trader Vic's version that gained fame, partly because of its infamous adherents. Among these were Richard Nixon (a former Navy man) and Phil Spector (who drank two Navy Grogs the night he murdered Lana Clarkson).</p></stack-l>
+origin: <stack-l><p>During tiki's peak, purveyors of tropical drinks faced a marketing problem&colon; the perception among their male clientele that fruity rum drinks weren't "manly." Their solution was to concoct strong drinks branded as "grogs" and tout them as masculine tipples drunk by sailors of yore. Apart from the name, these drinks bore little resemblance to historical grogs.</p><p>Don the Beachcomber invented the Navy Grog, but it's Trader Vic's version that gained fame, partly because of its infamous adherents. Among these were Richard Nixon (a former Navy man) and Phil Spector (who drank two Navy Grogs at the Beverly Hilton Trader Vic's the night he murdered Lana Clarkson).</p></stack-l>
 source: Trader Vic's Bartender's Guide
 decade: 1940
+excerpt: This potent drink was a favorite of  Frank Sinatra, Richard Nixon, and Phil Spector. Spector drank two Navy Grogs at the Beverly Hilton Trader Vic's the night he killed Lana Clarkson. 
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

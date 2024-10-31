@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - butter
   - orange blossom honey
+excerpt: Recipe for Don the Beachcomber's coola culla mix
 ---
 
 <!-- markdownlint-disable MD025 -->

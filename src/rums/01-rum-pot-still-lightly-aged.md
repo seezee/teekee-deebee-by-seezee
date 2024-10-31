@@ -4,6 +4,7 @@ title: Pot Still Lightly Aged
 category: /assets/images/icons/circle-1.svg#circle-1
 label: (1)
 tags: rums
+excerpt: Index of pot still lightly aged rums.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}<icon-l space="1em" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>

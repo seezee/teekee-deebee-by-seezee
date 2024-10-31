@@ -19,6 +19,7 @@ decade:
   - 1860
   - 2000
   - 2010
+excerpt: Smuggler's Cove's original take on Jerry Thomas's 1862 recipe.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

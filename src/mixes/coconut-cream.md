@@ -6,6 +6,7 @@ ingredients:
   - unsweetened coconut milk
   - salt
   - rich simple syrup
+excerpt: Recipe for coconut cream
 ---
 
 <!-- markdownlint-disable MD025 -->

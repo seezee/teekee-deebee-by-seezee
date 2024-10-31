@@ -7,6 +7,7 @@ ingredients:
   - Pernod
   - pastis
   - absinthe
+excerpt: Recipe for Don the Beachcomber's herbstura
 ---
 
 <!-- markdownlint-disable MD025 -->

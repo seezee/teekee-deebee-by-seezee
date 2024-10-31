@@ -39,6 +39,7 @@ source: Trader Vic's Bartender's Guide
 decade:
 - 1930
 - 1940
+excerpt: Unlike the bulk of classic tiki drinks, which were invented by white men in California, this recipe actually originated in Polynesia. Based on Victor Bergeron's 1947 version.
 ---
 
 <!-- markdownlint-disable MD025 -->

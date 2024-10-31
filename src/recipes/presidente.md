@@ -21,6 +21,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 1910
   - 1920
+excerpt: The origin of this lost classic is in dispute, but cocktail historian David Wondrich believes it was invented by Eddie Woelke, an American bartender at Havana's Jockey Club. A competing theory says the drink honors Machado's predecessor, Mario García Menocal.
 ---
 <!-- markdownlint-disable MD025 -->
 {{ title }}

@@ -6,6 +6,7 @@ ingredients:
   - butter
   - clover honey
   - sweetened coconut cream
+excerpt: Recipe for tiger's milk batter
 ---
 
 <!-- markdownlint-disable MD025 -->

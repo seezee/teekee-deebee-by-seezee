@@ -30,6 +30,7 @@ glass:
 origin: Don the Beachcomber, 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A tall drink by Don the Beachcomber, 1937.
 ---
 
 <!-- markdownlint-disable MD025 -->

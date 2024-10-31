@@ -3,6 +3,7 @@ layout: _main.njk
 title: Pot Still Unaged Cachaça
 tags: rhums
 permalink: "/rums/05-rhum-pot-still-unaged-cachaca/index.html"
+excerpt: Index of pot still unaged cachaça.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

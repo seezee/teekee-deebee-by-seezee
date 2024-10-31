@@ -6,6 +6,7 @@ ingredients:
   - water
   - granulated sugar
   - vanilla bean
+excerpt: Recipe for vanilla syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

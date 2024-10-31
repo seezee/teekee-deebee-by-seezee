@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - heavy whipping cream
   - rich Demerara syrup
+excerpt: Recipe for sweet cream
 ---
 
 <!-- markdownlint-disable MD025 -->

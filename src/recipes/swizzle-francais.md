@@ -31,6 +31,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: A swizzle created by Martin Cate.
 ---
 
 <!-- markdownlint-disable MD025 -->

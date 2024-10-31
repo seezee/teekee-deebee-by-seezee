@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Pot Still Long Aged
 tags: rums
+excerpt: Index of pot still long aged rums.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

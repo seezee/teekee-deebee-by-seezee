@@ -19,9 +19,10 @@ ingredients:
 glass: 
   - double old-fashioned
   - double rocks
-origin: Don the Beachcomber. Served with a side of danger!
+origin: Don the Beachcomber circa 1940. Served with a side of danger!
 source: Beachbum Berry's Intoxica!
 decade: 1940
+excerpt: Don the Beachcomber, circa 1940. Served with a side of danger (fire)!
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

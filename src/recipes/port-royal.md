@@ -21,6 +21,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: A spicy sour by Martin Cate.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

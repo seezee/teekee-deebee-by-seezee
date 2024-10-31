@@ -25,6 +25,7 @@ garnish:
 origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2, 3, and 4, was codified by barman Constante Ribalaigua at Havana's Floridita Bar. It first appeared on the menu in 1939 alongside the two earlier <span lang="fr">frappé</span> variants (3 and 4).
 source: Bar la Florida Cocktails
 decade: 1930
+excerpt: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2, 3, and 4, was codified by barman Constante Ribalaigua at Havana's Floridita Bar.
 ---
 <!-- markdownlint-disable MD025 -->
 # Daiquiri N<sup>o.</sup> 5 (Pink Daiquiri)

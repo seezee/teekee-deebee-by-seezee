@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - passion fruit puree
   - honey
+excerpt: Recipe for passion fruit honey
 ---
 
 <!-- markdownlint-disable MD025 -->

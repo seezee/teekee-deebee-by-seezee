@@ -27,6 +27,7 @@ glass:
 origin: Don the Beachcomber, 1937. For customers of his original Hollywood location, Don would personally perform the tableside presentation of this pyrotechnic post-prandial pièce de résistance.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A 1937 Don the Beachcomber specialty, complete with fire.
 ---
 
 <!-- markdownlint-disable MD025 -->

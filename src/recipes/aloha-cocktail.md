@@ -23,6 +23,7 @@ glass:
 origin: Hank Riddle created this drink for a 1970 cocktail competition while he was working as a bartender at the Palm Springs Don the Beachcomber's.
 source: Beachbum Berry's Sippin' Safari
 decade: 1970
+excerpt: Hank Riddle created this drink for a 1970 cocktail competition while he was working as a bartender at the Palm Springs Don the Beachcomber's.
 ---
 <!-- markdownlint-disable MD025 -->
 {{ title }}

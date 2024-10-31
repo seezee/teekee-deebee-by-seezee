@@ -25,6 +25,7 @@ garnish:
 origin: Don the Beachcomber, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A circa 1937 sour featuring pineapple and passion fruit by Don the Beachcomber.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

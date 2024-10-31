@@ -6,6 +6,7 @@ ingredients:
   - water
   - granulated sugar
   - mild molasses
+excerpt: Recipe for molasses syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

@@ -23,6 +23,7 @@ source: Trader Vic's Bartender's Guide, Revised
 decade:
   - 1940
   - 1970
+excerpt: Based on Don the Beachcomber's Missionary's Downfall; Trader Vic's Bartender's Guide, wherein this recipe appears, was published in 1947
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

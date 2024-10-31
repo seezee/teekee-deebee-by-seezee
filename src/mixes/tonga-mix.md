@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - grenadine
   - passion fruit juice
+excerpt: Recipe for Don the Beachcomber's tonga mix
 ---
 
 <!-- markdownlint-disable MD025 -->

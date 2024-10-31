@@ -25,6 +25,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: Created by Martin Cate. Kingston is the Jamaican capital city; palaka is a traditional shirt cloth woven with a checkered or plaid pattern.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

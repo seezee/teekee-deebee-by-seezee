@@ -25,6 +25,7 @@ glass: brandy snifter
 origin: Venerable Los Angeles tiki joint Tiki-Ti introduced the Puka Punch in 1961.
 source: Beachbum Berry Remixed
 decade: 2010
+excerpt: Venerable Los Angeles tiki joint Tiki-Ti introduced the Puka Punch in 1961.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

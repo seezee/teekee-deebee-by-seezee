@@ -21,6 +21,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 1800
   - 1910
+excerpt: A traditional Barbados recipe first mentioned in print in 1911.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

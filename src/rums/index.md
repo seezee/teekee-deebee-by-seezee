@@ -1,5 +1,6 @@
 ---
 layout: _main-cat-rums.njk
+excerpt: Index of rum and sugarcane spirits categories.
 ---
 <!-- markdownlint-disable MD025 -->
 # Rum Categories

@@ -23,6 +23,7 @@ glass: hollowed out pineapple
 origin: A 1953 recipe from the Luau restaurant, Beverly Hills, adapted from Don the Beachcomber's Pi-Yi by the Luau's ex-Beachcomber bartenders. Jeff Berry speculates that Ray Buhen may have had a hand in the adaptation.
 source: Beachbum Berry's Sippin' Safari
 decade: 1950
+excerpt: A 1953 recipe from the Luau restaurant, Beverly Hills.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

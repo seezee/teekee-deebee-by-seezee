@@ -6,6 +6,7 @@ ingredients:
   - fresh hot chiles
   - dry white wine
   - brandy
+excerpt: Recipe for Smuggler's Cove hellfire tincture
 ---
 
 <!-- markdownlint-disable MD025 -->

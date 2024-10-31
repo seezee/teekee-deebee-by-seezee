@@ -20,6 +20,7 @@ source: Trader Vic's Bartender's Guide, Revised
 decade:
   - 1940
   - 1970
+excerpt: A bourbon-based Trader Vic original from the 1940s.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

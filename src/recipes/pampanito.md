@@ -25,6 +25,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+excerpt: Created by Martin Cate after he visited Jamaica and its distilleries. The recipe was inspired by the practice of of combining wet sugar (molasses from which the sugar has not been extracted) with lemon juice and rum to make lemonade.
 ---
 
 <!-- markdownlint-disable MD025 -->

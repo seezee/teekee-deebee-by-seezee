@@ -25,6 +25,7 @@ glass:
 origin: Jeff Berry thinks Don the Beachcomber invented this one after 1939, based on the ingredient coding (the original recipe calls for Don's Mix), which he didn't start using until that year.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: Jeff Berry thinks Don the Beachcomber invented this one after 1939, based on the ingredient coding.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

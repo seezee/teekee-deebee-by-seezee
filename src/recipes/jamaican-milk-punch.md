@@ -26,6 +26,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: A Smuggler's Cove original inspired by traditional recipes. Milk punches were first described in 1688 by travel writer William Sacheverell. According to David Wondrich, the earliest recorded recipe for milk punch comes from a 1711 cookbook.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

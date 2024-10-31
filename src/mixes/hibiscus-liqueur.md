@@ -7,6 +7,7 @@ ingredients:
   - spiced hibiscus infusion
   - 2:1 simple syrup
   - rich simple syrup
+excerpt: Recipe for Smuggler's Cove hibiscus liqueur
 ---
 
 <!-- markdownlint-disable MD025 -->

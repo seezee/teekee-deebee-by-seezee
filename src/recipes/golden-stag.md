@@ -21,6 +21,7 @@ glass:
 origin: Don the Beachcomber created this daiquiri variation, which takes its name from the rum brand that serves as its base, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: Don the Beachcomber created this daiquiri variation, which takes its name from the rum brand that serves as its base, circa 1937.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

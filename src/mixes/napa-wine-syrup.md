@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - Napa Valley Cabernet Sauvignon
   - granulated sugar
+excerpt: Recipe for Smuggler's Cove Napa wine syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

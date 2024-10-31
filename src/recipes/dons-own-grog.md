@@ -26,6 +26,7 @@ glass:
 origin: Donn Beach, a.k.a. Don the Beachcomber, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A rum and blackberry short drink by Don the Beachcomber, circa 1937.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

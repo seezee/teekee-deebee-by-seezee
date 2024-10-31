@@ -18,6 +18,7 @@ glass: footed pilsner
 origin: Jeff Berry believes this to be one of the first recipes Don the Beachcomber created for his Hollywood bar, circa 1934. As served by Hank Riddle in the late 1940s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: Jeff Berry believes this to be one of the first recipes Don the Beachcomber created for his Hollywood bar, circa 1934. As served by Hank Riddle in the late 1940s.
 ---
 
 <!-- markdownlint-disable MD025 -->

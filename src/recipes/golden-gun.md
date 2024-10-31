@@ -23,6 +23,7 @@ glass:
 origin: Martin Cate taught a seminar about how to structure an exotic cocktail at Tiki Oasis in 2012. Students were challenged to create an original recipe from a set of provided ingredients. This is Table Eleven's winning recipe.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
+excerpt: A challenge-winning recipe by students at a 2012 seminar taught by Martin Cate.
 ---
 
 <!-- markdownlint-disable MD025 -->

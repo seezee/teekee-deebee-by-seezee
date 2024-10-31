@@ -6,6 +6,7 @@ ingredients:
   - vanilla bean
   - aged brandy
   - rich Demerara syrup
+excerpt: Recipe for vanilla brandy
 ---
 
 <!-- markdownlint-disable MD025 -->

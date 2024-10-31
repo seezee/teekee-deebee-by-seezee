@@ -18,11 +18,12 @@ garnish: long lemon peel
 glass:
   - Irish coffee glass
   - other heatproof mug or glass
-origin: Created for Smuggler's Cove by Dane Barca
+origin: Created for Smuggler's Cove by Dane Barca.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: A toddy created for Smuggler's Cove by Dane Barca.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

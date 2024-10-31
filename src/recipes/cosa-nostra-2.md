@@ -29,6 +29,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: Created for Smuggler's Cove by Dane Barca, who describes it as "Polite yet deadly."
 ---
 
 <!-- markdownlint-disable MD025 -->

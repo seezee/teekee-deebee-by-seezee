@@ -28,6 +28,7 @@ glass: footed pilsner
 origin: Don the Beachcomber, mid-1930s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A mid-1930s Don the Beachcomber recipe.
 ---
 
 <!-- markdownlint-disable MD025 -->

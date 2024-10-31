@@ -4,6 +4,7 @@ title: Blended Aged
 category: /assets/images/icons/circle-3.svg#circle-3
 label: (3)
 tags: rums
+excerpt: Index of blended aged rums.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}<icon-l space="1em" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>

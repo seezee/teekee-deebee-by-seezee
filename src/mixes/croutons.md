@@ -6,6 +6,7 @@ ingredients:
   - bread
   - olive oil
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+excerpt: Fire is dramatic, but also dangerous. Do not serve fire if you or your guests are not reasonably sober. Read all precautions before proceeding!
 ---
 
 <!-- markdownlint-disable MD025 -->

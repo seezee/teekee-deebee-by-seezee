@@ -30,6 +30,7 @@ source: Drinks of Hawaii
 decade:
  - 1970
  - 2010
+excerpt: Martin Cate was inspired to create this akvavit-based drink by the Polynesian Paralysis.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

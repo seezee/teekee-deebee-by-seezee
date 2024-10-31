@@ -30,6 +30,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
  - 2000
  - 2010
+excerpt: A Smuggler's Cove original based on Jamaica's traditional Christmas sorrel (hibiscus) punch.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

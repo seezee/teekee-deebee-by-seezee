@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - water
   - honey
+excerpt: Recipe for honey syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

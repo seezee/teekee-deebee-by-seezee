@@ -26,6 +26,7 @@ source: Trader Vic's Tiki Party!
 decade:
  - 1970
  - 2010
+excerpt: A Smuggler's Cove adaptation of the Trader Vic circa 1970s recipe. The original drink was conceived for the opening of Trader Vic's Atlanta.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

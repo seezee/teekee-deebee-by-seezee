@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Black Pot Still
 tags: rums
+excerpt: Index of black pot still rums.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

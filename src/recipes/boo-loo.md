@@ -26,6 +26,7 @@ glass: hollowed out pineapple
 origin: Jeff Berry dates this recipe to circa 1965, but does not state its origin.
 source: Beachbum Berry Remixed
 decade: 1960
+excerpt: Jeff Berry dates this recipe to circa 1965, but does not state its origin
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

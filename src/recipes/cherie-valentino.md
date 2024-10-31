@@ -24,6 +24,7 @@ glass: scorpion bowl
 origin: Served at Kelbo's on L.A.’s Fairfax Avenue from the 1950s through the 1980s. A <cite>Los Angeles</cite> magazine feature listed the ingredients, but not the proportions. Jeff Berry took a stab at recreating it, which we have adapted here.
 source: <cite>Beachbum Berry's Sippin' Safari</cite> revised edition (2017), from <cite>Los Angeles</cite> magazine (June 1976)
 decade: 1950
+excerpt: Jeff Berry's reverse-engineered version of a drink served at Kelbo's on L.A.’s Fairfax Avenue from the 1950s through the 1980s.
 ---
 
 <!-- markdownlint-disable MD025 -->

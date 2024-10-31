@@ -5,6 +5,7 @@ tags: mixes
 ingredients:
   - water
   - granulated sugar
+excerpt: Recipe for rich (2:1) simple syrup, with a note on 1:1 simple syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

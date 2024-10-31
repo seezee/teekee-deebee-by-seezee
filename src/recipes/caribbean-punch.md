@@ -25,6 +25,7 @@ glass:
 origin: Don the Beachcomber, 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A sarsparilla and rum punch by Don the Beachcomber, 1937.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -19,6 +19,7 @@ glass:
 origin: Don the Beachcomber, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A toddy by Don the Beachcomber, circa 1937.
 ---
 
 <!-- markdownlint-disable MD025 -->

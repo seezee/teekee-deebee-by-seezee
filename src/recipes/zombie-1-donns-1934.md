@@ -34,6 +34,7 @@ origin:
   - The notorious Don the Beachcomber original from 1934.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: The notorious Don the Beachcomber original from 1934.
 ---
 
 <!-- markdownlint-disable MD025 -->

@@ -13,6 +13,7 @@ ingredients:
   - golden brown sugar
   - mild molasses
   - vanilla extract
+excerpt: Recipe for Smuggler's Cove hot buttered rum batter
 ---
 
 <!-- markdownlint-disable MD025 -->

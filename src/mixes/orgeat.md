@@ -9,6 +9,7 @@ ingredients:
   - rose water
   - orange flower water
   - column still lightly aged rum
+excerpt: Recipe for orgeat syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

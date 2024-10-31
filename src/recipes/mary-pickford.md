@@ -17,6 +17,7 @@ glass:
 origin: Martin Cate repeats the dubious claim that this Prohibition-era drink was created to honor actor Mary Pickford, a co-founder of United Artists, while she was filming in Cuba. What's clear is that it was first mentioned in print in Basil Woon's 1928 book.
 source: When It's Cocktail Time in Cuba
 decade: 1920
+excerpt: A Prohibition-era drink, first recorded by Basil Woon in 1928.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -22,6 +22,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+excerpt: Created by Martin Cate, who named it after the Chadburn telegraph.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

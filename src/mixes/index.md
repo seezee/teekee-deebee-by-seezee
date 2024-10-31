@@ -1,5 +1,6 @@
 ---
 layout: _main.njk
+excerpt: Index of syrups, batters, mixes, and other preparations for exotic (tiki) drinks
 ---
 
 <!-- markdownlint-disable MD025 -->

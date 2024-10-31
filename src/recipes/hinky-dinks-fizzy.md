@@ -28,6 +28,7 @@ glass: brandy snifter
 origin: Created by Trader Vic's for their 50<sup>th</sup> anniversary in 1984. Hinky Dink's was the name of Victor Bergeron's first restaurant and bar, before it became Trader Vic's.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 1980
+excerpt: Created by Trader Vic's for their 50th anniversary in 1984. Hinky Dink's was the name of Victor Bergeron's first restaurant and bar, before it became Trader Vic's.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

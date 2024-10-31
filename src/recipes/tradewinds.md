@@ -20,9 +20,10 @@ garnish:
   - cocktail umbrella
 glass:
   - zombie
-origin: Circa 1970s.
+origin: A tall drink from the caribbean, circa 1970s. Jeff Berry doesn't say much else about the drink's origin.
 source: Beachbum Berry Remixed
 decade: 1970
+excerpt: A tall drink from the caribbean, circa 1970s. Jeff Berry doesn't say much else about the drink's origin.
 ---
 
 <!-- markdownlint-disable MD025 -->

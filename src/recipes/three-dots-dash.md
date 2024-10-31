@@ -22,9 +22,10 @@ garnish:
   - pineapple chunk
   - pineapple frond
 glass: footed pilsner
-origin: Don the Beachcomber
+origin: Don the Beachcomber created this drink during WWII. This circa 1965 version was served at the Los Vegas Don the Beachcomber's when Hank Riddle worked there.
 source: Beachbum Berry's Sippin' Safari
 decade: 1940
+excerpt: Don the Beachcomber created this drink during WWII. This circa 1965 version was served at the Los Vegas Don the Beachcomber's when Hank Riddle worked there.
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -35,7 +36,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite>{{ source }}</cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers
 
 Glassware
   : Footed pilsner
@@ -52,12 +53,19 @@ Glassware
 - 1 dash Angostura bitters
 
 Garnish
-  : Three Luxardo maraschino cherries & a pineapple chunk speared on a cocktail pick
-  : *or* three Luxardo maraschino cherries on a cocktail pick & a pineapple frond
+  : Luxardo maraschino cherries
+  : Pineapple chunk
+  : Cocktail pick
+  : Pineapple frond
 
 ## Instructions
 
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
 3. Open pour with gated finish into footed pilsner glass
-4. Add garnish
+4. Garnish with 3 Luxardo maraschino cherries & a pineapple chunk speared on a cocktail pick *or* 3 Luxardo maraschino cherries on a cocktail pick + a pineapple frond
+
+<tiki-callout type="info">
+
+  Three dots and a dash is WWII Morse code for "Victory" (from the letter "V").
+</tiki-callout>

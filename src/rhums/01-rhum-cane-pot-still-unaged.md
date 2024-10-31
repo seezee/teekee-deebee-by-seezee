@@ -3,6 +3,7 @@ layout: _main.njk
 title: Cane Pot Still Unaged
 tags: rhums
 permalink: "/rums/01-rhum-cane-pot-still-unaged/index.html"
+excerpt: Index of cane pot still unaged rums.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -4,6 +4,7 @@ title: Black Blended
 category: /assets/images/icons/circle-5.svg#circle-5
 label: (5)
 tags: rums
+excerpt: Index of black blended rums.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}<icon-l space="1em" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>

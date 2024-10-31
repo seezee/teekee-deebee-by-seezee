@@ -32,6 +32,7 @@ glass:
 origin: Created by Martin Cate, this recipe contains a secret mix unknown even to his own bartenders.
 source: Speculation by tiki nerds on Reddit
 decade: 2000
+excerpt: Created by Martin Cate, this recipe contains a secret mix unknown even to his own bartenders.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

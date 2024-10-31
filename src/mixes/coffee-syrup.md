@@ -7,6 +7,7 @@ ingredients:
   - cinnamon sticks
   - cassia
   - granulated sugar
+excerpt: Recipe for coffee syrup
 ---
 
 <!-- markdownlint-disable MD025 -->

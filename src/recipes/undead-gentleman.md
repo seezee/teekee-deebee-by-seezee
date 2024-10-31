@@ -28,6 +28,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+excerpt: Created by Martin Cate as a simplified Zombie and served up “for the sophisticated savage.”
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -6,6 +6,7 @@ ingredients:
   - water
   - granulated sugar
   - Demerara sugar
+excerpt: Recipe for rich (2:1) Demerara syrups
 ---
 
 <!-- markdownlint-disable MD025 -->

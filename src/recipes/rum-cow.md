@@ -21,6 +21,7 @@ garnish: grated nutmeg
 origin: Don the Beachcomber, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+excerpt: A 1937 milk punch by Don the Beachcomber.
 ---
 
 <!-- markdownlint-disable MD025 -->

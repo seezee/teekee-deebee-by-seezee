@@ -25,6 +25,7 @@ source: Rum&colon; Yesterday and Today
 decade:
 - 2000
 - 2010
+excerpt: Created by Smuggler's Cove, inspired by a traditional recipe. The drink is named for privateer Sir Francis Drake.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

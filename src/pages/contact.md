@@ -3,6 +3,7 @@ layout: _main.njk
 title: Talk to Us
 permalink: "/contact/index.html"
 ogtype: website
+excerpt: Let us know what you think! Send your feedback, questions, corrections, criticism, or praise.
 ---
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
