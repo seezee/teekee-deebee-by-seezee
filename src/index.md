@@ -3,6 +3,7 @@ layout: _article.njk
 title: Home
 tags: home
 ogtype: website
+image: /assets/images/don-beachcomber-menu-cover-1943.jpg
 ---
 
 <!-- markdownlint-disable MD025 -->

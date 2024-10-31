@@ -26,6 +26,7 @@ source: Trader Vic's Bartender's Guide
 decade:
 - 1940
 excerpt: Trader Vic invented this classic in 1944, although Don the Beachcomber claims it was merely a copy of his Q.B. Cooler.
+image: /assets/images/citrus-squeezer.jpg
 ---
 
 <!-- markdownlint-disable MD025 -->

@@ -26,6 +26,7 @@ origin: Jeff Berry thinks Don the Beachcomber invented this one after 1939, base
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
 excerpt: Jeff Berry thinks Don the Beachcomber invented this one after 1939, based on the ingredient coding.
+image: /assets/images/donn-beach-mug.png
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

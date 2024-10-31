@@ -29,6 +29,7 @@ origin: Joe Scialom for Shepheard's Hotel, Cairo, 1942.
 source: Beachbum Berry Remixed
 decade: 1940
 excerpt: A classic tiki drink invented by Joe Scialom for Shepheard's Hotel, Cairo, 1942.
+image: /assets/images/supreme-dish.jpg
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

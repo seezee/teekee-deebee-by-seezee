@@ -23,6 +23,7 @@ origin: Don the Beachcomber's version of Martinique's [ti' punch](/recipes/ti-pu
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
 excerpt: Don the Beachcomber's version of Martinique's ti' punch, as served in in his establishment in the 1930s and 1940s.
+image: /assets/images/supreme-dish.jpg
 ---
 
 <!-- markdownlint-disable MD025 -->
