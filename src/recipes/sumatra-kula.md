@@ -40,7 +40,7 @@ Glassware
 * 1/2 ounce fresh white grapefruit juice[^1]
 * 1/2 ounce fresh orange juice
 * 1/2 ounce [honey syrup](/mixes/honey-syrup/)
-* 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>(Puerto Rico)
+* 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (Puerto Rico)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 [^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
