@@ -1,6 +1,6 @@
 {
   "name": "teekee-deebee-by-seezee",
-  "version": "1.0.280",
+  "version": "1.0.281",
   "description": "A collection of exotic and tropical drink recipes",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "Chris J. Zähller",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-img": "^3.1.8",
     "eleventy-plugin-seo": "^0.5.2"
   },

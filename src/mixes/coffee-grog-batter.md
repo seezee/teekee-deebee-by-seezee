@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Coffee Grog Batter
+title: Coffee Grog Batter / Pearl Diver Mix
 tags: mixes
 ingredients:
   - unsalted butter
@@ -15,6 +15,13 @@ excerpt: Recipe for coffee grog batter
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-disable MD025 -->
+
+<tiki-callout type="tip">
+
+  The recipes for coffee grog batter and pearl diver mix are identical; however, pearl diver mix must be used at room temperature to prevent it sticking to the drink mixing tin.
+  
+  Make the latter shortly before using it, or bring it to room temperature before deploying.
+</tiki-callout>
 
 Yield
   : 15 servings
