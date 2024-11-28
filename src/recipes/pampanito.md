@@ -8,7 +8,7 @@ type:
   - tall drink
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - molasses syrup
   - seltzer
@@ -30,17 +30,17 @@ excerpt: Created by Martin Cate after he visited Jamaica and its distilleries. T
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -52,7 +52,7 @@ Glassware
 * 1 dash Angostura bitters
 
 Garnish
-  : Lemon twist
+  : <span data-pagefind-filter="Garnish">Lemon twist</span>
 
 ## Instructions
 
@@ -60,3 +60,54 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a Collins or highball glass
 4. Garnish with the lemon twist
+
+<div
+  data-origin[0]="Martin Cate"
+  data-ingredient[0]="Allspice dram"
+  data-ingredient[1]="Pimento dram"
+  data-pagefind-filter="
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Molasses syrup"
+  data-ingredient[2]="Seltzer"
+  data-ingredient[3]="Soda water"
+  data-ingredient[4]="Allspice dram"
+  data-ingredient[5]="Pimento dram"
+  data-ingredient[6]="Black blended rum [5]"
+  data-ingredient[7]="Angostura bitters"
+  data-origin[0]="Martin Cate"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Origin[data-origin[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, flash-blended,  soda water, 2000, 2010</div>

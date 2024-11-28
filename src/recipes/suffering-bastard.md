@@ -9,10 +9,12 @@ type:
   - cooler
 characteristic:
   - shaken
+  - sparkling
+  - carbonated
 base: 
   - gin base
   - brandy base
-ingredients:
+ingredient:
   - ginger beer
   - lime juice
   - rich Demerara syrup
@@ -33,17 +35,17 @@ image: /assets/images/supreme-dish.jpg
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -51,12 +53,12 @@ Glassware
 * 1/2 ounce fresh lime juice
 * 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1 ounce London dry gin
-* 1 ounce cognac
+* 1 ounce Cognac brandy
 * 2 dashes Angostura bitters
 
 Garnish
-  : Mint sprig
-  : Swizzle stick
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
+  : <span data-pagefind-filter="Garnish">Swizzle stick</span>
 
 ## Instructions
 
@@ -74,7 +76,7 @@ Garnish
 * 1 ounce Coca-Cola
 * 3/4 ounce lime cordial
 * 1/2 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
-* 1 ounce cognac
+* 1 ounce Cognac brandy
 * 1/2 ounce London dry gin
 * 3 dashes Angostura bitters
 
@@ -89,3 +91,49 @@ Serve in a grapefruit supreme dish[^1] (pictured below).
   </tiki-dialog-img>
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-type[3]="Cooler"
+  data-char[0]="Shaken"
+  data-char[1]="Sparkling"
+  data-char[2]="Carbonated"
+  data-base[0]="Gin"
+  data-base[1]="Brandy"
+  data-ingredient[0]="Ginger beer"
+  data-ingredient[1]="Lime juice"
+  data-ingredient[2]="Rich Demerara syrup"
+  data-ingredient[3]="Gin, London dry"
+  data-ingredient[4]="Brandy"
+  data-ingredient[5]="Angostura bitters"
+  data-origin[0]="Joe Scialom"
+  data-origin[1]="Shepheard’s Hotel, Cairo"
+  data-decade[0]="1940"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, cooler, shaken, sparkling,  carbonated, 1940</div>

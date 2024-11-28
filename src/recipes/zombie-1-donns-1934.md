@@ -11,7 +11,7 @@ characteristic:
   - flash-blended
   - strong
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - grapefruit juice
   - cinnamon syrup
@@ -21,11 +21,7 @@ ingredients:
   - blended aged rum (3)
   - column still aged rum (4)
   - black blended overproof rum (6)
-  - Angostura bitters
   - Herbstura
-  - Herbsaint
-  - pastis
-  - absinthe
 garnish:
   - mint sprig
 glass:
@@ -48,10 +44,10 @@ excerpt: The notorious Don the Beachcomber original from 1934.
     : Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2].
 
   Source
-    : <cite>{{ source }}</cite>, taken from the 1937 notebook of Dick Santiago (headwaiter at Don the Beachcomber's from 1937 to 1952). Santiago had marked the recipe, listed as <q>Zombie Punch,</q> as <q>old.</q>
+    : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, taken from the 1937 notebook of Dick Santiago (headwaiter at Don the Beachcomber's from 1937 to 1952). Santiago had marked the recipe, listed as <q>Zombie Punch,</q> as <q>old.</q>
 
   Glassware
-    : Zombie
+    : <span data-pagefind-filter="Glassware">Zombie</span>
 
 </div>
 
@@ -60,20 +56,20 @@ excerpt: The notorious Don the Beachcomber original from 1934.
 
 ## Ingredients
 
-- 3/4 ounce fresh lime juice
-- 1/3 ounce fresh white grapefruit juice[^3]
-- <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce [cinnamon syrup](/mixes/cinnamon-syrup)
-- 1 teaspoon [grenadine](/mixes/grenadine)
-- 1/2 ounce falernum
-- 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-- 1&frac12; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
-- 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
-- 2 dashes [Herbstura](/mixes/herbstura/)
+* 3/4 ounce fresh lime juice
+* 1/3 ounce fresh white grapefruit juice[^3]
+* <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce [cinnamon syrup](/mixes/cinnamon-syrup)
+* 1 teaspoon [grenadine](/mixes/grenadine)
+* 1/2 ounce falernum
+* 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1&frac12; ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
+* 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
+* 2 dashes [Herbstura](/mixes/herbstura/)
 
 [^3]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -84,5 +80,55 @@ Garnish
 
 <tiki-callout type="tip">
 
-  Substitute 1/2 ounce [Donn's Mix](/mixes/cinnamon-syrup/#tip-2) for the grapefruit juice and cinnamon syrup.
+  Substitute 1/2 ounce [Donn's Mix](/mixes/donns-mix/) for the grapefruit juice and cinnamon syrup.
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-char[0]="Flash-blended"
+  data-char[1]="Strong"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Grapefruit juice"
+  data-ingredient[2]="Cinnamon syrup"
+  data-ingredient[3]="Donn’s Mix"
+  data-ingredient[4]="Grenadine"
+  data-ingredient[5]="Falernum"
+  data-ingredient[6]="Blended aged rum [3]"
+  data-ingredient[7]="Column still aged rum [4]"
+  data-ingredient[8]="Black blended overproof rum [6]"
+  data-ingredient[9]="Herbstura"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, flash-blended, strong, 1930</div>

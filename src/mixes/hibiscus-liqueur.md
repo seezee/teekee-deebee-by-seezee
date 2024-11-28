@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Hibiscus Liqueur
 tags: mixes
-ingredients:
+type: liqueur
+ingredient:
   - honey
   - spiced hibiscus infusion
   - 2:1 simple syrup
@@ -12,7 +13,7 @@ excerpt: Recipe for Smuggler's Cove hibiscus liqueur
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <tiki-callout type="tip">
 
@@ -22,8 +23,8 @@ excerpt: Recipe for Smuggler's Cove hibiscus liqueur
 
 ## Ingredients
 
-* &frac12; cup honey
-* 2&frac12; cups [spiced hibiscus infusion](/mixes/spiced-hibiscus-infusion/)
+* &frac12; cup <span data-pagefind-filter="Ingredient">honey</span>
+* 2&frac12; cups [<span data-pagefind-filter="Ingredient">spiced hibiscus infusion</span>](/mixes/spiced-hibiscus-infusion/)
 * 1 cup [2:1 rich simple syrup](/mixes/2-1-simple-syrup/)
 
 ## Instructions

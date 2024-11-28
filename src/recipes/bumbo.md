@@ -9,7 +9,7 @@ characteristic:
 - stirred
 - strained
 base: rum base
-ingredients:
+ingredient:
   - rich Demerara syrup
   - blended aged rum (3)
   - pot still unaged rum
@@ -26,7 +26,7 @@ excerpt: Bumbo was commonly used to secure votes during election campaigns in co
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 > &lsqb;Bombo&rsqb; is a simple drink in the same way a tripod is a simple device: remove one leg and it cannot stand, set it up properly and it will hold the whole weight of the world.
 >
@@ -36,10 +36,10 @@ Origin
   : {{ origin }}
 
 Source
-  : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite>{{ source }}</cite> (2006) by Wayne Curtis
+  : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2006) by Wayne Curtis
 
 Glassware
-  : Old-fashioned
+  : <span data-pagefind-filter="Glassware">Old-fashioned</span>
 
 ## Ingredients
 
@@ -64,3 +64,41 @@ Garnish
   For an eighteenth century take on this drink, substitute pot still unaged rum or pot still lightly aged rum.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Cocktail"
+  data-type[1]="Short drink"
+  data-char[0]="Stirred"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Rich Demerara syrup"
+  data-ingredient[1]="Blended aged rum [3]"
+  data-ingredient[2]="Pot still unaged rum"
+  data-ingredient[3]="Pot still lightly aged rum"
+  data-origin[0]="America, colonial British"
+  data-origin[1]="Traditional"
+  data-glass[0]="Rocks"
+  data-garnish[0]="Nutmeg, grated"
+  data-decade[0]="1750"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>cocktail, short drink, stirred, strained, 1750</div>

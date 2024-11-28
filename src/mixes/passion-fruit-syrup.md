@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Passion Fruit Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - passion fruit puree
   - 2:1 simple syrup
 excerpt: Recipe for passion fruit syrup
@@ -10,14 +11,14 @@ excerpt: Recipe for passion fruit syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 Measure ingredients by volume.
 
-* 250 milliliters Funkin passion fruit purée
-* 250 milliliters [2:1 simple syrup](/mixes/2-1-simple-syrup/), cooled
+* 250 milliliters <span data-pagefind-filter="Ingredient">Funkin passion fruit purée</span>
+* 250 milliliters [<span data-pagefind-filter="Ingredient">2:1 <span data-pagefind-filter="Ingredient">simple syrup</span></span>](/mixes/2-1-simple-syrup/), cooled
 
 ## Instructions
 

@@ -4,10 +4,14 @@ title: Rum, Gum, & Lime
 tags: recipes
 type: 
   - tropical
+  - sour
   - short drink
-characteristic: built
+characteristic:
+  - built
+  - sparkling
+  - carbonated
 base: Rum base
-ingredients:
+ingredient:
   - seltzer
   - lime juice
   - 1:1 simple syrup
@@ -28,17 +32,17 @@ image: /assets/images/supreme-dish.jpg
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Grapefruit supreme dish
-  : Old-fashioned
+  : <span data-pagefind-filter="Glassware">Grapefruit supreme dish</span>
+  : <span data-pagefind-filter="Glassware">Old-fashioned</span>
 
 ## Ingredients
 
@@ -50,7 +54,7 @@ Glassware
 * 1&frac12; ounce [column still long aged rum](/rums/09-rum-column-still-long-aged/) (see note)
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -70,3 +74,57 @@ Garnish
 
   Jeff Berry notes that Donn Beach made this drink with a 20-year-old Cuban rum called Infierno, long extinct.
 </tiki-callout>
+
+</tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Built"
+  data-char[1]="Sparkling"
+  data-char[2]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Seltzer"
+  data-ingredient[1]="Soda water"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="1:1 simple syrup"
+  data-ingredient[4]="Orange peel, 6-inch strip"
+  data-ingredient[5]="Lime coin"
+  data-ingredient[6]="Column still long aged rum"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-glass[0]="Rocks"
+  data-glass[1]="Sundae dish"
+  data-glass[2]="Sherbet dish"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, built, sparkling, carbonated, 1930</div>

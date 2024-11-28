@@ -3,12 +3,12 @@ layout: _main.njk
 title: Mai Tai
 tags: recipes
 type: 
-  - punch
+  - tropical
   - sour
   - short drink
 characteristic: shaken
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - mai tai rich simple syrup
   - orgeat
@@ -16,7 +16,7 @@ ingredients:
   - blended aged rum (3)
 garnish:
 - mint sprig
-- spent lime shell
+- lime shell
 glass:
   - mai tai
   - double old-fashioned
@@ -31,16 +31,16 @@ image: /assets/images/citrus-squeezer.jpg
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (1947) by  Victor Jules Bergeron
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron
 
 Glassware
-  : Mai tai glass
+  : <span data-pagefind-filter="Glassware">Mai tai glass</span>
 
 ## Ingredients
 
@@ -51,7 +51,8 @@ Glassware
 * 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
+  : Spent lime shell
 
 <tiki-dialog-img>
 
@@ -65,7 +66,7 @@ Garnish
 1. Squeeze the lime halves over a jigger with a jaw-style citrus squeezer; reserve one of the spent lime shells
 2. Add all ingredients + 12 ounces crushed ice + a few small cubes to a cocktail shaker
 3. Shake until frost forms on the shaker, about 15 to 20 seconds
-4. Pour entire contents into a mai tai or double old-fashioned glass
+4. Pour entire contents ("dirty pour") into a mai tai or double old-fashioned glass
 5. Garnish with a mint sprig and one of the spent lime shells
 
 <tiki-callout type="tip">
@@ -85,3 +86,49 @@ Garnish
   According to Trader Vic, the garnish should resemble a little island with a minty palm tree, floating peacefully in a sea of rum.
 
 </tiki-callout>
+
+<div
+  data-pagefind-filter="
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Shaken"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Mai tai rich simple syrup"
+  data-ingredient[2]="Orgeat"
+  data-ingredient[3]="Curaçao, dry"
+  data-ingredient[4]="Curaçao"
+  data-ingredient[5]="Blended aged rum [3]"
+  data-origin[0]="Trader Vic"
+  data-origin[1]="Victor Bergeron"
+  data-garnish[0]="Lime shell"
+  data-decade[0]="1940"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>punch, sour, short drink, shaken, curacao, 1940</div>

@@ -9,7 +9,7 @@ characteristic:
   - shaken
   - strained
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - rich Demerara syrup
   - seltzer
@@ -32,7 +32,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (1939) by Charles H. Baker Jr.
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1939) by Charles H. Baker Jr.
 
 Glassware
   : Chilled coupé
@@ -46,7 +46,7 @@ Glassware
 * 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -54,3 +54,43 @@ Garnish
 2. Shake until very cold, about 15 seconds
 3. Double-strain into a double old-fashioned glass filled with crushed ice
 4. Garnish
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Sour"
+  data-type[1]="Daisy"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="Seltzer"
+  data-ingredient[3]="Soda water"
+  data-ingredient[4]="Chartreuse, Yellow"
+  data-ingredient[5]="Blended lightly aged rum [2]"
+  data-origin[0]="Facuno Bacardi"
+  data-origin[1]="Charles H. Baker"
+  data-glass[0]="Coupé"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>sour, daisy, shaken, strained, soda water, 1930</div>

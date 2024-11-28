@@ -5,12 +5,12 @@ tags: recipes
 type: punch
 characteristic: pre-batched
 base: rum base
-ingredients:
+ingredient:
   - lime juice
-  - passion fruit syrup
+  - passion fruit honey
   - allspice dram
   - pimento dram
-  - pot still unaged Rum
+  - pot still unaged rum
   - Angostura bitters
   - grated nutmeg
 garnish: mint sprig
@@ -22,17 +22,17 @@ excerpt: A recipe by the first three Rumbustion Society graduates, Ron Roumas, M
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Punch bowl
-  : Punch glassware (such as punch cups, small tiki mugs, coffee mugs, and/or ceramic coconuts)
+  : <span data-pagefind-filter="Glassware">Punch bowl</span>
+  : <span data-pagefind-filter="Glassware">Punch glassware</span> (such as punch cups, small tiki mugs, coffee mugs, and/or ceramic coconuts)
 
 ## Ingredients
 
@@ -46,7 +46,7 @@ Glassware
 * 1 pinch freshly grated nutmeg
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -67,4 +67,52 @@ Garnish
 6. If using a punch bowl, serve with a ladle
 7. Garnish individual servings with a mint sprig and serve with a smile
 
-[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Punch"
+  data-char[0]="Pre-batched"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Passion fruit honey"
+  data-ingredient[2]="Allspice dram"
+  data-ingredient[3]="Pimento dram"
+  data-ingredient[4]="Pot still unaged rum"
+  data-ingredient[5]="Angostura bitters"
+  data-ingredient[6]="Nutmeg, grated"
+  data-origin[0]="Ron Roumas"
+  data-origin[1]="Mark Holt"
+  data-origin[2]="John Boatwright"
+  data-glass[0]="Punch cup"
+  data-glass[1]="Tiki mug, small"
+  data-glass[2]="Tiki mug"
+  data-glass[3]="Coffee mug"
+  data-glass[4]="Ceramic coconut"
+  data-decade[0]="2000"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Glassware[data-glass[3]],
+    Glassware[data-glass[4]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>punch, pre-batched, 2000</div>

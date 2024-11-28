@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Grenadine
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - pomegranate juice
   - granulated sugar
@@ -12,17 +13,17 @@ excerpt: Recipe for grenadine
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Yield
   : 36 ounces
 
 ## Ingredients
 
-* 500 milliliters fresh or bottled 100% pomegranate juice, e.g. POM Wonderful
+* 500 milliliters fresh or bottled 100% <span data-pagefind-filter="Ingredient">pomegranate juice</span>, e.g. POM Wonderful
 * 500 grams granulated sugar
-* 60 milliters pomegranate molasses
-* 5 milliliters orange flower water
+* 60 milliters <span data-pagefind-filter="Ingredient">pomegranate molasses</span>
+* 5 milliliters <span data-pagefind-filter="Ingredient">orange flower water</span>
 
 ## Instructions
 

@@ -10,15 +10,15 @@ type:
   - tropical
   - short drink
   - punch
-characteristic:
-  - built
+characteristic: built
 base:
   - rum base
-ingredients:
+ingredient:
   - Martinique sugarcane syrup
+  - Rhum J.M. Sirop sugarcane syrup
   - cane AOC Martinique rhum agricole blanc (7)
   - eleve sous bois
-  - rhum vieux (8)
+  - cane AOC Martinique rhum agricole vieux (8)
   - lime coin
 glass:
   - old-fashioned
@@ -31,7 +31,7 @@ excerpt: The traditional way to enjoy Martinique rhum agricole, dating to at lea
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 > <span lang="fr">Chacun prépare sa propre mort</span> (<q>Each prepares his own death.</q>)
 >
@@ -41,10 +41,10 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Old-fashioned
+  : <span data-pagefind-filter="Glassware">Old-fashioned</span>
   : Rocks
 
 ## Ingredients
@@ -56,7 +56,7 @@ Glassware
 [^1]: The Smuggler's Cove book recommended sourcing this syrup from Kegworks, but it appears they no longer sell bar ingredients. Instead, look for online retailers selling <a href="https://bit.ly/3WEiuK1" target="_blank" rel="external noopener">Rhum J.M. Sirop</a> sugarcane syrup.
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -79,3 +79,45 @@ Garnish
   This drink is traditionally prepared without ice, but if you prefer the drink cold you may add ice to it. We won't judge you.
 
 </tiki-callout>
+
+</tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Short drink"
+  data-type[2]="Punch"
+  data-char[0]="Built"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Sugarcane syrup, Martinique"
+  data-ingredient[1]="Rhum J.M. Sirop sugarcane syrup"
+  data-ingredient[2]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-ingredient[3]="Élevé sous bois"
+  data-ingredient[4]="Cane AOC Martinique Rhum Agricole Vieux [8]"
+  data-ingredient[5]="Lime coin"
+  data-origin[0]="Martinique"
+  data-origin[1]="Traditional"
+  data-glass[0]="Rocks"
+  data-decade[0]="1840"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, short drink, punch, built, lele,  eleve, 1840</div>

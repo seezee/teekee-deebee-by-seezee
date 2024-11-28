@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Orgeat
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - almonds
   - water
   - granulated sugar
@@ -14,7 +15,7 @@ excerpt: Recipe for orgeat syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <tiki-callout type="tip">
 
@@ -24,11 +25,11 @@ excerpt: Recipe for orgeat syrup
 
 ## Ingredients
 
-* 225 grams blanched almonds
+* 225 grams <span data-pagefind-filter="Ingredient">blanched <span data-pagefind-filter="Ingredient">almonds</span></span>
 * 500 milliliters water
 * 562.5 grams granulated sugar (approximately; see step 11)
-* &frac18; teaspoons rose water
-* &frac18; teaspoons orange flower water
+* &frac18; teaspoons <span data-pagefind-filter="Ingredient">rose water</span>
+* &frac18; teaspoons <span data-pagefind-filter="Ingredient">orange flower water</span>
 * 1 teaspoon [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)
 
 ## Instructions

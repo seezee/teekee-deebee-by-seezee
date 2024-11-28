@@ -9,7 +9,7 @@ characteristic:
   - built
   - aromatic
 base: Rum base
-ingredients:
+ingredient:
   - falernum
   - blended aged rum (Barbados) (3)
   - Angostura bitters
@@ -25,16 +25,16 @@ excerpt: A traditional Barbados recipe first mentioned in print in 1911.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Old-fashioned
+  : <span data-pagefind-filter="Glassware">Old-fashioned</span>
 
 ## Ingredients
 
@@ -43,10 +43,50 @@ Glassware
 * 2 to 4 dashes Angostura bitters
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
 1. Add all ingredients to an old-fashioned glass
 2. Fill the glass with crushed ice
 3. Stir until frost forms on the glass
+
+</tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Short drink"
+  data-char[0]="Built"
+  data-char[1]="Aromatic"
+  data-origin[0]="Barbados"
+  data-origin[1]="Traditional"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Falernum"
+  data-ingredient[1]="Blended aged rum (Barbados) [3]"
+  data-ingredient[2]="Blended aged rum [3]"
+  data-ingredient[3]="Angostura bitters"
+  data-glass[0]="Rocks"
+  data-decade[0]="1800"
+  data-decade[1]="1910"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, short drink, built, aromatic, 1800,1910</div>

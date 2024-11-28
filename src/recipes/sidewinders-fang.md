@@ -7,7 +7,7 @@ type:
   - sour
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - orange juice
   - passion fruit syrup
@@ -17,26 +17,26 @@ ingredients:
 garnish: mint sprig
 glass: brandy snifter
 origin: Lanai restaurant, San Mateo, Calif., circa 1960s
-source: Beachbum Berry's Remixed
+source: Beachbum Berry Remixed
 decade: 1960
 excerpt: A recipe from the Lanai restaurant, San Mateo, Calif., circa 1960s
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Large (22-ounce) brandy snifter
 
 ## Ingredients
 
-* Sidewinder’s Fang orange peel[^1]
+* <span data-pagefind-filter="Ingredient">Sidewinder’s Fang orange peel</span>[^1]
 * 1&frac12; ounces fresh lime juice
 * 1&frac12; ounces [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 3 ounces seltzer
@@ -44,7 +44,7 @@ Glassware
 * 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -56,3 +56,43 @@ Garnish
 6. Garish with a mint sprig
 
 [^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite></cite>, p. 242.
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Orange juice"
+  data-ingredient[2]="Passion fruit syrup"
+  data-ingredient[3]="Seltzer"
+  data-ingredient[4]="Soda water"
+  data-ingredient[5]="Blended aged rum [3]"
+  data-ingredient[6]="Black blended rum [5]"
+  data-origin[0]="Lanai restaurant, San Mateo, Calif."
+  data-glass[0]="Brandy snifter"
+  data-glass[1]="Brandy snifter, large (22-ounce)"
+  data-decade[0]="1960"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, 1960</div>

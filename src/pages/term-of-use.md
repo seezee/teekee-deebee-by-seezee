@@ -7,10 +7,10 @@ permalink: "/legal/terms-of-use/index.html"
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <small>
-  <stack-l>
+  <stack-l data-pagefind-ignore>
 
 ## AGREEMENT TO TERMS
 
@@ -103,7 +103,7 @@ We reserve the right, but not the obligation, to:
 
 ## PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy [REPLACE ME](#). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in the United States.
+We care about data privacy and security. Please review our [Privacy Policy] (/legal/privacy/). By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms and Conditions. Please be advised the Site is hosted in the United States.
 
 If you access the Site from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
@@ -156,7 +156,7 @@ These Terms and Conditions and your use of the Site are governed by and construe
 
 ## DISPUTE RESOLUTION
 
-Any legal action of whatever nature brought by either you or us (collectively, the “Parties” and individually, a “Party”) shall be commenced or prosecuted in the state and federal courts located in Cleveland County, Oklahoma, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to venue and jurisdiction in such state and federal courts/
+Any legal action of whatever nature brought by either you or us (collectively, the “Parties” and individually, a “Party”) shall be commenced or prosecuted in the state and federal courts located in Cleveland County, Oklahoma, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction and <span lang="LA">forum non conveniens</span> with respect to venue and jurisdiction in such state and federal courts/
 
 Application of the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transaction Act (UCITA) are excluded from these Terms and Conditions. In no event shall any claim, action, or proceeding brought by either Party related in any way to the Site be commenced more than 3 years after the cause of action arose.
 
@@ -216,7 +216,7 @@ You hereby waive any and all defenses you may have based on the electronic form 
 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us through our [contact form](/contact).
 
-Last updated 24 July 2024.
+Last updated 19 November 2024.
 
   </stack-l>
 </small>

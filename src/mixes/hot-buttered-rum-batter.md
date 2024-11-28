@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Hot Buttered Rum Batter
 tags: mixes
-ingredients:
+type: batter
+ingredient:
   - ground cinnamon
   - ground nutmeg
   - ground black pepper
@@ -18,20 +19,20 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
-* 1 teaspoon freshly ground cinnamon
-* 1 teaspoon freshly ground nutmeg
-* 1 teaspoon freshly ground black pepper
-* 3/4 teaspoon freshly ground cloves
-* 1/2 teaspoon freshly ground allspice
-* 1/2 teaspoon freshly ground anise seed
-* 2 cups (4 sticks) salted butter
-* 4 cups packed golden brown sugar
-* 2 tablespoons Brer Rabbit Mild molasses
-* 1 teaspoon vanilla extract
+* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground <span data-pagefind-filter="Ingredient">cinnamon</span></span>
+* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground <span data-pagefind-filter="Ingredient">nutmeg</span></span>
+* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground <span data-pagefind-filter="Ingredient">black pepper</span></span>
+* 3/4 teaspoon freshly <span data-pagefind-filter="Ingredient">ground cloves</span></span>
+* 1/2 teaspoon freshly <span data-pagefind-filter="Ingredient">ground allspice</span></span>
+* 1/2 teaspoon freshly <span data-pagefind-filter="Ingredient">ground anise seed</span></span>
+* 2 cups (4 sticks) <span data-pagefind-filter="Ingredient">salted <span data-pagefind-filter="Ingredient">butter</span></span>
+* 4 cups packed <span data-pagefind-filter="Ingredient">golden <span data-pagefind-filter="Ingredient">brown sugar</span></span>
+* 2 tablespoons <span data-pagefind-filter="Ingredient">Brer Rabbit Mild <span data-pagefind-filter="Ingredient">molasses</span></span>
+* 1 teaspoon pure vanilla extract
 
 ## Instructions
 

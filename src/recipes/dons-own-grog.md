@@ -10,7 +10,7 @@ characteristic:
   - flash-blended
   - strong
 base: rum base
-ingredients:
+ingredient:
   - fresh lime juice
   - rich Demerara syrup
   - grenadine
@@ -30,16 +30,16 @@ excerpt: A rum and blackberry short drink by Don the Beachcomber, circa 1937.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
@@ -71,3 +71,59 @@ Garnish
 [^2]: Don't confuse this with the contemporary Puerto Rican rum of the same name.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Grog"
+  data-char[0]="Flash-blended"
+  data-char[1]="Strong"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="Grenadine"
+  data-ingredient[3]="Blackberry liqueur"
+  data-ingredient[4]="Leopold Bros. Rocky Mountain blackberry liqueur"
+  data-ingredient[5]="Crème de mûre"
+  data-ingredient[6]="Brandy, blackberry-flavored"
+  data-ingredient[7]="Blended aged rum [3]"
+  data-ingredient[8]="Blended lightly aged rum [2]"
+  data-ingredient[9]="Black pot still rum"
+  data-ingredient[10]="Angostura bitters"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-garnish[0]="Nutmeg, grated"
+  data-glass[0]="Double rocks"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Ingredient[data-ingredient[10]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Garnish[data-garnish[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, grog, flash-blended, strong, creme de mure, 1930</div>

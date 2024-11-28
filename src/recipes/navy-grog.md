@@ -11,13 +11,13 @@ characteristic:
   - flash-blended
   - strong
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - grapefruit juice
   - rich Demerara syrup
   - allspice dram
   - pimento dram
-  - pot still lightly aged (overproof) rum (1)
+  - pot still lightly aged rum  (overproof)(1)
   - blended lightly aged rum (2)
   - column still aged rum (4)
 garnish:
@@ -34,16 +34,16 @@ excerpt: This potent drink was a favorite of  Frank Sinatra, Richard Nixon, and 
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (1947) by  Victor Jules Bergeron
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron
 
 Glassware
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
@@ -51,14 +51,14 @@ Glassware
 * 3/4 ounce fresh white grapefruit juice[^1]
 * 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 * 1/4 ounce allspice (pimento) dram
-* 1 ounce [pot still lightly aged (overproof) rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
+* 1 ounce [pot still lightly aged rum (overproof)](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" class="bigger" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 
 Garnish
-  : Mint sprig
-  : Rock candy stick
-  : Ice cone
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
+  : <span data-pagefind-filter="Garnish">Rock candy stick</span>
+  : <span data-pagefind-filter="Garnish">Ice cone</span>
 
 [^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
@@ -74,3 +74,64 @@ Garnish
   To make Don the Beachcomber's (1941) version of the Navy Grog, substitute 1 ounce [honey syrup](/mixes/honey-syrup/) and 3/4 ounce seltzer for the Demerara syrup and allspice dram. Strain the drink over an ice cone placed in a double old-fashioned glass.
 
 </tiki-callout>
+
+<div
+  data-pagefind-filter="
+">
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-type[3]="Grog"
+  data-char[0]="Flash-blended"
+  data-char[1]="Strong"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Grapefruit juice"
+  data-ingredient[2]="Rich Demerara syrup"
+  data-ingredient[3]="Allspice dram"
+  data-ingredient[4]="Pimento dram"
+  data-ingredient[5]="Pot still lightly aged rum [1]"
+  data-ingredient[6]="Pot still lightly aged rum (overproof) [1]"
+  data-ingredient[7]="Blended lightly aged rum [2]"
+  data-ingredient[8]="Column still aged rum [4]"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-origin[3]="Trader Vic"
+  data-origin[4]="Victor Bergeron"
+  data-glass[0]="Double rocks"
+  data-decade[0]="1940"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Origin[data-origin[3]],
+    Origin[data-origin[4]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, strong, flash-blended, grog, 1940</div>

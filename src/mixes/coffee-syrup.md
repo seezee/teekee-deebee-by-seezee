@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Coffee Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - cinnamon sticks
   - cassia
@@ -12,11 +13,11 @@ excerpt: Recipe for coffee syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
-* 300 milliliters cold brew coffee concentrate
+* 300 milliliters <span data-pagefind-filter="Ingredient">cold brew coffee concentrate</span>
 * 300 grams granulated sugar
 
 ## Instructions

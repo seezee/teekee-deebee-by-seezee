@@ -1,8 +1,9 @@
 ---
 layout: _main.njk
 title: Jerk Seasoning
+type: spice mix
 tags: mixes
-ingredients:
+ingredient:
   - ground thyme
   - ground allspice
   - ground black pepper
@@ -15,17 +16,17 @@ excerpt: Recipe for Smuggler's Cove jerk seasoning
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
-* 1&frac34; teaspoon ground dried thyme
-* 1 teaspoon freshly ground allspice berries
-* 1 teaspoon freshly ground black pepper
-* &frac12; teaspoon freshly ground cinnamon
-* &frac14; teaspoon freshly ground nutmeg
-* 1 teaspoon ground cayenne
-* &frac14; teaspoon table salt
+* 1&frac34; teaspoon <span data-pagefind-filter="Ingredient">ground dried thyme</span></span>
+* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground allspice berries</span></span>
+* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground black pepper</span></span>
+* &frac12; teaspoon freshly ground cinnamon</span>
+* &frac14; teaspoon freshly <span data-pagefind-filter="Ingredient">ground nutmeg</span></span>
+* 1 teaspoon <span data-pagefind-filter="Ingredient">ground cayenne</span></span>
+* &frac14; teaspoon <span data-pagefind-filter="Ingredient">table <span data-pagefind-filter="Ingredient">salt</span></span>
 
 ## Instructions
 

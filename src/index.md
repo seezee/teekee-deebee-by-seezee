@@ -1,5 +1,5 @@
 ---
-layout: _article.njk
+layout: _main.njk
 title: Home
 tags: home
 ogtype: website
@@ -7,50 +7,54 @@ image: /assets/images/don-beachcomber-menu-cover-1943.jpg
 ---
 
 <!-- markdownlint-disable MD025 -->
-# A Tiki Database
+<hgroup><stack-l>
+
+# Tiny Paper Umbrella
+
+  A Tiki Database
+</stack-l></hgroup>
 <!-- markdownlint-enable MD025 -->
 
-<span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a kilderkin[^1], sit down, and wet your whistle? The best place to start is by searching for a drink. You can search by:
+<stack-l data-pagefind-ignore>
 
-[^1]: A barrel with a capacity of 82 litres / 22 U.S. gallons / 18 Imperial gallons. A kilderkin is half the size of a British brewery barrel.
+  <span class="small-caps">Oh, hello</span>. You look parched. Why don&rsquo;t you pull up a kilderkin[^1], sit down, and wet your whistle?
 
-<div class="col-2">
+  [^1]: A barrel with a capacity of 82 litres / 22 U.S. gallons / 18 Imperial gallons. A kilderkin is half the size of a British brewery barrel.
 
-* Name
-* Type
-* Characteristic
-* Base spirit
-* Ingredient
-* Garnish
-* Glassware
-* Origin
-* Publication source
-* Decade
+<div class="search-instructions">
+<!-- markdownlint-disable MD051 -->
 
+  1. The best place to start is by searching for a drink
+     1. Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started
+     2. Mobile users, tap the [search bar](#search/)
+  2. Enter your query
+  3. Once you have some results, narrow your results with the handy filters
+  4. Tap or tab to the desired result
+<!-- markdownlint-enable MD051 -->
 </div>
 
-In the mood for almond? Type "orgeat." Thirsty for a highball? Type "tall" or "highball." Looking for something bubbly? Try typing "spritz" or "cooler." Want a strained drink in a stemmed glass? Give "coupe" a whirl. Hate it when the gentle tropical rains dilute your drink? Type "umbrella." Craving something from the master's secret recipe books? Type "Don the Beachcomber." Yearning for something from Tiki's earliest days? Type "1930."
+  <tiki-dialog-img>
 
-Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started! (Mobile users, tap the search bar and enter your query.)
+    {% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location of Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood \[cover\], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}
 
-<tiki-dialog-img>
+  </tiki-dialog-img>
 
-  {% image "./src/assets/images/don-beachcomber-menu-cover-1943.jpg", "img-constrained", "Cover of 1943 menu from Hollywood location fo Don the Beachcomber", "Menu, Don the Beachcomber, Hollywood \[cover\], California menu collection, courtesy California Historical Society, CHS2014.1476A" %}
+  <tiki-callout type="note">
 
-</tiki-dialog-img>
+    Many of the recipes call for a <a href="/rums" >rum category</a> followed by a numbered icon, based on <a href="https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324/">Martin Cate’s rum taxonomy</a>.
 
-<tiki-callout type="note">
+    Cate recommends you affix tape or DYMO-style labels with corresponding numbers to the necks of your rum bottles for a quick visual reference.
 
-  Many of the recipes call for a <a href="/rums" >rum category</a> followed by a numbered icon, based on <a href="https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324/">Martin Cate’s rum taxonomy</a>.
-
-  Cate recommends you affix tape or DYMO-style labels with corresponding numbers to the necks of your rum bottles for a quick visual reference.
+  <!-- Do not indent  nested callout further -->
 
   <stack-l>
     <tiki-callout type="tip">
 
-      To search for a rum by its category number, type the number surrounded by parentheses, e.g. type `(2)` to search for recipes calling for blended lightly aged rums.
+      To search for a rum by its category number, type the number surrounded by brackets, e.g. type `[2]` to search for recipes calling for blended lightly aged rums.
 
     </tiki-callout>
   </stack-l>
 
-</tiki-callout>
+  </tiki-callout>
+
+</stack-l>

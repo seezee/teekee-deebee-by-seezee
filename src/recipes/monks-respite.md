@@ -8,7 +8,7 @@ type:
 characteristic: flash-blended
 base:
   - gin base
-ingredients:
+ingredient:
   - coconut water
   - lemon juice
   - honey syrup
@@ -28,19 +28,19 @@ excerpt: The late Steve Liles created this recipe for Smuggler's Cove during his
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Drained young coconut shell[^1]
   : Ceramic coconut mug
 
-[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 238.
+[^1]: For instructions on how to prepare a coconut shell, see <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, p. 238.
 
 ## Ingredients
 
@@ -53,10 +53,66 @@ Glassware
 * 1 dash orange bitters
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
 3. Open  pour with gated finish into a coconut shell or ceramic coconut mug
+
+<div
+  data-pagefind-filter="
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum"
+  data-base[1]="Gin"
+  data-ingredient[0]="Coconut water"
+  data-ingredient[1]="Lemon juice"
+  data-ingredient[2]="Honey syrup"
+  data-ingredient[3]="Chartreuse, Yellow"
+  data-ingredient[4]="Gin, London dry"
+  data-ingredient[5]="Broker’s gin"
+  data-ingredient[6]="Seltzer"
+  data-ingredient[7]="Soda water"
+  data-ingredient[8]="Orange bitters"
+  data-origin[0]="Steve Liles"
+  data-origin[1]="Smuggler’s Cove"
+  data-glass[0]="Coconut shell"
+  data-glass[1]="Coconut mug"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, soda water, 2000, 2010</div>

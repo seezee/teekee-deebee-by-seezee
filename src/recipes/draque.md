@@ -9,8 +9,9 @@ type:
 characteristic:
   - shaken
   - strained
+  - muddled
 base: cachaca base
-ingredients:
+ingredient:
   - mint leaves
   - rich Demerara syrup
   - lime juice
@@ -29,13 +30,13 @@ excerpt: Created by Smuggler's Cove, inspired by a traditional recipe. The drink
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : Traditional recipe described in <cite>{{ source }}</cite> (1983) by Hugh Barty-King & Anto Massel
+  : Traditional recipe described in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1983) by Hugh Barty-King & Anto Massel
 
 Glassware
   : Chilled coupé
@@ -48,8 +49,8 @@ Glassware
 * 2 ounces [pot still aged cachaça](/rums/06-rhum-pot-still-aged-cachaca/)
 
 Garnish
-  : Lime wheel
-  : Sword cocktail pick
+  : <span data-pagefind-filter="Garnish">Lime wheel</span>
+  : <span data-pagefind-filter="Garnish">Cocktail sword</span>
 
 ## Instructions
 
@@ -58,3 +59,45 @@ Garnish
 3. Shake until very cold, about 15 seconds
 4. Double-strain into a chilled coupé glass
 5. Spear a lime wheel with a cocktail sword and place it in the glass
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Smash"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Muddled"
+  data-base[0]="Cachaça"
+  data-ingredient[0]="Mint leaves"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Pot still aged cachaça"
+  data-origin[0]="Smuggler’s Cove"
+  data-glass[0]="Coupé"
+  data-garnish[0]="Cocktail pick"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, smash, shaken, strained, cachaca, 2000, 2010</div>

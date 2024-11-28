@@ -17,16 +17,17 @@ type:
   - short drink
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - grenadine
   - lime juice
   - rich Demerara syrup
   - Herbsaint
   - pastis
-  - absinthe
+  - Pernod
   - black pot still rum
   - seltzer
+  - soda water
 garnish:
 - ti leaf
 - pineapple fronds
@@ -44,16 +45,16 @@ excerpt: Unlike the bulk of classic tiki drinks, which were invented by white me
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (1947) by  Victor Jules Bergeron
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron
 
 Glassware
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
@@ -61,13 +62,13 @@ Glassware
 * 1/2 ounce fresh lime juice
 * 1/4 ounce grenadine
 * 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
-* 1/4 ounce Herbsaint (or substitute other pastis or absinthe)
+* 1/4 ounce Herbsaint, Pernod, or other pastis liqueur
 * 2&frac14; ounces [black pot still rum](/rums/10-rum-black-pot-still/)
 * 1 ounce seltzer
 
 Garnish
-  : Ti leaf
-  : Pineapple fronds
+  : <span data-pagefind-filter="Garnish">Ti leaf</span>
+  : <span data-pagefind-filter="Garnish">Pineapple fronds</span>
 
 ## Instructions
 
@@ -114,3 +115,57 @@ Garnish
 We recommend you flash-blend this recipe in a drink mixer as instructed in the Dr. Funk recipe.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Grenadine"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Rich Demerara syrup"
+  data-ingredient[4]="Herbsaint"
+  data-ingredient[5]="Pastis"
+  data-ingredient[6]="Pernod"
+  data-ingredient[7]="Black pot still rum"
+  data-ingredient[8]="Seltzer"
+  data-ingredient[9]="Soda water"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-origin[3]="Dr. Bernard Funk"
+  data-glass[0]="Double rocks"
+  data-decade[0]="1930"
+  data-decade[1]="1940"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Origin[data-origin[3]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+    "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, flash-blended, soda water, 1930, 1940</div>

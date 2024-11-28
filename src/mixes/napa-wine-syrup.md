@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Napa Wine Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - Napa Valley Cabernet Sauvignon
   - granulated sugar
 excerpt: Recipe for Smuggler's Cove Napa wine syrup
@@ -10,11 +11,11 @@ excerpt: Recipe for Smuggler's Cove Napa wine syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
-* 455 milliliters (16 ounces) Napa Valley Cabernet Sauvignon
+* 455 milliliters (16 ounces) <span data-pagefind-filter="Ingredient">Napa Valley <span data-pagefind-filter="Ingredient">Cabernet Sauvignon</span></span>
 * 237 grams (1 cup) granulated sugar
 
 ## Instructions

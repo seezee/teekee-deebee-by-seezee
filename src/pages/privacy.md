@@ -7,10 +7,10 @@ permalink: "/legal/privacy/index.html"
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <small>
-  <stack-l>
+  <stack-l data-pagefind-ignore>
 
 This privacy notice for Messenger Web Design LLC dba Tiny Paper Umbrella ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 

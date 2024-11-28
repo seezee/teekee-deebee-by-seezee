@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Li Hing Mui Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - li hing mui powder
   - granulated sugar
   - water
@@ -11,14 +12,14 @@ excerpt: Recipe for Smuggler's Cove li hing mui syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
-
+<!-- markdownlint-disable MD051 -->
 * 1 teaspoon li hing mui powder ([see note](#tip-2))
 * 250 grams granulated sugar
 * 125 milliliters water
-
+<!-- markdownlint-enable MD051 -->
 ## Instructions
 
 1. Mix li hing mui powder into the sugar in a bowl

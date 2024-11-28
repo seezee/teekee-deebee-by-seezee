@@ -9,10 +9,10 @@ characteristic:
   - flash-blended
   - strained
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - falernum
-  - simple syrup
+  - 1:1 simple syrup
   - blended lightly aged rum (2)
   - column still aged rum (4)
 garnish: maraschino cherry
@@ -24,13 +24,13 @@ excerpt: A Don the Beachcomber recipe from 1937, found in bartender Mariano Licu
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, 10<sup>th</sup> Anniversary Expanded Edition (2017)
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, 10<sup>th</sup> Anniversary Expanded Edition (2017)
 
 Glassware
   : Chilled coupé
@@ -44,7 +44,7 @@ Glassware
 * 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 
 Garnish
-  : Maraschino cherry
+  : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
 
 ## Instructions
 
@@ -58,3 +58,45 @@ Garnish
   Jeff Berry specifies white Puerto Rican and gold U.S. Virgin Islands rums in this recipe. For the latter, Cruzan Single Barrel fits the description.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Falernum"
+  data-ingredient[2]="1:1 simple syrup"
+  data-ingredient[3]="Blended lightly aged rum [2]"
+  data-ingredient[4]="Column still aged rum [4]"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-glass[0]="Coupé"
+  data-garnish[0]="Maraschino cherry"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, strained, 1930</div>

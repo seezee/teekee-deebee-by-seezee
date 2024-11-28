@@ -64,14 +64,25 @@
       import('/assets/js/Switcher.js');
     };
   </script>
+  <script
+    src="/pagefind/pagefind-ui.js"
+    onload="new PagefindUI(
+      {
+        element: '#search',
+        showImages: false,
+        showSubResults: true,
+        showEmptyFilters: false,
+        resetStyles: false
+        }
+      );">
+  </script>
   {% set js %}
     <!-- Inline as many scripts as you like -->
     <!-- Capture the JS content as a Nunjucks variable -->
-    {% include "js/elasticlunr.min.js" %}
-    {% include "js/masonry.js" %}
-    {% include "js/search.js" %}
-    {% include "js/currentNav.js" %}
     {% include "js/breadcrumbs.js" %}
+    {% include "js/currentNav.js" %}
+    {% include "js/masonry.js" %}
+    {% include "js/tiki-search.js" %}
   {% endset %}
   <!-- Feed it through our Terser `jsmin` filter to minify -->
   <script>

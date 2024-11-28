@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Honey Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - honey
 excerpt: Recipe for honey syrup
@@ -10,7 +11,7 @@ excerpt: Recipe for honey syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <tiki-callout type="tip">
 
@@ -21,7 +22,7 @@ excerpt: Recipe for honey syrup
 ## Ingredients
 
 * 250 milliliters water
-* 250 milliliters honey
+* 250 milliliters <span data-pagefind-filter="Ingredient">honey</span>
 
 ## Instructions
 

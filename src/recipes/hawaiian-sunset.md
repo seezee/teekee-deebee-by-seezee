@@ -10,7 +10,7 @@ characteristic:
   - shaken
   - strained
 base: vodka base
-ingredients:
+ingredient:
   - lime juice
   - lemon juice
   - orgeat
@@ -26,13 +26,13 @@ excerpt: Aku Aku Polynesian Restaurant (Stardust Casino, Las Vegas, circa 1930s)
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -46,7 +46,7 @@ Glassware
 * 1&frac12; ounces 80 proof vodka
 
 Garnish
-  : Lime peel
+  : <span data-pagefind-filter="Garnish">Lime peel</span>
 
 ## Instructions
 
@@ -54,3 +54,43 @@ Garnish
 2. Shake for 10 to 15 seconds
 3. Double-strain into a chilled coupé
 4. Garnish with a lime peel
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Vodka"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Lemon juice"
+  data-ingredient[2]="Orgeat"
+  data-ingredient[3]="Grenadine"
+  data-ingredient[4]="Vodka"
+  data-origin[0]="Stardust Casino, Las Vegas"
+  data-origin[1]="Aku Aku Polynesian Restaurant, Las Vegas"
+  data-glass[0]="Coupé"
+  data-decade[0]="1960"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, shaken strained, coupe, 1960</div>

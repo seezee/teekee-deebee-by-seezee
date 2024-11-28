@@ -14,14 +14,14 @@ characteristic:
 base:
  - rum base
  - gin base
-ingredients:
+ingredient:
   - sparkling wine
   - unsweetened pineapple juice
   - lime juice
   - passion fruit syrup
   - apricot liqueur
-  - London dry garnish
-  - lightly aged rum (2)
+  - London dry gin
+  - blended lightly aged rum (2)
 garnish:
   - mint sprig
 glass: brandy snifter
@@ -32,13 +32,13 @@ excerpt: Created by Trader Vic's for their 50th anniversary in 1984. Hinky Dink'
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Large (22-ounce) brandy snifter
@@ -54,7 +54,7 @@ Glassware
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -63,3 +63,55 @@ Garnish
 3. Flash blend 3 to 4 seconds
 4. Open pour with a gated finish into the snifter
 5. Garnish with a mint sprig
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Spritz"
+  data-type[3]="Cooler"
+  data-char[0]="Flash-blended"
+  data-char[1]="Sparkling"
+  data-char[2]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-base[1]="Gin"
+  data-ingredient[0]="Sparkling wine"
+  data-ingredient[1]="Pineapple juice, unsweetened"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Passion fruit syrup"
+  data-ingredient[4]="Apricot liqueur"
+  data-ingredient[5]="Gin, London dry"
+  data-ingredient[6]="Blended lightly aged rum [2]"
+  data-origin[0]="Trader Vic"
+  data-origin[1]="Victor Bergeron"
+  data-glass[0]="Brandy snifter"
+  data-glass[1]="Brandy snifter, large (22-ounce)"
+  data-decade[0]="1980"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, spritz, cooler, flash-blended, sparkling, carbonated, 1980</div>

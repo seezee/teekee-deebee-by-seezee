@@ -9,7 +9,7 @@ characteristic:
   - aromatic
   - bittersweet
 base: rum base
-ingredients:
+ingredient:
   - apricot liqueur
   - cane AOC Martinique rhum agricole vieux (8)
   - Angostura bitters
@@ -25,13 +25,13 @@ excerpt: An aromatic and bittersweet original by Martin Cate
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -44,7 +44,7 @@ Glassware
 * 1 dash orange bitters
 
 Garnish
-  : Orange peel oil
+  : <span data-pagefind-filter="Garnish">Orange peel oil</span>
 
 ## Instructions
 
@@ -52,3 +52,41 @@ Garnish
 2. Stir until very cold, about 30 seconds
 3. Strain into a chilled coupé glass
 4. Express the oil from a piece of orange peel onto the surface (discard the peel)
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Cocktail"
+  data-char[0]="Stirred"
+  data-char[1]="Strained"
+  data-char[2]="Aromatic"
+  data-char[3]="Bittersweet"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Apricot liqueur"
+  data-ingredient[1]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-ingredient[2]="Angostura bitters"
+  data-ingredient[3]="Orange bitters"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Coupé"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>stirred, strained, aromatic, bittersweet, coupe, 2000, 2010</div>

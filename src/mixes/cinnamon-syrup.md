@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Cinnamon Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - cinnamon sticks
   - cassia
@@ -12,13 +13,13 @@ excerpt: Recipe for cinnamon syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 * 160 milliliters water
 * 320 grams granulated sugar
-* 1 6-inch stick cinnamon[^1], halved (use 1 stick for every 160 milliliters of water)
+* 1 6-inch cinnamon stick[^1], halved (use 1 stick for every 160 milliliters of water)
 
 [^1]: Smuggler’s Cove uses cassia, but you can substitute Ceylon cinnamon for a milder, sweeter note.
 
@@ -44,3 +45,19 @@ excerpt: Recipe for cinnamon syrup
   If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Cinnamon, Ceylon"
+  data-ingredient[1]="Cinnamon, cassia"
+  data-ingredient[2]="Sugar, granulated"
+  data-ingredient[3]="Water"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]]
+  "
+>
+</div>

@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Mai Tai Rich Simple Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - Demerara sugar
   - vanilla extract
@@ -12,14 +13,14 @@ excerpt: Recipe for mai ti rich (2:1) simple syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 * 240 grams water
-* 480 grams Demerara sugar
-* &frac14; teaspoon vanilla extract
-* &frac18; teaspoon table salt
+* 480 grams <span data-pagefind-filter="Ingredient">Demerara <span data-pagefind-filter="Ingredient">sugar</span></span>
+* &frac14; teaspoon pure vanilla extract
+* &frac18; teaspoon <span data-pagefind-filter="Ingredient">table <span data-pagefind-filter="Ingredient">salt</span></span>
 
 ## Instructions
 

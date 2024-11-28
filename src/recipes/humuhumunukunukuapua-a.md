@@ -13,7 +13,7 @@ type:
 characteristic:
   - shaken
 base: gin base
-ingredients:
+ingredient:
   - lemon juice
   - unsweetened pineapple juice
   - orgeat
@@ -35,29 +35,29 @@ excerpt: Created by Marcovaldo Dionysos for Smuggler's Cove. The drink is named 
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
 * 3/4 ounce unsweetened pineapple juice
 * 1/2 ounce [orgeat](/mixes/orgeat/)
-* 2 ounces gin
+* 2 ounces London dry gin
 * 2 dashes Peychaud's bitters
 
 Garnish
-  : Edible orchid
-  : Maraschino cherries
-  : Cocktail pick
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
+  : Luxardo marschino cherries
+  : <span data-pagefind-filter="Garnish">Cocktail pick</span>
 
 ## Instructions
 
@@ -73,3 +73,53 @@ Garnish
   Substitute [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l> <span class="after-icon"></span>for the gin in this recipe to make a <span lang="haw">lauwiliwilinukunukuʻoiʻoi</span>.
 
 </tiki-callout>
+
+<div
+  data-pagefind-filter="
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Shaken"
+  data-base[0]="Gin"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Pineapple juice, unsweetened"
+  data-ingredient[2]="Orgeat"
+  data-ingredient[3]="Gin, London dry"
+  data-ingredient[4]="Peychaud’s bitters"
+  data-origin[0]="Marcovaldo Dionysos"
+  data-origin[1]="Smuggler’s Cove"
+  data-glass[0]="Double rocks"
+  data-garnish[0]="Maraschino cherry"
+  data-garnish[1]="Luxardo maraschino cherry"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Garnish[data-garnish[1]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, shaken, Humu­humu­nuku­nuku­apua'a, Lauwiliwilinukunuku'oi'oi, 2000, 2010</div>

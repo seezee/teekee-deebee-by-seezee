@@ -5,7 +5,7 @@ tags: recipes
 type: punch
 characteristic: pre-batched
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - honey syrup
   - blue curacao
@@ -24,17 +24,17 @@ excerpt: Created by Smuggler's Cove for a Tiki Oasis pre-party at the Walt Disne
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Punch bowl
-  : Punch glassware (such as punch cups, small tiki mugs, coffee mugs, and/or ceramic coconuts)
+  : <span data-pagefind-filter="Glassware">Punch bowl</span>
+  : <span data-pagefind-filter="Glassware">Punch glassware</span> (such as punch cups, small tiki mugs, coffee mugs, and/or ceramic coconuts)
 
 ## Ingredients
 
@@ -50,7 +50,7 @@ Glassware
 * 1 dash Angostura bitters
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -70,4 +70,56 @@ Garnish
 5. Add a large block of ice to the dispenser if using, or pour the contents of the container into a punch bowl and add a smaller block of ice[^1]
 6. If using a punch bowl, serve with a ladle
 
-[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Punch"
+  data-char[0]="Pre-batched"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Honey syrup"
+  data-ingredient[2]="Curaçao"
+  data-ingredient[3]="Curaçao, blue"
+  data-ingredient[4]="Port, tawny"
+  data-ingredient[5]="Falernum"
+  data-ingredient[6]="Pear liqueur"
+  data-ingredient[7]="Blended aged rum [3]"
+  data-ingredient[8]="Angostura bitters"
+  data-origin[0]="Smuggler’s Cove"
+  data-origin[1]="Tiki Oasis, Walt Disney Family Museum"
+  data-glass[0]="Punch cup"
+  data-glass[1]="Tiki mug, small"
+  data-glass[2]="Tiki mug"
+  data-glass[3]="Coffee mug"
+  data-glass[4]="Ceramic coconut"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Glassware[data-glass[3]],
+    Glassware[data-glass[4]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>punch, pre-batched, curacao, 2000, 2010</div>

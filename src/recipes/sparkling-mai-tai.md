@@ -5,14 +5,13 @@ tags: recipes
 type:
   - tropical
   - sour
-  - daisy
 characteristic:
   - stirred
   - strained
   - sparkling
   - carbonated
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - orgeat
   - curacao
@@ -33,17 +32,17 @@ excerpt: Created by Martin Cate for <cite>Sunset</cite> magazine in 2011.
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> magazine, September 2011 issue.
+  : <span data-pagefind-filter="Source"><cite>{{ source }}</cite> magazine</span>, September 2011 issue.
 
 Glassware
   : Chilled coupé
-  : Champagne flute
+  : <span data-pagefind-filter="Glassware">Champagne flute</span>
 
 ## Ingredients
 
@@ -55,8 +54,8 @@ Glassware
 * 4 ounces chilled sparkling wine
 
 Garnish
-  : Lime twist
-  : Mint leaf
+  : <span data-pagefind-filter="Garnish">Lime twist</span>
+  : <span data-pagefind-filter="Garnish">Mint leaf</span>
 
 ## Instructions
 
@@ -71,3 +70,47 @@ Garnish
   If you plan to serve several guests, scale-up and pre-batch this recipe. Combine and chill all ingredients *except* sparkling wine for one hour; chill wine separately. To serve, pour 1&frac34; ounces of mix into each glass and top with 4 ounces of chilled sparkling wine; garnish.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Stirred"
+  data-char[1]="Strained"
+  data-char[2]="Sparkling"
+  data-char[3]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Orgeat"
+  data-ingredient[2]="Curaçao"
+  data-ingredient[3]="Curaçao, dry"
+  data-ingredient[4]="Black blended overproof rum [6]"
+  data-ingredient[5]="Blended aged rum [3]"
+  data-ingredient[6]="Sparkling wine"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Coupé"
+  data-decade[0]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, stirred, strained, sparkling, carbonated, curacao, coupe, 2010</div>

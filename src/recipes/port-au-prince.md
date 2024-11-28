@@ -8,8 +8,8 @@ type:
   - tall drink
 characteristic: flash-blended
 base: rum base
-ingredients:
-  - fresh lime juice
+ingredient:
+  - lime juice
   - unsweetened pineapple juice
   - rich Demerara syrup
   - grenadine
@@ -25,16 +25,16 @@ excerpt: A late 1930s Don the Beachcomber recipe, missing from the menu by 1941.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe in Beachcomber's <span lang="fr">maître d'</span> Dick Santiago's personal notebook.
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe in Beachcomber's <span lang="fr">maître d'</span> Dick Santiago's personal notebook.
 
 Glassware
-  : Footed pilsner
+  : <span data-pagefind-filter="Glassware">Footed pilsner</span>
 
 ## Ingredients
 
@@ -47,8 +47,8 @@ Glassware
 * 1 dash Angostura bitters
 
 Garnish
-  : Lime wedge
-  : Cocktail umbrella
+  : <span data-pagefind-filter="Garnish">Lime wedge</span>
+  : <span data-pagefind-filter="Garnish">Cocktail umbrella</span>
 
 ## Instructions
 
@@ -63,3 +63,45 @@ Garnish
 
   Jeff Berry's version specifies 3/4&nbsp;ounce [cane coffey still aged rum](/rums/00-rhum-cane-coffey-still-aged/) and 3/4&nbsp;ounce Celebration Distillation Old New Orleans Amber. It's worth noting that the latter is produced in small quantities and is not widely distributed.
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Pineapple juice, unsweetened"
+  data-ingredient[2]="Rich Demerara syrup"
+  data-ingredient[3]="Grenadine"
+  data-ingredient[4]="Falernum"
+  data-ingredient[5]="Cane coffey still aged rum"
+  data-ingredient[6]="Angostura bitters"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, flash-blended, 1930</div>

@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Spiced Hibiscus Infusion
 tags: mixes
-ingredients:
+type: preparation
+ingredient:
   - fresh ginger
   - whole cloves
   - blended lightly aged rum (2)
@@ -12,7 +13,7 @@ excerpt: Recipe for Smuggler's Cove spiced hibiscus infusion
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <tiki-callout type="tip">
 
@@ -22,10 +23,10 @@ excerpt: Recipe for Smuggler's Cove spiced hibiscus infusion
 
 ## Ingredients
 
-* 3 quarter-sized discs of unpeeled fresh ginger
+* 3 quarter-sized discs of unpeeled <span data-pagefind-filter="Ingredient">fresh <span data-pagefind-filter="Ingredient">ginger</span></span>
 * 10 whole cloves
 * 1 liter [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-* &frac34; cup dried hibiscus flowers
+* &frac34; cup <span data-pagefind-filter="Ingredient">dried <span data-pagefind-filter="Ingredient">hibiscus flowers</span></span>
 
 ## Instructions
 

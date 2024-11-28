@@ -9,7 +9,7 @@ characteristic:
   - flash-blended
   - creamy
 base: cachaca base
-ingredients:
+ingredient:
   - passion fruit puree
   - coconut milk
   - pot still aged cachaca
@@ -26,16 +26,16 @@ excerpt: A traditional Brazilian drink which, while originating nearly a century
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Old-fashioned
+  : <span data-pagefind-filter="Glassware">Old-fashioned</span>
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ Glassware
 * 1 ounce sweetened condensed milk
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -64,3 +64,37 @@ Garnish
   To make <span lang="pt-BR">Batida de Maracujá</span>, omit the coconut and increase the passion fruit purée to 1 ounce.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-char[0]="Flash-blended"
+  data-char[1]="Creamy"
+  data-base[0]="Cachaça"
+  data-ingredient[0]="Passion fruit purée"
+  data-ingredient[1]="Coconut milk"
+  data-ingredient[2]="Pot still aged cachaça"
+  data-ingredient[3]="Sweetened condensed milk"
+  data-origin[0]="Brazil"
+  data-origin[1]="Traditional"
+  data-glass[0]="Rocks"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, flash-blended, creamy, passion fruit  puree, cachaca, 1930</div>

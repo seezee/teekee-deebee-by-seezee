@@ -7,9 +7,10 @@ type:
   - sour
 characteristic:
   - flash-blended
+  - muddled
   - strong
 base: rum base
-ingredients:
+ingredient:
   - pineapple chunks
   - unsweetened pineapple juice
   - lime juice
@@ -30,7 +31,7 @@ excerpt: Jeff Berry dates this recipe to circa 1965, but does not state its orig
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 This drink serves two people (or one very thirsty person of either great fortitude or great foolishness).
 
@@ -38,17 +39,17 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Hollowed out pineapple
+  : <span data-pagefind-filter="Glassware">Hollowed-out pineapple</span>
 
 Serves
   : 2
 
 ## Ingredients
 
-* 6 1-inch-square chunks fresh pineapple
+* 6 1-inch-square fresh pineapple chunks
 * 2&frac12; ounces unsweetened pineapple juice
 * 1&frac12; ounces fresh lime juice
 * 1&frac14; ounces [honey syrup](/mixes/honey-syrup/)
@@ -59,10 +60,10 @@ Serves
 * 1&frac12; ounces seltzer
 
 Garnish
-  : Pineapple lid with two straw holes[^1]
-  : Drinking straws
+  : <span data-pagefind-filter="Garnish">Pineapple lid with two straw holes</span>[^1]
+  : <span data-pagefind-filter="Garnish">Drinking straws</span>
 
-[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">{{ source }}</a></cite>, p. 238.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, p. 238.
 
 ## Instructions
 
@@ -71,3 +72,51 @@ Garnish
 3. Flash blend 3 to 4 seconds
 4. Pour with gated finish into a hollowed-out pineapple
 5. Close the pineapple with the lid and insert two straws
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-char[1]="Muddled"
+  data-char[2]="Strong"
+  data-origin[0]="Unknown"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Pineapple chunks"
+  data-ingredient[1]="Pineapple juice, unsweetened"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Honey syrup"
+  data-ingredient[4]="Blended aged rum [3]"
+  data-ingredient[5]="Column still aged rum [4]"
+  data-ingredient[6]="Black blended rum [5]"
+  data-ingredient[7]="Black blended overproof rum [6]"
+  data-ingredient[8]="Seltzer"
+  data-ingredient[9]="Soda water"
+  data-glass[0]="Pineapple"
+  data-decade[0]="1960"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Origin[data-origin[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden> tropical,sour, flash-blended, strong, soda water, 1960</div>

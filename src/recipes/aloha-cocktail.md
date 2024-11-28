@@ -8,8 +8,10 @@ type:
 characteristic:
   - shaken
   - strained
-base: rum base
-ingredients:
+base:
+  - liqueur base
+  - rum base
+ingredient:
   - lime juice
   - orange juice
   - grenadine
@@ -33,10 +35,10 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from Hank Riddle's personal papers
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from Hank Riddle's personal papers
 
 Glassware
-  : Sour glass
+  : <span data-pagefind-filter="Glassware">Sour glass</span> (<span data-pagefind-filter="Glassware">Delmonico</span>)
 
 ## Ingredients
 
@@ -50,7 +52,7 @@ Glassware
 [^1]: A Danish cherry wine. Substitute 1/4 ounce Cherry Heering if you cannot obtain Kijafa. The drink will be somewhat sweeter, but more than palatable.
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -63,3 +65,47 @@ Garnish
   With the <a href="https://www.bacardi.com/us/en/the-legend-of-bacardi-151-rum/" target="_blank" rel="external noopener">discontinuation of Bacardi 151</a> in 2016, the only remaining overproof Puerto Rican rum is Don Q 151. However, Cruzan 151 (U.S. Virgin Islands) is an acceptable substitute.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Liqueur"
+  data-base[1]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Orange juice"
+  data-ingredient[2]="Grenadine"
+  data-ingredient[3]="Cherry Kijafa"
+  data-ingredient[4]="Cherry wine"
+  data-ingredient[5]="Cherry Heering"
+  data-ingredient[6]="column still lightly aged rum"
+  data-ingredient[7]="column still lightly aged rum (overproof)"
+  data-ingredient[8]="blended aged rum [3]"
+  data-origin[0]="Hank Riddle"
+  data-decade[0]="1970"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>sour, tropical, shaken, strained, 1970</div>

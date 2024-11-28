@@ -8,7 +8,7 @@ characteristic:
   - strained
   - aromatic
 base: rum base
-ingredients:
+ingredient:
   - li hing mui syrup
   - blended aged rum (3)
   - Angostura bitters
@@ -25,17 +25,16 @@ excerpt: An sweet, sour, and aromatic rum cocktail by Martin Cate.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Double old-fashioned
-  : Double rocks
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
@@ -44,7 +43,7 @@ Glassware
 * 1 dash Angostura bitters
 
 Garnish
-  : Orange peel
+  : <span data-pagefind-filter="Garnish">Orange peel</span>
 
 ## Instructions
 
@@ -53,3 +52,37 @@ Garnish
 3. Strain into an double old-fashioned glass over a large ice cube or ice sphere
 4. Express the oil from a piece of orange peel onto the surface
 5. Float the peel in the glass
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Cocktail"
+  data-char[0]="Stirred"
+  data-char[1]="Strained"
+  data-char[2]="Aromatic"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Li hing mui syrup"
+  data-ingredient[1]="Blended aged rum [3]"
+  data-ingredient[2]="Angostura bitters"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Double rocks"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>cocktail, stirred, strained, aromatic, 2000, 2010</div>

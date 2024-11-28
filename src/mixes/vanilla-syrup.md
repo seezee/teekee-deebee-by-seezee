@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Vanilla Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - granulated sugar
   - vanilla bean
@@ -11,13 +12,13 @@ excerpt: Recipe for vanilla syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 * 160 milliliters water
 * 320 grams granulated sugar
-* 1 (5&frac12;-inch) vanilla bean, split lengthwise
+* 1 (5&frac12;-inch) <span data-pagefind-filter="Ingredient">vanilla bean</span>, split lengthwise
 
 ## Instructions
 

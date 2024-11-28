@@ -1,7 +1,7 @@
 ---
 layout: _main.njk
 title: Herbstura
-ingredients:
+ingredient: preparation
   - Angostura bitters
   - Herbsaint
   - Pernod
@@ -12,7 +12,7 @@ excerpt: Recipe for Don the Beachcomber's herbstura
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 

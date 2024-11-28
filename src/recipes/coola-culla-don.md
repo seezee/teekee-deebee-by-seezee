@@ -9,7 +9,7 @@ characteristic:
   - blended
   - strained
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - vanilla syrup
   - pimento dram
@@ -28,17 +28,17 @@ excerpt: A circa 1939 Don the Beachcomber recipe, blended, strained, and served 
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe in Beachcomber's <span lang="fr">maître d'</span> Dick Santiago's personal notebook.
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe in Beachcomber's <span lang="fr">maître d'</span> Dick Santiago's personal notebook.
 
 Glassware
   : Chilled coupé
-  : Stemmed cocktail glass
+  : Chilled stemmed cocktail glass
 
 ## Ingredients
 
@@ -50,7 +50,7 @@ Glassware
 * 1&frac12; ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
-  : Edible orchid
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
 
 ## Instructions
 
@@ -63,3 +63,53 @@ Garnish
 
   Jeff Berry specifies Puerto Rican rum.
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Blended"
+  data-char[1]="Strained"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Vanilla syrup"
+  data-ingredient[2]="Pimento dram"
+  data-ingredient[3]="Allspice dram"
+  data-ingredient[4]="Cinnamon syrup"
+  data-ingredient[5]="Coola culla mix"
+  data-ingredient[6]="Blended aged rum [3]"
+  data-glass[0]="Coupé"
+  data-glass[1]="Cocktail glass, stemmed"
+  data-ingredient[0]="Allspice dram"
+  data-ingredient[1]="Pimento dram"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, blended, strained, coupe, 1930</div>

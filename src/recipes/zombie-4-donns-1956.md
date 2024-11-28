@@ -10,7 +10,7 @@ characteristic:
   - flash-blended
   - strong
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - grapefruit juice
   - unsweetened pineapple juice
@@ -23,7 +23,6 @@ ingredients:
   - Angostura bitters
   - Pernod
   - pastis
-  - absinthe
 garnish:
   - mint sprig
 glass:
@@ -37,38 +36,38 @@ excerpt: Men's magazine Cabaret Quarterly published this recipe in 1956, with th
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
   Origin
     :  {{ origin }}[^1]
 
   Source
-    : <cite>{{ source }}</cite> (1956), author unknown
+    : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1956), author unknown
 
   Glassware
-    : Zombie
+    : <span data-pagefind-filter="Glassware">Zombie</span>
 
 [^1]: See also [Zombie N<sup>o.</sup> 1](/recipes/zombie-1-donns-1934.md), [Zombie N<sup>o.</sup> 2](/recipes/zombie-2-trader-vics-1947/), [Zombie N<sup>o.</sup> 3](/recipes/zombie-3-donns-1950.md), and [Zombie N<sup>o.</sup> 5](/recipes/zombie-5-jeff-berry-hamiltons/).
 
 ## Ingredients
 
-- 3/4 ounce fresh lime juice
-- 1/2 ounce fresh white grapefruit juice[^2]
-- <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce [cinnamon syrup](/mixes/cinnamon-syrup)
-- 1&frac12; ounces unsweetened pineapple juice
-- 1/4 ounce falernum
-- 1 ounce [black blended rum](/rums/11-rum-black-blended/) (Jamaican)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
-- 1&frac14; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
-- 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
-- 3/4 ounce maraschino liqueur
-- 1/4 teaspoon [grenadine](/mixes/grenadine)
-- 2 dashes Angostura bitters
-- 6 drops Pernod (or other pastis or abinthe)
+* 3/4 ounce fresh lime juice
+* 1/2 ounce fresh white grapefruit juice[^2]
+* <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce [cinnamon syrup](/mixes/cinnamon-syrup)
+* 1&frac12; ounces unsweetened pineapple juice
+* 1/4 ounce falernum
+* 1 ounce [black blended rum](/rums/11-rum-black-blended/) (Jamaica)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+* 1&frac14; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+* 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" class="bigger" label="(6)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
+* 3/4 ounce Luxardo maraschino liqueur
+* 1/4 teaspoon [grenadine](/mixes/grenadine)
+* 2 dashes Angostura bitters
+* 6 drops Pernod (or other pastis liqueur)
 
 [^2]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -83,3 +82,71 @@ Garnish
   Berry calls for gold Puerto Rican rum where we have specified blended aged rum. Bacardi Gold or similar would be appropriate.
 
 </tiki-callout>
+
+<div
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-pagefind-filter="
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]]
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-char[0]="Flash-blended"
+  data-char[1]="Strong"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Grapefruit juice"
+  data-ingredient[2]="Pineapple juice, unsweetened"
+  data-ingredient[3]="Falernum"
+  data-ingredient[4]="Black blended ruby [5]"
+  data-ingredient[5]="Blended aged rum [3]"
+  data-ingredient[6]="Black blended overproof rum [6]"
+  data-ingredient[7]="Maraschino liqueur"
+  data-ingredient[8]="Luxardo maraschino liqueur"
+  data-ingredient[9]="Grenadine"
+  data-ingredient[10]="Angostura bitters"
+  data-ingredient[11]="Pernod"
+  data-ingredient[12]="Pastis"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-decade[0]="1950"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Ingredient[data-ingredient[10]],
+    Ingredient[data-ingredient[11]],
+    Ingredient[data-ingredient[12]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, flash-blended, strong, 1950</div>

@@ -10,8 +10,10 @@ type:
 characteristic:
   - shaken
   - strained
+  - sparkling
+  - carbonated
 base: gin base
-ingredients:
+ingredient:
   - seltzer
   - lemon juice
   - rich Demerara syrup
@@ -36,7 +38,7 @@ excerpt: The origin of this famous drink is disputed. It may have been invented 
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 > Of all the recipes published for [this drink] I have never seen any two that were alike.
 >
@@ -46,11 +48,11 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -64,8 +66,8 @@ Glassware
 * 1 dash orange bitters
 
 Garnish
-  : Lemon wedge
-  : Cocktail umbrella
+  : <span data-pagefind-filter="Garnish">Lemon wedge</span>
+  : <span data-pagefind-filter="Garnish">Cocktail umbrella</span>
 
 ## Instructions
 
@@ -87,3 +89,59 @@ Garnish
   Many early recipes call for this drink to be garnished with a "horse's neck," a long spiral lime peel with one end left hanging over the rim of the glass.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Sling"
+  data-type[1]="Tall drink"
+  data-type[2]="Cooler"
+  data-type[3]="Spritz"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Sparkling"
+  data-char[3]="Carbonated"
+  data-base[0]="Gin"
+  data-ingredient[0]="Seltzer"
+  data-ingredient[1]="Soda water"
+  data-ingredient[2]="Lemon juice"
+  data-ingredient[3]="Rich Demerara syrup"
+  data-ingredient[4]="Cherry Heering"
+  data-ingredient[5]="Benedictine"
+  data-ingredient[6]="Gin, London dry"
+  data-ingredient[7]="Angostura bitters"
+  data-ingredient[8]="Orange bitters"
+  data-origin[0]="Ngiam Tong Boon"
+  data-origin[1]="Raffles Hotel, Singapore"
+  data-decade[0]="1890"
+  data-decade[1]="1900"
+  data-decade[2]="1910"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]],
+    Decade[data-decade[2]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>sling, tall drink, cooler, spritz, shaken, strained, sparkling, carbonated, 1890, 1900, 1910</div>

@@ -13,7 +13,7 @@ characteristic:
   - muddled
   - swizzled
 base: rum base
-ingredients:
+ingredient:
   - mint leaves
   - lime juice
   - rich Demerara syrup
@@ -33,29 +33,29 @@ excerpt: A Trader Vic original, which he described as “the most delightful for
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (1947) by  Victor Jules Bergeron
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
-- 4 mint leaves
+- 4 fresh mint leaves
 - 1/2 ounce fresh lime juice
 - 1/2 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 - 2 ounces [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 - 2 dashes Angostura bitters
 
 Garnish
-  : Swizzle napkin wrap
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Swizzle napkin wrap</span>
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -73,3 +73,57 @@ Garnish
   Smuggler's Cove notes that Trinidad only started producing rum in large quantities after World War II. Even though this drink has Trinidadian origins, they recommend a [black blended rum](/rums/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l><span class="after-icon"></span>as being the likely choice at the time the drink was first formulated.
 
 </tiki-callout>
+
+<div
+  data-origin[0]="Trader Vic"
+  data-origin[1]="Victor Bergeron"
+  data-pagefind-filter="
+    Origin[data-origin[0]],
+    Origin[data-origin[1]]
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-type[3]="Smash"
+  data-type[4]="Swizzle"
+  data-char[0]="Built"
+  data-char[1]="Muddled"
+  data-char[2]="Swizzled"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Mint leaves"
+  data-ingredient[1]="Lime juice"
+  data-ingredient[2]="Rich Demerara"
+  data-ingredient[3]="Black blended rum [5]"
+  data-ingredient[4]="Angostura bitters"
+  data-origin[0]="Trader Vic"
+  data-origin[1]="Victor Bergeron"
+  data-decade[0]="1940"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Type[data-type[4]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, swizzle, smash, built, muddled, swizzled, lele, 1940</div>

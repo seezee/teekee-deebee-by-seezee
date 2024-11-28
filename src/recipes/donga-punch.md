@@ -9,10 +9,11 @@ characteristic:
   - flash-blended
   - strong
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - cinnamon syrup
   - grapefruit juice
+  - Donn's mix
   - cane AOC Martinique rhum agricole vieux (8)
 garnish:
   - pineapple wedge
@@ -30,17 +31,17 @@ image: /assets/images/donn-beach-mug.png
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from the personal notebook of 15-year veteran Beachcomber's <span lang="fr">maître d’</span> Dick Santiago
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from the personal notebook of 15-year veteran Beachcomber's <span lang="fr">maître d’</span> Dick Santiago
 
 Glassware
-  : Donn Beach mug (pictured)
-  : Tiki mug
+  : <span data-pagefind-filter="Glassware">Donn Beach mug</span> (pictured)
+  : <span data-pagefind-filter="Glassware">Tiki mug</span>
 
 <tiki-dialog-img id="donn-beach-mug">
 
@@ -58,10 +59,10 @@ Glassware
 [^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
-  : Pineapple wedge
-  : Maraschino cherry
-  : Cocktail pick
-  : Edible orchid
+  : <span data-pagefind-filter="Garnish">Pineapple wedge</span>
+  : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
+  : <span data-pagefind-filter="Garnish">Cocktail pick</span>
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
 
 ## Instructions
 
@@ -70,3 +71,48 @@ Garnish
 3. Open pour with gated finish into the Donn Beach mug or other tall tiki mug
 4. Spear a pineapple wedge and a maraschino cherry on a cocktail spear
 5. Garnish with the fruit and an edible orchid
+
+<tiki-callout type="tip">
+
+  Substitute 1&frac12; ounce [Donn's Mix](/mixes/donns-mix/) for the grapefruit juice and cinnamon syrup.
+</tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-char[1]="Strong"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Cinnamon syrup"
+  data-ingredient[2]="Grapefruit juice"
+  data-ingredient[3]="Donn’s Mix"
+  data-ingredient[4]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-garnish[0]="Maraschino cherry"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, strong, 1930</div>

@@ -10,7 +10,7 @@ characteristic:
   - flash-blended
   - strong
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - orange juice
   - orgeat
@@ -33,7 +33,7 @@ excerpt: One of Trader Vic's most famous drinks, second only to the mai tai.
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <!-- markdownlint-disable MD028 -->
 > Fog Cutter, hell. After two of these, you won't even see the stuff.
@@ -49,25 +49,25 @@ excerpt: One of Trader Vic's most famous drinks, second only to the mai tai.
     : {{ origin }}
 
   Source
-    : <cite>{{ source }}</cite> (1947) by  Victor Jules Bergeron
+    : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron
 
   Glassware
-    : Zombie
-    : Fog cutter mug
+    : <span data-pagefind-filter="Glassware">Zombie</span>
+    : <span data-pagefind-filter="Glassware">Fog cutter mug</span>
 
 ## Ingredients
 
-- 1&frac12; ounces fresh lemon juice
-- 1&frac12; ounces fresh orange juice
-- 1/2 ounce [orgeat](/mixes/orgeat/)
-- 1 ounce pisco
-- 1/2 ounce gin
-- 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-- 1/2 ounce oloroso sherry
+* 1&frac12; ounces fresh lemon juice
+* 1&frac12; ounces fresh orange juice
+* 1/2 ounce [orgeat](/mixes/orgeat/)
+* 1 ounce pisco
+* 1/2 ounce London dry gin
+* 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 1/2 ounce oloroso sherry
 
 Garnish
-  : Mint sprig
-  : Swizzle stick
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
+  : <span data-pagefind-filter="Garnish">Swizzle stick</span>
 
 ## Instructions
 
@@ -78,3 +78,45 @@ Garnish
 5. Garnish with a mint sprig and a swizzle stick
 
 [^1]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-char[0]="Flash-blended"
+  data-char[1]="Strong"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Orange juice"
+  data-ingredient[2]="Orgeat"
+  data-ingredient[3]="Pisco"
+  data-ingredient[4]="Gin, London dry"
+  data-ingredient[5]="Blended lightly aged rum [2]"
+  data-ingredient[6]="Sherry, oloroso"
+  data-origin[0]="Trader Vic"
+  data-origin[1]="Victor Bergeron"
+  data-decade[0]="1940"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, flash-blended,strong, 1940</div>

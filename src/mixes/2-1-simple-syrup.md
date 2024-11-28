@@ -2,7 +2,8 @@
 layout: _main.njk
 title: 2:1 Simple Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - granulated sugar
 excerpt: Recipe for rich (2:1) simple syrup, with a note on 1:1 simple syrup
@@ -10,7 +11,7 @@ excerpt: Recipe for rich (2:1) simple syrup, with a note on 1:1 simple syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
@@ -39,3 +40,15 @@ excerpt: Recipe for rich (2:1) simple syrup, with a note on 1:1 simple syrup
   The liquid yield is equal to the volume of sugar, so 250 grams of sugar + 125 milliliters of water makes 250 milliliters (about 1 cup) of syrup.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Sugar, granulated"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]]
+  "
+>
+</div>

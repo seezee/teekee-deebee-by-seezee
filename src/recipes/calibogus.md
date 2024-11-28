@@ -9,8 +9,10 @@ type:
 characteristic:
   - shaken
   - strained
+  - sparkling
+  - carbonated
 base: rum base
-ingredients:
+ingredient:
   - seltzer
   - lime juice
   - molasses syrup
@@ -28,17 +30,17 @@ excerpt: This popular tavern drink was once served throughout colonial Canada an
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite>{{ source }}</cite> (2006) by Wayne Curtis
+  : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2006) by Wayne Curtis
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -50,7 +52,7 @@ Glassware
 * 1&frac14; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
-  : Swizzle stick
+  : <span data-pagefind-filter="Garnish">Swizzle stick</span>
 
 ## Instructions
 
@@ -66,3 +68,52 @@ Garnish
  Spruce beer soda extract is available from home brew suppliers.
 
 </tiki-callout>
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tall drink"
+  data-type[1]="Cooler"
+  data-type[2]="Spritz"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Sparkling"
+  data-char[3]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Seltzer"
+  data-ingredient[1]="Soda water"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Molasses syrup"
+  data-ingredient[4]="Spruce beer soda extract"
+  data-ingredient[5]="Pine liqueur"
+  data-ingredient[6]="Zirbenz Stone Pine Liqueur"
+  data-ingredient[7]="Blended aged rum [3]"
+  data-origin[0]="Canada, colonial"
+  data-origin[1]="United States"
+  data-origin[2]="Traditional"
+  data-decade[0]="1780"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tall drink, cooler, spritz, shaken, strained, sparkling, carbonated, soda water, 1780</div>

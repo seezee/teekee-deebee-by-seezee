@@ -5,23 +5,23 @@ searchTitle: Scorpion Bowl
 tags: recipes
 type:
   - tropical
-  - sour
   - punch
 characteristic:
   - flash-blended
   - communal
+  - flaming
 base:
   - brandy base
   - rum base
   - gin base
-ingredients:
+ingredient:
   - lime juice
   - orange juice
   - rich Demerara syrup
   - orgeat
   - brandy
   - London dry gin
-  - black blended lightly aged rum (2)
+  - blended lightly aged rum (2)
 glass: scorpion bowl
 origin: <stack-l><p>Trader Vic's third most famous cocktail, after the mai tai and the fog cutter. According to Martin Cate, Vic was inspired by a communal punch he drank at a luau in Hawaii and a <a href="https://en.wikipedia.org/wiki/Kava_culture" target="_blank" rel="external noopener">kava bowl ceremony</a> he witnessed in Micronesia.</p><p>Vic's 1947 recipe included lemon juice, gin, and white wine. He revised the recipe for single portions in the 1972 <cite>Trader Vic's Bartender's Guide</cite> reprint, omitting the gin and wine.<p><p>When Steve Crane, owner of the Luau in Beverly Hills, adapted the recipe in 1958 he swapped out the lemon juice in Trader Vic's recipe for lime juice and also dropped the white wine.</p></stack-l>
 source: Trader Vic's Bartender's Guide
@@ -42,7 +42,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (1947) by  Victor Jules Bergeron, adapted by Steve Crane in 1958
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron, adapted by Steve Crane in 1958
 
 Glassware
   : Large (32- to 48-ounce) scorpion bowl + long (20-inch) luau straws
@@ -61,7 +61,7 @@ Serves
 * 4 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -85,5 +85,61 @@ Garnish
 
 <tiki-callout type="tip">
 
-  For a 1950s spin on this tropical classic, see the recipe for [Kelbo's Scorpion](/recipes/kelbos-scorpion/).
+  For a 1950s spin on this tropical classic, see the recipe for [Kelbo's scorpion](/recipes/kelbos-scorpion/). For Jeff Berry's take on Steve Crane's adaptation, see the recipe for the [tiki bowl](/recipes/tiki-bowl/).
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Punch"
+  data-char[0]="Flash-blended"
+  data-char[1]="Communal"
+  data-char[2]="Flaming"
+  data-base[0]="Brandy"
+  data-base[1]="Rum"
+  data-base[2]="Gin"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Orange juice"
+  data-ingredient[2]="Rich Demerara syrup"
+  data-ingredient[3]="Orgeat"
+  data-ingredient[4]="Brandy"
+  data-ingredient[5]="Gin, London dry"
+  data-ingredient[6]="Blended lightly aged rum [2]"
+  data-origin[0]="Trader Vic"
+  data-origin[1]="Victor Bergeron"
+  data-origin[2]="Steve Crane"
+  data-glass[0]="Scorpion bowl"
+  data-glass[1]="Scorpion bowl, large (32- to 48-ounce)"
+  data-glass[2]="Luau straws"
+  data-decade[0]="1940"
+  data-decade[1]="1950"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Base[data-base[2]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, punch, flash-blended, communal, flaming, 1940, 1950</div>

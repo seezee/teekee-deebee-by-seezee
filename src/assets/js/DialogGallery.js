@@ -68,7 +68,7 @@ export default class DialogGallery extends HTMLElement {
           </div>
         </stack-l>
       </form>
-      <details>
+      <details id="gallery-keyboard-hint">
         <summary>KEYBOARD HINTS</summary>
           <stack-l>
             <dl>

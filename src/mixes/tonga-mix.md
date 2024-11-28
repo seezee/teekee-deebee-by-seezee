@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Tonga Mix
 tags: mixes
-ingredients:
+type: preparation
+ingredient:
   - grenadine
   - passion fruit juice
 excerpt: Recipe for Don the Beachcomber's tonga mix
@@ -10,12 +11,12 @@ excerpt: Recipe for Don the Beachcomber's tonga mix
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 * 4 parts [grenadine](/mixes/grenadine/) by volume
-* 1 part passion fruit juice (*not* syrup) by volume
+* 1 part <span data-pagefind-filter="Ingredient">passion fruit juice</span> (*not* syrup) by volume
 
 ## Instructions
 

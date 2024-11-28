@@ -6,10 +6,13 @@ type:
   - tropical
   - tall drink
   - cooler
-characteristic: built
+characteristic:
+  - built
+  - sparkling
+  - carbonated
 base: rum base
-ingredients:
-  - Wray & Newphew White Overproof Rum
+ingredient:
+  - Wray & Nephew White Overproof Rum
   - Ting grapefruit soda
 glass:
   - Collins
@@ -22,17 +25,17 @@ excerpt: The popular Jamaican rum & grapefruit soda refresher.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -40,7 +43,7 @@ Glassware
 * 4 ounces Ting grapefruit soda
 
 Garnish
-  : Lime wedge
+  : <span data-pagefind-filter="Garnish">Lime wedge</span>
 
 ## Instructions
 
@@ -54,3 +57,55 @@ Garnish
   Substitute other good-quality grapefruit soda if you cannot source Ting.
 
 </tiki-callout>
+
+<div
+  data-origin[0]="Jamaica"
+  data-origin[1]="Traditional"
+  data-ingredient[0]="pot still unaged rum (overproof)"
+  data-pagefind-filter="
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Ingredient[data-ingredient[0]]
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Tall drink"
+  data-type[2]="Cooler"
+  data-char[0]="Built"
+  data-char[1]="Sparkling"
+  data-char[2]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Wray & Nephew White Overproof Rum"
+  data-ingredient[1]="Pot still unaged rum"
+  data-ingredient[2]="Pot still unaged rum (overproof)"
+  data-ingredient[3]="Grapefruit soda"
+  data-ingredient[4]="Ting grapefruit soda"
+  data-origin[0]="Jamaica"
+  data-origin[1]="Traditional"
+  data-decade[0]="1970"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, tall drink, cooler, built, sparkling, carbonated, 1970</div>

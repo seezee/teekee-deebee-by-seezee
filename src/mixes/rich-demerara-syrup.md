@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Rich Demerara Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - granulated sugar
   - Demerara sugar
@@ -11,13 +12,13 @@ excerpt: Recipe for rich (2:1) Demerara syrups
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 * 250 milliliters water
-* 125 grams Demerara sugar
-* 375 grams granulated sugar
+* 125 grams <span data-pagefind-filter="Ingredient">Demerara <span data-pagefind-filter="Ingredient">sugar</span></span>
+* 375 grams <span data-pagefind-filter="Ingredient">granulated sugar</span>
 
 ## Instructions
 

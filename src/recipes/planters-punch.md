@@ -5,7 +5,7 @@ tags: recipes
 type: punch
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - rich Demerara syrup
   - allspice dram
@@ -25,8 +25,8 @@ excerpt: The first printed recipe for this Jamaican traditional punch appeared i
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
-
+<!-- markdownlint-enable MD025 -->
+<!-- markdownlint-disable MD028 -->
 > A wine-glass with lemon juice fill, of sugar the same glass, fill twice
 > Then rub them together until
 > The mixture looks smooth, soft, and nice.
@@ -41,16 +41,16 @@ excerpt: The first printed recipe for this Jamaican traditional punch appeared i
 > And a touch of spice to make it nice
 >
 > —&NoBreak;&thinsp;&NoBreak;Traditional mnemonic rhyming recipe
-
+<!-- markdownlint-enable MD028 -->
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, September 1878
+  : <span data-pagefind-filter="Source"><cite>{{ source }}</cite> magazine</span>, September 1878
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -61,7 +61,7 @@ Glassware
 * 2 dashes Angostura bitters
 
 Garnish
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -69,3 +69,37 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a Collins or highball glass
 4. Garnish with a mint sprig
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Punch"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="Allspice dram"
+  data-ingredient[3]="Pimento dram"
+  data-ingredient[4]="Blended aged rum [3]"
+  data-ingredient[5]="Angostura bitters"
+  data-origin[0]="Jamaica"
+  data-origin[1]="Traditional"
+  data-decade[0]="1870"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>punch, flash-blended, 1870</div>

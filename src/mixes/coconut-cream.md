@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Coconut Cream
 tags: mixes
-ingredients:
+type: batter
+ingredient:
   - unsweetened coconut milk
   - salt
   - rich simple syrup
@@ -11,7 +12,7 @@ excerpt: Recipe for coconut cream
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
@@ -33,3 +34,19 @@ excerpt: Recipe for coconut cream
   The coconut cream will keep, refrigerated, for two few weeks.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Batter"
+  data-ingredient[0]="Coconut milk, unsweetened"
+  data-ingredient[1]="Salt, table"
+  data-ingredient[2]="2:1 rich simple syrup"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>batter</div>

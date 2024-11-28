@@ -7,9 +7,12 @@ type:
   - tall drink
   - cooler
   - spritz
-characteristic: shaken
+characteristic:
+  - shaken
+  - sparkling
+  - carbonated
 base: rum base
-ingredients:
+ingredient:
   - seltzer
   - lime juice
   - cinnamon syrup
@@ -32,17 +35,17 @@ excerpt: Created by Melissa Garcia for Smuggler's Cove.
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -55,7 +58,7 @@ Glassware
 
 Garnish
   : Freshly grated cinnamon
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -63,5 +66,57 @@ Garnish
 2. Add the remaining ingredients to a cocktail shaker filled with cracked or cube ice
 3. Shake until very cold, about 15 seconds
 4. Strain into the glass
-5. Carefully add cracked or cube ice to the glass to tropical
+5. Carefully add cracked or cube ice to the glass
 6. Garnish with grated cinnamon & a mint sprig
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Tall drink"
+  data-type[2]="Cooler"
+  data-type[3]="Spritz"
+  data-char[0]="Shaken"
+  data-char[1]="Sparkling"
+  data-char[2]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Seltzer"
+  data-ingredient[1]="Soda water"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Cinnamon syrup"
+  data-ingredient[4]="Cherry Heering"
+  data-ingredient[5]="Blended lightly aged rum [2]"
+  data-ingredient[6]="Angostura bitters"
+  data-origin[0]="Melissa Garcia"
+  data-origin[1]="Smuggler’s Cove"
+  data-garnish[0]="Cinnamon"
+  data-garnish[1]="Cinnamon, grated"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Garnish[data-garnish[0]],
+    Garnish[data-garnish[1]]
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, tall drink, cooler, spritz, shaken,sparkling, carbonated, soda water, 2000, 2010</div>

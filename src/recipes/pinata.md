@@ -8,7 +8,7 @@ type:
   - sour
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - unsweetened pineapple juice
   - lemon juice
   - rich Demerara syrup
@@ -29,23 +29,23 @@ excerpt: Created by Marcovaldo Dionysos for Smuggler's Cove.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Hollowed out pineapple
+  : <span data-pagefind-filter="Glassware">Hollowed-out pineapple</span>
 
 ## Ingredients
 
 * 3 ounces unsweetened pineapple juice
 * 1 ounce fresh lemon juice
 * 1/4 to 1/2 ounce[^1] [rich Demerara syrup](/mixes/rich-demerara-syrup)
-* 1 ounce ginger liqueur
+* 1 ounce <span data-pagefind-filter="Ingredient">Domaine de Canton</span> or other <span data-pagefind-filter="Ingredient">ginger liqueur</span>
 * 1/2 ounce allspice (pimento) dram
 * 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" label="(5)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
@@ -62,3 +62,53 @@ Garnish
   3. Open pour into a hollowed out pineapple
   4. Top with freshly grated nutmeg
   5. Serve with a straw
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Pineappple juice, unsweetened"
+  data-ingredient[1]="Lemon juice"
+  data-ingredient[2]="Rich Demerara syrup"
+  data-ingredient[3]="Ginger liqueur"
+  data-ingredient[4]="Allspice dram"
+  data-ingredient[5]="Pimento dram"
+  data-ingredient[6]="Black blended rum [5]"
+  data-ingredient[7]="Blended lightly aged rum [2]"
+  data-ingredient[8]="Seltzer"
+  data-ingredient[9]="Soda water"
+  data-origin[0]="Marcovaldo Dionysos"
+  data-origin[1]="Smuggler’s Cove"
+  data-glass[0]="Pineapple"
+  data-garnish[0]="Nutmeg, grated"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, soda water, 2000, 2010</div>

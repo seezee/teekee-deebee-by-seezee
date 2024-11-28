@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Jerk Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - granulated sugar
   - jerk seasoning
@@ -11,13 +12,13 @@ excerpt: Recipe for Smuggler's Cove jerk syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 * 125 milliliters water
 * 250 grams granulated sugar
-* 5 grams [jerk seasoning](/mixes/jerk-seasoning/)
+* 5 grams [<span data-pagefind-filter="Ingredient">jerk seasoning</span>](/mixes/jerk-seasoning/)
 
 ## Instructions
 

@@ -7,7 +7,7 @@ excerpt: Index of pot still unaged cachaça.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <div class="index">
 

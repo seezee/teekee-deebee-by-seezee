@@ -6,12 +6,14 @@ type: tropical
 characteristic:
   - shaken
   - strained
+  - sweet
 base:
   - rum base
   - liqueur base
-ingredients:
+ingredient:
   - creme de cacao
-  - creme de banane (banana liqueur)
+  - creme de banane
+  - banana liqueur
   - pineapple juice
   - heavy whipping cream
   - grated nutmeg
@@ -25,13 +27,13 @@ excerpt: Created by Hank Riddle in his final year at Kelbo's on L.A.’s Fairfax
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers
 
 Glassware
   : Chilled coupé
@@ -47,7 +49,7 @@ Glassware
 * 1 pinch freshly grated nutmeg
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -68,4 +70,50 @@ Garnish
  Teenaged Hank went without sugar while he slept in the jungle for three months during WWII[^1]. Jeff Berry speculates that this may account for this drink's name.
 </tiki-callout>
 
-[^1]: See <cite>{{ source }}</cite>, revised edition (2017), p. 99.
+[^1]: See <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), p. 99.
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Sweet"
+  data-base[0]="Rum/Cane spirits"
+  data-base[1]="Liqueur"
+  data-ingredient[0]="Crème de cacao"
+  data-ingredient[1]="Crème de cacao, white"
+  data-ingredient[2]="Crème de banane"
+  data-ingredient[3]="Banana liqueur"
+  data-ingredient[4]="Pineapple juice, unsweetened"
+  data-ingredient[5]="Cream, heavy whipping"
+  data-ingredient[6]="Nutmeg, grated"
+  data-origin[0]="Hank Riddle"
+  data-origin[1]="Kelbo’s, Los Angeles"
+  data-glass[0]="Coupé"
+  data-glass[1]="Cocktail glass, stemmed"
+  data-decade[0]="1970"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, shaken, strained, sweet, coupe, creme, 1970</div>

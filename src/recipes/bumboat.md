@@ -8,14 +8,14 @@ type:
 characteristic:
   - flash-blended
 base: rum base
-ingredients:
+ingredient:
   - unsweetened pineapple juice
   - lemon juice
   - cinnamon syrup
   - rye whiskey
   - blended lightly aged rum (2)
   - almond extract
-  - Bittermens 'Elemakule Tiki Bitters
+  - Bittermens 'Elemakule tiki bitters
   - black blended overproof rum (6)
 garnish:
   - pineapple lid with two straw holes
@@ -31,16 +31,16 @@ excerpt: Created by Justin Oliver for Smuggler's Cove.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Hollowed out pineapple
+  : <span data-pagefind-filter="Glassware">Hollowed-out pineapple</span>
 
 ## Ingredients
 
@@ -49,16 +49,16 @@ Glassware
 * 3/4 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1 ounce rye whiskey
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-* 3 drops almond extract
-* 6 drops Bittermens <span lang="haw">ʻElemakule</span> Tiki Bitters
+* 3 drops pure almond extract
+* 6 drops Bittermens <span lang="haw">ʻElemakule</span> tiki bitters
 * 1 ounce [black blended overproof rum](/rums/12-rum-black-blended-overproof/)<icon-l space="1em" label="(6)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-6.svg#circle-6"></use></svg></span></icon-l>
 
 Garnish
-  : Pineapple lid with two straw holes[^1]
-  : Drinking straws
-  : Mermaid island (see note)
+  : <span data-pagefind-filter="Garnish">Pineapple lid with two straw holes</span>[^1]
+  : <span data-pagefind-filter="Garnish">Drinking straws</span>
+  : <span data-pagefind-filter="Garnish">Mermaid island</span>(see note)
 
-[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">{{ source }}</a></cite>, p. 238.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, p. 238.
 
 ## Instructions
 
@@ -77,3 +77,45 @@ Garnish
   To make a mermaid island: rather than cutting out the pineapple core, leave it in place to create a small island, then top it with a cocktail umbrella and a plastic mermaid. Discard the pineapple lid.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Pineapple juice, unsweetened"
+  data-ingredient[1]="Lemon juice"
+  data-ingredient[2]="Cinnamon syrup"
+  data-ingredient[3]="Whiskey, rye"
+  data-ingredient[4]="Blended lightly aged rum [2]"
+  data-ingredient[5]="Almond extract"
+  data-ingredient[6]="Bittermens ʻElemakule tiki bitters"
+  data-ingredient[7]="Black blended overproof rum [6]"
+  data-origin[0]="Justin Oliver"
+  data-glass[0]="Pineapple"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, 'Elemakule, 2000, 2010</div>

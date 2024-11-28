@@ -10,8 +10,10 @@ type:
 characteristic:
   - shaken
   - creamy
+  - sparkling
+  - carbonated
 base: rum base
-ingredients:
+ingredient:
   - guava soda
   - unsweetened pineapple juice
   - lime juice
@@ -32,17 +34,17 @@ excerpt: In 2013, Smuggler's Cove adapted the Lei Lani Volcano from Walt Disney 
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : The original Lei Lani Volcano was published in <cite>{{ source }}</cite>.
+  : The original Lei Lani Volcano was published in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>.
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -53,7 +55,7 @@ Glassware
 - 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
-  : Edible orchid
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
 
 ## Instructions
 
@@ -63,3 +65,49 @@ Garnish
 4. Double-strain into the glass
 5. Gently fill the glass with cracked or cube ice
 6. Garnish
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-type[3]="Cooler"
+  data-char[0]="Shaken"
+  data-char[1]="Creamy"
+  data-char[2]="Sparkling"
+  data-char[3]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Soda, guava"
+  data-ingredient[1]="Pineapple juice, unsweetened"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Coconut cream"
+  data-ingredient[4]="Blended aged rum [3]"
+  data-origin[0]="Smuggler’s Cove"
+  data-origin[1]="Walt Disney World"
+  data-decade[0]="1970"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, cooler, sparkling, carbonated, 1970, 2010</div>

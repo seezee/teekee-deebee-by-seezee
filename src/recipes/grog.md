@@ -10,7 +10,7 @@ characteristic:
   - shaken
   - strained
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - rich Demerara syrup
   - pot still unaged rum
@@ -26,16 +26,16 @@ excerpt: In the eighteenth century, Admiral Edward “Old Grogram” Vernon of t
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite>{{ source }}</cite> (2006) by Wayne Curtis
+  : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2006) by Wayne Curtis
 
 Glassware
-  : Old-fashioned
+  : <span data-pagefind-filter="Glassware">Old-fashioned</span>
 
 ## Ingredients
 
@@ -44,7 +44,7 @@ Glassware
 * 2 ounces rum (see note)
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -61,3 +61,47 @@ Garnish
  Smuggler's Cove eschews historical authenticity by using [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>.<span class="after-icon"></span>Who are we to argue with them?
 
 </tiki-callout>
+
+</tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Grog"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="Pot still unaged rum"
+  data-ingredient[3]="Black pot still rum"
+  data-ingredient[4]="Blended aged rum [3]"
+  data-origin[0]="Royal British Navy",
+  data-origin[1]="Admiral Edward “Old Grogram” Vernon",
+  data-origin[2]="Traditional",
+  data-glass[0]="Rocks"
+  data-decade[0]="1740"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>grog, sour, short drink, shaken, strained, 1740</div>

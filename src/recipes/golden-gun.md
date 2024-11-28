@@ -8,7 +8,7 @@ type:
   - tall drink
 characteristic: shaken
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - grapefruit juice
   - rich Demerara syrup
@@ -28,17 +28,17 @@ excerpt: A challenge-winning recipe by students at a 2012 seminar taught by Mart
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -53,7 +53,7 @@ Glassware
 [^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
-  : Dealer's choice[^2]
+  : <span data-pagefind-filter="Garnish">Dealer's choice</span>[^2]
 
   [^2]: The challenge participants weren't provided with any garnishes, so garnish as you see fit.
 
@@ -64,3 +64,41 @@ Garnish
 3. Shake until well chilled, about 15 seconds
 4. Strain into the glass
 5. Garnish as you like
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-char[0]="Shaken"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Grapefruit juice"
+  data-ingredient[2]="Rich Demerara syrup"
+  data-ingredient[3]="Apricot liqueur"
+  data-ingredient[4]="Blended aged rum [3]"
+  data-ingredient[5]="Blended lightly aged rum [2]"
+  data-ingredient[6]="Angostura bitters"
+  data-origin[0]="Table Eleven, Tiki Oasis seminar"
+  data-decade[0]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink,s haken, 2010</div>

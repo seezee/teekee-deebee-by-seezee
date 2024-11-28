@@ -8,7 +8,7 @@ type:
 characteristic:
   - flash-blended
 base: rum base
-ingredients:
+ingredient:
   - pineapple juice
   - lime juice
   - passion fruit syrup
@@ -27,16 +27,16 @@ excerpt: A 1953 recipe from the Luau restaurant, Beverly Hills.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, revised edition (2007), from an unpublished recipe in tiki bartender Bob Esmino's personal notebook.
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2007), from an unpublished recipe in tiki bartender Bob Esmino's personal notebook.
 
 Glassware
-  : Hollowed out pineapple
+  : <span data-pagefind-filter="Glassware">Hollowed-out pineapple</span>
 
 Serves
   : 2
@@ -48,14 +48,14 @@ Serves
 * 1 ounce [passion fruit syrup](/mixes/passion-fruit-syrup/)
 * 1/2 ounce [honey syrup](/mixes/honey-syrup/)
 * 2 ounces [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
-* 1&frac12; ounces [Cane AOC Martinique Rhum Agricole Vieux](/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" label="(8)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
+* 1&frac12; ounces [cane AOC Martinique rhum agricole vieux](/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" label="(8)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 * 2 dashes Angostura bitters
 
 Garnish
-  : Pineapple lid with two straw holes[^1]
-  : Drinking straws
+  : <span data-pagefind-filter="Garnish">Pineapple lid with two straw holes</span>[^1]
+  : <span data-pagefind-filter="Garnish">Drinking straws</span>
 
-[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">{{ source }}</a></cite>, p. 238.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, p. 238.
 
 ## Instructions
 
@@ -77,3 +77,45 @@ Garnish
   Jeff Berry's published recipe serves one person, but if you're going to go to the trouble of hollowing out a pineapple, we think you should double the recipe and share it with a friend.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Pineapple juice, unsweetened"
+  data-ingredient[1]="Lime juice"
+  data-ingredient[2]="Passion fruit syrup"
+  data-ingredient[3]="Honey syrup"
+  data-ingredient[4]="Column still aged rum [4]"
+  data-ingredient[5]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-ingredient[6]="Angostura bitters"
+  data-origin[0]="Ray Buhen"
+  data-origin[1]="Bob Esmino"
+  data-origin[2]="Luau, Beverly Hills"
+  data-glass[0]="Pineapple"
+  data-decade[0]="1950"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, 1950</div>

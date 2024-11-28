@@ -10,13 +10,15 @@ type: sour
 characteristic:
   - shaken
   - strained
-base: rum base
-ingredients:
+base:
+  - rum base
+  - gin base
+ingredient:
   - lime juice
   - grenadine
   - apricot liqueur
   - black pot still rum
-  - blended aged rum
+  - blended aged rum (3)
   - sloe gin
 glass: coupe
 garnish: lime wheel
@@ -33,7 +35,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (1930) by Harry Craddock
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1930) by Harry Craddock
 
 Glassware
   : Chilled coupé
@@ -47,7 +49,7 @@ Glassware
 * 3/4 ounce sloe gin
 
 Garnish
-  : Lime wheel
+  : <span data-pagefind-filter="Garnish">Lime wheel</span>
 
 ## Instructions
 
@@ -61,3 +63,41 @@ Garnish
   Craddock describes the Millionaire Cocktail N<sup>o.</sup> 2 as consisting of <q>1 Dash Anisette, The white of 1 Egg, 1/3 Absinthe, 2/3 Dry gin.</q>
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Sour"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-base[1]="Gin"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Grenadine"
+  data-ingredient[2]="Apricot liqueur"
+  data-ingredient[3]="Black pot still rum"
+  data-ingredient[4]="Blended aged rum [3]"
+  data-ingredient[5]="Gin, sloe"
+  data-origin[0]="Harry Craddock"
+  data-glass[0]="Coupé"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>No., Number, sour, shaken, strained, coupe, 1930</div>

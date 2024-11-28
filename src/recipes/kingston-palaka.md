@@ -6,14 +6,13 @@ type:
   - tropical
   - sour
   - daisy
-  - short drink
 characteristic:
   - shaken
   - strained
 base:
   - rum base
   - scotch-based liqueur base
-ingredients:
+ingredient:
   - lemon juice
   - li hing mui powder
   - Drambuie
@@ -29,13 +28,13 @@ excerpt: Created by Martin Cate. Kingston is the Jamaican capital city; palaka i
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -48,7 +47,7 @@ Glassware
 * 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/) (Jamaica)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
-  : Lemon peel
+  : <span data-pagefind-filter="Garnish">Lemon peel</span>
 
 ## Instructions
 
@@ -56,3 +55,45 @@ Garnish
 2. Shake until very cold, about 15 seconds
 3. Strain into a chilled coupé
 4. Add garnish
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Daisy"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-base[1]="Liqueur"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Li hing mui powder"
+  data-ingredient[2]="Drambuie"
+  data-ingredient[3]="Blended aged rum [3]"
+  data-ingredient[4]="Blended aged rum (Jamaica) [3]"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Coupé"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, daisy, short drink, shaken, strained, coupe, 2000, 2010</div>

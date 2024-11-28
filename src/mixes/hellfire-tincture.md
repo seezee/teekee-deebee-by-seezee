@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Hellfire Tincture
 tags: mixes
-ingredients:
+type: tincture
+ingredient:
   - fresh hot chiles
   - dry white wine
   - brandy
@@ -11,7 +12,7 @@ excerpt: Recipe for Smuggler's Cove hellfire tincture
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <tiki-callout type="danger">
 
@@ -23,8 +24,8 @@ excerpt: Recipe for Smuggler's Cove hellfire tincture
 
 ## Ingredients
 
-* 4 cups mixed fresh hot chiles (e.g., habañero, Fresno, red jalapeño, and so forth), coarsely chopped, stems & seeds included
-* 1 cup dry white wine
+* 4 cups mixed fresh <span data-pagefind-filter="Ingredient">hot chiles</span> (e.g., habañero, Fresno, red jalapeño, and so forth), coarsely chopped, stems & seeds included
+* 1 cup <span data-pagefind-filter="Ingredient">dry <span data-pagefind-filter="Ingredient">white wine</span></span>
 * 2 cups brandy
 
 ## Instructions

@@ -5,11 +5,12 @@ tags: recipes
 type:
   - sour
   - tall drink
+  - tropical
 characteristic:
   - shaken
   - strained
 base: gin base
-ingredients:
+ingredient:
   - curacao
   - gin
   - orange juice
@@ -24,26 +25,26 @@ excerpt: Created in 1934 by Ray Buhen, one of the pioneering Filipino bartenders
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe found in Ray Buhen's personal notebook.
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe found in Ray Buhen's personal notebook.
 
 Glassware
   : Chilled coupé
-  : V-shaped cocktail glass
+  : Chilled v-shaped cocktail glass
 
 ## Ingredients
 
-* 1 ounce orange curaçao
-* 1 ounce gin
+* 1 ounce dry curaçao
+* 1 ounce London dry gin
 * 1 ounce fresh orange juice
 
 Garnish
-  : Edible orchid (optional)
+  : <span data-pagefind-filter="Garnish">Edible orchid</span> (optional)
 
 ## Instructions
 
@@ -51,3 +52,45 @@ Garnish
 2. Shake until frost forms on the shaker, about 15 to 20 seconds
 3. Strain into a chilled coupé or v-shaped cocktail glass
 4. Optionally garnish with an edible orchid
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Sour"
+  data-type[1]="Tall drink"
+  data-type[2]="Tropical"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Gin"
+  data-ingredient[0]="Gin, London dry"
+  data-ingredient[1]="Curaçao"
+  data-ingredient[2]="Curaçao, dry"
+  data-ingredient[3]="Orange juice"
+  data-origin[0]="Ray Buhen"
+  data-origin[1]="Beverly Hills Hotel, Los Angeles"
+  data-glass[0]="Coupé"
+  data-glass[1]="Cocktail glass"
+  data-glass[2]="Cocktail glass, v-shaped"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, shaken, strained, curacao, coupe, 1930</div>

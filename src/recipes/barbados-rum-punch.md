@@ -8,7 +8,7 @@ characteristic:
   - strained
 base:
   - rum base
-ingredients:
+ingredient:
   - lime juice
   - rich Demerara syrup
   - blended aged rum (Barbados) (3)
@@ -19,7 +19,7 @@ garnish: grated nutmeg
 origin: Smuggler's Cove original based on traditional recipes.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
-  - 1655
+  - 1650
   - 2000
   - 2010
 excerpt: Smuggler's Cove original based on traditional recipes.
@@ -27,7 +27,7 @@ excerpt: Smuggler's Cove original based on traditional recipes.
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 > One of sour, two of sweet
 > Three of strong and four of weak
@@ -38,10 +38,10 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Footed pilsner
+  : <span data-pagefind-filter="Glassware">Footed pilsner</span>
 
 ## Ingredients
 
@@ -60,3 +60,41 @@ Garnish
 3. Shake until very cold, about 15 seconds
 4. Strain into the glass
 5. Top with freshly grated nutmeg
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Punch"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-origin[0]="Smuggler’s Cove"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="blended aged rum [3]"
+  data-ingredient[3]="blended aged rum (Barbados) [3]"
+  data-ingredient[4]="Angostura bitters"
+  data-garnish[0]="Nutmeg, grated"
+  data-decade[0]="1650"
+  data-decade[1]="2000"
+  data-decade[2]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Origin[data-origin[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Garnish[data-garnish[0]]
+    Decade[data-decade[0]],
+    Decade[data-decade[1]],
+    Decade[data-decade[2]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>punch, shaken, strained, 1650, 2000, 2010</div>

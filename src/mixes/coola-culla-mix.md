@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Coola Culla Mix
 tags: mixes
-ingredients:
+type: batter
+ingredient:
   - butter
   - orange blossom honey
 excerpt: Recipe for Don the Beachcomber's coola culla mix
@@ -10,15 +11,15 @@ excerpt: Recipe for Don the Beachcomber's coola culla mix
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Yield
   : 1 serving of [coola culla don](/recipes/coola-culla-don/) requires 1 teaspoon of this mix
 
 ## Ingredients
 
-* 1 part softened butter
-* 1 part orange blossom honey
+* 1 part softened unsalted <span data-pagefind-filter="Ingredient">butter</span>
+* 1 part <span data-pagefind-filter="Ingredient">orange blossom <span data-pagefind-filter="Ingredient">honey</span></span>
 
 ## Instructions
 

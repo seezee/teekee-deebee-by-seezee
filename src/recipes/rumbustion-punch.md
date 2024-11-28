@@ -5,7 +5,7 @@ tags: recipes
 type: punch
 characteristic: pre-batched
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - rich Demerara syrup
   - cinnamon syrup
@@ -22,17 +22,17 @@ excerpt: Martin Cate created this punch in honor of Rumbustion Society, the Smug
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Punch bowl
-  : Punch glassware (such as punch cups, small tiki mugs, coffee mugs, and/or ceramic coconuts)
+  : <span data-pagefind-filter="Glassware">Punch bowl</span>
+  : <span data-pagefind-filter="Glassware">Punch glassware</span> (such as punch cups, small tiki mugs, coffee mugs, and/or ceramic coconuts)
 
 ## Ingredients
 
@@ -46,7 +46,7 @@ Glassware
 * 2 dashes [Herbstura](/mixes/herbstura/)
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -68,4 +68,50 @@ Garnish
 7. If using a punch bowl, serve with a ladle
 8. Garnish individual servings with a lemon wedge or a lemon twist and a mint sprig
 
-[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">{{ source }}</a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+[^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Punch"
+  data-char[0]="Pre-batched"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="Cinnamon syrup"
+  data-ingredient[3]="Blended aged rum [3]"
+  data-ingredient[4]="Blended lightly aged rum [2]"
+  data-ingredient[5]="Herbstura"
+  data-origin[0]="Martin Cate"
+  data-origin[1]="Smuggler’s Cove"
+  data-glass[0]="Punch cup"
+  data-glass[1]="Tiki mug, small"
+  data-glass[2]="Tiki mug"
+  data-glass[3]="Coffee mug"
+  data-glass[4]="Ceramic coconut"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Glassware[data-glass[3]],
+    Glassware[data-glass[4]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>punch, pre-batched, 2000, 2010</div>

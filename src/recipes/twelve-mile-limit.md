@@ -12,8 +12,11 @@ type:
 characteristic:
   - shaken
   - strained
-base: rum base
-ingredients:
+base:
+  - rum base
+  - whiskey base
+  - brandy base
+ingredient:
   - lemon juice
   - grenadine
   - blended lightly aged rum (2)
@@ -34,7 +37,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite> (2004) by Ted Haigh
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2004) by Ted Haigh
 
 Glassware
   : Chilled coupé
@@ -48,7 +51,7 @@ Glassware
 * 1/2 ounce brandy
 
 Garnish
-  : Lemon twist
+  : <span data-pagefind-filter="Garnish">Lemon twist</span>
 
 ## Instructions
 
@@ -62,3 +65,43 @@ Garnish
   Harry & Wynn's <cite>Barflies & Cocktails</cite> (1927) includes a recipe for this drink's predecessor, the Three Mile Limit. It dictates different proportions and omits the whiskey.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Sour"
+  data-type[1]="Short during"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-base[1]="Whiskey"
+  data-base[2]="Brandy"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Grenadine"
+  data-ingredient[2]="Blended lightly aged rum [2]"
+  data-ingredient[3]="Whiskey, rye"
+  data-ingredient[4]="Brandy"
+  data-origin[0]="Tommy Millard"
+  data-glass[0]="Coupé"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Base[data-base[2]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>sour, short drink, shaken, strained, coupe, 1930</div>

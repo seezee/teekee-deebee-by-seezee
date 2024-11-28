@@ -7,10 +7,11 @@ type:
   - sour
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - cinnamon syrup
   - banana liqueur
+  - crème de banane
   - black blended rum (5)
   - pot still lightly aged rum (1)
   - Angostura bitters
@@ -29,18 +30,18 @@ image: /assets/images/ape-the-band-mug-tiki-farm.jpg
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : APE the Band “Fez Wearin'&thinsp;” Monkey Mug[^1]
+  : <span data-pagefind-filter="Glassware">APE the Band “Fez Wearin'&thinsp;” Monkey Mug</span>[^1]
   : Other tiki mug
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 [^1]: Designed by Crazy Al Evans as merchandise for his band APE, only about 570 of these mugs were manufactured by Tiki Farm. You can find them (priced exorbitantly) on the secondary market.
 
@@ -58,16 +59,68 @@ Glassware
 
 * 1/2 ounce fresh lemon juice
 * 1/2 ounce [cinnamon syrup](/mixes/cinnamon-syrup)
-* 1/2 ounce banana liqueur
+* 1/2 ounce crème de banane(<span data-pagefind-filter="Ingredient">banana liqueur</span>)
 * 1&frac12; ounces [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1/2 ounce [pot still lightly aged rum](/rums/01-rum-pot-still-lightly-aged/)<icon-l space="1em" class="bigger" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 * 1 dash Angostura bitters
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
 1. Combine all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes in a drink mixer tin
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a tiki mug or double old-fashioned glass
+
+<div
+  data-pagefind-filter="
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Cinnamon syrup"
+  data-ingredient[2]="Banana liqueur"
+  data-ingredient[3]="Crème de banane"
+  data-ingredient[4]="Black blended rum [5]"
+  data-ingredient[5]="Blended lightly aged rum [2]"
+  data-ingredient[6]="Pot still lightly aged rum [1]"
+  data-ingredient[7]="Angostura bitters"
+  data-origin[0]="Martin Cate"
+  data-origin[1]="Smuggler’s Cove"
+  data-glass[0]="Tiki mug"
+  data-glass[1]="Double rocks"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, creme, ape, monkey, 2000, 2010</div>

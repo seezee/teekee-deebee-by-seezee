@@ -3,13 +3,16 @@ layout: _main.njk
 title: La Guildive
 tags: recipes
 type:
-  - sparkling
-  - carbonated
+  - tropical
+  - sour
 characteristic:
   - shaken
   - strained
+  - sparkling
+  - carbonated
+  - aromatic
 base: rum base
-ingredients:
+ingredient:
   - ginger beer
   - lime juice
   - Licor 43
@@ -27,13 +30,13 @@ excerpt: A sparkling rum and ginger beer-based drink by Martin Cate.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -48,7 +51,7 @@ Glassware
 * 1 pinch freshly grated cinnamon
 
 Garnish
-  : Lime twist
+  : <span data-pagefind-filter="Garnish">Lime twist</span>
 
 ## Instructions
 
@@ -57,3 +60,49 @@ Garnish
 3. Shake until very cold, about 15 seconds
 4. Double-strain into a chilled coupé
 5. Garnish with the lime twist
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Sparkling"
+  data-char[3]="Carbonated"
+  data-char[4]="Aromatic"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Ginger beer"
+  data-ingredient[1]="Lime juice"
+  data-ingredient[2]="Licor 43"
+  data-ingredient[3]="Peach liqueur"
+  data-ingredient[4]="Blended aged rum [3]"
+  data-ingredient[5]="Cinnamon, grated"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Coupé"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Characteristic[data-char[4]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, shaken, strained, sparkling, carbonated, aromatic, coupe, 2000, 2010</div>

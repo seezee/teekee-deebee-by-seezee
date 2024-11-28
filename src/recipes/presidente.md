@@ -8,8 +8,9 @@ type:
 characteristic:
   - shaken
   - strained
+  - aromatic
 base: rum base
-ingredients:
+ingredient:
   - grenadine
   - dry vermouth
   - French vermouth
@@ -35,7 +36,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -48,7 +49,7 @@ Glassware
 * 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
@@ -61,3 +62,51 @@ Garnish
   According to Jim Meehan (in <cite>Meehan's Bartenders Manual</cite> and elsewhere), this drink was originally made with French sweet white vermouth (vermouth blanc).
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Cocktail"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Aromatic"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Grenadine"
+  data-ingredient[1]="Vermouth, dry"
+  data-ingredient[2]="Vermouth, French"
+  data-ingredient[3]="Vermouth, blanc"
+  data-ingredient[4]="Vermouth, sweet white"
+  data-ingredient[5]="Curaçao"
+  data-ingredient[6]="Curaçao, dry"
+  data-ingredient[7]="Blended lightly aged rum [2]"
+  data-origin[0]="Eddie Woelke"
+  data-origin[1]="Jockey Club, Havana"
+  data-glass[0]="Coupé"
+  data-decade[0]="1910"
+  data-decade[1]="1920"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, cocktail, shaken, strained, aromatic, curacao, coupe, 1910, 1920</div>

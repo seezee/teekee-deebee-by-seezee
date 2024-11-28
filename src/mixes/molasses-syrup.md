@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Molasses Syrup
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - water
   - granulated sugar
   - mild molasses
@@ -11,13 +12,13 @@ excerpt: Recipe for molasses syrup
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 * 250 milliliters water
 * 500 grams granulated sugar
-* 112.5 milliliters Brer Rabbit Mild molasses
+* 112.5 milliliters <span data-pagefind-filter="Ingredient">Brer Rabbit Mild <span data-pagefind-filter="Ingredient">molasses</span></span>
 
 ## Instructions
 

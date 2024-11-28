@@ -12,7 +12,7 @@ characteristic:
   - swizzled
   - built
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - rich Demerara syrup
   - honey syrup
@@ -39,17 +39,17 @@ excerpt: Created by Martin Cate and Ron Roumas. A swizzle combining the best qua
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -63,9 +63,9 @@ Glassware
 * 1 pinch freshly grated nutmeg
 
 Garnish
-  : Swizzle napkin wrap
-  : Mint sprig
-  : Swizzle stick
+  : <span data-pagefind-filter="Garnish">Swizzle napkin wrap</span>
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
+  : <span data-pagefind-filter="Garnish">Swizzle stick</span>
 
 ## Instructions
 
@@ -76,3 +76,53 @@ Garnish
 5. Garnish
 
 [^1]: You can purchase a traditional <span lang="fr">le bois lélé</span> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-type[3]="Swizzle"
+  data-char[0]="Built"
+  data-char[1]="Swizzled"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-ingredient[2]="Honey syrup"
+  data-ingredient[3]="Allspice dram"
+  data-ingredient[4]="Pimento dram"
+  data-ingredient[5]="Column still aged rum [4]"
+  data-ingredient[6]="Black blended overproof rum [6]"
+  data-ingredient[7]="Herbstura"
+  data-ingredient[8]="Nutmeg, grated"
+  data-origin[0]="Martin Cate"
+  data-origin[1]="Ron Roumas"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, swizzle, built, swizzled, lele, 2000, 2010</div>

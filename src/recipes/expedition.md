@@ -5,10 +5,11 @@ tags: recipes
 type:
   - tropical
   - sour
-characteristic:
-  - flash-blended
-base: rum base
-ingredients:
+characteristic: flash-blended
+base:
+  - rum base
+  - bourbon base
+ingredient:
   - lime juice
   - cinnamon syrup
   - honey syrup
@@ -28,13 +29,13 @@ excerpt: Created by Martin Cate and inspired by the journeys of Donn Beach.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : <a href="https://www.smugglerscovesf.com/store" target="_blank" rel="external noopener"><span lang="haw">Kuhiko</span> tiki mug</a>
@@ -49,10 +50,10 @@ Glassware
 * 2 ounces seltzer
 * 1/4 ounce Bittermens New Orleans coffee liqueur (or other coffee liqueur)
 * 2 ounces [black blended rum](/11-rum-black-blended/)<icon-l space="1em" class="bigger" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
-* 1 ounce bourbon
+* 1 ounce bourbon whiskey
 
 Garnish
-  : Edible orchid
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
 
 ## Instructions
 
@@ -65,3 +66,56 @@ Garnish
 
 The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahiko</span> [sic] was once a chief on the Earth, living in <span lang="haw">Olalowaia</span>. He is mentioned in the chant <cite lang="haw">Kumulipo</cite> and in the <cite lang="haw">Chant of Kūaliʻi</cite>.
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-base[1]="Whiskey"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Cinnamon syrup"
+  data-ingredient[2]="Honey syrup"
+  data-ingredient[3]="Vanilla syrup"
+  data-ingredient[4]="Seltzer"
+  data-ingredient[5]="Soda water"
+  data-ingredient[6]="Coffee liqueur"
+  data-ingredient[7]="Bittermens New Orleans coffee liqueur"
+  data-ingredient[8]="Black blended rum [5]"
+  data-ingredient[9]="Whiskey, Bourbon"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Tiki mug, Kuhiko"
+  data-glass[1]="Tiki mug"
+  data-glass[2]="Glass, 16-ounce"
+  data-glass[3]="Mug, 16-ounce"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Base[data-base[1]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Glassware[data-glass[3]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, soda water, 2000, 2010</div>

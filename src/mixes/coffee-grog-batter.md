@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Coffee Grog Batter / Pearl Diver Mix
 tags: mixes
-ingredients:
+type: batter
+ingredient:
   - unsalted butter
   - orange blossom honey
   - cinnamon syrup
@@ -14,7 +15,7 @@ excerpt: Recipe for coffee grog batter
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <tiki-callout type="tip">
 
@@ -28,8 +29,8 @@ Yield
 
 ## Ingredients
 
-* 1 ounce unsalted butter
-* 1 ounce orange blossom honey
+* 1 ounce <span data-pagefind-filter="Ingredient">unsalted <span data-pagefind-filter="Ingredient">butter</span></span>
+* 1 ounce <span data-pagefind-filter="Ingredient">orange blossom <span data-pagefind-filter="Ingredient">honey</span></span>
 * 1 teaspoon [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1/2 teaspoon [vanilla syrup](/mixes/vanilla-syrup)
 * 1/2 teaspoon allspice (pimento) dram
@@ -51,3 +52,25 @@ Yield
   <stack-l>
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Batter"
+  data-ingredient[0]="Allspice dram"
+  data-ingredient[1]="Pimento dram"
+  data-ingredient[2]="Butter, unsalted"
+  data-ingredient[3]="Honey"
+  data-ingredient[4]="Honey, orange blossom"
+  data-ingredient[5]="Vanilla syrup"
+  data-ingredient[6]="Cinnamon syrup"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]]
+  "
+>
+</div>

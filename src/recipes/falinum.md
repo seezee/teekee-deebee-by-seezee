@@ -9,7 +9,7 @@ characteristic:
   - flash-blended
   - creamy
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - coconut cream
   - seltzer
@@ -29,17 +29,17 @@ excerpt: Created by Falin Ninoru, artist and proprietor of Tiki Kaimuki Fine Boo
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Tiki Kaimuki mug
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Tiki Kaimuki mug</span>
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
@@ -51,10 +51,58 @@ Glassware
 * 1 dash orange bitters
 
 Garnish
-  : None
+  : <span data-pagefind-filter="Garnish">None</span>
 
 ## Instructions
 
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a Tiki Kaimuki mug or double old-fashioned glass
+
+<div
+  data-pagefind-filter="
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-char[1]="Creamy"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Coconut cream"
+  data-ingredient[2]="Seltzer"
+  data-ingredient[3]="Soda water"
+  data-ingredient[4]="Falernum"
+  data-ingredient[5]="Column still aged rum [4]"
+  data-ingredient[6]="Orange bitters"
+  data-origin[0]="Falin Ninoru"
+  data-glass[0]="Double rocks"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, creamy, soda water, 2000, 2010</div>

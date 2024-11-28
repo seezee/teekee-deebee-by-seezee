@@ -11,8 +11,10 @@ type:
 characteristic:
   - shaken
   - strained
+  - sparkling
+  - carbonated
 base: rum base
-ingredients:
+ingredient:
   - seltzer
   - lime juice
   - orgeat
@@ -37,17 +39,17 @@ excerpt: Created by Martin Cate. Not to be confused with the 1970s negroni riff 
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -60,7 +62,8 @@ Glassware
 * 1 dashes Peychaud's bitters
 
 Garnish
-  : Edible hibiscus flower on a cocktail pick or skewer
+  : <span data-pagefind-filter="Garnish">Edible hibiscus flower</span>
+  : <span data-pagefind-filter="Garnish">Cocktail pick</span>
 
 ## Instructions
 
@@ -70,3 +73,55 @@ Garnish
 4. Strain into the glass
 5. Carefully add cracked or cube ice
 6. Garnish with an edible hibiscus flower on a cocktail pick or skewer
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Tall drink"
+  data-type[3]="Cooler"
+  data-type[4]="Spritz"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Sparkling"
+  data-char[3]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Seltzer"
+  data-ingredient[1]="Soda water"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Orgeat"
+  data-ingredient[4]="Hibiscus liqueur"
+  data-ingredient[5]="Pear liqueur"
+  data-ingredient[6]="Column still aged rum [4]"
+  data-ingredient[7]="Peychaud’s bitters"
+  data-origin[0]="Martin Cate"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Type[data-type[4]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Origin[data-origin[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, tall drink, cooler, spritz, shaken, strained, sparkling, carbonated, 2000, 2010</div>

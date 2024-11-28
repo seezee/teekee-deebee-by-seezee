@@ -7,7 +7,7 @@ type:
   - sour
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - passion fruit syrup
   - pear liqueur
@@ -27,13 +27,13 @@ excerpt: Created as a photo prop for the cover shoot of Smuggler's Cove&colon; E
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Large (22-ounce) brandy snifter
@@ -50,8 +50,8 @@ Glassware
 * 1 dash Angostura bitters
 
 Garnish
-  : Edible orchid
-  : Mint sprig
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
 
 ## Instructions
 
@@ -59,3 +59,47 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with gated finish into the snifter
 4. Add the garnish
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Passion fruit syrup"
+  data-ingredient[2]="Pear liqueur"
+  data-ingredient[3]="Drambuie"
+  data-ingredient[4]="Seltzer"
+  data-ingredient[5]="Soda water"
+  data-ingredient[6]="Column still aged rum [4]"
+  data-ingredient[7]="Peychaud’d bitters"
+  data-ingredient[8]="Angostura bitters"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Brandy snifter"
+  data-glass[1]="Brandy snifter, large (22-ounce)"
+  data-decade[0]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, 2010</div>

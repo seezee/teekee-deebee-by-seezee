@@ -8,10 +8,12 @@ type:
   - cooler
   - spritz
 characteristic:
+  - sparkling
+  - carbonated
   - shaken
   - strained
 base: rum base
-ingredients:
+ingredient:
   - guava soda
   - lime juice
   - Licor 43
@@ -33,17 +35,17 @@ excerpt: This Martin Cate original was inspired by the spices and flavors of the
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Collins
-  : Highball
+  : <span data-pagefind-filter="Glassware">Collins</span>
+  : <span data-pagefind-filter="Glassware">Highball</span>
 
 ## Ingredients
 
@@ -54,9 +56,9 @@ Glassware
 * 2 dashes Angostura bitters
 
 Garnish
-  : Mint sprig
-  : Cinnamon stick
-  : Lime wheel
+  : <span data-pagefind-filter="Garnish">Mint sprig</span>
+  : <span data-pagefind-filter="Garnish">Cinnamon stick</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel</span>
 
 ## Instructions
 
@@ -66,3 +68,49 @@ Garnish
 4. Strain into the glass
 5. Gently add cracked or cube ice to fill the glass
 6. Add garnish
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tall drink"
+  data-type[1]="Tropical"
+  data-type[2]="Cooler"
+  data-type[3]="Spritz"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-char[2]="Sparkling"
+  data-char[3]="Carbonated"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Guava soda"
+  data-ingredient[1]="Lime juice"
+  data-ingredient[2]="Licor 43"
+  data-ingredient[3]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-ingredient[4]="Angostura bitters"
+  data-origin[0]="Martin Cate"
+  data-garnish[0]="Cinnamon"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Type[data-type[3]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Garnish[data-garnish[0]]
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tall drink, tropical, cooler, spritz, shaken, strained, sparkling, carbonated, 2000, 2010</div>

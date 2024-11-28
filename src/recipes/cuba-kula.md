@@ -9,7 +9,7 @@ characteristic:
   - shaken
   - strained
 base: rum base
-ingredients:
+ingredient:
   - honey
   - orange juice
   - lime juice
@@ -20,7 +20,7 @@ garnish:
   - maraschino cherry
   - lime wheel
   - lime slice
-  - bamboo cocktail spear
+  - bamboo cocktail pick
 glass:
  - mai tai
  - double old-fashioned
@@ -32,21 +32,21 @@ excerpt: According to Jeff Berry, this was an early experiment by Ray Buhen, one
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe found in Ray Buhen's personal notebook from 1935
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe found in Ray Buhen's personal notebook from 1935
 
 Glassware
-  : Mai tai glass
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Mai tai glass</span>
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
-* 1/2 ounce honey
+* 1/2 ounce <span data-pagefind-filter="Ingredient">honey</span>
 * 1 ounce fresh orange juice
 * 2 ounces fresh lime juice
 * 1/2 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (overproof) (Puerto Rico)
@@ -54,8 +54,8 @@ Glassware
 * 1 ounce [black pot still rum](/rums/10-rum-black-pot-still/)
 
 Garnish
-  : Maraschino cherry
-  : Lime wheel or slice
+  : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel</span> or slice
   : Bamboo cocktail pick
 
 ## Instructions
@@ -72,3 +72,53 @@ Garnish
   With the <a href="https://www.bacardi.com/us/en/the-legend-of-bacardi-151-rum/" target="_blank" rel="external noopener">discontinuation of Bacardi 151</a> in 2016, the only remaining overproof Puerto Rican rum is Don Q 151. However, Cruzan 151 (U.S. Virgin Islands) is an acceptable substitute.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Sour"
+  data-type[1]="Short Drink"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Honey"
+  data-ingredient[1]="Orange juice"
+  data-ingredient[2]="Lime juice"
+  data-ingredient[3]="Black pot still rum"
+  data-ingredient[4]="Black pot still rum (Jamaica)"
+  data-ingredient[5]="Blended aged rum [3]"
+  data-ingredient[6]="Blended aged rum (Guyana) [3]"
+  data-ingredient[7]="Column still lightly aged rum"
+  data-ingredient[8]="Column still lightly aged rum (overproof) (Puerto Rico)"
+  data-origin[0]="Ray Buhen"
+  data-glass[0]="Double rocks"
+  data-garnish[0]="Maraschino cherry"
+  data-garnish[1]="Cocktail pick"
+  data-garnish[2]="Cocktail pick, bamboo"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Garnish[data-garnish[1]],
+    Garnish[data-garnish[2]],
+    Decade[data-decade[0]],
+    "
+>
+</div>
+
+<div class="keywords" aria-hidden>sour, short drink, shaken, strained, 1930</div>

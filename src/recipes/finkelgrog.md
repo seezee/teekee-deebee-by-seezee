@@ -6,10 +6,9 @@ type:
   - tropical
   - sour
   - short drink
-characteristic:
-  - flash-blended
+characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lime juice
   - grapefruit juice
   - orgeat
@@ -32,16 +31,16 @@ excerpt: Created by Martin Cate for Judd Finkelstein, lead singer of the Maikai 
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Double old-fashioned
+  : <span data-pagefind-filter="Glassware">Double old-fashioned</span>
 
 ## Ingredients
 
@@ -58,10 +57,58 @@ Glassware
 [^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
 Garnish
-  : Zesty conversation
+  : <span data-pagefind-filter="Garnish">Zesty conversation</span>
 
 ## Instructions
 
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a double old-fashioned glass
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lime juice"
+  data-ingredient[1]="Grapefruit juice"
+  data-ingredient[2]="Orgeat"
+  data-ingredient[3]="Napa wine syrup"
+  data-ingredient[4]="Licor 43"
+  data-ingredient[5]="Blended lightly aged rum [2]"
+  data-ingredient[6]="Black blended rum [3]"
+  data-ingredient[7]="Seltzer"
+  data-ingredient[8]="Soda water"
+  data-ingredient[9]="Cinnamon, ground"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Double rocks"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, flash-blended, soda water, 2000, 2010</div>

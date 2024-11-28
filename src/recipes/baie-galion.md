@@ -12,7 +12,7 @@ characteristic:
   - herbal
 base:
   - rum base
-ingredients:
+ingredient:
   - Green Chartreuse
   - Drambuie
   - cane AOC Martinique rhum agricole blanc (7)
@@ -27,13 +27,13 @@ excerpt: Created by Martin Cate and named after the picturesque bay located on M
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}[^1]
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -47,7 +47,7 @@ Glassware
 * 2 ounces [cane AOC Martinique rhum agricole blanc](/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/)<icon-l space="1em" class="bigger" label="(7)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-7.svg#circle-7"></use></svg></span></icon-l>
 
 Garnish
-  : Lemon twist
+  : <span data-pagefind-filter="Garnish">Lemon twist</span>
 
 ## Instructions
 
@@ -55,3 +55,41 @@ Garnish
 2. Stir until very cold, about 30 seconds
 3. Strain into a chilled coupé glass
 4. Add garnish
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Apértif"
+  data-type[1]="Cocktail"
+  data-char[0]="Stirred"
+  data-char[1]="Strained"
+  data-char[2]="Aromatic"
+  data-char[3]="Herbal"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Chartreuse, Green"
+  data-ingredient[1]="Drambuie"
+  data-ingredient[2]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-origin[0]="Martin Cate"
+  data-glass[0]="Coupé"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Characteristic[data-char[3]],
+    Origin[data-origin[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Glassware[data-glass[0]]
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>cocktail, apertif, apértif, stirred, strained, aromatic, herbal, coupe, 2000, 2010</div>

@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Tiger’s Milk Batter
 tags: mixes
-ingredients:
+type: batter
+ingredient:
   - butter
   - clover honey
   - sweetened coconut cream
@@ -11,16 +12,16 @@ excerpt: Recipe for tiger's milk batter
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Yield
   : 10 servings
 
 ## Ingredients
 
-* 1/4 ounce softened butter
-* 1/4 ounce clover honey
-* 1 ounce sweetened coconut cream (e.g., Coco López)
+* 1/4 ounce softened <span data-pagefind-filter="Ingredient">butter</span>
+* 1/4 ounce <span data-pagefind-filter="Ingredient">clover <span data-pagefind-filter="Ingredient">honey</span></span>
+* 1 ounce [coconut cream](/mixes/coconut-cream)
 
 ## Instructions
 

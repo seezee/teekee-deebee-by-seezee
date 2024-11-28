@@ -9,15 +9,13 @@ type:
 characteristic:
   - shaken
   - strained
-base:
-  - pisco base
-  - brandy base
-ingredients:
+base: brandy base
+ingredient:
   - lemon juice
   - passion fruit syrup
   - falernum
   - Peruvian pisco
-  - gin
+  - London dry gin
   - Bitterman's Burlesque bitters
 garnish:
   - edible orchid
@@ -30,13 +28,13 @@ excerpt: Created by Martin Cate in 2011 in honor of the book-release party for S
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -47,11 +45,11 @@ Glassware
 * 1/2 ounce [passion fruit syrup](/mixes/passion-fruit-syrup)
 * 1/2 ounce falernum
 * 1&frac12; ounces Peruvian pisco
-* 1/2 ounce gin
+* 1/2 ounce London dry gin
 * 6 drops Bitterman's Burlesque bitters
 
 Garnish
-  : Edible orchid or hibiscus flower
+  : <span data-pagefind-filter="Garnish">Edible orchid</span> or hibiscus flower
 
 ## Instructions
 
@@ -65,3 +63,49 @@ Garnish
   Substitute other fruit bitters if you are unable to obtain Burlesque bitters.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Brandy"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Passion fruit syrup"
+  data-ingredient[2]="Falernum"
+  data-ingredient[3]="Pisco"
+  data-ingredient[4]="Pisco, Peruvian"
+  data-ingredient[5]="Gin, London dry"
+  data-ingredient[6]="Bitterman’s Burlesque bitters"
+  data-origin[0]="Martin Cate"
+  data-origin[1]="Smuggler’s Cove"
+  data-glass[0]="Coupé"
+  data-garnish[0]="Edible hibiscus flower"
+  data-decade[0]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, shaken, strained, coupe, 2010</div>

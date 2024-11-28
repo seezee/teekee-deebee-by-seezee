@@ -4,13 +4,12 @@ title: Cherie Valentino
 tags: recipes
 type:
   - tropical
-  - sour
   - punch
 characteristic:
   - flash-blended
   - communal
 base: gin base
-ingredients:
+ingredient:
   - creme de mure
   - grenadine
   - lime juice
@@ -29,13 +28,13 @@ excerpt: Jeff Berry's reverse-engineered version of a drink served at Kelbo's on
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers
+  : <cite>{{ source }}</cite>
 
 Glassware
   : Medium (20- to 32-ounce) scorpion bowl or other medium decorative bowl
@@ -52,7 +51,7 @@ Serves
 * 4 ounces London dry gin
 
 Garnish
-  : Edible orchid
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
   : Half a small papaya, with the seeds left intact
 
 ## Instructions
@@ -69,3 +68,52 @@ Garnish
 
   We considered flash-blending this recipe in the Donn Beach style, but concluded that it would be much too sweet without the dilution afforded by conventional blending with a large amount of ice.
 </tiki-callout>
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Punch"
+  data-char[0]="Flash-blended"
+  data-char[1]="Communal"
+  data-origin[0]="Kelbo’s, Los Angeles"
+  data-source[0]="Beachbum Berry’s Sippin’ Safari"
+  data-source[1]="Los Angeles Magazine"
+  data-base[0]="Gin"
+  data-ingredient[0]="Crème de mûre"
+  data-ingredient[1]="Brandy, blackberry-flavored"
+  data-ingredient[2]="Grenadine"
+  data-ingredient[3]="Lime juice"
+  data-ingredient[4]="Lemon juice"
+  data-ingredient[5]="Gin, London dry"
+  data-glass[0]="Scorpion bowl"
+  data-glass[1]="Scorpion bowl, medium (20- to 32-ounce)"
+  data-glass[2]="Decorative bowl"
+  data-glass[3]="Decorative bowl, medium (20- to 32-ounce)"
+  data-garnish[0]="Papaya half, small"
+  data-decade[0]="1950"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Origin[data-origin[0]],
+    Source[data-source[0]],
+    Source[data-source[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Glassware[data-glass[3]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, punch, flash-blended, communal, creme de mure, 1950</div>

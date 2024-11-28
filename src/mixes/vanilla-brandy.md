@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Vanilla Brandy
 tags: mixes
-ingredients:
+type: liqueur
+ingredient:
   - vanilla bean
   - aged brandy
   - rich Demerara syrup
@@ -11,12 +12,12 @@ excerpt: Recipe for vanilla brandy
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
-* 1 4-inch vanilla bean
-* 500 milliliters aged brandy
+* 1 4-inch <span data-pagefind-filter="Ingredient">vanilla bean</span>
+* 500 milliliters <span data-pagefind-filter="Ingredient">aged brandy</span>
 * 1 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 
 ## Instructions

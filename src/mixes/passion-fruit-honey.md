@@ -2,7 +2,8 @@
 layout: _main.njk
 title: Passion Fruit Honey
 tags: mixes
-ingredients:
+type: syrup
+ingredient:
   - passion fruit puree
   - honey
 excerpt: Recipe for passion fruit honey
@@ -10,14 +11,14 @@ excerpt: Recipe for passion fruit honey
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 ## Ingredients
 
 Measure ingredients by volume.
 
-* 250 milliliters Funkin passion fruit purée
-* 250 milliliters honey
+* 250 milliliters <span data-pagefind-filter="Ingredient">Funkin passion fruit purée</span>
+* 250 milliliters <span data-pagefind-filter="Ingredient">honey</span>
 
 ## Instructions
 

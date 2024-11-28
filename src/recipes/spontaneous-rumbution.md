@@ -4,11 +4,11 @@ title: Spontaneous Rumbustion
 tags: recipes
 type: toddy
 characteristic:
-  - heated
   - hot
   - spiced
+  - flaming
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - honey syrup
   - black blended overproof rum (6)
@@ -27,16 +27,16 @@ excerpt: A toddy created for Smuggler's Cove by Dane Barca.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Irish coffee glass
+  : <span data-pagefind-filter="Glassware">Irish coffee glass</span>
   : Other heatproof mug or glass
 
 Special Equipment
@@ -70,6 +70,50 @@ Garnish
 
   Practice this drinks's technique before entertaining guests. Keep a fire extinguisher handy and ensure that the area around the drink making space is free of flammable materials. An outdoor concrete or brick patio on a calm day makes an ideal practice space.
 
-  See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank">{{ source }}</a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
+  See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Toddy"
+  data-char[0]="Hot"
+  data-char[1]="Spiced"
+  data-char[2]="Flaming"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Honey syrup"
+  data-ingredient[2]="Black blended overproof rum [6]"
+  data-ingredient[3]="Pot still lightl  aged rum [1]"
+  data-ingredient[4]="Water, boiling"
+  data-origin[0]="Dane Barca"
+  data-origin[1]="Smuggler’s Cove"
+  data-glass[0]="Coffee mug"
+  data-glass[1]="Heatproof glass"
+  data-garnish[0]="Lemon peel"
+  data-decade[0]="2000"
+  data-decade[1]="2010"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Characteristic[data-char[2]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Garnish[data-garnish[0]],
+    Decade[data-decade[0]],
+    Decade[data-decade[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>toddy, hot, spiced, flaming, 2000, 2010</div>

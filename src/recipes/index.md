@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 <tiki-callout title="A note on the recipes" type="note">
 

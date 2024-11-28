@@ -10,7 +10,7 @@ characteristic:
   - shaken
   - strained
 base: gin base
-ingredients:
+ingredient:
   - lemon juice
   - passion fruit syrup
   - orgeat
@@ -26,13 +26,13 @@ excerpt: J. “Popo” Galsini, as part of the California Bartenders' Guild, won
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
   : Chilled coupé
@@ -54,3 +54,45 @@ Garnish
 2. Shake until very cold, 10 to 15 seconds
 3. Strain into a chilled coupé
 4. Rest the garnish on top of the drink
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-type[2]="Short drink"
+  data-char[0]="Shaken"
+  data-char[1]="Strained"
+  data-base[0]="Gin"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Passion fruit syrup"
+  data-ingredient[2]="Orgeat"
+  data-ingredient[3]="Falernum"
+  data-ingredient[4]="Gin, London dry"
+  data-origin[0]="J. “Popo” Galsini"
+  data-glass[0]="Coupé"
+  data-garnish[0]="Lemon peel"
+  data-garnish[1]="Lemon peel, long spiral-cut"
+  data-decade[0]="1960"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Type[data-type[2]],
+    Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Garnish[data-garnish[0]],
+    Garnish[data-garnish[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, short drink, 1960</div>

@@ -7,9 +7,9 @@ permalink: "/gallery/index.html"
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
-<tiki-dialog-gallery hint rel cols="8">
+<tiki-dialog-gallery hint rel cols="8" data-pagefind-ignore>
   
   ![12 Mile Limit](/assets/images/tiki-gallery/12-mile-limit.jpg)
   ![Aku Aku](/assets/images/tiki-gallery/aku-aku.jpg)

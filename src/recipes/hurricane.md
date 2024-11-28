@@ -8,7 +8,7 @@ type:
 characteristic:
   - flash-blended
 base: rum base
-ingredients:
+ingredient:
   - lemon juice
   - passion fruit syrup
   - black blended rum (5)
@@ -25,16 +25,16 @@ excerpt: The deceptively simple and decidedly dangerous drink from Pat O'Brien's
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : Small (15-ounce) hurricane (<q>squall</q>) glass
+  : Small (15-ounce) hurricane ("squall") glass
 
 ## Ingredients
 
@@ -44,7 +44,7 @@ Glassware
 
 Garnish
   : Wind-ravaged cocktail umbrella
-  : Lemon wedge
+  : <span data-pagefind-filter="Garnish">Lemon wedge</span>
 
 ## Instructions
 
@@ -52,3 +52,49 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a small hurricane glass
 4. Open and mangle a cocktail umbrella and place it atop the drink, along with a lemon wedge
+
+<div
+  data-pagefind-filter="
+  "
+>
+</div>
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-type[1]="Sour"
+  data-char[0]="Glash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Lemon juice"
+  data-ingredient[1]="Passion fruit syrup"
+  data-ingredient[2]="Black blended rum [5]"
+  data-origin[0]="Pat O'Brien's Irish Bar, New Orleans"
+  data-glass[0]="Hurricane glass, small (15-ounce)"
+  data-glass[1]="Hurricane glass"
+  data-glass[2]="Squall glass, small (15-ounce)"
+  data-glass[3]="Squall glass"
+  data-garnish[0]="Cocktail umbrella"
+  data-garnish[1]="Cocktail umbrella, wind-ravaged"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Type[data-type[1]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Origin[data-origin[0]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Glassware[data-glass[2]],
+    Glassware[data-glass[3]],
+    Garnish[data-garnish[0]],
+    Garnish[data-garnish[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, 1930</div>

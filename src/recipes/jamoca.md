@@ -5,11 +5,11 @@ tags: recipes
 type: tropical
 characteristic: flash-blended
 base: rum base
-ingredients:
+ingredient:
   - coffee
   - lime juice
   - coffee syrup
-  - blended lightly aged rum
+  - blended lightly aged rum (2)
   - blended aged rum (3)
 garnish: Dealer's choice
 glass: brandy snifter
@@ -20,13 +20,13 @@ excerpt: An early experiment by Don the Beachcomber, circa 1930s.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-enable MD025 -->
 
 Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>, from an unpublished recipe in Don the Beachcomber <span lang="fr">maître d’</span> Dick Santiago's personal notebook.
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe in Don the Beachcomber <span lang="fr">maître d’</span> Dick Santiago's personal notebook.
 
 Glassware
   : Small (15-ounce) brandy snifter
@@ -40,7 +40,7 @@ Glassware
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 
 Garnish
-  : Dealer's choice
+  : <span data-pagefind-filter="Garnish">Dealer's choice</span>
 
 ## Instructions
 
@@ -48,3 +48,43 @@ Garnish
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a small brandy snifter
 4. Add your choice of garnish and a straw
+
+<div
+  data-cat[0]="Drink"
+  data-type[0]="Tropical"
+  data-char[0]="Flash-blended"
+  data-base[0]="Rum/Cane spirits"
+  data-ingredient[0]="Coffee, chilled"
+  data-ingredient[1]="Lime juice"
+  data-ingredient[2]="Coffee syrup"
+  data-ingredient[3]="Fee Brothers Coffee Cordial syrup"
+  data-ingredient[4]="Blended lightly aged rum [2]"
+  data-ingredient[5]="Blended aged rum [3]"
+  data-origin[0]="Don the Beachcomber"
+  data-origin[1]="Donn Beach"
+  data-origin[2]="Ernest Raymond Gantt"
+  data-glass[0]="Brandy snifter"
+  data-glass[1]="Brandy snifter, small (15-ounce)"
+  data-decade[0]="1930"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Type[data-type[0]],
+    Characteristic[data-char[0]],
+    Base[data-base[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Origin[data-origin[0]],
+    Origin[data-origin[1]],
+    Origin[data-origin[2]],
+    Glassware[data-glass[0]],
+    Glassware[data-glass[1]],
+    Decade[data-decade[0]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>tropical, flash-blended, 1930</div>
