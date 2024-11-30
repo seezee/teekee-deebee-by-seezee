@@ -38,6 +38,7 @@ excerpt: Recipe for vanilla brandy
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Liqueur"
   data-ingredient[0]="Vanilla bean"
   data-ingredient[1]="Brandy"

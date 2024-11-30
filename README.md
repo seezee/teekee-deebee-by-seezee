@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 2.0.1
+* Version: 2.0.3
 * License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 * License URI: <https://www.gnu.org/licenses/gpl-3.0.html>
 * Tags: recipes, tiki, rum, cocktails
@@ -17,11 +17,11 @@ A tiki recipe database built with Eleventy
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-* [Tiki DB by SEEZEE](#tiki-db-by-seezee)
-  * [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-    * [:bulb: About the Project](#bulb-about-the-project)
-    * [:pencil: License](#pencil-license)
-    * [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
+- [Tiki DB by SEEZEE](#tiki-db-by-seezee)
+  - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+    - [:bulb: About the Project](#bulb-about-the-project)
+    - [:pencil: License](#pencil-license)
+    - [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
 
 ### :bulb: About the Project
 

@@ -68,6 +68,7 @@ Garnish
 6. Garnish with an edible hibiscus flower speared on a plastic cocktail pick
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Punch"

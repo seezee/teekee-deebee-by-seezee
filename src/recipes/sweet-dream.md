@@ -73,6 +73,7 @@ Garnish
 [^1]: See <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), p. 99.
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-char[0]="Shaken"

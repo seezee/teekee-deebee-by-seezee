@@ -54,6 +54,7 @@ Garnish
 4. Express the oil from a piece of orange peel onto the surface (discard the peel)
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Cocktail"
   data-char[0]="Stirred"

@@ -50,6 +50,7 @@ Garnish
 4. Add your choice of garnish and a straw
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-char[0]="Flash-blended"

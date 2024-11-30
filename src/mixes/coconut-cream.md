@@ -36,6 +36,7 @@ excerpt: Recipe for coconut cream
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Batter"
   data-ingredient[0]="Coconut milk, unsweetened"
   data-ingredient[1]="Salt, table"

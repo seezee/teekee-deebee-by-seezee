@@ -69,6 +69,7 @@ Garnish
   We considered flash-blending this recipe in the Donn Beach style, but concluded that it would be much too sweet without the dilution afforded by conventional blending with a large amount of ice.
 </tiki-callout>
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Punch"

@@ -32,6 +32,7 @@ excerpt: Recipe for coffee syrup
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="Water"
   data-ingredient[1]="Coffee concentrate, cold-brew"

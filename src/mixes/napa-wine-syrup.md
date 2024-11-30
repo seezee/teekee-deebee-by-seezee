@@ -33,6 +33,7 @@ excerpt: Recipe for Smuggler's Cove Napa wine syrup
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="Wine, Cabernet Sauvignon"
   data-ingredient[1]="Wine, dry white"

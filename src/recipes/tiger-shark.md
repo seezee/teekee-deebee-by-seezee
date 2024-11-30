@@ -67,6 +67,7 @@ Our best guess is that it is a vintage glass from The China Trader restaurant.
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

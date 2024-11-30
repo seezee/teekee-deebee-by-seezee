@@ -61,6 +61,7 @@ excerpt: Recipe for orgeat syrup
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="Almonds, blanched"
   data-ingredient[1]="Water"

@@ -59,6 +59,7 @@ Garnish
 4. Garnish with an edible orchid on the side of the glass
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

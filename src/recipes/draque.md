@@ -61,6 +61,7 @@ Garnish
 5. Spear a lime wheel with a cocktail sword and place it in the glass
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

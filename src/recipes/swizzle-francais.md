@@ -73,6 +73,7 @@ Garnish
 [^2]: You can purchase a traditional <span lang="fr">le bois lélé</span> from the <a href="https://cocktailkingdom.com/products/swizzle-stick" target="_blank" rel="external noopener">Cocktail Kingdom</a> if you don't plan to be in Martinique any time soon.
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

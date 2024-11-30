@@ -77,6 +77,7 @@ Garnish
 </div>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Punch"
   data-char[0]="Pre-batched"

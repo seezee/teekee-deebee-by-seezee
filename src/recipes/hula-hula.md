@@ -54,6 +54,7 @@ Garnish
 4. Optionally garnish with an edible orchid
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Sour"
   data-type[1]="Tall drink"

@@ -44,6 +44,7 @@ excerpt: Recipe for Smuggler's Cove hellfire tincture
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Tincture"
   data-ingredient[0]="Chili pepper, fresh hot"
   data-ingredient[1]="Wine, dry white"

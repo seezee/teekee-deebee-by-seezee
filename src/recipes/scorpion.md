@@ -90,6 +90,7 @@ Garnish
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Punch"
@@ -97,7 +98,7 @@ Garnish
   data-char[1]="Communal"
   data-char[2]="Flaming"
   data-base[0]="Brandy"
-  data-base[1]="Rum"
+  data-base[1]="Rum/Cane spirits"
   data-base[2]="Gin"
   data-ingredient[0]="Lime juice"
   data-ingredient[1]="Orange juice"

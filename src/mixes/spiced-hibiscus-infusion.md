@@ -43,6 +43,7 @@ excerpt: Recipe for Smuggler's Cove spiced hibiscus infusion
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Preparation"
   data-ingredient[0]="Blended lightly aged rum [2]"
   data-ingredient[1]="Ginger, fresh"

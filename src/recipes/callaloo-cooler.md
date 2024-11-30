@@ -70,6 +70,7 @@ Garnish
 6. Garnish with grated cinnamon & a mint sprig
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Tall drink"

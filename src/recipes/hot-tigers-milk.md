@@ -55,6 +55,7 @@ Jeff Berry specifies gold U.S. Virigin Islands rum, such as Cruzan Single Barrel
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Toddy"
   data-char[0]="Hot"

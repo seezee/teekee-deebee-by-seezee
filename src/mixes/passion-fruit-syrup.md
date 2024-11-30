@@ -38,6 +38,7 @@ Measure ingredients by volume.
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="2:1 rich simple syrup"
   data-ingredient[1]="Passion fruit purée"

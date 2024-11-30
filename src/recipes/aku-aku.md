@@ -59,6 +59,7 @@ Garnish
 5. Float large mint leaf on surface or rest cluster of mint against side of glass
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

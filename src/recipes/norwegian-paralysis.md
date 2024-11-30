@@ -67,6 +67,7 @@ Garnish
 4. Garnish with a lemon wedge speared with a cocktail umbrella
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

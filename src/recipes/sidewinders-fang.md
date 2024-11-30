@@ -58,6 +58,7 @@ Garnish
 [^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite></cite>, p. 242.
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

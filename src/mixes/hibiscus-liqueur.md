@@ -41,6 +41,7 @@ excerpt: Recipe for Smuggler's Cove hibiscus liqueur
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Liqueur"
   data-ingredient[0]="Honey"
   data-ingredient[1]="Spiced hibiscus infusion"

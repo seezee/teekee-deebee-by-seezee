@@ -34,6 +34,7 @@ excerpt: Recipe for Smuggler's Cove jerk seasoning
 2. Transfer to an airtight container & store in a cool, dark place
 
 <div
+  class="sr-only"
   data-cat[0]="Spice mix"
   data-ingredient[0]="Thyme, dried ground"
   data-ingredient[1]="Allspice, ground"

@@ -57,6 +57,7 @@ Garnish
 4. Insert 3 or more pineapple fronds in the glass
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

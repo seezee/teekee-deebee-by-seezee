@@ -66,6 +66,7 @@ Garnish
 3. Open pour with a gated finish into a double old-fashioned glass
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

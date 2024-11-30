@@ -54,6 +54,7 @@ Yield
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Batter"
   data-ingredient[0]="Allspice dram"
   data-ingredient[1]="Pimento dram"

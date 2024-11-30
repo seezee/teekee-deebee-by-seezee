@@ -75,6 +75,7 @@ Garnish
 6. Garnish with an edible hibiscus flower on a cocktail pick or skewer
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

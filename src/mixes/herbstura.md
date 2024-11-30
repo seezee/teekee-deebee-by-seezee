@@ -25,6 +25,7 @@ excerpt: Recipe for Don the Beachcomber's herbstura
 2. Store tightly sealed away from heat and light
 
 <div
+  class="sr-only"
   data-cat[0]="Preparation"
   data-ingredient[0]="Angostura bitters"
   data-ingredient[1]="Herbsaint"

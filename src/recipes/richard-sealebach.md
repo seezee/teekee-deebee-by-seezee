@@ -70,6 +70,7 @@ Garnish
 5. Add garnish
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Cocktail"
   data-char[0]="Stirred"

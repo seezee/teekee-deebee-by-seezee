@@ -32,6 +32,7 @@ excerpt: Recipe for Don the Beachcomber's tonga mix
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Preparation"
   data-ingredient[0]="Passion fruit juice"
   data-ingredient[1]="Grenadine"

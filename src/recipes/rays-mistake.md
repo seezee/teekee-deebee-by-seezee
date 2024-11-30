@@ -90,12 +90,13 @@ Garnish
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"
   data-type[2]="Tall drink"
   data-char[0]="Flash-blended"
-  data-base[0]="Rum"
+  data-base[0]="Rum/Cane spirits"
   data-base[1]="Gin"
   data-ingredient[0]="Falernum"
   data-ingredient[1]="Seltzer"

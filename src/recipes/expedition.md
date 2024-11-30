@@ -68,6 +68,7 @@ The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahi
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

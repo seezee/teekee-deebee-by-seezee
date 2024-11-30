@@ -57,12 +57,13 @@ Garnish
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"
   data-char[0]="Shaken"
   data-char[1]="Strained"
-  data-base[0]="Rum"
+  data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Lemon juice"
   data-ingredient[1]="Cinnamon syrup"
   data-ingredient[2]="Rich Demerara syrup"

@@ -70,6 +70,7 @@ Garnish
 [^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Punch"
   data-char[0]="Pre-batched"

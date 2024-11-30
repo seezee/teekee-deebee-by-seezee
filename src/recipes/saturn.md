@@ -56,6 +56,7 @@ Garnish
 4. Rest the garnish on top of the drink
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

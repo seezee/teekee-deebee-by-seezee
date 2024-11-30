@@ -35,6 +35,7 @@ excerpt: Recipe for rich (2:1) Demerara syrups
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="Water"
   data-ingredient[1]="Sugar, granulated"

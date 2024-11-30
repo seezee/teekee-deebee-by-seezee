@@ -32,6 +32,7 @@ excerpt: Recipe for Donn’s Mix
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Preparation"
   data-ingredient[0]="Cinnamon syrup"
   data-ingredient[1]="Grapefruit juice"

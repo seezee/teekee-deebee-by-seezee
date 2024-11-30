@@ -117,6 +117,7 @@ We recommend you flash-blend this recipe in a drink mixer as instructed in the D
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

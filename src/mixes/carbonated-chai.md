@@ -34,6 +34,7 @@ excerpt: Recipe for Smuggler's Cove carbonated chai (spiced tea)
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Preparation"
   data-ingredient[0]="Water"
   data-ingredient[1]="Tea, black, loose leaf (CTC)"

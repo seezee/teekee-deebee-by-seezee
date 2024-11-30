@@ -47,6 +47,7 @@ excerpt: Recipe for Smuggler's Cove li hing mui syrup
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="Li hing mui powder"
   data-ingredient[1]="Sugar, granulated"

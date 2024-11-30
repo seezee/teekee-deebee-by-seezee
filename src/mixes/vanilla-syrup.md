@@ -40,6 +40,7 @@ excerpt: Recipe for vanilla syrup
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="Water"
   data-ingredient[1]="Sugar, granulated"

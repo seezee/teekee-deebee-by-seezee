@@ -47,6 +47,7 @@ excerpt: Recipe for cinnamon syrup
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Syrup"
   data-ingredient[0]="Cinnamon, Ceylon"
   data-ingredient[1]="Cinnamon, cassia"

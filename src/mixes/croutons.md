@@ -26,6 +26,7 @@ You didn't seriously expect us to provide a crouton recipe, did you? Just <a hre
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Garnish"
   data-ingredient[0]="Bread, crusty"
   data-ingredient[1]="Oil, olive, extra-virgin"

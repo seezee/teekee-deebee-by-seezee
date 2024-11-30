@@ -66,6 +66,7 @@ Garnish
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Cocktail"
   data-type[1]="Short drink"

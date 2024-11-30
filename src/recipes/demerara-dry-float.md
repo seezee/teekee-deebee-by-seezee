@@ -65,6 +65,7 @@ Garnish
 Encourage guests to pour as much or little of the overproof rum (the side of danger!) into their drink as they like, experiencing the changes to the flavor profile.
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

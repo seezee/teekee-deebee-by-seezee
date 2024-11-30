@@ -71,6 +71,7 @@ Garnish
 4. Garnish with a mint sprig
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Punch"
   data-char[0]="Flash-blended"

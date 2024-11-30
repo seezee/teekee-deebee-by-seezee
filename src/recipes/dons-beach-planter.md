@@ -74,6 +74,7 @@ Garnish
 4. Garnish with a maraschino cherry speared between two pineapple chunks on a cocktail pick, plus a mint sprig and a swizzle stick
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

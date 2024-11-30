@@ -80,6 +80,7 @@ Garnish
 [^1]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"

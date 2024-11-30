@@ -58,6 +58,7 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Batter"
   data-ingredient[0]="Cinnamon, ground"
   data-ingredient[1]="Nutmeg, ground"

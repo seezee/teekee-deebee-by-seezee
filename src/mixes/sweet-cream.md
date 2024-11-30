@@ -30,6 +30,7 @@ excerpt: Recipe for sweet cream
 </tiki-callout>
 
 <div
+  class="sr-only"
   data-cat[0]="Batter"
   data-ingredient[0]="Cream, heavy whipping"
   data-ingredient[1]="Rich Demerara syrup"

@@ -56,6 +56,7 @@ Garnish
 4. Top with freshly grated nutmeg
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Milk punch"
   data-type[1]="Digestif"

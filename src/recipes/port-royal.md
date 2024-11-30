@@ -57,6 +57,7 @@ Garnish
 4. Top with five drops of hellfire tincture spaced out on the cocktail surface
 
 <div
+  class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"
