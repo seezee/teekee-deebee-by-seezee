@@ -18,8 +18,8 @@ Yield
 
 ## Ingredients
 
-* 1 part softened unsalted <span data-pagefind-filter="Ingredient">butter</span>
-* 1 part <span data-pagefind-filter="Ingredient">orange blossom <span data-pagefind-filter="Ingredient">honey</span></span>
+* 1 part softened unsalted butter
+* 1 part orange blossom honey
 
 ## Instructions
 
@@ -30,3 +30,19 @@ Yield
 
   Prepare a short time before using, as the mix must be kept room temperature: if refrigerated, it becomes a sticky mess.
 </tiki-callout>
+
+<div
+  data-cat[0]="Batter"
+  data-ingredient[0]="Butter, unsalted"
+  data-ingredient[1]="Honey, orange blossom"
+  data-ingredient[2]="Honey"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>batter</div>

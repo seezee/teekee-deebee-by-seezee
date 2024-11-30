@@ -38,7 +38,7 @@ Glassware
 
 * 1&frac12; ounces unsweetened pineapple juice
 * 1 barspoon grenadine
-* 6 drops <span data-pagefind-filter="Ingredient">Luxardo <span data-pagefind-filter="Ingredient">maraschino liqueur</span>
+* 6 drops <span data-pagefind-filter="Ingredient">Luxardo maraschino liqueur
 * 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 Garnish

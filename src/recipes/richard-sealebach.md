@@ -79,7 +79,7 @@ Garnish
   data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Curaçao, dry"
   data-ingredient[1]="Curaçao"
-  data-ingredient[2]="R.L. Seale 10 Year rum"
+  data-ingredient[2]="R.L. Seale 10 Year Rum"
   data-ingredient[3]="Blended aged rum [3]"
   data-ingredient[4]="Angostura bitters"
   data-ingredient[5]="Peychaud’s bitters"

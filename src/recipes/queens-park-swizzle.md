@@ -97,7 +97,7 @@ Garnish
   data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Mint leaves"
   data-ingredient[1]="Lime juice"
-  data-ingredient[2]="Rich Demerara"
+  data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Black blended rum [5]"
   data-ingredient[4]="Angostura bitters"
   data-origin[0]="Trader Vic"

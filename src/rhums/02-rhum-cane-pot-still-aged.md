@@ -9,7 +9,7 @@ excerpt: Index of cane pot still aged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Capovilla Rhum Liberation 2010 (Marie Galante)
 * St. George Calif. Reserve Agricole (Calif., USA)

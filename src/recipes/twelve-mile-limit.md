@@ -69,7 +69,7 @@ Garnish
 <div
   data-cat[0]="Drink"
   data-type[0]="Sour"
-  data-type[1]="Short during"
+  data-type[1]="Short drink"
   data-char[0]="Shaken"
   data-char[1]="Strained"
   data-base[0]="Rum/Cane spirits"

@@ -80,7 +80,6 @@ Garnish
   data-ingredient[4]="Ginger ale"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
-  data-glass[0]="Double rocks"
   data-decade[0]="1940"
   data-pagefind-filter="
     Category[data-cat[0]],
@@ -99,7 +98,6 @@ Garnish
     Ingredient[data-ingredient[4]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
-    Glassware[data-glass[0]],
     Decade[data-decade[0]]
   "
 >

@@ -18,7 +18,7 @@ excerpt: Recipe for Smuggler's Cove jerk syrup
 
 * 125 milliliters water
 * 250 grams granulated sugar
-* 5 grams [<span data-pagefind-filter="Ingredient">jerk seasoning</span>](/mixes/jerk-seasoning/)
+* 5 grams [jerk seasoning](/mixes/jerk-seasoning/)
 
 ## Instructions
 
@@ -45,3 +45,17 @@ excerpt: Recipe for Smuggler's Cove jerk syrup
 yields about 18 ounces of grenadine.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Sugar, granulated"
+  data-ingredient[2]="Jerk seasoning"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>

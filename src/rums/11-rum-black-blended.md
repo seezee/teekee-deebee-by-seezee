@@ -10,7 +10,7 @@ excerpt: Index of black blended rums.
 # {{ title }}<icon-l space="1em" label="(5)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Coruba (Jamaica)
 * Gosling&rsquo;s Black Seal (regional blend)

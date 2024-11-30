@@ -45,7 +45,7 @@ Glassware
 * 3 ounces unsweetened pineapple juice
 * 1 ounce fresh lemon juice
 * 1/4 to 1/2 ounce[^1] [rich Demerara syrup](/mixes/rich-demerara-syrup)
-* 1 ounce <span data-pagefind-filter="Ingredient">Domaine de Canton</span> or other <span data-pagefind-filter="Ingredient">ginger liqueur</span>
+* 1 ounce Domaine de Canton or other ginger liqueur
 * 1/2 ounce allspice (pimento) dram
 * 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" label="(5)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
@@ -69,7 +69,7 @@ Garnish
   data-type[1]="Sour"
   data-char[0]="Flash-blended"
   data-base[0]="Rum/Cane spirits"
-  data-ingredient[0]="Pineappple juice, unsweetened"
+  data-ingredient[0]="Pineapple juice, unsweetened"
   data-ingredient[1]="Lemon juice"
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Ginger liqueur"
@@ -79,6 +79,7 @@ Garnish
   data-ingredient[7]="Blended lightly aged rum [2]"
   data-ingredient[8]="Seltzer"
   data-ingredient[9]="Soda water"
+  data-ingredient[10]="Domaine de Canton"
   data-origin[0]="Marcovaldo Dionysos"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Pineapple"
@@ -101,6 +102,7 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Ingredient[data-ingredient[10]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

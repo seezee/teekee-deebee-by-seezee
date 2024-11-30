@@ -16,8 +16,8 @@ excerpt: Recipe for vanilla brandy
 
 ## Ingredients
 
-* 1 4-inch <span data-pagefind-filter="Ingredient">vanilla bean</span>
-* 500 milliliters <span data-pagefind-filter="Ingredient">aged brandy</span>
+* 1 4-inch vanilla bean
+* 500 milliliters aged brandy
 * 1 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 
 ## Instructions
@@ -36,3 +36,19 @@ excerpt: Recipe for vanilla brandy
   Scale this recipe as needed.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Liqueur"
+  data-ingredient[0]="Vanilla bean"
+  data-ingredient[1]="Brandy"
+  data-ingredient[2]="Rich Demerara syrup"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>liqueur</div>

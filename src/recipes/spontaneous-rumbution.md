@@ -52,6 +52,7 @@ Special Equipment
 
 Garnish
   : Long lemon peel
+  : <span data-pagefind-filter="Garnish">Fire</span>
 
 ## Instructions
 
@@ -84,12 +85,12 @@ Garnish
   data-ingredient[0]="Lemon juice"
   data-ingredient[1]="Honey syrup"
   data-ingredient[2]="Black blended overproof rum [6]"
-  data-ingredient[3]="Pot still lightl  aged rum [1]"
+  data-ingredient[3]="Pot still lightly aged rum [1]"
   data-ingredient[4]="Water, boiling"
   data-origin[0]="Dane Barca"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Coffee mug"
-  data-glass[1]="Heatproof glass"
+  data-glass[1]="Glass, heatproof"
   data-garnish[0]="Lemon peel"
   data-decade[0]="2000"
   data-decade[1]="2010"

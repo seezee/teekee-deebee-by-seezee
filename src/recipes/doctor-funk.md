@@ -68,7 +68,7 @@ Glassware
 
 Garnish
   : <span data-pagefind-filter="Garnish">Ti leaf</span>
-  : <span data-pagefind-filter="Garnish">Pineapple fronds</span>
+  : <span data-pagefind-filter="Garnish">Pineapple frond(s)</span>
 
 ## Instructions
 

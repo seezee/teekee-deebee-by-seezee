@@ -10,7 +10,7 @@ excerpt: Index of pot still lightly aged rums.
 # {{ title }}<icon-l space="1em" label="(1)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-1.svg#circle-1"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Ballast Point Three Sheets Aged (Calif., USA)
 * Diablo&rsquo;s Shadow Navy Strength (overproof) (Calif., USA)

@@ -51,7 +51,7 @@ Serves
 * 6 ounces [carbonated chai](/mixes/carbonated-chai)
 
 Garnish
-  : <span data-pagefind-filter="Garnish">Lime wheels</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel(s)</span>
   : <span data-pagefind-filter="Garnish">Lemon wheels</span>
 
 ## Instructions
@@ -75,8 +75,8 @@ Garnish
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Batavia arrack"
-  data-ingredient[4]="Pot still lightly aged rum"
-  data-ingredient[5]="Pot still lightly aged rum (overproof)"
+  data-ingredient[4]="Pot still lightly aged rum [1]"
+  data-ingredient[5]="Pot still lightly aged rum (overproof) [1]"
   data-ingredient[6]="Carbonated chai"
   data-origin[0]="Smuggler’s Cove"
   data-glass[0]="Punch bowl"

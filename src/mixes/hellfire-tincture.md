@@ -24,8 +24,8 @@ excerpt: Recipe for Smuggler's Cove hellfire tincture
 
 ## Ingredients
 
-* 4 cups mixed fresh <span data-pagefind-filter="Ingredient">hot chiles</span> (e.g., habañero, Fresno, red jalapeño, and so forth), coarsely chopped, stems & seeds included
-* 1 cup <span data-pagefind-filter="Ingredient">dry <span data-pagefind-filter="Ingredient">white wine</span></span>
+* 4 cups mixed fresh hot chiles (e.g., habañero, Fresno, red jalapeño, and so forth), coarsely chopped, stems & seeds included
+* 1 cup dry white wine
 * 2 cups brandy
 
 ## Instructions
@@ -42,3 +42,17 @@ excerpt: Recipe for Smuggler's Cove hellfire tincture
   This syrup will keep, refrigerated, for a few weeks.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Tincture"
+  data-ingredient[0]="Chili pepper, fresh hot"
+  data-ingredient[1]="Wine, dry white"
+  data-ingredient[2]="Brandy"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>

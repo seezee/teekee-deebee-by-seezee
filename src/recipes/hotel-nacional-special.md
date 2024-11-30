@@ -61,7 +61,7 @@ Garnish
   data-char[1]="Strained"
   data-char[2]="Muddled"
   data-base[0]="Rum/Cane spirits"
-  data-ingredient[0]="Pineapple chunks"
+  data-ingredient[0]="Pineapple chunk(s)"
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Apricot liqueur"

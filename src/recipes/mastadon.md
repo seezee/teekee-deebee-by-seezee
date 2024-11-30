@@ -61,7 +61,7 @@ Serves
 
 Garnish
   : <span data-pagefind-filter="Garnish">Pineapple lid with two straw holes</span>[^1]
-  : <span data-pagefind-filter="Garnish">Drinking straws</span>
+  : <span data-pagefind-filter="Garnish">Drinking straw(s)</span>
   : <span data-pagefind-filter="Garnish">Mermaid island</span>(see note)
 
 [^1]: For instructions on how to prepare a coconut shell, see <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, p. 238.

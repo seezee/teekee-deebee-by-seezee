@@ -6,8 +6,7 @@ type: liqueur
 ingredient:
   - honey
   - spiced hibiscus infusion
-  - 2:1 simple syrup
-  - rich simple syrup
+  - 2:1 rich simple syrup
 excerpt: Recipe for Smuggler's Cove hibiscus liqueur
 ---
 
@@ -23,8 +22,8 @@ excerpt: Recipe for Smuggler's Cove hibiscus liqueur
 
 ## Ingredients
 
-* &frac12; cup <span data-pagefind-filter="Ingredient">honey</span>
-* 2&frac12; cups [<span data-pagefind-filter="Ingredient">spiced hibiscus infusion</span>](/mixes/spiced-hibiscus-infusion/)
+* &frac12; cup honey
+* 2&frac12; cups [spiced hibiscus infusion](/mixes/spiced-hibiscus-infusion/)
 * 1 cup [2:1 rich simple syrup](/mixes/2-1-simple-syrup/)
 
 ## Instructions
@@ -40,3 +39,17 @@ excerpt: Recipe for Smuggler's Cove hibiscus liqueur
   This liqueur will keep, refrigerated, for a few weeks.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Liqueur"
+  data-ingredient[0]="Honey"
+  data-ingredient[1]="Spiced hibiscus infusion"
+  data-ingredient[2]="2:1 rich simple syrup"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>

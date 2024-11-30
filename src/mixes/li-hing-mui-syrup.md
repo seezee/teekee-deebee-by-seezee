@@ -45,3 +45,17 @@ excerpt: Recipe for Smuggler's Cove li hing mui syrup
   Available in a <a href="https://www.amazon.com/Powder-Hawaiis-Snack-Seasoning-1-8oz/dp/B07MJM6SQT" target="_blank" rel="external noopener">white</a> or <a href="https://www.amazon.com/POWDER-PRESERVED-FRUIT-ASPARTAME-2-5oz/dp/B00CY3TB56/" target="_blank" rel="external nofollow">colored</a> form; the latter is dyed with carmine and is *not* vegetarian.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Li hing mui powder"
+  data-ingredient[1]="Sugar, granulated"
+  data-ingredient[2]="Water"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>

@@ -10,7 +10,7 @@ excerpt: Index of blended lightly aged rums.
 # {{ title }}<icon-l space="1em" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Appleton Estate Signature Blend (Jamaica)
 * Banks 5 Island (regional blend)

@@ -47,7 +47,7 @@ Glassware
 
 Garnish
   : <span data-pagefind-filter="Garnish">Lime wedge</span>
-  : <span data-pagefind-filter="Garnish">Drinking straw</span>
+  : <span data-pagefind-filter="Garnish">Drinking straw(s)</span>
 
 ## Instructions
 

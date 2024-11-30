@@ -5,8 +5,6 @@ tags: mixes
 type: syrup
 ingredient:
   - water
-  - cinnamon sticks
-  - cassia
   - granulated sugar
 excerpt: Recipe for coffee syrup
 ---
@@ -17,7 +15,7 @@ excerpt: Recipe for coffee syrup
 
 ## Ingredients
 
-* 300 milliliters <span data-pagefind-filter="Ingredient">cold brew coffee concentrate</span>
+* 300 milliliters cold brew coffee concentrate
 * 300 grams granulated sugar
 
 ## Instructions
@@ -32,3 +30,15 @@ excerpt: Recipe for coffee syrup
   This syrup will keep, refrigerated, for a few weeks.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Coffee concentrate, cold-brew"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]]
+  "
+>
+</div>

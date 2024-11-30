@@ -49,7 +49,7 @@ Glassware
 * 3/4 ounce sloe gin
 
 Garnish
-  : <span data-pagefind-filter="Garnish">Lime wheel</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel(s)</span>
 
 ## Instructions
 

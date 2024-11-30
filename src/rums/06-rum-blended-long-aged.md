@@ -8,7 +8,7 @@ excerpt: Index of blended long aged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Appleton Estate 21 (Jamaica)
 * Banks The Endeavour (regional blend)

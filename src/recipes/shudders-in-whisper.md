@@ -73,7 +73,7 @@ Garnish
   data-ingredient[4]="Seltzer"
   data-ingredient[5]="Soda water"
   data-ingredient[6]="Column still aged rum [4]"
-  data-ingredient[7]="Peychaud’d bitters"
+  data-ingredient[7]="Peychaud’s bitters"
   data-ingredient[8]="Angostura bitters"
   data-origin[0]="Martin Cate"
   data-glass[0]="Brandy snifter"

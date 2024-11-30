@@ -68,7 +68,7 @@ Garnish
   data-origin[0]="Ray Buhen"
   data-origin[1]="Beverly Hills Hotel, Los Angeles"
   data-glass[0]="Coupé"
-  data-glass[1]="Cocktail glass"
+  data-glass[1]="Cocktail glass, stemmed"
   data-glass[2]="Cocktail glass, v-shaped"
   data-decade[0]="1930"
   data-pagefind-filter="

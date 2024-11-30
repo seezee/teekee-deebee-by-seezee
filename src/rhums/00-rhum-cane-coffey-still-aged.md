@@ -9,7 +9,7 @@ excerpt: Index of cane coffey still aged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Rhum Babancourt 5 Star (Haiti)
 * Rhum Babancourt Estate Reserve (Haiti)

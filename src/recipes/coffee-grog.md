@@ -52,7 +52,7 @@ Glassware
 - 1 strip grapefruit peel
 - 3 strips orange peel
 - 1 pinch ground cinnamon
-- 1 pinch <span data-pagefind-filter="Ingredient">ground clove</span>
+- 1 pinch ground clove
 - 1 pinch freshly grated nutmeg
 - 6 ounces steaming hot coffee
 - 1/2 ounce [pot still unaged rum](/rums/00-rum-pot-still-unaged/) *or* [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
@@ -60,6 +60,7 @@ Glassware
 
 Garnish
   : <span data-pagefind-filter="Garnish">Cinnamon stick</span>
+  : <span data-pagefind-filter="Garnish">Fire</span>
 
 ## Instructions
 
@@ -100,15 +101,15 @@ Garnish
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
   data-base[0]="Rum/Cane spirits"
-  data-ingredient[0]="Pot still unaged rum (Jamaica) [1]"
-  data-ingredient[1]="Pot still unaged rum [1]"
+  data-ingredient[0]="Pot still unaged rum (Jamaica)"
+  data-ingredient[1]="Pot still unaged rum"
   data-ingredient[2]="Blended lightly aged rum (Jamaica) [2]"
   data-ingredient[3]="Blended lightly aged rum [2]"
   data-ingredient[4]="Black blended overproof rum [6]"
   data-ingredient[5]="Coffee, hot"
   data-ingredient[6]="Sugar cubes"
   data-ingredient[7]="Nutmeg, grated"
-  data-ingredient[8]="Clove, ground"
+  data-ingredient[8]="Cloves, ground"
   data-ingredient[9]="Cinnamon, ground"
   data-ingredient[10]="Orange peel"
   data-ingredient[11]="Grapefruit peel"

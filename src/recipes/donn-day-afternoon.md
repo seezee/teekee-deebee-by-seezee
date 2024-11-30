@@ -75,7 +75,7 @@ Garnish
   data-ingredient[1]="Cinnamon syrup"
   data-ingredient[2]="Beer, grapefruit"
   data-ingredient[3]="Stiegl-Radler Grapefruit Beer"
-  data-ingredient[4]="Cane AOC Martinique rhum agricole blanc"
+  data-ingredient[4]="Cane AOC Martinique rhum agricole blanc [7]"
   data-origin[0]="Martin Cate"
   data-glass[0]="Rocks"
   data-decade[0]="2000"

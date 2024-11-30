@@ -17,8 +17,8 @@ excerpt: Recipe for rich (2:1) Demerara syrups
 ## Ingredients
 
 * 250 milliliters water
-* 125 grams <span data-pagefind-filter="Ingredient">Demerara <span data-pagefind-filter="Ingredient">sugar</span></span>
-* 375 grams <span data-pagefind-filter="Ingredient">granulated sugar</span>
+* 125 grams Demerara sugar
+* 375 grams granulated sugar
 
 ## Instructions
 
@@ -33,3 +33,17 @@ excerpt: Recipe for rich (2:1) Demerara syrups
   The liquid yield is equal to the volume of sugar, so 250 grams of combined sugars + 125 milliliters of water makes 250 milliliters (about 1 cup) of syrup.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Sugar, granulated"
+  data-ingredient[2]="Sugar, Demerara"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>

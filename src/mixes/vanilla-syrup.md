@@ -18,7 +18,7 @@ excerpt: Recipe for vanilla syrup
 
 * 160 milliliters water
 * 320 grams granulated sugar
-* 1 (5&frac12;-inch) <span data-pagefind-filter="Ingredient">vanilla bean</span>, split lengthwise
+* 1 (5&frac12;-inch) vanilla bean, split lengthwise
 
 ## Instructions
 
@@ -38,3 +38,17 @@ excerpt: Recipe for vanilla syrup
   This syrup will keep, refrigerated, for a few weeks.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Sugar, granulated"
+  data-ingredient[2]="Vanilla bean"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+  "
+>
+</div>

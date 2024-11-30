@@ -15,7 +15,7 @@ excerpt: Recipe for sweet cream
 
 ## Ingredients
 
-* 6 ounces <span data-pagefind-filter="Ingredient">heavy <span data-pagefind-filter="Ingredient">whipping cream</span><span>
+* 6 ounces heavy whipping cream
 * 1 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
 
 ## Instructions
@@ -28,3 +28,17 @@ excerpt: Recipe for sweet cream
   Bottle and store refrigerated for up to a week.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Batter"
+  data-ingredient[0]="Cream, heavy whipping"
+  data-ingredient[1]="Rich Demerara syrup"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>batter</div>

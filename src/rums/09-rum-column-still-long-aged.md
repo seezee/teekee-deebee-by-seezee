@@ -8,7 +8,7 @@ excerpt: Index of column still long aged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Don Pancho Origines 18 (Panama)
 * Don Pancho Origines 30 (Panama)

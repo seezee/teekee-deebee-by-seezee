@@ -15,7 +15,7 @@ excerpt: Recipe for Smuggler's Cove Napa wine syrup
 
 ## Ingredients
 
-* 455 milliliters (16 ounces) <span data-pagefind-filter="Ingredient">Napa Valley <span data-pagefind-filter="Ingredient">Cabernet Sauvignon</span></span>
+* 455 milliliters (16 ounces) Napa Valley Cabernet Sauvignon
 * 237 grams (1 cup) granulated sugar
 
 ## Instructions
@@ -31,3 +31,17 @@ excerpt: Recipe for Smuggler's Cove Napa wine syrup
   This syrup will keep, refrigerated, for up to three months.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Wine, Cabernet Sauvignon"
+  data-ingredient[1]="Wine, dry white"
+  data-ingredient[2]="Sugar, granulated"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>

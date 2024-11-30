@@ -63,9 +63,9 @@ Glassware
 [^1]: Golden, amber, or dark as defined by the Vermont maple syrup <a href="https://vermontmaple.org/maple-syrup-grades" target="_blank" rel="external noopener">grading system</a>.
 
 Garnish
-  : <span data-pagefind-filter="Garnish">Pineapple fronds</span>
+  : <span data-pagefind-filter="Garnish">Pineapple frond(s)</span>
   : <span data-pagefind-filter="Garnish">Mint sprig</span>
-  : <span data-pagefind-filter="Garnish">Lemon twist (spiral)</span>
+  : <span data-pagefind-filter="Garnish">Lemon twist</span>
 
 ## Instructions
 

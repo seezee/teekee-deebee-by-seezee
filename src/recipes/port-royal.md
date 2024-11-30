@@ -43,7 +43,7 @@ Glassware
 * 3/4 ounce fresh lime juice
 * 3/4 ounce [jerk syrup](/mixes/jerk-syrup)
 * 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-* 1/2 ounce <span data-pagefind-filter="Ingredient">Wray & Nephew <span data-pagefind-filter="Ingredient">white overproof rum</span></span>
+* 1/2 ounce Wray & Nephew white overproof rum
 * 5 drops [hellfire tincture](/mixes/hellfire-tincture)
 
 Garnish
@@ -69,7 +69,7 @@ Garnish
   data-ingredient[2]="Blended lightly aged rum [2]"
   data-ingredient[3]="Pot still unaged rum"
   data-ingredient[4]="Pot still unaged rum (overproof)"
-  data-ingredient[5]="Wray & Nephew white overproof rum"
+  data-ingredient[5]="Wray & Nephew White Overproof Rum"
   data-ingredient[6]="Hellfire tincture"
   data-origin[0]="Martin Cate"
   data-glass[0]="Coupé"

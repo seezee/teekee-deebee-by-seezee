@@ -17,8 +17,8 @@ excerpt: Recipe for passion fruit honey
 
 Measure ingredients by volume.
 
-* 250 milliliters <span data-pagefind-filter="Ingredient">Funkin passion fruit purée</span>
-* 250 milliliters <span data-pagefind-filter="Ingredient">honey</span>
+* 250 milliliters Funkin passion fruit purée
+* 250 milliliters honey
 
 ## Instructions
 
@@ -38,3 +38,19 @@ Measure ingredients by volume.
   If you like your syrup more tart, increase the ratio of purée to simple syrup.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Funkin passion fruit purée"
+  data-ingredient[1]="Passion fruit purée"
+  data-ingredient[2]="Honey"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>puree</div>

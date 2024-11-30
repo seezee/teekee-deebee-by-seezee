@@ -16,7 +16,7 @@ ingredient:
   - falernum
   - Peruvian pisco
   - London dry gin
-  - Bitterman's Burlesque bitters
+  - Bittermens Burlesque bitters
 garnish:
   - edible orchid
   - hibiscus flower
@@ -46,7 +46,7 @@ Glassware
 * 1/2 ounce falernum
 * 1&frac12; ounces Peruvian pisco
 * 1/2 ounce London dry gin
-* 6 drops Bitterman's Burlesque bitters
+* 6 drops Bittermens Burlesque bitters
 
 Garnish
   : <span data-pagefind-filter="Garnish">Edible orchid</span> or hibiscus flower
@@ -78,7 +78,7 @@ Garnish
   data-ingredient[3]="Pisco"
   data-ingredient[4]="Pisco, Peruvian"
   data-ingredient[5]="Gin, London dry"
-  data-ingredient[6]="Bitterman’s Burlesque bitters"
+  data-ingredient[6]="Bittermens Burlesque bitters"
   data-origin[0]="Martin Cate"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Coupé"

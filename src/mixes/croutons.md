@@ -24,3 +24,23 @@ You didn't seriously expect us to provide a crouton recipe, did you? Just <a hre
   See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" target="_blank" rel="external noopener"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, p. 245 for instructions and precautions on how to garnish with fire.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Garnish"
+  data-ingredient[0]="Bread, crusty"
+  data-ingredient[1]="Oil, olive, extra-virgin"
+  data-ingredient[2]="Salt, kosher"
+  data-ingredient[3]="Diamond Crystal kosher salt"
+  data-ingredient[4]="Pepper, ground"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>garnish</div>

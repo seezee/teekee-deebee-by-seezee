@@ -9,7 +9,7 @@ excerpt: Index of pot still aged cachaça.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Avuá Amburana (Brazil)
 * Novo Fogo Gold (Brazil)

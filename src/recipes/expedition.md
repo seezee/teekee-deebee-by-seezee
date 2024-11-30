@@ -83,7 +83,7 @@ The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahi
   data-ingredient[6]="Coffee liqueur"
   data-ingredient[7]="Bittermens New Orleans coffee liqueur"
   data-ingredient[8]="Black blended rum [5]"
-  data-ingredient[9]="Whiskey, Bourbon"
+  data-ingredient[9]="Whiskey, bourbon"
   data-origin[0]="Martin Cate"
   data-glass[0]="Tiki mug, Kuhiko"
   data-glass[1]="Tiki mug"

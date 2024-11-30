@@ -59,18 +59,6 @@ Garnish
 </tiki-callout>
 
 <div
-  data-origin[0]="Jamaica"
-  data-origin[1]="Traditional"
-  data-ingredient[0]="pot still unaged rum (overproof)"
-  data-pagefind-filter="
-    Origin[data-origin[0]],
-    Origin[data-origin[1]],
-    Ingredient[data-ingredient[0]]
-  "
->
-</div>
-
-<div
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Tall drink"

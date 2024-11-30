@@ -22,7 +22,7 @@ excerpt: Recipe for honey syrup
 ## Ingredients
 
 * 250 milliliters water
-* 250 milliliters <span data-pagefind-filter="Ingredient">honey</span>
+* 250 milliliters honey
 
 ## Instructions
 
@@ -36,3 +36,15 @@ excerpt: Recipe for honey syrup
   This syrup will keep, refrigerated, for a few weeks.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Honey"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]]
+  "
+>
+</div>

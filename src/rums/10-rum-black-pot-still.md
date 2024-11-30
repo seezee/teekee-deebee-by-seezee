@@ -8,7 +8,7 @@ excerpt: Index of black pot still rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Hamilton Jamaica Black (Jamaica)
 

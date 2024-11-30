@@ -76,7 +76,7 @@ Garnish
   data-ingredient[0]="Egg white"
   data-ingredient[1]="Aquafaba"
   data-ingredient[2]="Blended aged rum [3]"
-  data-ingredient[3]="Lime Juice"
+  data-ingredient[3]="Lime juice"
   data-ingredient[4]="Rich Demerara syrup"
   data-ingredient[5]="Raspberry syrup"
   data-ingredient[6]="Small Hand Foods Raspberry Gum Syrup"

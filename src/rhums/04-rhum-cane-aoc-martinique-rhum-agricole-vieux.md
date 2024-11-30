@@ -11,7 +11,7 @@ excerpt: Index of cane AOC Martinique rhums agricole vieux.
 # {{ title }}<icon-l space="1em" label="(8)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Clément V.S.O.P 6 Year Très Vieux (Martinique)
 * Clément V.S.O.P 10 Year Très Vieux (Martinique)

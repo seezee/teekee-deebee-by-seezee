@@ -18,9 +18,9 @@ excerpt: Recipe for mai ti rich (2:1) simple syrup
 ## Ingredients
 
 * 240 grams water
-* 480 grams <span data-pagefind-filter="Ingredient">Demerara <span data-pagefind-filter="Ingredient">sugar</span></span>
+* 480 grams Demerara sugar
 * &frac14; teaspoon pure vanilla extract
-* &frac18; teaspoon <span data-pagefind-filter="Ingredient">table <span data-pagefind-filter="Ingredient">salt</span></span>
+* &frac18; teaspoon table salt
 
 ## Instructions
 
@@ -46,3 +46,19 @@ excerpt: Recipe for mai ti rich (2:1) simple syrup
   The liquid yield is equal to the volume of sugar, so 250 grams of sugar + 125 milliliters of water makes 250 milliliters (about 1 cup) of syrup.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Sugar, Demerara"
+  data-ingredient[2]="Vanilla extract"
+  data-ingredient[3]="Salt, table"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]]
+  "
+>
+</div>

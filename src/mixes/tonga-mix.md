@@ -16,7 +16,7 @@ excerpt: Recipe for Don the Beachcomber's tonga mix
 ## Ingredients
 
 * 4 parts [grenadine](/mixes/grenadine/) by volume
-* 1 part <span data-pagefind-filter="Ingredient">passion fruit juice</span> (*not* syrup) by volume
+* 1 part passion fruit juice (*not* syrup) by volume
 
 ## Instructions
 
@@ -30,3 +30,17 @@ excerpt: Recipe for Don the Beachcomber's tonga mix
   Scale this recipe as needed.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Preparation"
+  data-ingredient[0]="Passion fruit juice"
+  data-ingredient[1]="Grenadine"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>preparation</div>

@@ -90,7 +90,7 @@ Garnish
   data-ingredient[1]="Soda water"
   data-ingredient[2]="Lime juice"
   data-ingredient[3]="1:1 simple syrup"
-  data-ingredient[4]="Orange peel, 6-inch strip"
+  data-ingredient[4]="Orange peel"
   data-ingredient[5]="Lime coin"
   data-ingredient[6]="Column still long aged rum"
   data-origin[0]="Don the Beachcomber"

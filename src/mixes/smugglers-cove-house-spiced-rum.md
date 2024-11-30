@@ -28,16 +28,27 @@ excerpt: Where to find Smuggler's Cove house spiced rum
 </tiki-callout>
 
 <div
-  data-ingredient[0]="blended aged rum [3]"
-  data-ingredient[1]="vanilla bean"
-  data-ingredient[2]="orange peel"
-  data-ingredient[3]="allspice berries, whole"
-  data-ingredient[4]="cinnamon stick"
-  data-ingredient[5]="cloves, whole"
-  data-ingredient[6]="nutmeg"
-  data-ingredient[7]="grated nutmeg"
-  data-ingredient[8]="peppercorns, black whole"
-  data-ingredient[9]="ginger, fresh"
-  data-ingredient[10]="Demerara syrup"
-  data-pagefind-filter="Ingredient[data-ingredient[0]], Ingredient[data-ingredient[1]], Ingredient[data-ingredient[2]], Ingredient[data-ingredient[3]], Ingredient[data-ingredient[4]], Ingredient[data-ingredient[5]], Ingredient[data-ingredient[6]], Ingredient[data-ingredient[7]], Ingredient[data-ingredient[8]], Ingredient[data-ingredient[9]], Ingredient[data-ingredient[10]]">
+  data-ingredient[0]="Blended aged rum [3]"
+  data-ingredient[1]="Vanilla bean"
+  data-ingredient[2]="Orange peel"
+  data-ingredient[3]="Allspice berries, whole"
+  data-ingredient[4]="Cinnamon stick"
+  data-ingredient[5]="Cloves, whole"
+  data-ingredient[6]="Nutmeg, grated"
+  data-ingredient[7]="Peppercorns, black whole"
+  data-ingredient[8]="Ginger, fresh"
+  data-ingredient[9]="Rich Demerara syrup"
+  data-pagefind-filter="
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]]
+  "
+>
 </div>

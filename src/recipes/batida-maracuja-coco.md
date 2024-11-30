@@ -40,7 +40,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce passion fruit purée
-* 2 ounces coconut milk
+* 2 ounces unsweetened coconut milk
 * 1 ounce [pot still aged cachaça](/rums/06-rhum-pot-still-aged-cachaca/)
 * 1 ounce sweetened condensed milk
 
@@ -72,7 +72,7 @@ Garnish
   data-char[1]="Creamy"
   data-base[0]="Cachaça"
   data-ingredient[0]="Passion fruit purée"
-  data-ingredient[1]="Coconut milk"
+  data-ingredient[1]="Coconut milk, unsweetened"
   data-ingredient[2]="Pot still aged cachaça"
   data-ingredient[3]="Sweetened condensed milk"
   data-origin[0]="Brazil"

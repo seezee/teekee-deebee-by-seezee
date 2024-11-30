@@ -8,7 +8,7 @@ excerpt: Index of pot still long aged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Appleton Estate 50 Year (Jamaica)
 * Diplomatico Ambassador (Venuzuela)

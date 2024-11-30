@@ -75,7 +75,7 @@ Garnish
   data-ingredient[0]="Rich Demerara syrup"
   data-ingredient[1]="Blended aged rum [3]"
   data-ingredient[2]="Pot still unaged rum"
-  data-ingredient[3]="Pot still lightly aged rum"
+  data-ingredient[3]="Pot still lightly aged rum [1]"
   data-origin[0]="America, colonial British"
   data-origin[1]="Traditional"
   data-glass[0]="Rocks"

@@ -53,7 +53,7 @@ Glassware
 * 1 dash [Herbstura](/mixes/herbstura/)
 
 Garnish
-  : <span data-pagefind-filter="Garnish">Lime wheel</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel(s)</span>
   : <span data-pagefind-filter="Garnish">Edible orchid</span>
 
 ## Instructions
@@ -64,16 +64,6 @@ Garnish
 4. Strain into the glass
 5. Carefully add fresh cracked or cube ice to the glass
 6. Garnish
-
-<div
-  data-origin[0]="Martin Cate"
-  data-glass[0]="Double rocks"
-  data-pagefind-filter="
-    Origin[data-origin[0]],
-    Glassware[data-glass[0]]
-  "
->
-</div>
 
 <div
   data-cat[0]="Drink"

@@ -49,7 +49,7 @@ Glassware
 * 2 ounces [pot still aged cachaça](/rums/06-rhum-pot-still-aged-cachaca/)
 
 Garnish
-  : <span data-pagefind-filter="Garnish">Lime wheel</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel(s)</span>
   : <span data-pagefind-filter="Garnish">Cocktail sword</span>
 
 ## Instructions

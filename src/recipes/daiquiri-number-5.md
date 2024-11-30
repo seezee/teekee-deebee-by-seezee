@@ -53,7 +53,7 @@ Garnish
   : Fresh cherry
   : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
   : <span data-pagefind-filter="Garnish">Cocktail pick</span>
-  : <span data-pagefind-filter="Garnish">Drinking straw</span>
+  : <span data-pagefind-filter="Garnish">Drinking straw(s)</span>
 
 ## Instructions
 

@@ -23,15 +23,15 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
 
 ## Ingredients
 
-* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground <span data-pagefind-filter="Ingredient">cinnamon</span></span>
-* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground <span data-pagefind-filter="Ingredient">nutmeg</span></span>
-* 1 teaspoon freshly <span data-pagefind-filter="Ingredient">ground <span data-pagefind-filter="Ingredient">black pepper</span></span>
-* 3/4 teaspoon freshly <span data-pagefind-filter="Ingredient">ground cloves</span></span>
-* 1/2 teaspoon freshly <span data-pagefind-filter="Ingredient">ground allspice</span></span>
-* 1/2 teaspoon freshly <span data-pagefind-filter="Ingredient">ground anise seed</span></span>
-* 2 cups (4 sticks) <span data-pagefind-filter="Ingredient">salted <span data-pagefind-filter="Ingredient">butter</span></span>
-* 4 cups packed <span data-pagefind-filter="Ingredient">golden <span data-pagefind-filter="Ingredient">brown sugar</span></span>
-* 2 tablespoons <span data-pagefind-filter="Ingredient">Brer Rabbit Mild <span data-pagefind-filter="Ingredient">molasses</span></span>
+* 1 teaspoon freshly ground cinnamon
+* 1 teaspoon freshly ground nutmeg
+* 1 teaspoon freshly ground black pepper
+* 3/4 teaspoon freshly ground cloves
+* 1/2 teaspoon freshly ground allspice
+* 1/2 teaspoon freshly ground anise seed
+* 2 cups (4 sticks) salted butter
+* 4 cups packed golden brown sugar
+* 2 tablespoons Brer Rabbit Mild molasses
 * 1 teaspoon pure vanilla extract
 
 ## Instructions
@@ -56,3 +56,33 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
   <stack-l>
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Batter"
+  data-ingredient[0]="Cinnamon, ground"
+  data-ingredient[1]="Nutmeg, ground"
+  data-ingredient[2]="Black pepper, ground"
+  data-ingredient[3]="Cloves, ground"
+  data-ingredient[4]="Allspice, ground"
+  data-ingredient[5]="Anise seed, ground"
+  data-ingredient[6]="Butter, salted"
+  data-ingredient[7]="Sugar, golden brown"
+  data-ingredient[8]="Molasses"
+  data-ingredient[9]="Brer Rabbit Mild molasses"
+  data-ingredient[10]="Vanilla extract"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Ingredient[data-ingredient[10]]
+  "
+>
+</div>

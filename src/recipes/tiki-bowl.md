@@ -51,7 +51,7 @@ Serves
 
 Garnish
   : <span data-pagefind-filter="Garnish">Edible orchid</span>
-  : <span data-pagefind-filter="Garnish">Drinking straws</span>
+  : <span data-pagefind-filter="Garnish">Drinking straw(s)</span>
 
 ## Instructions
 

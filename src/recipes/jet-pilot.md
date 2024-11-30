@@ -70,7 +70,7 @@ Garnish
   data-cat[0]="Drink"
   data-type[0]="Tropical"
   data-type[1]="Sour"
-  data-type[2]="Short drink`"
+  data-type[2]="Short drink"
   data-char[0]="Flash-blended"
   data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Lime juice"

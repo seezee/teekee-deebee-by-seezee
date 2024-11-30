@@ -29,8 +29,8 @@ Yield
 
 ## Ingredients
 
-* 1 ounce <span data-pagefind-filter="Ingredient">unsalted <span data-pagefind-filter="Ingredient">butter</span></span>
-* 1 ounce <span data-pagefind-filter="Ingredient">orange blossom <span data-pagefind-filter="Ingredient">honey</span></span>
+* 1 ounce unsalted butter
+* 1 ounce orange blossom honey
 * 1 teaspoon [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1/2 teaspoon [vanilla syrup](/mixes/vanilla-syrup)
 * 1/2 teaspoon allspice (pimento) dram
@@ -74,3 +74,5 @@ Yield
   "
 >
 </div>
+
+<div class="keywords" aria-hidden>batter</div>

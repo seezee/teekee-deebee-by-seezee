@@ -8,7 +8,7 @@ excerpt: Index of column still lightly aged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Bacardi Heritage 1909 (Mexico)
 * Caliche (Puerto Rico)

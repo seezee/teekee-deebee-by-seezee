@@ -20,10 +20,10 @@ Yield
 
 ## Ingredients
 
-* 500 milliliters fresh or bottled 100% <span data-pagefind-filter="Ingredient">pomegranate juice</span>, e.g. POM Wonderful
+* 500 milliliters fresh or bottled 100% pomegranate juice, e.g. POM Wonderful
 * 500 grams granulated sugar
-* 60 milliters <span data-pagefind-filter="Ingredient">pomegranate molasses</span>
-* 5 milliliters <span data-pagefind-filter="Ingredient">orange flower water</span>
+* 60 milliliters pomegranate molasses
+* 5 milliliters orange flower water
 
 ## Instructions
 
@@ -51,3 +51,21 @@ Yield
 yields 18 ounces of grenadine.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Pomegranate juice"
+  data-ingredient[2]="POM Wonderful 100% pomegranate juice"
+  data-ingredient[3]="Pomegranate molasses"
+  data-ingredient[4]="Orange flower water"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+  "
+>
+</div>

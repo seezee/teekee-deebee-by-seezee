@@ -84,7 +84,7 @@ Garnish
   data-origin[3]="Fort Defiance"
   data-source[0]="Punch magazine"
   data-glass[0]="Coupé"
-  data-garnish[0]="Lime wheel"
+  data-garnish[0]="Lime wheel(s)"
   data-decade[0]="1930"
   data-decade[1]="2010"
   data-pagefind-filter="

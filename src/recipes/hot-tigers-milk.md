@@ -30,7 +30,7 @@ Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe in Beachcomber's <span lang="fr">maître d'</span> Dick Santiago's personal notebook.
 
 Glassware
-  : <span data-pagefind-filter="Glassware">Heatproof mug</span>
+  : <span data-pagefind-filter="Glassware">Mug, heatproof</span>
 
 ## Ingredients
 
@@ -60,7 +60,7 @@ Jeff Berry specifies gold U.S. Virigin Islands rum, such as Cruzan Single Barrel
   data-char[0]="Hot"
   data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Tiger’s milk batter"
-  data-ingredient[1]="Clove, whole"
+  data-ingredient[1]="Cloves, whole"
   data-ingredient[2]="Orange peel"
   data-ingredient[3]="Water, boiling"
   data-ingredient[4]="Column still aged rum [4]"

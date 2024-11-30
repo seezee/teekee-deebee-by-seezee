@@ -9,7 +9,7 @@ excerpt: Index of pot still unaged cachaça.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Avuá Prata (Brazil)
 * Novo Fogo Silver (Brazil)

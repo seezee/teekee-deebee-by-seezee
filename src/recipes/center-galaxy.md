@@ -53,7 +53,7 @@ Glassware
 
 Garnish
   : <span data-pagefind-filter="Garnish">Raspberry</span>
-  : <span data-pagefind-filter="Garnish">Lime wheel</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel(s)</span>
 
 ## Instructions
 

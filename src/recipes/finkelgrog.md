@@ -78,7 +78,7 @@ Garnish
   data-ingredient[3]="Napa wine syrup"
   data-ingredient[4]="Licor 43"
   data-ingredient[5]="Blended lightly aged rum [2]"
-  data-ingredient[6]="Black blended rum [3]"
+  data-ingredient[6]="Black blended rum [5]"
   data-ingredient[7]="Seltzer"
   data-ingredient[8]="Soda water"
   data-ingredient[9]="Cinnamon, ground"

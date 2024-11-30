@@ -18,7 +18,7 @@ excerpt: Recipe for molasses syrup
 
 * 250 milliliters water
 * 500 grams granulated sugar
-* 112.5 milliliters <span data-pagefind-filter="Ingredient">Brer Rabbit Mild <span data-pagefind-filter="Ingredient">molasses</span></span>
+* 112.5 milliliters Brer Rabbit Mild molasses
 
 ## Instructions
 
@@ -41,3 +41,19 @@ excerpt: Recipe for molasses syrup
   For a richer molasses flavor, increase the molasses to sugar ratio.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Water"
+  data-ingredient[1]="Sugar, granulated"
+  data-ingredient[2]="Molasses"
+  data-ingredient[3]="Brer Rabbit Mild molasses"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]]
+  "
+>
+</div>

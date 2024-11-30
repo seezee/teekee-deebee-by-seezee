@@ -8,7 +8,7 @@ excerpt: Index of pot still aged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Berry Bros. & Rudd (independent bottler, various)
 * Cadenhead (independent bottler, various)

@@ -23,10 +23,10 @@ excerpt: Recipe for Smuggler's Cove spiced hibiscus infusion
 
 ## Ingredients
 
-* 3 quarter-sized discs of unpeeled <span data-pagefind-filter="Ingredient">fresh <span data-pagefind-filter="Ingredient">ginger</span></span>
+* 3 quarter-sized discs of unpeeled fresh ginger
 * 10 whole cloves
 * 1 liter [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
-* &frac34; cup <span data-pagefind-filter="Ingredient">dried <span data-pagefind-filter="Ingredient">hibiscus flowers</span></span>
+* &frac34; cup dried hibiscus flowers
 
 ## Instructions
 
@@ -41,3 +41,21 @@ excerpt: Recipe for Smuggler's Cove spiced hibiscus infusion
   This infusion will keep, refrigerated, for at least six months.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Preparation"
+  data-ingredient[0]="Blended lightly aged rum [2]"
+  data-ingredient[1]="Ginger, fresh"
+  data-ingredient[2]="Cloves, whole"
+  data-ingredient[3]="Hibiscus flowers, dried"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>preparation</div>

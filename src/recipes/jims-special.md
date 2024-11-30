@@ -95,7 +95,7 @@ Garnish
   data-ingredient[7]="Tequila, reposado"
   data-ingredient[8]="Black pot still rum"
   data-origin[0]="Tiki-Ti, Los Angeles"
-  data-origin[1]="Mike Buhen"
+  data-origin[1]="Mike Buhen Sr."
   data-origin[2]="Mike Buhen Jr."
   data-origin[3]="“Rasta Jim” Marshall"
   data-glass[0]="Brandy snifter"

@@ -46,7 +46,7 @@ Glassware
 
 ## Ingredients
 
-* 1/2 ounce <span data-pagefind-filter="Ingredient">honey</span>
+* 1/2 ounce honey
 * 1 ounce fresh orange juice
 * 2 ounces fresh lime juice
 * 1/2 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (overproof) (Puerto Rico)
@@ -55,7 +55,7 @@ Glassware
 
 Garnish
   : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
-  : <span data-pagefind-filter="Garnish">Lime wheel</span> or slice
+  : <span data-pagefind-filter="Garnish">Lime wheel(s)</span> or slice
   : Bamboo cocktail pick
 
 ## Instructions
@@ -76,7 +76,7 @@ Garnish
 <div
   data-cat[0]="Drink"
   data-type[0]="Sour"
-  data-type[1]="Short Drink"
+  data-type[1]="Short drink"
   data-char[0]="Shaken"
   data-char[1]="Strained"
   data-base[0]="Rum/Cane spirits"

@@ -84,7 +84,7 @@ Garnish
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Orange juice"
   data-ingredient[3]="Cinnamon syrup"
-  data-ingredient[4]="Vanilla syrup'"
+  data-ingredient[4]="Vanilla syrup"
   data-ingredient[5]="Allspice dram"
   data-ingredient[6]="Pimento dram"
   data-ingredient[7]="Column still aged rum [4]"

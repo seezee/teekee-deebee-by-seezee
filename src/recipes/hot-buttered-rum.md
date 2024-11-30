@@ -76,8 +76,7 @@ Garnish
   data-origin[1]="Dane Barca"
   data-origin[2]="Smuggler’s Cove"
   data-glass[0]="Coffee mug"
-  data-garnish[0]="Cinnamon"
-  data-garnish[1]="Nutmeg, grated"
+  data-garnish[0]="Nutmeg, grated"
   data-decade[0]="1860"
   data-decade[1]="2000"
   data-decade[2]="2010"
@@ -95,7 +94,6 @@ Garnish
     Origin[data-origin[2]],
     Glassware[data-glass[0]],
     Garnish[data-garnish[0]],
-    Garnish[data-garnish[1]],
     Decade[data-decade[0]],
     Decade[data-decade[1]],
     Decade[data-decade[2]]

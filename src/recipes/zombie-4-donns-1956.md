@@ -107,7 +107,7 @@ Garnish
   data-ingredient[1]="Grapefruit juice"
   data-ingredient[2]="Pineapple juice, unsweetened"
   data-ingredient[3]="Falernum"
-  data-ingredient[4]="Black blended ruby [5]"
+  data-ingredient[4]="Black blended rum [5]"
   data-ingredient[5]="Blended aged rum [3]"
   data-ingredient[6]="Black blended overproof rum [6]"
   data-ingredient[7]="Maraschino liqueur"

@@ -63,7 +63,7 @@ Garnish
   : <span data-pagefind-filter="Garnish">Mint sprig</span>
   : <span data-pagefind-filter="Garnish">Swizzle stick</span>
   : <span data-pagefind-filter="Garnish">Cocktail pick</span>
-  : <span data-pagefind-filter="Garnish">Pineapple chunks</span>
+  : <span data-pagefind-filter="Garnish">Pineapple chunk(s)</span>
   : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
 
 ## Instructions

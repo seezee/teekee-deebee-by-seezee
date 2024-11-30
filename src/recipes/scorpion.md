@@ -62,6 +62,7 @@ Serves
 
 Garnish
   : <span data-pagefind-filter="Garnish">None</span>
+  : <span data-pagefind-filter="Garnish">Fire</span>
 
 ## Instructions
 

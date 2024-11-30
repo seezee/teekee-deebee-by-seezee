@@ -10,7 +10,7 @@ excerpt: Index of blended aged rums.
 # {{ title }}<icon-l space="1em" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Appleton Estate Reserve Blend 8 (Jamaica)[^1]
 * Appleton Estate Rare Blend 12 (Jamaica)[^1]

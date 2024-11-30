@@ -56,7 +56,7 @@ Glassware
 Garnish
   : <span data-pagefind-filter="Garnish">Cocktail pick</span>
   : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
-  : <span data-pagefind-filter="Garnish">Pineapple chunk</span>
+  : <span data-pagefind-filter="Garnish">Pineapple chunk(s)</span>
 
 ## Instructions
 

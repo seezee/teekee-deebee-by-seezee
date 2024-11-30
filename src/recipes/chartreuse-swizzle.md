@@ -69,7 +69,7 @@ Garnish
 <div
   data-cat[0]="Drink"
   data-type[0]="Tropical"
-  data-type[1]="Tall Drink"
+  data-type[1]="Tall drink"
   data-type[2]="Swizzle"
   data-type[3]="Sour"
   data-char[0]="Herbal"

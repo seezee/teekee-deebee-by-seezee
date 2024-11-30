@@ -30,3 +30,17 @@ excerpt: Recipe for Donn’s Mix
   Donn's mix will keep, refrigerated, for a couple of weeks
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Preparation"
+  data-ingredient[0]="Cinnamon syrup"
+  data-ingredient[1]="Grapefruit juice"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]]
+  "
+>
+</div>
+
+<div class="keywords" aria-hidden>preparation</div>

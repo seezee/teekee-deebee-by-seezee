@@ -25,11 +25,11 @@ excerpt: Recipe for orgeat syrup
 
 ## Ingredients
 
-* 225 grams <span data-pagefind-filter="Ingredient">blanched <span data-pagefind-filter="Ingredient">almonds</span></span>
+* 225 grams blanched almonds
 * 500 milliliters water
 * 562.5 grams granulated sugar (approximately; see step 11)
-* &frac18; teaspoons <span data-pagefind-filter="Ingredient">rose water</span>
-* &frac18; teaspoons <span data-pagefind-filter="Ingredient">orange flower water</span>
+* &frac18; teaspoons rose water
+* &frac18; teaspoons orange flower water
 * 1 teaspoon [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)
 
 ## Instructions
@@ -59,3 +59,23 @@ excerpt: Recipe for orgeat syrup
   The orgeat will keep, refrigerated, for a few weeks.
 
 </tiki-callout>
+
+<div
+  data-cat[0]="Syrup"
+  data-ingredient[0]="Almonds, blanched"
+  data-ingredient[1]="Water"
+  data-ingredient[2]="Sugar, granulated"
+  data-ingredient[3]="Rose water"
+  data-ingredient[4]="Orange flower water"
+  data-ingredient[5]="Column still lightly aged rum"
+  data-pagefind-filter="
+    Category[data-cat[0]],
+    Ingredient[data-ingredient[0]],
+    Ingredient[data-ingredient[1]],
+    Ingredient[data-ingredient[2]],
+    Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Ingredient[data-ingredient[5]]
+  "
+>
+</div>

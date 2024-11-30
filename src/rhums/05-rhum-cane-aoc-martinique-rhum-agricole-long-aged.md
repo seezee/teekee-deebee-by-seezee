@@ -9,7 +9,7 @@ excerpt: Index of cane AOC Martinique rhums agricole long aged
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Clément Cuvée Homere (Martinique)
 * Neisson 15 Year (Martinique)

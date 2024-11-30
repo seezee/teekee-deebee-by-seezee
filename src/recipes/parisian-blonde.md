@@ -69,8 +69,7 @@ Garnish
   data-origin[0]="Erik Ellestad"
   data-origin[1]="Harry Craddock"
   data-glass[0]="Coupé"
-  data-garnish[0]="Cinnamon"
-  data-garnish[1]="Cinnamon, grated"
+  data-garnish[0]="Cinnamon, grated"
   data-decade[0]="1930"
   data-pagefind-filter="
     Category[data-cat[0]],
@@ -87,7 +86,6 @@ Garnish
     Origin[data-origin[1]],
     Glassware[data-glass[0]],
     Garnish[data-garnish[0]],
-    Garnish[data-garnish[1]],
     Decade[data-decade[0]]
   "
 >

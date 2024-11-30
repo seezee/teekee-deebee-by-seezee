@@ -10,7 +10,7 @@ excerpt: Index of column still aged rums.
 # {{ title }}<icon-l space="1em" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 <!-- markdownlint-disable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Admiral Rodney (St. Lucia)
 * Angostura 1824 (Trinidad)

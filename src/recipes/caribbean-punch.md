@@ -79,7 +79,7 @@ Garnish
   data-ingredient[2]="Falernum"
   data-ingredient[3]="1:1 simple syrup"
   data-ingredient[4]="Grenadine"
-  data-ingredient[5]="Pot still aged rum"
+  data-ingredient[5]="Pot still unaged rum"
   data-ingredient[6]="Column still aged rum [4]"
   data-ingredient[7]="Pernod"
   data-ingredient[8]="Herbsaint"

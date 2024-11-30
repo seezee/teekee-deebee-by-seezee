@@ -58,7 +58,7 @@ Glassware
 Garnish
   : <span data-pagefind-filter="Garnish">Mint sprig</span>
   : <span data-pagefind-filter="Garnish">Cinnamon stick</span>
-  : <span data-pagefind-filter="Garnish">Lime wheel</span>
+  : <span data-pagefind-filter="Garnish">Lime wheel(s)</span>
 
 ## Instructions
 

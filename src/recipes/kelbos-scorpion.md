@@ -52,7 +52,7 @@ Glassware
 
 Garnish
   : <span data-pagefind-filter="Garnish">Edible flower</span>
-  : <span data-pagefind-filter="Garnish">Drinking straw</span>
+  : <span data-pagefind-filter="Garnish">Drinking straw(s)</span>
 
 ## Instructions
 
@@ -83,6 +83,7 @@ Garnish
   data-ingredient[4]="Black pot still rum"
   data-ingredient[5]="Gin, London dry"
   data-ingredient[6]="Cognac"
+  data-ingredient[7]="Brandy"
   data-origin[0]="Hank Riddle"
   data-origin[1]="Kelbo’s, Los Angeles"
   data-glass[0]="Tiki bowl"
@@ -104,6 +105,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

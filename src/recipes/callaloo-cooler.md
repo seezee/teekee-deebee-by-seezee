@@ -88,8 +88,7 @@ Garnish
   data-ingredient[6]="Angostura bitters"
   data-origin[0]="Melissa Garcia"
   data-origin[1]="Smuggler’s Cove"
-  data-garnish[0]="Cinnamon"
-  data-garnish[1]="Cinnamon, grated"
+  data-garnish[0]="Cinnamon, grated"
   data-decade[0]="2000"
   data-decade[1]="2010"
   data-pagefind-filter="
@@ -112,7 +111,6 @@ Garnish
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Garnish[data-garnish[0]],
-    Garnish[data-garnish[1]]
     Decade[data-decade[0]],
     Decade[data-decade[1]]
   "

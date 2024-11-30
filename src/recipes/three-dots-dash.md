@@ -54,9 +54,9 @@ Glassware
 
 Garnish
   : Luxardo maraschino cherries
-  : <span data-pagefind-filter="Garnish">Pineapple chunk</span>
+  : <span data-pagefind-filter="Garnish">Pineapple chunk(s)</span>
   : <span data-pagefind-filter="Garnish">Cocktail pick</span>
-  : <span data-pagefind-filter="Garnish">Pineapple frond</span>
+  : <span data-pagefind-filter="Garnish">Pineapple frond(s)</span>
 
 ## Instructions
 

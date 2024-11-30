@@ -9,7 +9,7 @@ excerpt: Index of cane pot still unaged rums.
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<div class="index">
+<div class="index col-2">
 
 * Capovilla Agricole PMG (Marie Galante)
 * St. George Calif. Reserve Agricole (USA)
