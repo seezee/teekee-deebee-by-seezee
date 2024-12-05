@@ -90,6 +90,10 @@ Garnish
   data-ingredient[2]="Grapefruit juice"
   data-ingredient[3]="Donn’s Mix"
   data-ingredient[4]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-pantry[0]="Pineapple wedge"
+  data-pantry[1]="Maraschino cherry"
+  data-pantry[2]="Luxardo maraschino cherry"
+  data-pantry[3]="Edible orchid"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
   data-syrup[0]="Cinnamon syrup"
@@ -112,6 +116,10 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

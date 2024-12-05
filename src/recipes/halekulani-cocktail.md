@@ -73,6 +73,7 @@ Garnish
   data-ingredient[4]="Grenadine"
   data-ingredient[5]="Whiskey, bourbon"
   data-ingredient[6]="Angostura bitters"
+  data-pantry[0]="Edible orchid"
   data-juice[0]="Lemon juice"
   data-juice[1]="Orange juice"
   data-juice[2]="Pineapple juice, unsweetened"
@@ -98,6 +99,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Juice[data-juice[2]],

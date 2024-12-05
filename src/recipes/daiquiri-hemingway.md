@@ -80,6 +80,7 @@ Garnish
   data-ingredient[6]="Denizen Aged White Rum"
   data-ingredient[7]="Grapefruit peel"
   data-pantry[0]="Grapefruit peel"
+  data-pantry[1]="Lime wheel"
   data-syrup[0]="1:1 simple syrup"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
@@ -112,6 +113,7 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Syrup[data-syrup[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],

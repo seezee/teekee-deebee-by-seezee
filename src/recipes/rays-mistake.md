@@ -77,6 +77,11 @@ Garnish
 
 [^1]: You may employ the pousse-café technique of pouring the rum over the back of a spoon to make this easier.
 
+<tiki-callout type="warning" title="Caution">
+
+  Allegedly, Jeff Berry <a href="https://tikicentral.com/viewpost.php?post_id=763495" target="_blank" rel="external noopener">strongly disagrees</a> that this is the true recipe for Ray's Mistake.
+</tiki-callout>
+
 <tiki-callout type="tip">
 
   Be sure to serve this with a straw lest you (or your guest) taste nothing but the float. Tiki-Ti furnishes oversized straws; the pink straws Braum's restaurants provides with their malts and shakes seem purpose-made for this.
@@ -109,6 +114,9 @@ Garnish
   data-ingredient[8]="Column still lightly aged rum "
   data-ingredient[9]="Angostura bitters"
   data-ingredient[10]="Black blended rum [5]"
+  data-pantry[0]="Pineapple wedge"
+  data-pantry[1]="Maraschino cherry"
+  data-pantry[2]="Luxardo maraschino cherry"
   data-juice[0]="Pineapple juice, unsweetened"
   data-juice[1]="Lime juice"
   data-syrup[0]="Passion fruit syrup"
@@ -143,6 +151,9 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

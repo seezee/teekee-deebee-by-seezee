@@ -88,6 +88,7 @@ Garnish
   data-syrup[2]="Small Hand Foods Raspberry Gum syrup"
   data-juice[0]="Lime juice"
   data-liquor[0]="Blended aged rum [3]"
+  data-bitters[0]="Angostura bitters"
   data-glass[0]="Coupé"
   data-decade[0]="1950"
   data-pagefind-filter="
@@ -112,6 +113,7 @@ Garnish
     Syrup[data-syrup[2]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],
+    Bitters[data-bitters[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]]
 ">

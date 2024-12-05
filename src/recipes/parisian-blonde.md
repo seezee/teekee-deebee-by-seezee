@@ -67,6 +67,7 @@ Garnish
   data-ingredient[1]="Curaçao"
   data-ingredient[2]="Blended aged rum [3]"
   data-ingredient[3]="Sweet cream"
+  data-pantry[0]="Cinnamon, grated"
   data-liquor[0]="Curaçao, dry"
   data-liquor[1]="Curaçao"
   data-liquor[2]="Blended aged rum [3]"
@@ -87,6 +88,7 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Pantry[data-pantry[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],
     Liquor[data-liquor[2]],

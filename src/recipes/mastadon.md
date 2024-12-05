@@ -107,6 +107,7 @@ Garnish
   data-ingredient[9]="Peychaud’s bitters"
   data-pantry[0]="Passion fruit purée"
   data-pantry[1]="Funkin passion fruit purée"
+  data-pantry[2]="Pineapple"
   data-juice[0]="Pineapple juice, unsweetened"
   data-juice[1]="Lime juice"
   data-liquor[0]="Licor 43"
@@ -139,6 +140,7 @@ Garnish
     Ingredient[data-ingredient[9]],
     Pantry[data-pantry[0]],
     Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Liquor[data-liquor[0]],

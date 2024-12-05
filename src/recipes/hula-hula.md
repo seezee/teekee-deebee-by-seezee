@@ -66,6 +66,7 @@ Garnish
   data-ingredient[1]="Curaçao"
   data-ingredient[2]="Curaçao, dry"
   data-ingredient[3]="Orange juice"
+  data-pantry[0]="Edible orchid"
   data-juice[0]="Orange juice"
   data-liquor[0]="Gin, London dry"
   data-liquor[1]="Curaçao"
@@ -88,6 +89,7 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],

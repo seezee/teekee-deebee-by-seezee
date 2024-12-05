@@ -97,6 +97,7 @@ Garnish
   data-ingredient[7]="Herbstura"
   data-ingredient[8]="Nutmeg, grated"
   data-pantry[0]="Nutmeg, grated"
+  data-pantry[1]="Mint sprig"
   data-juice[0]="Lime juice"
   data-syrup[0]="Rich Demerara syrup"
   data-syrup[1]="Honey syrup"
@@ -128,6 +129,7 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

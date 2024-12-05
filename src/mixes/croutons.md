@@ -29,7 +29,7 @@ You didn't seriously expect us to provide a crouton recipe, did you? Just <a hre
   class="sr-only"
   data-cat[0]="Garnish"
   data-ingredient[0]="Bread, crusty"
-  data-ingredient[1]="Oil, olive, extra-virgin"
+  data-ingredient[1]="Olive oil, extra-virgin"
   data-ingredient[2]="Salt, kosher"
   data-ingredient[3]="Diamond Crystal kosher salt"
   data-ingredient[4]="Pepper, ground"

@@ -87,6 +87,7 @@ Garnish
   data-ingredient[9]="Blended aged rum [3]"
   data-ingredient[10]="Blended aged rum (Barbados) [3]"
   data-ingredient[11]="Angostura bitters"
+  data-pantry[0]="Orange slice"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
   data-juice[2]="Orange juice"
@@ -122,6 +123,7 @@ Garnish
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Juice[data-juice[2]],

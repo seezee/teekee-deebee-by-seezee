@@ -69,6 +69,7 @@ Garnish
   data-ingredient[3]="Gin, London dry"
   data-ingredient[4]="Angostura bitters"
   data-ingredient[5]="Lemonade, dry sparkling"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Passion fruit syrup"
   data-syrup[1]="Honey syrup"
@@ -92,6 +93,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

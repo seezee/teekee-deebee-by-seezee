@@ -86,6 +86,7 @@ Garnish
   data-ingredient[5]="Peychaud’s bitters"
   data-ingredient[6]="Champagne"
   data-ingredient[7]="Sparkling wine"
+  data-pantry[0]="Lemon twist"
   data-liquor[0]="Curaçao, dry"
   data-liquor[1]="Curaçao"
   data-liquor[2]="R.L. Seale 10 Year Rum"
@@ -114,6 +115,7 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],
     Liquor[data-liquor[2]],

@@ -107,6 +107,8 @@ Garnish
   data-ingredient[3]="Curaçao, dry"
   data-ingredient[4]="Curaçao"
   data-ingredient[5]="Blended aged rum [3]"
+  data-pantry[0]="Mint sprig"
+  data-pantry[1]="Lime shell"
   data-juice[0]="Lime juice"
   data-syrup[0]="Mai tai rich simple syrup"
   data-syrup[1]="Orgeat"
@@ -130,6 +132,8 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

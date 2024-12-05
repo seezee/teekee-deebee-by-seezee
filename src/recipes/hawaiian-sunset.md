@@ -17,8 +17,7 @@ ingredient:
   - grenadine
   - vodka
 garnish: lime peel
-glass:
-  - coupe
+glass: coupe
 origin:  From the menu of the Aku Aku Polynesian Restaurant (Stardust Casino, Las Vegas, circa 1930s).
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
@@ -69,6 +68,7 @@ Garnish
   data-ingredient[2]="Orgeat"
   data-ingredient[3]="Grenadine"
   data-ingredient[4]="Vodka"
+  data-pantry[0]="Lime peel"
   data-juice[0]="Lime juice"
   data-juice[1]="Lemon juice"
   data-syrup[0]="Orgeat"
@@ -91,6 +91,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

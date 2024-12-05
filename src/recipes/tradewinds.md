@@ -77,6 +77,7 @@ Garnish
   data-ingredient[2]="Apricot liqueur"
   data-ingredient[3]="Black blended rum [5]"
   data-ingredient[4]="Blended lightly aged rum [2]"
+  data-pantry[0]="Lemon wedge"
   data-juice[0]="Lemon juice"
   data-liquor[0]="Apricot liqueur"
   data-liquor[1]="Black blended rum [5]"
@@ -96,6 +97,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],

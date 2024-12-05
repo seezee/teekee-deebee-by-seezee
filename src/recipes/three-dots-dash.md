@@ -86,6 +86,10 @@ Garnish
   data-ingredient[5]="Pimento dram"
   data-ingredient[6]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[7]="Angostura bitters"
+  data-pantry[0]="Pineapple frond(s)"
+  data-pantry[1]="Pineapple chunk(s)"
+  data-pantry[2]="Maraschino cherry"
+  data-pantry[3]="Luxardo maraschino cherry"
   data-juice[0]="Lime juice"
   data-juice[1]="Orange juice"
   data-syrup[0]="Honey syrup"
@@ -115,6 +119,10 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

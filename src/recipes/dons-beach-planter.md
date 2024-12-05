@@ -91,6 +91,10 @@ Garnish
   data-ingredient[7]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[8]="Black pot still rum"
   data-ingredient[9]="Brandy"
+  data-pantry[0]="Mint sprig"
+  data-pantry[1]="Maraschino cherry"
+  data-pantry[2]="Luxardo maraschino cherry"
+  data-pantry[3]="Pineapple chunk(s)"
   data-juice[0]="Lime juice"
   data-juice[1]="Pineapple juice, unsweetened"
   data-syrup[0]="Passion fruit syrup"
@@ -123,6 +127,10 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

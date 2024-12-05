@@ -75,6 +75,7 @@ Garnish
   data-ingredient[7]="Madeira"
   data-ingredient[8]="Angostura bitters"
   data-ingredient[9]="Wine, fortified"
+  data-pantry[0]="Lemon twist"
   data-juice[0]="Lemon juice"
   data-syrup[0]="2:1 rich simple syrup"
   data-liquor[0]="Curaçao"
@@ -109,6 +110,7 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

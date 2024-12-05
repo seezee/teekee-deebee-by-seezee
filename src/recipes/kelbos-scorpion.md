@@ -85,6 +85,7 @@ Garnish
   data-ingredient[5]="Gin, London dry"
   data-ingredient[6]="Cognac"
   data-ingredient[7]="Brandy"
+  data-pantry[0]="Edible flower"
   data-juice[0]="Lime juice"
   data-juice[1]="Orange juice"
   data-syrup[0]="Passion fruit syrup"
@@ -115,6 +116,7 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

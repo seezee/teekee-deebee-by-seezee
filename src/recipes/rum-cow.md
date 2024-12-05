@@ -69,6 +69,7 @@ Garnish
   data-ingredient[1]="Milk, whole"
   data-ingredient[2]="Black pot still rum"
   data-pantry[0]="Milk, whole"
+  data-pantry[1]="Nutmeg, grated"
   data-syrup[0]="1:1 simple syrup"
   data-liquor[0]="Black pot still rum"
   data-origin[0]="Don the Beachcomber"
@@ -91,6 +92,7 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],
     Origin[data-origin[0]],

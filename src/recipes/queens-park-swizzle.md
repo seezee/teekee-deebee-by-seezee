@@ -75,16 +75,6 @@ Garnish
 </tiki-callout>
 
 <div
-  data-origin[0]="Trader Vic"
-  data-origin[1]="Victor Bergeron"
-  data-pagefind-filter="
-    Origin[data-origin[0]],
-    Origin[data-origin[1]]
-  "
->
-</div>
-
-<div
   class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
@@ -102,6 +92,7 @@ Garnish
   data-ingredient[3]="Black blended rum [5]"
   data-ingredient[4]="Angostura bitters"
   data-pantry[0]="Mint leaves"
+  data-pantry[1]="Mint sprig"
   data-juice[0]="Lime juice"
   data-syrup[0]="Rich Demerara syrup"
   data-liquor[0]="Black blended rum [5]"
@@ -126,6 +117,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

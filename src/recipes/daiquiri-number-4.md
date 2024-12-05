@@ -81,6 +81,7 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
   data-ingredient[2]="Luxardo maraschino liqueur"
   data-ingredient[3]="Rich Demerara syrup"
   data-ingredient[4]="Blended lightly aged rum [2]"
+  data-pantry[0]="Lime wedge"
   data-syrup[0]="Rich Demerara syrup"
   data-juice[0]="Lime juice"
   data-liquor[0]="Maraschino liqueur"
@@ -103,6 +104,7 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Syrup[data-syrup[0]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],

@@ -93,6 +93,7 @@ Garnish
   data-ingredient[3]="Blended aged rum [3]"
   data-ingredient[4]="Blended aged rum (Guyana) [3]"
   data-ingredient[5]="Angostura bitters"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Lime juice"
   data-syrup[0]="Maple syrup"
   data-liquor[0]="Falernum"
@@ -117,6 +118,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

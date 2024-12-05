@@ -80,6 +80,7 @@ Garnish
   data-ingredient[4]="Black blended overproof rum [6]"
   data-ingredient[5]="Column still aged rum [4]"
   data-ingredient[6]="Herbstura"
+  data-pantry[0]="Edible orchid"
   data-juice[0]="Orange juice"
   data-juice[1]="Lime juice"
   data-syrup[0]="Honey syrup"
@@ -108,6 +109,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

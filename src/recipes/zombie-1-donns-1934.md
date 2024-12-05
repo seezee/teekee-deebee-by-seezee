@@ -101,7 +101,8 @@ Garnish
   data-ingredient[6]="Blended aged rum [3]"
   data-ingredient[7]="Column still aged rum [4]"
   data-ingredient[8]="Black blended overproof rum [6]"
-  data-ingredient[9]="Herbstura"\
+  data-ingredient[9]="Herbstura"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
   data-syrup[0]="Cinnamon syrup"
@@ -134,6 +135,7 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

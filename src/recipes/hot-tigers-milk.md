@@ -68,6 +68,7 @@ Jeff Berry specifies gold U.S. Virigin Islands rum, such as Cruzan Single Barrel
   data-pantry[0]="Cloves, whole"
   data-pantry[1]="Orange peel"
   data-pantry[2]="Water, boiling"
+  data-pantry[3]="Cinnamon, grated"
   data-liquor[0]="Column still aged rum [4]"
   data-batter[0]="Tiger’s milk batter"
   data-origin[0]="Don the Beachcomber"
@@ -88,6 +89,7 @@ Jeff Berry specifies gold U.S. Virigin Islands rum, such as Cruzan Single Barrel
     Pantry[data-pantry[0]],
     Pantry[data-pantry[1]],
     Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Liquor[data-liquor[0]],
     Batter[data-batter[0]],
     Ingredient[data-ingredient[4]],

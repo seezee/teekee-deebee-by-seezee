@@ -97,6 +97,7 @@ Garnish
   data-ingredient[9]="Sugar, brown"
   data-ingredient[10]="Angostura bitters"
   data-pantry[0]="Sugar, brown"
+  data-pantry[1]="Mint sprig"
   data-juice[0]="Lime juice"
   data-juice[1]="Lemon juice"
   data-juice[2]="Pineapple juice, unsweetened"
@@ -131,6 +132,7 @@ Garnish
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Juice[data-juice[1]],

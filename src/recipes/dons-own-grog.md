@@ -92,6 +92,7 @@ Garnish
   data-ingredient[8]="Blended lightly aged rum [2]"
   data-ingredient[9]="Black pot still rum"
   data-ingredient[10]="Angostura bitters"
+  data-pantry[0]="Nutmeg, grated"
   data-juice[0]="Lime juice"
   data-syrup[0]="Rich Demerara syrup"
   data-syrup[1]="Grenadine"
@@ -128,6 +129,7 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

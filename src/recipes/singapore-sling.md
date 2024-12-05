@@ -111,6 +111,7 @@ Garnish
   data-ingredient[6]="Gin, London dry"
   data-ingredient[7]="Angostura bitters"
   data-ingredient[8]="Orange bitters"
+  data-pantry[0]="Lemon wedge"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Rich Demerara syrup"
   data-liquor[0]="Cherry Heering"
@@ -145,6 +146,7 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

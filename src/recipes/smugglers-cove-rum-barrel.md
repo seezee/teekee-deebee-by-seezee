@@ -107,6 +107,9 @@ Garnish
   data-ingredient[9]="Blended aged rum [3]"
   data-ingredient[10]="Black blended overproof rum [6]"
   data-ingredient[11]="Angostura bitters"
+  data-pantry[0]="Nutmeg, grated"
+  data-pantry[1]="Mint sprig"
+  data-pantry[2]="Edible orchid"
   data-juice[0]="Lime juice"
   data-juice[1]="Pineapple juice, unsweetened"
   data-syrup[0]="Vanilla syrup"
@@ -147,6 +150,9 @@ Garnish
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

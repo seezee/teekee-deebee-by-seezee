@@ -81,6 +81,7 @@ Garnish
   data-ingredient[3]="Rich Demerara syrup"
   data-ingredient[4]="Orgeat"
   data-ingredient[5]="Akvavit"
+  data-pantry[0]="Lemon wedge"
   data-juice[0]="Orange juice"
   data-juice[1]="Pineapple juice, unsweetened"
   data-juice[2]="Lemon juice"
@@ -104,6 +105,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Juice[data-juice[2]],

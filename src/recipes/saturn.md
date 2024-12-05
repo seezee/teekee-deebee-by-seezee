@@ -69,6 +69,7 @@ Garnish
   data-ingredient[2]="Orgeat"
   data-ingredient[3]="Falernum"
   data-ingredient[4]="Gin, London dry"
+  data-pantry[0]="Lemon peel"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Passion fruit syrup"
   data-syrup[1]="Orgeat"
@@ -92,6 +93,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

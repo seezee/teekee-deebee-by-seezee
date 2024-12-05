@@ -22,6 +22,7 @@ ingredient:
   - brandy
   - London dry gin
   - blended lightly aged rum (2)
+garnish: fire
 glass: scorpion bowl
 origin: <stack-l><p>Trader Vic's third most famous cocktail, after the mai tai and the fog cutter. According to Martin Cate, Vic was inspired by a communal punch he drank at a luau in Hawaii and a <a href="https://en.wikipedia.org/wiki/Kava_culture" target="_blank" rel="external noopener">kava bowl ceremony</a> he witnessed in Micronesia.</p><p>Vic's 1947 recipe included lemon juice, gin, and white wine. He revised the recipe for single portions in the 1972 <cite>Trader Vic's Bartender's Guide</cite> reprint, omitting the gin and wine.<p><p>When Steve Crane, owner of the Luau in Beverly Hills, adapted the recipe in 1958 he swapped out the lemon juice in Trader Vic's recipe for lime juice and also dropped the white wine.</p></stack-l>
 source: Trader Vic's Bartender's Guide

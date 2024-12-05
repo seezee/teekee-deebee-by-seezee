@@ -64,6 +64,7 @@ Garnish
   data-ingredient[0]="Li hing mui syrup"
   data-ingredient[1]="Blended aged rum [3]"
   data-ingredient[2]="Angostura bitters"
+  data-pantry[0]="Orange peel"
   data-syrup[0]="Li hing mui syrup"
   data-liquor[0]="Blended aged rum [3]"
   data-bitters[0]="Angostura bitters"
@@ -81,6 +82,7 @@ Garnish
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Pantry[data-pantry[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],
     Bitters[data-bitters[0]],

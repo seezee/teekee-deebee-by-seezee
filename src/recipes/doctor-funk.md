@@ -143,6 +143,8 @@ We recommend you flash-blend this recipe in a drink mixer as instructed in the D
   data-liquor[1]="Pastis"
   data-liquor[2]="Pernod"
   data-liquor[3]="Black pot still rum"
+  data-pantry[0]="Ti leaf"
+  data-pantry[1]="Pineapple frond(s)"
   data-soda[0]="Seltzer"
   data-soda[1]="Soda water"
   data-prep[0]="Tonga mix"
@@ -171,6 +173,8 @@ We recommend you flash-blend this recipe in a drink mixer as instructed in the D
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

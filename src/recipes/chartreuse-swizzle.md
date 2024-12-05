@@ -20,7 +20,7 @@ ingredient:
 garnish: 
   - swizzle napkin wrap
   - nutmeg
-  - mit sprig
+  - mint sprig
 glass:
   - collins
   - zombie
@@ -82,6 +82,8 @@ Garnish
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Falernum"
   data-ingredient[3]="Chartreuse, Green"
+  data-pantry[0]="Mint sprig"
+  data-pantry[1]="Nutmeg, grated"
   data-juice[0]="Pineapple juice, unsweetened"
   data-juice[1]="Lime juice"
   data-liquor[0]="Falernum"
@@ -103,6 +105,8 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Liquor[data-liquor[0]],

@@ -91,6 +91,8 @@ Garnish
   data-ingredient[7]="Column still lightly aged rum"
   data-ingredient[8]="Column still lightly aged rum (overproof) (Puerto Rico)"
   data-pantry[0]="Honey"
+  data-pantry[1]="Luxardo maraschino cherry"
+  data-pantry[2]="Maraschino cherry"
   data-juice[0]="Orange juice"
   data-juice[1]="Lime juice"
   data-liquor[0]="Black pot still rum"
@@ -122,6 +124,8 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Liquor[data-liquor[0]],

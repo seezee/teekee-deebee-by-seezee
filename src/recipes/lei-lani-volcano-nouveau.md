@@ -83,6 +83,7 @@ Garnish
   data-ingredient[2]="Lime juice"
   data-ingredient[3]="Coconut cream"
   data-ingredient[4]="Blended aged rum [3]"
+  data-pantry[0]="Edible orchid"
   data-juice[0]="Pineapple juice, unsweetened"
   data-juice[1]="Lime juice"
   data-liquor[0]="Blended aged rum [3]"
@@ -108,6 +109,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Liquor[data-liquor[0]],

@@ -76,6 +76,8 @@ Garnish
   data-ingredient[7]="Blended aged rum [3]"
   data-ingredient[8]="Bittermens ʻElemakule tiki bitters"
   data-ingredient[9]="Wine, fortified"
+  data-pantry[0]="Luxardo maraschino cherry"
+  data-pantry[1]="Maraschino cherry"
   data-syrup[0]="Cinnamon syrup"
   data-liquor[0]="Punt e Mes"
   data-liquor[1]="Wine, aromatized"
@@ -115,6 +117,8 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],

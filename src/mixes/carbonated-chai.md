@@ -44,7 +44,6 @@ excerpt: Recipe for Smuggler's Cove carbonated chai (spiced tea)
     Ingredient[data-ingredient[1]],
     Pantry[data-ingredient[0]],
     Pantry[data-ingredient[1]]
-
   "
 >
 </div>

@@ -81,6 +81,9 @@ Garnish
   data-ingredient[4]="Pisco"
   data-ingredient[5]="Pisco, Peruvian"
   data-ingredient[6]="Angostura bitters"
+  data-pantry[0]="Edible hibiscus flower"
+  data-pantry[1]="Maraschino cherry"
+  data-pantry[2]="Luxardo maraschino cherry"
   data-juice[0]="Lime juice"
   data-syrup[0]="Rich Demerara syrup"
   data-liquor[0]="Hibiscus liqueur"
@@ -111,6 +114,9 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

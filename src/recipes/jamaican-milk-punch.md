@@ -86,6 +86,7 @@ Garnish
   data-pantry[0]="Milk, whole"
   data-pantry[1]="Cream, heavy whipping"
   data-pantry[2]="Vanilla extract"
+  data-pantry[3]="Nutmeg, grated"
   data-syrup[0]="Rich Demerara syrup"
   data-liquor[0]="Black blended rum [5]"
   data-liquor[1]="Black blended rum (Jamaica) [5]"
@@ -115,6 +116,7 @@ Garnish
     Pantry[data-pantry[0]],
     Pantry[data-pantry[1]],
     Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],

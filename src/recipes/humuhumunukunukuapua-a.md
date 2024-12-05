@@ -75,12 +75,6 @@ Garnish
 </tiki-callout>
 
 <div
-  data-pagefind-filter="
-  "
->
-</div>
-
-<div
   class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"
@@ -93,6 +87,9 @@ Garnish
   data-ingredient[2]="Orgeat"
   data-ingredient[3]="Gin, London dry"
   data-ingredient[4]="Peychaud’s bitters"
+  data-pantry[0]="Luxardo maraschino cherry"
+  data-pantry[1]="Maraschino cherry"
+  data-pantry[2]="Edible orchid"
   data-juice[0]="Lemon juice"
   data-juice[1]="Pineapple juice, unsweetened"
   data-syrup[0]="Orgeat"
@@ -117,6 +114,9 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

@@ -80,6 +80,8 @@ Garnish
   data-ingredient[4]="Pisco, Peruvian"
   data-ingredient[5]="Gin, London dry"
   data-ingredient[6]="Bittermens Burlesque bitters"
+  data-pantry[0]="Edible orchid"
+  data-pantry[1]="Edible hibiscus flower"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Passion fruit syrup"
   data-liquor[0]="Falernum"
@@ -107,6 +109,8 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

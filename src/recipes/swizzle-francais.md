@@ -22,7 +22,7 @@ ingredient:
   - grated nutmeg
 garnish: 
   - swizzle napkin wrap
-  - mit sprig
+  - mint sprig
 glass:
   - collins
   - highball
@@ -90,6 +90,7 @@ Garnish
   data-ingredient[5]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[6]="Nutmeg, grated"
   data-pantry[0]="Nutmeg, grated"
+  data-pantry[1]="Mint sprig"
   data-juice[0]="Lime juice"
   data-syrup[0]="Sugarcane syrup, Martinique"
   data-syrup[1]="Rhum J.M. Sirop sugarcane syrup"
@@ -116,6 +117,7 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

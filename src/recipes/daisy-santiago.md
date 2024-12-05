@@ -69,6 +69,7 @@ Garnish
   data-ingredient[3]="Soda water"
   data-ingredient[4]="Chartreuse, Yellow"
   data-ingredient[5]="Blended lightly aged rum [2]"
+  data-pantry[0]="Mint sprig"
   data-syrup[0]="Rich Demerara syrup"
   data-juice[0]="Lime juice"
   data-liquor[0]="Chartreuse, Yellow"
@@ -92,6 +93,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
     Syrup[data-syrup[0]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],

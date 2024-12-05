@@ -19,6 +19,9 @@ ingredient:
   - peach liqueur
   - blended lightly aged rum (2)
   - seltzer
+garnish:
+  - nutmeg
+  - peach wedge
 glass: 
   - double old-fashioned
   - double rocks
@@ -88,6 +91,8 @@ Garnish
   data-ingredient[8]="Soda water"
   data-pantry[0]="Peach, yellow, chopped"
   data-pantry[1]="Peach, white, chopped"
+  data-pantry[2]="Nutmeg, grated"
+  data-pantry[3]="Peach wedge"
   data-batter[0]="Coconut cream"
   data-juice[0]="Orange juice"
   data-juice[1]="Lemon juice"
@@ -121,6 +126,8 @@ Garnish
     Ingredient[data-ingredient[8]],
     Pantry[data-pantry[0]],
     Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Batter[data-batter[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],

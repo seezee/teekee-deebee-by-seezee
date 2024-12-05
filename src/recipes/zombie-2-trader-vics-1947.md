@@ -86,6 +86,7 @@ Garnish
   data-ingredient[7]="Black blended overproof rum [6]"
   data-ingredient[8]="Pernod"
   data-ingredient[9]="Pastis"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Lemon juice"
   data-juice[1]="Orange juice"
   data-syrup[0]="Grenadine"
@@ -117,6 +118,7 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

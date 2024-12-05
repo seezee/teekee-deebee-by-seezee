@@ -69,6 +69,7 @@ Garnish
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Campari"
   data-ingredient[4]="Black blended rum [5]"
+  data-pantry[0]="Pineapple frond(s)"
   data-juice[0]="Pineapple juice, unsweetened"
   data-juice[1]="Lime juice"
   data-syrup[0]="Rich Demerara syrup"
@@ -88,6 +89,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

@@ -85,6 +85,8 @@ Garnish
   data-ingredient[3]="Lime juice"
   data-ingredient[4]="Lemon juice"
   data-ingredient[5]="Gin, London dry"
+  data-pantry[0]="Edible orchid"
+  data-pantry[1]="Papaya"
   data-syrup[0]="Grenadine"
   data-juice[0]="Lime juice"
   data-juice[1]="Lemon juice"
@@ -113,6 +115,8 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Syrup[data-syrup[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],

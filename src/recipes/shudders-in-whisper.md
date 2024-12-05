@@ -76,6 +76,8 @@ Garnish
   data-ingredient[6]="Column still aged rum [4]"
   data-ingredient[7]="Peychaud’s bitters"
   data-ingredient[8]="Angostura bitters"
+  data-pantry[0]="Edible orchid"
+  data-pantry[1]="Mint sprig"
   data-juice[0]="Lime juice"
   data-syrup[0]="Passion fruit syrup"
   data-liquor[0]="Pear liqueur"
@@ -104,6 +106,8 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

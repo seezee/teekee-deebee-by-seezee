@@ -96,6 +96,9 @@ Garnish
   data-ingredient[7]="Tequila, reposado"
   data-ingredient[8]="Black pot still rum"
   data-pantry[0]="Lime wedge"
+  data-pantry[1]="Pineapple wedge"
+  data-pantry[2]="Maraschino cherry"
+  data-pantry[3]="Luxardo maraschino cherry"
   data-juice[0]="Lime juice"
   data-syrup[0]="Passion fruit syrup"
   data-syrup[1]="Orgeat"
@@ -131,6 +134,9 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

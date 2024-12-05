@@ -89,6 +89,7 @@ Garnish
   data-ingredient[3]="Pot still lightly aged rum [1]"
   data-ingredient[4]="Water, boiling"
   data-pantry[0]="Water, boiling"
+  data-pantry[1]="Lemon peel"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Honey syrup"
   data-liquor[0]="Black blended overproof rum [6]"
@@ -114,6 +115,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

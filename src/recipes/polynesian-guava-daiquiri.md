@@ -73,6 +73,9 @@ Garnish
   data-ingredient[3]="Crème de banane"
   data-ingredient[4]="Gin, London dry"
   data-pantry[0]="Guava nectar"
+  data-pantry[1]="Maraschino cherry"
+  data-pantry[2]="Luxardo maraschino cherry"
+  data-pantry[3]="Pineapple chunk(s)"
   data-juice[0]="Lime juice"
   data-liquor[0]="Banana liqueur"
   data-liquor[1]="Crème de banane"
@@ -95,6 +98,9 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],

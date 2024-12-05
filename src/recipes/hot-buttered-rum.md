@@ -74,6 +74,7 @@ Garnish
   data-ingredient[1]="Blended aged rum [3]"
   data-ingredient[2]="Water, boiling"
   data-pantry[0]="Water, boiling"
+  data-pantry[1]="Cinnamon stick"
   data-liquor[0]="Blended aged rum [3]"
   data-batter[0]="Hot buttered rum batter"
   data-origin[0]="Jerry Thomas"
@@ -94,6 +95,7 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Liquor[data-liquor[0]],
     Batter[data-batter[0]],
     Origin[data-origin[0]],

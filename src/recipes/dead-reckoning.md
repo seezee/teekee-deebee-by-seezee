@@ -99,6 +99,9 @@ Garnish
   data-ingredient[9]="Blended aged rum [3]"
   data-ingredient[10]="Angostura bitters"
   data-ingredient[11]="Wine, fortified"
+  data-pantry[0]="Pineapple frond(s)"
+  data-pantry[1]="Mint sprig"
+  data-pantry[2]="Lemon twist"
   data-juice[0]="Lemon juice"
   data-juice[1]="Pineapple juice, unsweetened"
   data-syrup[0]="Maple syrup"
@@ -114,7 +117,6 @@ Garnish
   data-beer-wine[0]="Port, tawny"
   data-beer-wine[1]="Wine, fortified"
   data-origin[0]="Smuggler’s Cove"
-  data-garnish[0]="Lemon twist"
   data-decade[0]="2000"
   data-pagefind-filter="
     Category[data-cat[0]],
@@ -138,6 +140,9 @@ Garnish
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],
@@ -153,7 +158,6 @@ Garnish
     Beer & Wine[data-beer-wine[0]],
     Beer & Wine[data-beer-wine[1]],
     Origin[data-origin[0]],
-    Garnish[data-garnish[0]],
     Decade[data-decade[0]]
   "
 >

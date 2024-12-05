@@ -81,6 +81,7 @@ Garnish
   data-ingredient[8]="Seltzer"
   data-ingredient[9]="Soda water"
   data-ingredient[10]="Domaine de Canton"
+  data-pantry[0]="Nutmeg, grated"
   data-juice[0]="Pineapple juice, unsweetened"
   data-juice[1]="Lemon juice"
   data-syrup[0]="Rich Demerara syrup"
@@ -115,6 +116,7 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

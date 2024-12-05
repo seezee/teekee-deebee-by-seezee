@@ -79,6 +79,7 @@ Garnish
   data-ingredient[4]="Falernum"
   data-ingredient[5]="Cane coffey still aged rum"
   data-ingredient[6]="Angostura bitters"
+  data-pantry[0]="Lime wedge"
   data-juice[0]="Lime juice"
   data-juice[1]="Pineapple juice, unsweetened"
   data-syrup[0]="Rich Demerara syrup"
@@ -104,6 +105,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

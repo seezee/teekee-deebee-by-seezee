@@ -84,6 +84,8 @@ Garnish
   data-ingredient[7]="Pot still lightly aged rum [1]"
   data-ingredient[8]="Seltzer"
   data-ingredient[9]="Soda water"
+  data-pantry[0]="Edible orchid"
+  data-pantry[1]="Mint sprig cluster"
   data-juice[0]="Lemon juice"
   data-juice[1]="Lime juice"
   data-syrup[0]="Honey syrup"
@@ -116,6 +118,8 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

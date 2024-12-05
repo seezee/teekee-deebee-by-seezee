@@ -86,6 +86,7 @@ Garnish
   data-ingredient[5]="Pimento dram"
   data-ingredient[6]="Black blended rum [5]"
   data-ingredient[7]="Angostura bitters"
+  data-pantry[0]="Lemon twist"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Molasses syrup"
   data-liquor[0]="Allspice dram"
@@ -112,6 +113,7 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

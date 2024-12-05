@@ -73,6 +73,7 @@ Garnish
   data-ingredient[2]="Pot still unaged rum (overproof)"
   data-ingredient[3]="Grapefruit soda"
   data-ingredient[4]="Ting grapefruit soda"
+  data-pantry[0]="Lime wedge"
   data-liquor[0]="Wray & Nephew White Overproof Rum"
   data-liquor[1]="Pot still unaged rum"
   data-liquor[2]="Pot still unaged rum (overproof)"
@@ -95,6 +96,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],
     Liquor[data-liquor[2]],

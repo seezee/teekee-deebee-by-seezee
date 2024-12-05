@@ -71,6 +71,7 @@ Garnish
   data-ingredient[4]="Soda water"
   data-ingredient[5]="Blended aged rum [3]"
   data-ingredient[6]="Black blended rum [5]"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Lime juice"
   data-juice[1]="Orange juice"
   data-syrup[0]="Passion fruit syrup"
@@ -95,6 +96,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

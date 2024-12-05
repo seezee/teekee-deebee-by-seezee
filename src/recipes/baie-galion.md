@@ -69,7 +69,7 @@ Garnish
   data-ingredient[0]="Chartreuse, Green"
   data-ingredient[1]="Drambuie"
   data-ingredient[2]="Cane AOC Martinique rhum agricole blanc [7]"
-  data-pantry[0]="Lemon twist
+  data-pantry[0]="Lemon twist"
   data-liquor[0]="Chartreuse, Green"
   data-liquor[1]="Drambuie"
   data-liquor[2]="Cane AOC Martinique rhum agricole blanc [7]"

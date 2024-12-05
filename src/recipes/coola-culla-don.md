@@ -82,6 +82,7 @@ Garnish
   data-ingredient[4]="Cinnamon syrup"
   data-ingredient[5]="Coola culla mix"
   data-ingredient[6]="Blended aged rum [3]"
+  data-pantry[0]="Edible orchid"
   data-syrup[0]="Vanilla syrup"
   data-syrup[1]="Cinnamon syrup"
   data-juice[0]="Lime juice"
@@ -111,6 +112,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],
     Juice[data-juice[0]],

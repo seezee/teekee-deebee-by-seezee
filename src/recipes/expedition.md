@@ -85,6 +85,7 @@ The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahi
   data-ingredient[7]="Bittermens New Orleans coffee liqueur"
   data-ingredient[8]="Black blended rum [5]"
   data-ingredient[9]="Whiskey, bourbon"
+  data-pantry[0]="Edible orchid"
   data-juice[0]="Lime juice"
   data-syrup[0]="Cinnamon syrup"
   data-syrup[1]="Honey syrup"
@@ -118,6 +119,7 @@ The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahi
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

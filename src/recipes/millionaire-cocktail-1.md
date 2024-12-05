@@ -78,6 +78,7 @@ Garnish
   data-ingredient[3]="Black pot still rum"
   data-ingredient[4]="Blended aged rum [3]"
   data-ingredient[5]="Gin, sloe"
+  data-pantry[0]="Lime wheel"
   data-juice[0]="Lime juice"
   data-syrup[0]="Grenadine"
   data-liquor[0]="Apricot liqueur"
@@ -100,6 +101,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

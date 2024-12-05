@@ -97,6 +97,8 @@ Garnish
   data-ingredient[5]="Luxardo maraschino liqueur"
   data-ingredient[6]="Blended lightly aged rum [2]"
   data-ingredient[7]="Blended aged rum [3]"
+  data-pantry[0]="Lime slice"
+  data-pantry[1]="Orange slice"
   data-juice[0]="Lime juice"
   data-juice[1]="Pineapple juice, unsweetened"
   data-syrup[0]="Passion fruit syrup"
@@ -130,6 +132,8 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

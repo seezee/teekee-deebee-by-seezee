@@ -86,6 +86,9 @@ Garnish
   data-ingredient[3]="Column still aged rum [4]"
   data-ingredient[4]="Angostura bitters"
   data-ingredient[5]="Ginger ale"
+  data-pantry[0]="Lemon wedge"
+  data-pantry[1]="Lemon twist"
+  data-pantry[2]="Mint sprig"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Honey syrup"
   data-liquor[0]="Chartreuse, Yellow"
@@ -110,6 +113,9 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

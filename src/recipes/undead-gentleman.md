@@ -91,6 +91,8 @@ Garnish
   data-ingredient[6]="Black blended overproof rum [6]"
   data-ingredient[7]="Blended aged rum [3]"
   data-ingredient[8]="Angostura bitters"
+  data-pantry[0]="Lime twist"
+  data-pantry[1]="Grapefruit twist"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
   data-syrup[0]="Cinnamon syrup"
@@ -123,6 +125,8 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

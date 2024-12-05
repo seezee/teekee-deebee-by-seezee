@@ -99,6 +99,8 @@ Garnish
   data-ingredient[6]="Pot still lightly aged rum (overproof) [1]"
   data-ingredient[7]="Blended lightly aged rum [2]"
   data-ingredient[8]="Column still aged rum [4]"
+  data-pantry[0]="Mint sprig"
+  data-pantry[1]="Rock candy stick"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
   data-syrup[0]="Rich Demerara syrup"
@@ -133,6 +135,8 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

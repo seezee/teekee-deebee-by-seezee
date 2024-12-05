@@ -83,6 +83,7 @@ Garnish
   data-ingredient[4]="Apricot liqueur"
   data-ingredient[5]="Gin, London dry"
   data-ingredient[6]="Blended lightly aged rum [2]"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Pineapple juice, unsweetened"
   data-juice[1]="Lime juice"
   data-syrup[0]="Passion fruit syrup"
@@ -113,6 +114,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

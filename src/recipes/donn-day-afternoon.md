@@ -77,6 +77,7 @@ Garnish
   data-ingredient[2]="Beer, grapefruit"
   data-ingredient[3]="Stiegl-Radler Grapefruit Beer"
   data-ingredient[4]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-pantry[0]="Grapefruit peel"
   data-juice[0]="Lime juice"
   data-syrup[0]="Cinnamon syrup"
   data-beer-wine[0]="Beer, grapefruit"
@@ -101,6 +102,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Beer & Wine[data-beer-wine[0]],
     Beer & Wine[data-beer-wine[1]],

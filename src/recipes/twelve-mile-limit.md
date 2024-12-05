@@ -81,6 +81,7 @@ Garnish
   data-ingredient[2]="Blended lightly aged rum [2]"
   data-ingredient[3]="Whiskey, rye"
   data-ingredient[4]="Brandy"
+  data-pantry[0]="Lemon twist"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Grenadine"
   data-liquor[0]="Blended lightly aged rum [2]"
@@ -103,6 +104,7 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

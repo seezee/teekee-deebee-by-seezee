@@ -83,6 +83,7 @@ Garnish
   data-ingredient[5]="Angostura bitters"
   data-ingredient[6]="Nutmeg, grated"
   data-pantry[0]="Nutmeg, grated"
+  data-pantry[1]="Mint sprig"
   data-juice[0]="Lime juice"
   data-syrup[0]="Passion fruit honey"
   data-liquor[0]="Allspice dram"
@@ -111,6 +112,7 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

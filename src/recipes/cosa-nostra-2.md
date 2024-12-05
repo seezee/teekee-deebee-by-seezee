@@ -85,6 +85,7 @@ Garnish
   data-ingredient[3]="Blended lightly aged rum [2]"
   data-ingredient[4]="Angostura bitters"
   data-ingredient[5]="Ginger ale"
+  data-pantry[0]="Lemon twist"
   data-juice[0]="Lemon juice"
   data-liquor[0]="Amaro Averna"
   data-liquor[1]="Amaro, Italian, bitter"
@@ -112,6 +113,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],

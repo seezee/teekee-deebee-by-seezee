@@ -63,7 +63,6 @@ excerpt: Recipe for cinnamon syrup
     Pantry[data-ingredient[1]],
     Pantry[data-ingredient[2]],
     Pantry[data-ingredient[3]]
-
   "
 >
 </div>

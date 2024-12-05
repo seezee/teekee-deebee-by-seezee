@@ -117,6 +117,7 @@ Garnish
   data-ingredient[10]="Angostura bitters"
   data-ingredient[11]="Pernod"
   data-ingredient[12]="Pastis"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
   data-juice[2]="Pineapple juice, unsweetened"
@@ -155,6 +156,7 @@ Garnish
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
     Ingredient[data-ingredient[12]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Juice[data-juice[2]],

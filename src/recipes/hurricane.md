@@ -69,6 +69,7 @@ Garnish
   data-ingredient[0]="Lemon juice"
   data-ingredient[1]="Passion fruit syrup"
   data-ingredient[2]="Black blended rum [5]"
+  data-pantry[0]="Lemon wedge"
   data-juice[0]="Lemon juice"
   data-syrup[0]="Passion fruit syrup"
   data-liquor[0]="Black blended rum [5]"
@@ -89,6 +90,7 @@ Garnish
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

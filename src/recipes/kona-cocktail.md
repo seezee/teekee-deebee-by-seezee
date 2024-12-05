@@ -85,6 +85,9 @@ Garnish
   data-ingredient[4]="Blended aged rum [3]"
   data-ingredient[5]="Blended aged rum (86 proof) [3]"
   data-pantry[0]="Pineapple, diced"
+  data-pantry[1]="Pineapple chunk(s)"
+  data-pantry[2]="Maraschino cherry"
+  data-pantry[3]="Luxardo maraschino cherry"
   data-juice[0]="Lime juice"
   data-syrup[0]="Passion fruit syrup"
   data-syrup[1]="Honey syrup"
@@ -111,6 +114,9 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Syrup[data-syrup[1]],

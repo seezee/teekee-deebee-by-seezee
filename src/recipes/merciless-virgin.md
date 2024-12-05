@@ -79,6 +79,8 @@ Garnish
   data-ingredient[5]="Curaçao, dry"
   data-ingredient[6]="Curaçao"
   data-ingredient[7]="Blended lightly aged rum [2]"
+  data-pantry[0]="Maraschino cherry"
+  data-pantry[1]="Luxardo maraschino cherry"
   data-juice[0]="Lemon juice"
   data-liquor[0]="Cherry Heering"
   data-liquor[1]="Falernum"
@@ -107,6 +109,8 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],

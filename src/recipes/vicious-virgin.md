@@ -72,6 +72,8 @@ Garnish
   data-ingredient[2]="1:1 simple syrup"
   data-ingredient[3]="Blended lightly aged rum [2]"
   data-ingredient[4]="Column still aged rum [4]"
+  data-pantry[0]="Maraschino cherry"
+  data-pantry[1]="Luxardo maraschino cherry"
   data-juice[0]="Lime juice"
   data-syrup[0]="1:1 simple syrup"
   data-liquor[0]="Falernum"
@@ -95,6 +97,8 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

@@ -88,6 +88,8 @@ Garnish
   data-ingredient[4]="Black blended overproof rum [6]"
   data-ingredient[5]="Blended aged rum [3]"
   data-ingredient[6]="Sparkling wine"
+  data-pantry[0]="Lime twist"
+  data-pantry[1]="Mint leaf"
   data-juice[0]="Lime juice"
   data-syrup[0]="Orgeat"
   data-liquor[0]="Curaçao"
@@ -114,6 +116,8 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

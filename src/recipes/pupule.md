@@ -90,7 +90,8 @@ Garnish
   data-ingredient[6]="Pimento dram"
   data-ingredient[7]="Column still aged rum [4]"
   data-ingredient[8]="Angostura bitters"
-  data-pantry[0]="Orange peel, spiral-cut"
+  data-pantry[0]="Orange peel"
+  data-pantry[1]="Mint sprig"
   data-juice[0]="Lime juice"
   data-juice[1]="Orange juice"
   data-syrup[0]="Cinnamon syrup"
@@ -120,6 +121,7 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Syrup[data-syrup[0]],

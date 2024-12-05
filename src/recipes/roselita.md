@@ -25,7 +25,7 @@ ingredient:
 garnish:
   - hibiscus flower
   - cocktail pick
-  - skewer
+  - cocktail skewer
 glass:
   - collins
   - highball
@@ -95,6 +95,7 @@ Garnish
   data-ingredient[5]="Pear liqueur"
   data-ingredient[6]="Column still aged rum [4]"
   data-ingredient[7]="Peychaud’s bitters"
+  data-pantry[0]="Edible hibiscus flower"
   data-juice[0]="Lime juice"
   data-syrup[0]="Orgeat"
   data-liquor[0]="Hibiscus liqueur"
@@ -126,6 +127,7 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

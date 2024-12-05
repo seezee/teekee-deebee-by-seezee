@@ -115,6 +115,7 @@ Garnish
   data-ingredient[10]="Orange peel"
   data-ingredient[11]="Grapefruit peel"
   data-ingredient[12]="Coffee grog batter"
+  data-pantry[0]="Cinnamon stick"
   data-liquor[0]="Pot still unaged rum (Jamaica)"
   data-liquor[1]="Pot still unaged rum"
   data-liquor[2]="Blended lightly aged rum (Jamaica) [2]"
@@ -153,6 +154,7 @@ Garnish
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
     Ingredient[data-ingredient[12]],
+    Pantry[data-pantry[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],
     Liquor[data-liquor[2]],

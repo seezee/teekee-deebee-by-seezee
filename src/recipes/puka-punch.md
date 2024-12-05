@@ -90,6 +90,7 @@ Garnish
   data-ingredient[8]="Black pot still rum"
   data-ingredient[9]="Angostura bitters"
   data-ingredient[10]="Black blended overproof rum [6]"
+  data-pantry[0]="Mint sprig"
   data-juice[0]="Lime juice"
   data-juice[1]="Orange juice"
   data-juice[2]="Pineapple juice, unsweetened"
@@ -122,6 +123,7 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Juice[data-juice[1]],
     Juice[data-juice[2]],

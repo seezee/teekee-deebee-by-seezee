@@ -84,6 +84,7 @@ Garnish
   data-ingredient[3]="Hibiscus liqueur"
   data-ingredient[4]="Rich Demerara syrup"
   data-ingredient[5]="Blended aged rum [3]"
+  data-pantry[0]="Edible hibiscus flower"
   data-juice[0]="Lime juice"
   data-syrup[0]="Rich Demerara syrup"
   data-liquor[0]="Blended aged rum [3]"
@@ -111,6 +112,7 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
     Juice[data-juice[0]],
     Syrup[data-syrup[0]],
     Liquor[data-liquor[0]],

@@ -79,6 +79,7 @@ Garnish
   data-ingredient[4]="Blended aged rum [3]"
   data-ingredient[5]="Cinnamon, grated"
   data-pantry[0]="Cinnamon, grated"
+  data-pantry[1]="Lime twist"
   data-juice[0]="Lime juice"
   data-liquor[0]="Licor 43"
   data-liquor[1]="Peach liqueur"
@@ -105,6 +106,7 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
     Juice[data-juice[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],
