@@ -67,6 +67,10 @@ Garnish
   data-ingredient[1]="Blended aged rum (Barbados) [3]"
   data-ingredient[2]="Blended aged rum [3]"
   data-ingredient[3]="Angostura bitters"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Blended aged rum (Barbados) [3]"
+  data-liquor[2]="Blended aged rum [3]"
+  data-bitters[0]="Angostura bitters"
   data-glass[0]="Rocks"
   data-decade[0]="1800"
   data-decade[1]="1910"
@@ -83,6 +87,10 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Bitters[data-bitters[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

@@ -66,6 +66,11 @@ Garnish
   data-ingredient[1]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[2]="Angostura bitters"
   data-ingredient[3]="Orange bitters"
+  data-pantry[0]="Orange peel oil"
+  data-liquor[0]="Apricot liqueur"
+  data-liquor[1]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-bitters[0]="Angostura bitters"
+  data-bitters[1]="Orange bitters"
   data-origin[0]="Martin Cate"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
@@ -78,10 +83,15 @@ Garnish
     Characteristic[data-char[2]],
     Characteristic[data-char[3]],
     Base[data-base[0]],
+    Pantry[data-pantry[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Bitters[data-bitters[0]],
+    Bitters[data-bitters[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

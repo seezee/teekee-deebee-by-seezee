@@ -97,6 +97,14 @@ Garnish
   data-ingredient[5]="Luxardo maraschino liqueur"
   data-ingredient[6]="Blended lightly aged rum [2]"
   data-ingredient[7]="Blended aged rum [3]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Pineapple juice, unsweetened"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Rich Demerara syrup"
+  data-liquor[0]="Maraschino liqueur"
+  data-liquor[1]="Luxardo maraschino liqueur"
+  data-liquor[2]="Blended lightly aged rum [2]"
+  data-liquor[3]="Blended aged rum [3]"
   data-origin[0]="Martin Cate"
   data-glass[0]="Scorpion bowl"
   data-glass[1]="Scorpion bowl, large (32- to 48-ounce)"
@@ -122,6 +130,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

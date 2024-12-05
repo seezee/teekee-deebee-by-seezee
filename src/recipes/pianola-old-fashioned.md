@@ -64,6 +64,9 @@ Garnish
   data-ingredient[0]="Li hing mui syrup"
   data-ingredient[1]="Blended aged rum [3]"
   data-ingredient[2]="Angostura bitters"
+  data-syrup[0]="Li hing mui syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Martin Cate"
   data-glass[0]="Double rocks"
   data-decade[0]="2000"
@@ -78,6 +81,9 @@ Garnish
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

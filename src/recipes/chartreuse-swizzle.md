@@ -82,6 +82,10 @@ Garnish
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Falernum"
   data-ingredient[3]="Chartreuse, Green"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lime juice"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Chartreuse, Green"
   data-garnish[0]="Nutmeg, grated"
   data-decade[0]="2000"
   data-pagefind-filter="
@@ -99,6 +103,10 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Garnish[data-garnish[0]],
     Decade[data-decade[0]]
   "

@@ -73,6 +73,12 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
   data-ingredient[3]="Curaçao, dry"
   data-ingredient[4]="Rich Demerara syrup"
   data-ingredient[5]="Blended lightly aged rum [2]"
+  data-syrup[0]="Rich Demerara syrup"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Orange juice"
+  data-liquor[0]="Curaçao"
+  data-liquor[1]="Curaçao, dry"
+  data-liquor[2]="Blended lightly aged rum [2]"
   data-origin[0]="Constantino Ribalaigua Vert"
   data-origin[1]="El Floridita, Havana"
   data-glass[0]="Coupé"
@@ -91,6 +97,12 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Syrup[data-syrup[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

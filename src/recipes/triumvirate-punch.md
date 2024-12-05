@@ -82,6 +82,13 @@ Garnish
   data-ingredient[4]="Pot still unaged rum"
   data-ingredient[5]="Angostura bitters"
   data-ingredient[6]="Nutmeg, grated"
+  data-pantry[0]="Nutmeg, grated"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Passion fruit honey"
+  data-liquor[0]="Allspice dram"
+  data-liquor[1]="Pimento dram"
+  data-liquor[2]="Pot still unaged rum"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Ron Roumas"
   data-origin[1]="Mark Holt"
   data-origin[2]="John Boatwright"
@@ -103,6 +110,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

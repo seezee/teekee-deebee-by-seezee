@@ -73,6 +73,11 @@ Garnish
   data-ingredient[2]="Pot still unaged rum (overproof)"
   data-ingredient[3]="Grapefruit soda"
   data-ingredient[4]="Ting grapefruit soda"
+  data-liquor[0]="Wray & Nephew White Overproof Rum"
+  data-liquor[1]="Pot still unaged rum"
+  data-liquor[2]="Pot still unaged rum (overproof)"
+  data-soda[0]="Grapefruit soda"
+  data-soda[1]="Ting grapefruit soda"
   data-origin[0]="Jamaica"
   data-origin[1]="Traditional"
   data-decade[0]="1970"
@@ -90,6 +95,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]]

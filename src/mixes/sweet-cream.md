@@ -37,7 +37,9 @@ excerpt: Recipe for sweet cream
   data-pagefind-filter="
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
-    Ingredient[data-ingredient[1]]
+    Ingredient[data-ingredient[1]],
+    Pantry[data-ingredient[0]],
+    Syrup[data-ingredient[1]]
   "
 >
 </div>

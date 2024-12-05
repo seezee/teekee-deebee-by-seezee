@@ -69,6 +69,11 @@ Garnish
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Campari"
   data-ingredient[4]="Black blended rum [5]"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Campari"
+  data-liquor[1]="Black blended rum [5]"
   data-origin[0]="Hilton Hotel, Kuala Lampur"
   data-decade[0]="1970"
   data-pagefind-filter="
@@ -83,6 +88,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Origin[data-origin[0]],
     Decade[data-decade[0]]
   "

@@ -87,6 +87,18 @@ Garnish
   data-ingredient[9]="Blended aged rum [3]"
   data-ingredient[10]="Blended aged rum (Barbados) [3]"
   data-ingredient[11]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-juice[2]="Orange juice"
+  data-juice[3]="Pineapple juice, unsweetened"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Black pot still rum"
+  data-liquor[2]="Blended aged rum [3]"
+  data-liquor[3]="Blended aged rum (Barbados) [3]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -110,6 +122,18 @@ Garnish
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Juice[data-juice[2]],
+    Juice[data-juice[3]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

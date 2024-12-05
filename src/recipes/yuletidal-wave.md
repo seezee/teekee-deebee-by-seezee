@@ -93,6 +93,15 @@ Garnish
   data-ingredient[6]="Brandy"
   data-ingredient[7]="Whiskey,  bourbon"
   data-ingredient[8]="Column still aged rum [4]"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lemon juice"
+  data-liquor[0]="Pear liqueur"
+  data-liquor[1]="Licor 43"
+  data-liquor[2]="Allspice dram"
+  data-liquor[3]="Pimento dram"
+  data-liquor[4]="Brandy"
+  data-liquor[5]="Whiskey,  bourbon"
+  data-liquor[6]="Column still aged rum [4]"
   data-origin[0]="Martin Cate"
   data-glass[0]="Punch cup"
   data-glass[1]="Tiki mug, small"
@@ -114,8 +123,15 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
-    Ingredient[data-ingredient[7]],
-    Ingredient[data-ingredient[8]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

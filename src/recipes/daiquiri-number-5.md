@@ -88,6 +88,12 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
   data-ingredient[3]="Luxardo maraschino liqueur"
   data-ingredient[4]="Rich Demerara syrup"
   data-ingredient[5]="Blended lightly aged rum [2]"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Grenadine"
+  data-juice[0]="Lime juice"
+  data-liquor[0]="Maraschino liqueur"
+  data-liquor[1]="Luxardo maraschino liqueur"
+  data-liquor[2]="Blended lightly aged rum [2]"
   data-garnish[0]="Maraschino cherry"
   data-garnish[1]="Cherry, fresh"
   data-origin[0]="Constantino Ribalaigua Vert"
@@ -108,6 +114,12 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Garnish[data-garnish[0]],
     Garnish[data-garnish[1]],
     Origin[data-origin[0]],

@@ -117,6 +117,19 @@ Garnish
   data-ingredient[10]="Angostura bitters"
   data-ingredient[11]="Pernod"
   data-ingredient[12]="Pastis"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-juice[2]="Pineapple juice, unsweetened"
+  data-syrup[0]="Grenadine"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Black blended rum [5]"
+  data-liquor[2]="Blended aged rum [3]"
+  data-liquor[3]="Black blended overproof rum [6]"
+  data-liquor[4]="Maraschino liqueur"
+  data-liquor[5]="Luxardo maraschino liqueur"
+  data-liquor[6]="Pernod"
+  data-liquor[7]="Pastis"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -142,6 +155,19 @@ Garnish
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
     Ingredient[data-ingredient[12]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Juice[data-juice[2]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
+    Liquor[data-liquor[7]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

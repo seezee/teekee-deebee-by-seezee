@@ -66,7 +66,13 @@ Garnish
   data-ingredient[0]="Pineapple juice, unsweetened"
   data-ingredient[1]="Grenadine"
   data-ingredient[2]="Maraschino liqueur"
-  data-ingredient[3]="Blended lightly aged rum [2]"
+  data-ingredient[3]="Luxardo maraschino liqueur"
+  data-ingredient[4]="Blended lightly aged rum [2]"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-syrup[0]="Grenadine"
+  data-liquor[0]="Maraschino liqueur"
+  data-liquor[1]="Luxardo maraschino liqueur"
+  data-liquor[2]="Blended lightly aged rum [2]"
   data-origin[0]="Unknown"
   data-origin[1]="Basil Woon"
   data-glass[0]="Coupé"
@@ -81,6 +87,12 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

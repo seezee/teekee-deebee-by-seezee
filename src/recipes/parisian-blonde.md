@@ -67,6 +67,10 @@ Garnish
   data-ingredient[1]="Curaçao"
   data-ingredient[2]="Blended aged rum [3]"
   data-ingredient[3]="Sweet cream"
+  data-liquor[0]="Curaçao, dry"
+  data-liquor[1]="Curaçao"
+  data-liquor[2]="Blended aged rum [3]"
+  data-batter[0]="Sweet cream"
   data-origin[0]="Erik Ellestad"
   data-origin[1]="Harry Craddock"
   data-glass[0]="Coupé"
@@ -83,6 +87,10 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Batter[data-batter[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

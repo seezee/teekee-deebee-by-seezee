@@ -82,6 +82,12 @@ Garnish
   data-ingredient[3]="Blended aged rum [3]"
   data-ingredient[4]="Blended lightly aged rum [2]"
   data-ingredient[5]="Herbstura"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Cinnamon syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-liquor[1]="Blended lightly aged rum [2]"
+  data-prep[0]="Herbstura"
   data-origin[0]="Martin Cate"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Punch cup"
@@ -102,6 +108,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

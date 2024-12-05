@@ -81,6 +81,14 @@ Encourage guests to pour as much or little of the overproof rum (the side of dan
   data-ingredient[5]="Maraschino liqueur"
   data-ingredient[6]="Luxardo maraschino liqueur"
   data-ingredient[7]="Blended aged rum [3]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Lemon juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Rich Demerara syrup"
+  data-liquor[0]="Black blended overproof rum [6]"
+  data-liquor[1]="Maraschino liqueur"
+  data-liquor[2]="Luxardo maraschino liqueur"
+  data-liquor[3]="Blended aged rum [3]"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -102,6 +110,14 @@ Encourage guests to pour as much or little of the overproof rum (the side of dan
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

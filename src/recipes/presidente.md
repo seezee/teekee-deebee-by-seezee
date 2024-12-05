@@ -77,9 +77,24 @@ Garnish
   data-ingredient[2]="Vermouth, French"
   data-ingredient[3]="Vermouth, blanc"
   data-ingredient[4]="Vermouth, sweet white"
-  data-ingredient[5]="Curaçao"
-  data-ingredient[6]="Curaçao, dry"
-  data-ingredient[7]="Blended lightly aged rum [2]"
+  data-ingredient[5]="Wine, aromatized"
+  data-ingredient[6]="Curaçao"
+  data-ingredient[7]="Curaçao, dry"
+  data-ingredient[8]="Blended lightly aged rum [2]"
+  data-syrup[0]="Grenadine"
+  data-liquor[0]="Vermouth, dry"
+  data-liquor[1]="Vermouth, French"
+  data-liquor[2]="Vermouth, blanc"
+  data-liquor[3]="Vermouth, sweet white"
+  data-liquor[4]="Wine, aromatized"
+  data-liquor[5]="Curaçao"
+  data-liquor[6]="Curaçao, dry"
+  data-liquor[7]="Blended lightly aged rum [2]"
+  data-beer-wine[0]="Vermouth, dry"
+  data-beer-wine[1]="Vermouth, French"
+  data-beer-wine[2]="Vermouth, blanc"
+  data-beer-wine[3]="Vermouth, sweet white"
+  data-beer-wine[4]="Wine, aromatized"
   data-origin[0]="Eddie Woelke"
   data-origin[1]="Jockey Club, Havana"
   data-glass[0]="Coupé"
@@ -101,6 +116,21 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
+    Liquor[data-liquor[7]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
+    Beer & Wine[data-beer-wine[2]],
+    Beer & Wine[data-beer-wine[3]],
+    Beer & Wine[data-beer-wine[4]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

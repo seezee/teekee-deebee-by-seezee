@@ -67,6 +67,11 @@ yields 18 ounces of grenadine.
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-ingredient[0]],
+    Juice[data-ingredient[1]],
+    Juice[data-ingredient[2]],
+    Pantry[data-ingredient[3]],
+    Pantry[data-ingredient[4]]
   "
 >
 </div>

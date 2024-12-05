@@ -80,6 +80,13 @@ Garnish
   data-ingredient[4]="Black blended overproof rum [6]"
   data-ingredient[5]="Column still aged rum [4]"
   data-ingredient[6]="Herbstura"
+  data-juice[0]="Orange juice"
+  data-juice[1]="Lime juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Black blended rum [5]"
+  data-liquor[1]="Black blended overproof rum [6]"
+  data-liquor[2]="Column still aged rum [4]"
+  data-prep[0]="Herbstura"
   data-origin[0]="Steve Crane"
   data-origin[1]="Kon-Tiki restaurant chain"
   data-glass[0]="Scorpion bowl"
@@ -101,6 +108,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

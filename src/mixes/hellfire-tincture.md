@@ -53,7 +53,11 @@ excerpt: Recipe for Smuggler's Cove hellfire tincture
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
-    Ingredient[data-ingredient[2]]
+    Ingredient[data-ingredient[2]],
+    Pantry[data-ingredient[0]],
+    Beer & Wine[data-ingredient[1]],
+    Liquor[data-ingredient[1]],
+    Liquor[data-ingredient[2]]
   "
 >
 </div>

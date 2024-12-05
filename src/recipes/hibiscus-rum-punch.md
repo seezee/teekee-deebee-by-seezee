@@ -84,6 +84,12 @@ Garnish
   data-ingredient[3]="Hibiscus liqueur"
   data-ingredient[4]="Rich Demerara syrup"
   data-ingredient[5]="Blended aged rum [3]"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-liquor[1]="Hibiscus liqueur"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Smuggler’s Cove"
   data-origin[1]="Traditional"
   data-garnish[0]="Cocktail pick"
@@ -105,6 +111,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Garnish[data-garnish[0]],

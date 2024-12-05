@@ -2,7 +2,7 @@
 layout: _main.njk
 title: Donn’s Mix
 tags: mixes
-type: syrup
+type: preparation
 ingredient:
   - cinnamon syrup
   - grapefruit juice
@@ -39,7 +39,9 @@ excerpt: Recipe for Donn’s Mix
   data-pagefind-filter="
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
-    Ingredient[data-ingredient[1]]
+    Ingredient[data-ingredient[1]],
+    Syrup[data-ingredient[0]],
+    Juice[data-ingredient[1]]
   "
 >
 </div>

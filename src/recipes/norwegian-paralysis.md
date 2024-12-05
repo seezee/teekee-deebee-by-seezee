@@ -81,6 +81,12 @@ Garnish
   data-ingredient[3]="Rich Demerara syrup"
   data-ingredient[4]="Orgeat"
   data-ingredient[5]="Akvavit"
+  data-juice[0]="Orange juice"
+  data-juice[1]="Pineapple juice, unsweetened"
+  data-juice[2]="Lemon juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Orgeat"
+  data-liquor[0]="Akvavit"
   data-origin[0]="Martin Cate"
   data-decade[0]="1970"
   data-decade[1]="2000"
@@ -98,6 +104,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Juice[data-juice[2]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

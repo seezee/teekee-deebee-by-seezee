@@ -69,6 +69,12 @@ Garnish
   data-ingredient[3]="Gin, London dry"
   data-ingredient[4]="Angostura bitters"
   data-ingredient[5]="Lemonade, dry sparkling"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Honey syrup"
+  data-liquor[0]="Gin, London dry"
+  data-bitters[0]="Angostura bitters"
+  data-soda[0]="Lemonade, dry sparkling"
   data-origin[0]="Martin Cate"
   data-origin[1]="Trader Vic’s"
   data-glass[0]="Brandy snifter"
@@ -86,6 +92,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Bitters[data-bitters[0]],
+    Soda & seltzer[data-soda[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

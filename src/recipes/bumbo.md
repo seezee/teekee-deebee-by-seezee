@@ -77,6 +77,11 @@ Garnish
   data-ingredient[1]="Blended aged rum [3]"
   data-ingredient[2]="Pot still unaged rum"
   data-ingredient[3]="Pot still lightly aged rum [1]"
+  data-pantry[0]="Nutmeg, grated"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-liquor[1]="Pot still unaged rum"
+  data-liquor[2]="Pot still lightly aged rum [1]"
   data-origin[0]="America, colonial British"
   data-origin[1]="Traditional"
   data-glass[0]="Rocks"
@@ -93,6 +98,11 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Pantry[data-pantry[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

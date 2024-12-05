@@ -95,6 +95,15 @@ Garnish
   data-ingredient[6]="Mai tai rich simple syrup"
   data-ingredient[7]="Tequila, reposado"
   data-ingredient[8]="Black pot still rum"
+  data-pantry[0]="Lime wedge"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Orgeat"
+  data-syrup[2]="Mai tai rich simple syrup"
+  data-liquor[0]="Curaçao, dry"
+  data-liquor[1]="Curaçao"
+  data-liquor[2]="Tequila, reposado"
+  data-liquor[3]="Black pot still rum"
   data-origin[0]="Tiki-Ti, Los Angeles"
   data-origin[1]="Mike Buhen Sr."
   data-origin[2]="Mike Buhen Jr."
@@ -121,6 +130,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Syrup[data-syrup[2]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

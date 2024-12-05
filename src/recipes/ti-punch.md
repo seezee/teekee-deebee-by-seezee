@@ -94,8 +94,14 @@ Garnish
   data-ingredient[1]="Rhum J.M. Sirop sugarcane syrup"
   data-ingredient[2]="Cane AOC Martinique rhum agricole blanc [7]"
   data-ingredient[3]="Élevé sous bois"
-  data-ingredient[4]="Cane AOC Martinique Rhum Agricole Vieux [8]"
+  data-ingredient[4]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[5]="Lime coin"
+  data-pantry[0]="Lime coin"
+  data-syrup[0]="Sugarcane syrup, Martinique"
+  data-syrup[1]="Rhum J.M. Sirop sugarcane syrup"
+  data-liquor[0]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-liquor[1]="Élevé sous bois"
+  data-liquor[2]="Cane AOC Martinique rhum agricole vieux [8]"
   data-origin[0]="Martinique"
   data-origin[1]="Traditional"
   data-glass[0]="Rocks"
@@ -113,6 +119,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

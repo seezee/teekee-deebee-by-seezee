@@ -42,7 +42,10 @@ excerpt: Recipe for Smuggler's Cove Napa wine syrup
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
-    Ingredient[data-ingredient[2]]
+    Ingredient[data-ingredient[2]],
+    Beer & Wine[data-ingredient[0]],
+    Beer & Wine[data-ingredient[1]],
+    Pantry[data-ingredient[2]]
   "
 >
 </div>

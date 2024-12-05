@@ -89,6 +89,13 @@ Garnish
   data-ingredient[4]="Pimento dram"
   data-ingredient[5]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[6]="Nutmeg, grated"
+  data-pantry[0]="Nutmeg, grated"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Sugarcane syrup, Martinique"
+  data-syrup[1]="Rhum J.M. Sirop sugarcane syrup"
+  data-liquor[0]="Allspice dram"
+  data-liquor[1]="Pimento dram"
+  data-liquor[2]="Cane AOC Martinique rhum agricole vieux [8]"
   data-origin[0]="Martin Cate"
   data-decade[0]="2000"
   data-decade[1]="2010"
@@ -108,6 +115,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

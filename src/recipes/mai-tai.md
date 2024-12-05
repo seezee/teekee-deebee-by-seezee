@@ -107,6 +107,12 @@ Garnish
   data-ingredient[3]="Curaçao, dry"
   data-ingredient[4]="Curaçao"
   data-ingredient[5]="Blended aged rum [3]"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Mai tai rich simple syrup"
+  data-syrup[1]="Orgeat"
+  data-liquor[0]="Curaçao, dry"
+  data-liquor[1]="Curaçao"
+  data-liquor[2]="Blended aged rum [3]"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-garnish[0]="Lime shell"
@@ -124,6 +130,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Garnish[data-garnish[0]],

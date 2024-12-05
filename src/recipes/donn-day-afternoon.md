@@ -77,6 +77,11 @@ Garnish
   data-ingredient[2]="Beer, grapefruit"
   data-ingredient[3]="Stiegl-Radler Grapefruit Beer"
   data-ingredient[4]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Cinnamon syrup"
+  data-beer-wine[0]="Beer, grapefruit"
+  data-beer-wine[1]="Stiegl-Radler Grapefruit Beer"
+  data-liquor[0]="Cane AOC Martinique rhum agricole blanc [7]"
   data-origin[0]="Martin Cate"
   data-glass[0]="Rocks"
   data-decade[0]="2000"
@@ -96,6 +101,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

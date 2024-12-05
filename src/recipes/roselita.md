@@ -95,6 +95,14 @@ Garnish
   data-ingredient[5]="Pear liqueur"
   data-ingredient[6]="Column still aged rum [4]"
   data-ingredient[7]="Peychaud’s bitters"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Orgeat"
+  data-liquor[0]="Hibiscus liqueur"
+  data-liquor[1]="Pear liqueur"
+  data-liquor[2]="Column still aged rum [4]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Peychaud’s bitters"
   data-origin[0]="Martin Cate"
   data-decade[0]="2000"
   data-decade[1]="2010"
@@ -118,6 +126,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

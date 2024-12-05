@@ -86,6 +86,14 @@ Garnish
   data-ingredient[5]="Pimento dram"
   data-ingredient[6]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[7]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Orange juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Allspice dram"
+  data-liquor[2]="Pimento dram"
+  data-liquor[3]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -107,6 +115,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

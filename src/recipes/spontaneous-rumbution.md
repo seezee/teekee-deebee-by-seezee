@@ -88,6 +88,12 @@ Garnish
   data-ingredient[2]="Black blended overproof rum [6]"
   data-ingredient[3]="Pot still lightly aged rum [1]"
   data-ingredient[4]="Water, boiling"
+  data-pantry[0]="Water, boiling"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Black blended overproof rum [6]"
+  data-liquor[1]="Pot still lightly aged rum [1]"
+  data-pantry[]="Water, boiling"
   data-origin[0]="Dane Barca"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Coffee mug"
@@ -107,6 +113,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

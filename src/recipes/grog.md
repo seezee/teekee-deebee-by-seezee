@@ -78,6 +78,11 @@ Garnish
   data-ingredient[2]="Pot still unaged rum"
   data-ingredient[3]="Black pot still rum"
   data-ingredient[4]="Blended aged rum [3]"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Pot still unaged rum"
+  data-liquor[1]="Black pot still rum"
+  data-liquor[2]="Blended aged rum [3]"
   data-origin[0]="Royal British Navy",
   data-origin[1]="Admiral Edward “Old Grogram” Vernon",
   data-origin[2]="Traditional",
@@ -96,6 +101,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

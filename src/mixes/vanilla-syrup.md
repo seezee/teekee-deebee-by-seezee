@@ -50,6 +50,9 @@ excerpt: Recipe for vanilla syrup
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Pantry[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]]
   "
 >
 </div>

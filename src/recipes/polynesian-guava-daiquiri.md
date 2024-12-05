@@ -72,6 +72,11 @@ Garnish
   data-ingredient[2]="Banana liqueur"
   data-ingredient[3]="Crème de banane"
   data-ingredient[4]="Gin, London dry"
+  data-pantry[0]="Guava nectar"
+  data-juice[0]="Lime juice"
+  data-liquor[0]="Banana liqueur"
+  data-liquor[1]="Crème de banane"
+  data-liquor[2]="Gin, London dry"
   data-origin[0]="Hank Riddle"
   data-origin[1]="Kelbo’s, Los Angeles"
   data-glass[0]="Double rocks"
@@ -89,6 +94,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

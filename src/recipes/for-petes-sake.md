@@ -81,6 +81,13 @@ Garnish
   data-ingredient[4]="Pisco"
   data-ingredient[5]="Pisco, Peruvian"
   data-ingredient[6]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Hibiscus liqueur"
+  data-liquor[1]="Cherry Heering"
+  data-liquor[2]="Pisco"
+  data-liquor[3]="Pisco, Peruvian"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Martin Cate"
   data-glass[0]="Double rocks"
   data-garnish[0]="Maraschino cherry"
@@ -104,6 +111,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Garnish[data-garnish[0]],

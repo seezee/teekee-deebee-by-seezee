@@ -86,6 +86,14 @@ Garnish
   data-ingredient[2]="Licor 43"
   data-ingredient[3]="Cane AOC Martinique rhum agricole blanc [7]"
   data-ingredient[4]="Angostura bitters"
+  data-pantry[0]="Mint sprig"
+  data-pantry[1]="Cinnamon stick"
+  data-pantry[2]="Lime wheel"
+  data-soda[0]="Guava soda"
+  data-juice[0]="Lime juice"
+  data-liquor[0]="Licor 43"
+  data-liquor[1]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Martin Cate"
   data-garnish[0]="Cinnamon"
   data-decade[0]="2000"
@@ -106,6 +114,14 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Soda & seltzer[data-soda[0]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Garnish[data-garnish[0]]
     Decade[data-decade[0]],

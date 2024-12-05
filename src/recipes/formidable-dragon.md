@@ -84,6 +84,16 @@ Garnish
   data-ingredient[7]="Pot still lightly aged rum [1]"
   data-ingredient[8]="Seltzer"
   data-ingredient[9]="Soda water"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Lime juice"
+  data-syrup[0]="Honey syrup"
+  data-syrup[1]="Molasses syrup"
+  data-liquor[0]="Amaro di Angostura"
+  data-liquor[1]="Blended aged rum [3]"
+  data-liquor[2]="Black blended rum [5]"
+  data-liquor[3]="Pot still lightly aged rum [1]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Martin Cate"
   data-glass[0]="Brandy snifter"
   data-glass[1]="Brandy snifter, large (22-ounce)"
@@ -106,6 +116,16 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

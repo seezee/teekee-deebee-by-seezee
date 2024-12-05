@@ -80,6 +80,13 @@ Garnish
   data-ingredient[4]="Blended aged rum [3]"
   data-ingredient[5]="Blended lightly aged rum [2]"
   data-ingredient[6]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Apricot liqueur"
+  data-liquor[1]="Blended aged rum [3]"
+  data-liquor[2]="Blended lightly aged rum [2]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Table Eleven, Tiki Oasis seminar"
   data-decade[0]="2010"
   data-pagefind-filter="
@@ -96,6 +103,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Decade[data-decade[0]]
   "

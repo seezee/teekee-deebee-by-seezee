@@ -39,6 +39,11 @@ excerpt: Recipe for Don the Beachcomber's herbstura
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Bitters[data-ingredient[0]],
+    Liquor[data-ingredient[1]],
+    Liquor[data-ingredient[2]],
+    Liquor[data-ingredient[3]],
+    Liquor[data-ingredient[4]]
   "
 >
 </div>

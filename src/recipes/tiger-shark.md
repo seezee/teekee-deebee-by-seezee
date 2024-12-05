@@ -80,6 +80,12 @@ Our best guess is that it is a vintage glass from The China Trader restaurant.
   data-ingredient[3]="Blended lightly aged rum [2]"
   data-ingredient[4]="Blended aged rum [3]"
   data-ingredient[5]="Black blended overproof rum [6]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Pineapple juice, unsweetened"
+  data-syrup[0]="2:1 rich simple syrup"
+  data-liquor[0]="Blended lightly aged rum [2]"
+  data-liquor[1]="Blended aged rum [3]"
+  data-liquor[2]="Black blended overproof rum [6]"
   data-origin[0]="The China Trader, Burbank, Calif."
   data-glass[0]="Double rocks"
   data-glass[1]="Tumbler, small"
@@ -97,6 +103,12 @@ Our best guess is that it is a vintage glass from The China Trader restaurant.
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

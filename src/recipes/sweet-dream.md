@@ -88,6 +88,13 @@ Garnish
   data-ingredient[4]="Pineapple juice, unsweetened"
   data-ingredient[5]="Cream, heavy whipping"
   data-ingredient[6]="Nutmeg, grated"
+  data-pantry[0]="Cream, heavy whipping"
+  data-pantry[1]="Nutmeg, grated"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-liquor[0]="Crème de cacao"
+  data-liquor[1]="Crème de cacao, white"
+  data-liquor[2]="Crème de banane"
+  data-liquor[3]="Banana liqueur"
   data-origin[0]="Hank Riddle"
   data-origin[1]="Kelbo’s, Los Angeles"
   data-glass[0]="Coupé"
@@ -108,6 +115,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

@@ -83,6 +83,13 @@ Garnish
   data-ingredient[4]="Black blended rum (Jamaica) [5]"
   data-ingredient[5]="Vanilla extract"
   data-ingredient[6]="Angostura bitters"
+  data-pantry[0]="Milk, whole"
+  data-pantry[1]="Cream, heavy whipping"
+  data-pantry[2]="Vanilla extract"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Black blended rum [5]"
+  data-liquor[1]="Black blended rum (Jamaica) [5]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Smuggler’s Cove"
   data-origin[1]="Traditional"
   data-garnish[0]="Nutmeg, grated"
@@ -105,6 +112,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Garnish[data-garnish[0]],

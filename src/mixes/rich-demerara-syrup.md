@@ -44,7 +44,10 @@ excerpt: Recipe for rich (2:1) Demerara syrups
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
-    Ingredient[data-ingredient[2]]
+    Ingredient[data-ingredient[2]],
+    Pantry[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]]
   "
 >
 </div>

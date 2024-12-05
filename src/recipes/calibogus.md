@@ -87,6 +87,14 @@ Garnish
   data-ingredient[5]="Pine liqueur"
   data-ingredient[6]="Zirbenz Stone Pine Liqueur"
   data-ingredient[7]="Blended aged rum [3]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Molasses syrup"
+  data-pantry[0]="Spruce beer soda extract"
+  data-liquor[0]="Pine liqueur"
+  data-liquor[1]="Zirbenz Stone Pine Liqueur"
+  data-liquor[2]="Blended aged rum [3]"
   data-origin[0]="Canada, colonial"
   data-origin[1]="United States"
   data-origin[2]="Traditional"
@@ -109,6 +117,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Pantry[data-pantry[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

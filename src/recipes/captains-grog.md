@@ -99,6 +99,20 @@ Garnish
   data-ingredient[10]="Black blended rum [5]"
   data-ingredient[11]="Blended lightly aged rum [2]"
   data-ingredient[12]="Blended aged rum [3]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-syrup[0]="Maple syrup"
+  data-pantry[0]="Vanilla extract"
+  data-pantry[1]="Almond extract"
+  data-pantry[2]="Mint sprig"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Curaçao, dry"
+  data-liquor[2]="Curaçao"
+  data-liquor[3]="Black blended rum [5]"
+  data-liquor[4]="Blended lightly aged rum [2]"
+  data-liquor[5]="Blended aged rum [3]"
   data-glass[0]="Double rocks"
   data-decade[0]="1960"
   data-pagefind-filter="
@@ -124,6 +138,19 @@ Garnish
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
     Ingredient[data-ingredient[12]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]]
   "

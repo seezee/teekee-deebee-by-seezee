@@ -82,6 +82,14 @@ Garnish
   data-ingredient[5]="Blended aged rum [3]"
   data-ingredient[6]="Celebration Distillation Old New Orleans Amber rum"
   data-ingredient[7]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="1:1 simple syrup"
+  data-liquor[0]="Blended lightly aged rum [2]"
+  data-liquor[1]="Blended lightly aged rum (Jamaica) [2]"
+  data-liquor[2]="Black blended rum [5]"
+  data-liquor[3]="Blended aged rum [3]"
+  data-liquor[4]="Celebration Distillation Old New Orleans Amber rum"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -103,6 +111,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

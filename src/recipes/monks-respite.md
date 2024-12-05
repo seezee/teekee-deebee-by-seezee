@@ -84,6 +84,15 @@ Garnish
   data-ingredient[6]="Seltzer"
   data-ingredient[7]="Soda water"
   data-ingredient[8]="Orange bitters"
+  data-pantry[0]="Coconut water"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Chartreuse, Yellow"
+  data-liquor[1]="Gin, London dry"
+  data-liquor[2]="Broker’s gin"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Orange bitters"
   data-origin[0]="Steve Liles"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Coconut shell"
@@ -106,6 +115,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

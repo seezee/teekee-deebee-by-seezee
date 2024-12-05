@@ -69,6 +69,10 @@ Garnish
   data-ingredient[0]="Chartreuse, Green"
   data-ingredient[1]="Drambuie"
   data-ingredient[2]="Cane AOC Martinique rhum agricole blanc [7]"
+  data-pantry[0]="Lemon twist
+  data-liquor[0]="Chartreuse, Green"
+  data-liquor[1]="Drambuie"
+  data-liquor[2]="Cane AOC Martinique rhum agricole blanc [7]"
   data-origin[0]="Martin Cate"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
@@ -86,6 +90,10 @@ Garnish
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Pantry[data-pantry[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Glassware[data-glass[0]]
     Decade[data-decade[0]],
     Decade[data-decade[1]]

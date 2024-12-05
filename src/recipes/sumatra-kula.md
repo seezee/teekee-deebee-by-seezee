@@ -79,6 +79,12 @@ Garnish
   data-ingredient[3]="Honey syrup"
   data-ingredient[4]="Blended lightly aged rum [2]"
   data-ingredient[5]="Blended lightly aged rum (Puerto Rico) [2]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-juice[2]="Orange juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Blended lightly aged rum [2]"
+  data-liquor[1]="Blended lightly aged rum (Puerto Rico) [2]"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -96,6 +102,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Juice[data-juice[2]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

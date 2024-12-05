@@ -69,6 +69,11 @@ Garnish
   data-ingredient[2]="Orgeat"
   data-ingredient[3]="Grenadine"
   data-ingredient[4]="Vodka"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Lemon juice"
+  data-syrup[0]="Orgeat"
+  data-syrup[1]="Grenadine"
+  data-liquor[0]="Vodka"
   data-origin[0]="Stardust Casino, Las Vegas"
   data-origin[1]="Aku Aku Polynesian Restaurant, Las Vegas"
   data-glass[0]="Coupé"
@@ -86,6 +91,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

@@ -69,6 +69,12 @@ Garnish
   data-ingredient[3]="Soda water"
   data-ingredient[4]="Chartreuse, Yellow"
   data-ingredient[5]="Blended lightly aged rum [2]"
+  data-syrup[0]="Rich Demerara syrup"
+  data-juice[0]="Lime juice"
+  data-liquor[0]="Chartreuse, Yellow"
+  data-liquor[1]="Blended lightly aged rum [2]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Facuno Bacardi"
   data-origin[1]="Charles H. Baker"
   data-glass[0]="Coupé"
@@ -86,6 +92,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Syrup[data-syrup[0]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

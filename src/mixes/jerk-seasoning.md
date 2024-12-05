@@ -52,6 +52,13 @@ excerpt: Recipe for Smuggler's Cove jerk seasoning
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]],
+    Pantry[data-ingredient[3]],
+    Pantry[data-ingredient[4]],
+    Pantry[data-ingredient[5]],
+    Pantry[data-ingredient[6]]
   "
 >
 </div>

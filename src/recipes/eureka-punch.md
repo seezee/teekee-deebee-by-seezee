@@ -86,6 +86,12 @@ Garnish
   data-ingredient[3]="Column still aged rum [4]"
   data-ingredient[4]="Angostura bitters"
   data-ingredient[5]="Ginger ale"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Chartreuse, Yellow"
+  data-liquor[1]="Column still aged rum [4]"
+  data-soda[0]="Ginger ale"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Martin Cate"
   data-glass[0]="Punch cup"
   data-glass[1]="Tiki mug, small"
@@ -104,6 +110,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

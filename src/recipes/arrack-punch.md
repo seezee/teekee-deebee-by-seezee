@@ -79,6 +79,15 @@ Garnish
   data-ingredient[4]="Pot still lightly aged rum [1]"
   data-ingredient[5]="Pot still lightly aged rum (overproof) [1]"
   data-ingredient[6]="Carbonated chai"
+  data-pantry[0]="Lemon wheel"
+  data-pantry[1]="Lime wheel"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Batavia arrack"
+  data-liquor[1]="Pot still lightly aged rum [1]"
+  data-liquor[2]="Pot still lightly aged rum (overproof) [1]"
+  data-prep[0]="Carbonated chai"
   data-origin[0]="Smuggler’s Cove"
   data-glass[0]="Punch bowl"
   data-glass[1]="Punch bowl, small (32-ounce)"
@@ -97,6 +106,15 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]]

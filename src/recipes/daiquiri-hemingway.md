@@ -79,6 +79,14 @@ Garnish
   data-ingredient[5]="Blended lightly aged rum [2]"
   data-ingredient[6]="Denizen Aged White Rum"
   data-ingredient[7]="Grapefruit peel"
+  data-pantry[0]="Grapefruit peel"
+  data-syrup[0]="1:1 simple syrup"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-liquor[0]="Maraschino liqueur"
+  data-liquor[1]="Luxardo maraschino liqueur"
+  data-liquor[2]="Blended lightly aged rum [2]"
+  data-liquor[3]="Denizen Aged White Rum"
   data-origin[0]="Constantino Ribalaigua Vert"
   data-origin[1]="El Floridita, Havana"
   data-origin[2]="St. John Frizell"
@@ -103,6 +111,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
+    Syrup[data-syrup[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

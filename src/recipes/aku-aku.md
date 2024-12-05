@@ -73,6 +73,12 @@ Garnish
   data-ingredient[3]="Rich Demerara syrup"
   data-ingredient[4]="Peach liqueur"
   data-ingredient[5]="Blended lightly aged rum [2]"
+  data-pantry[0]="Pineapple chunk(s)"
+  data-pantry[1]="Mint leaves"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Peach liqueur"
+  data-liquor[1]="Blended lightly aged rum [2]"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-glass[0]="Coupé"
@@ -94,6 +100,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

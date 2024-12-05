@@ -107,6 +107,13 @@ Garnish
   data-ingredient[4]="Brandy"
   data-ingredient[5]="Gin, London dry"
   data-ingredient[6]="Blended lightly aged rum [2]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Orange juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Orgeat"
+  data-liquor[0]="Brandy"
+  data-liquor[1]="Gin, London dry"
+  data-liquor[2]="Blended lightly aged rum [2]"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-origin[2]="Steve Crane"
@@ -132,6 +139,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

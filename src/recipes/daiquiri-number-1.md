@@ -64,6 +64,9 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
   data-ingredient[0]="Lime juice"
   data-ingredient[1]="Rich Demerara syrup"
   data-ingredient[2]="Blended lightly aged rum [2]"
+  data-syrup[0]="Rich Demerara syrup"
+  data-juice[0]="Lime juice"
+  data-liquor[0]="Blended lightly aged rum [2]"
   data-origin[0]="Cuba"
   data-origin[1]="Traditional"
   data-origin[2]="Constantino Ribalaigua Vert"
@@ -80,6 +83,9 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Syrup[data-syrup[0]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

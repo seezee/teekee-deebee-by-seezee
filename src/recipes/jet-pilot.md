@@ -83,6 +83,15 @@ Garnish
   data-ingredient[6]="Blended aged rum [3]"
   data-ingredient[7]="Black blended overproof rum [6]"
   data-ingredient[8]="Herbstura"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-syrup[0]="Cinnamon syrup"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Black blended rum [5]"
+  data-liquor[2]="Blended aged rum [3]"
+  data-liquor[3]="Black blended overproof rum [6]"
+  data-prep[0]="Donn’s Mix"
+  data-prep[1]="Herbstura"
   data-origin[0]="The Luau, Beverly Hills"
   data-glass[0]="Double rocks"
   data-decade[0]="1950"
@@ -102,6 +111,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Preparation[data-prep[0]],
+    Preparation[data-prep[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
    Decade[data-decade[0]]

@@ -95,9 +95,24 @@ Garnish
   data-ingredient[5]="Brandy, vanilla"
   data-ingredient[6]="Port, tawny"
   data-ingredient[7]="Coffee liqueur"
-  data-ingredient[8]="Bittermens New Orleans Coffee Liqueur"
+  data-ingredient[8]="Bittermens New Orleans coffee liqueur"
   data-ingredient[9]="Blended aged rum [3]"
   data-ingredient[10]="Angostura bitters"
+  data-ingredient[11]="Wine, fortified"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Pineapple juice, unsweetened"
+  data-syrup[0]="Maple syrup"
+  data-liquor[0]="Brandy, vanilla"
+  data-liquor[1]="Port, tawny"
+  data-liquor[2]="Coffee liqueur"
+  data-liquor[3]="Bittermens New Orleans coffee liqueur"
+  data-liquor[4]="Blended aged rum [3]"
+  data-liquor[5]="Wine, fortified"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Angostura bitters"
+  data-beer-wine[0]="Port, tawny"
+  data-beer-wine[1]="Wine, fortified"
   data-origin[0]="Smuggler’s Cove"
   data-garnish[0]="Lemon twist"
   data-decade[0]="2000"
@@ -122,6 +137,21 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Ingredient[data-ingredient[11]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
     Origin[data-origin[0]],
     Garnish[data-garnish[0]],
     Decade[data-decade[0]]

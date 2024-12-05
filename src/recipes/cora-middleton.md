@@ -45,7 +45,7 @@ Glassware
 * 2 ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 3/4 ounce fresh lime juice
 * 1/4 ounce [rich Demerara syrup](/mixes/2-1-simple-syrup)
-* 1/2 ounce Small Hand Foods Raspberry Gum Syrup
+* 1/2 ounce Small Hand Foods Raspberry Gum syrup
 
 [^1]: Substitute 2 ounces aquafaba *or* 1 tablespoon dehydrated egg white mixed with 3 tablespoons cold water.
 
@@ -80,7 +80,14 @@ Garnish
   data-ingredient[3]="Lime juice"
   data-ingredient[4]="Rich Demerara syrup"
   data-ingredient[5]="Raspberry syrup"
-  data-ingredient[6]="Small Hand Foods Raspberry Gum Syrup"
+  data-ingredient[6]="Small Hand Foods Raspberry Gum syrup"
+  data-pantry[0]="Egg white"
+  data-pantry[1]="Aquafaba"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Raspberry syrup"
+  data-syrup[2]="Small Hand Foods Raspberry Gum syrup"
+  data-juice[0]="Lime juice"
+  data-liquor[0]="Blended aged rum [3]"
   data-glass[0]="Coupé"
   data-decade[0]="1950"
   data-pagefind-filter="
@@ -98,6 +105,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Syrup[data-syrup[2]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]]
 ">

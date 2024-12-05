@@ -90,6 +90,15 @@ Garnish
   data-ingredient[6]="Blended aged rum (Guyana) [3]"
   data-ingredient[7]="Column still lightly aged rum"
   data-ingredient[8]="Column still lightly aged rum (overproof) (Puerto Rico)"
+  data-pantry[0]="Honey"
+  data-juice[0]="Orange juice"
+  data-juice[1]="Lime juice"
+  data-liquor[0]="Black pot still rum"
+  data-liquor[1]="Black pot still rum (Jamaica)"
+  data-liquor[2]="Blended aged rum [3]"
+  data-liquor[3]="Blended aged rum (Guyana) [3]"
+  data-liquor[4]="Column still lightly aged rum"
+  data-liquor[5]="Column still lightly aged rum (overproof) (Puerto Rico)"
   data-origin[0]="Ray Buhen"
   data-glass[0]="Double rocks"
   data-garnish[0]="Maraschino cherry"
@@ -112,6 +121,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Garnish[data-garnish[0]],

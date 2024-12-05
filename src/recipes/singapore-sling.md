@@ -111,6 +111,15 @@ Garnish
   data-ingredient[6]="Gin, London dry"
   data-ingredient[7]="Angostura bitters"
   data-ingredient[8]="Orange bitters"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Cherry Heering"
+  data-liquor[1]="Benedictine"
+  data-liquor[2]="Gin, London dry"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Angostura bitters"
+  data-bitters[1]="Orange bitters"
   data-origin[0]="Ngiam Tong Boon"
   data-origin[1]="Raffles Hotel, Singapore"
   data-decade[0]="1890"
@@ -136,6 +145,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
+    Bitters[data-bitters[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]],

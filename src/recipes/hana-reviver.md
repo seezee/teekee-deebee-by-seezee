@@ -75,6 +75,14 @@ Garnish
   data-ingredient[5]="Luxardo maraschino liqueur"
   data-ingredient[6]="Maraschino liqueur"
   data-ingredient[7]="Pot still unaged rum"
+  data-pantry[0]="Li hing mui powder"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-liquor[0]="Luxardo maraschino liqueur"
+  data-liquor[1]="Maraschino liqueur"
+  data-liquor[2]="Pot still unaged rum"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Martin Cate"
   data-decade[0]="2000"
   data-decade[1]="2010"
@@ -93,6 +101,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

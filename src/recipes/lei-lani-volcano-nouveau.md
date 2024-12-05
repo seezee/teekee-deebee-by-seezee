@@ -83,6 +83,11 @@ Garnish
   data-ingredient[2]="Lime juice"
   data-ingredient[3]="Coconut cream"
   data-ingredient[4]="Blended aged rum [3]"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lime juice"
+  data-liquor[0]="Blended aged rum [3]"
+  data-soda[0]="Soda, guava"
+  data-batter[0]="Coconut cream"
   data-origin[0]="Smuggler’s Cove"
   data-origin[1]="Walt Disney World"
   data-decade[0]="1970"
@@ -103,6 +108,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Soda & seltzer[data-soda[0]],
+    Batter[data-batter[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]],

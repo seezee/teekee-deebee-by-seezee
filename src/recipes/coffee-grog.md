@@ -115,6 +115,19 @@ Garnish
   data-ingredient[10]="Orange peel"
   data-ingredient[11]="Grapefruit peel"
   data-ingredient[12]="Coffee grog batter"
+  data-liquor[0]="Pot still unaged rum (Jamaica)"
+  data-liquor[1]="Pot still unaged rum"
+  data-liquor[2]="Blended lightly aged rum (Jamaica) [2]"
+  data-liquor[3]="Blended lightly aged rum [2]"
+  data-liquor[4]="Black blended overproof rum [6]"
+  data-pantry[0]="Coffee, hot"
+  data-pantry[1]="Sugar cubes"
+  data-pantry[2]="Nutmeg, grated"
+  data-pantry[3]="Cloves, ground"
+  data-pantry[4]="Cinnamon, ground"
+  data-pantry[5]="Orange peel"
+  data-pantry[6]="Grapefruit peel"
+  data-batter[0]="Coffee grog batter"
   data-garnish[0]="Cinnamon stick"
   data-decade[0]="1930"
   data-pagefind-filter="
@@ -140,6 +153,19 @@ Garnish
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
     Ingredient[data-ingredient[12]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
+    Pantry[data-pantry[4]],
+    Pantry[data-pantry[5]],
+    Batter[data-batter[0]],
     Garnish[data-garnish[0]],
     Decade[data-decade[0]]
   "

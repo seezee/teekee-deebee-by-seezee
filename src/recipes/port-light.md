@@ -76,6 +76,12 @@ Garnish
   data-ingredient[3]="Lemon juice"
   data-ingredient[4]="Honey syrup"
   data-ingredient[5]="Passion fruit syrup"
+  data-pantry[0]="Egg white"
+  data-pantry[1]="Aquafaba"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Honey syrup"
+  data-syrup[1]="Passion fruit syrup"
+  data-liquor[0]="Whiskey, bourbon"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-decade[0]="1940"
@@ -92,6 +98,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]],

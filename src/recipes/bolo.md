@@ -92,6 +92,14 @@ Garnish
   data-ingredient[4]="Column still aged rum [4]"
   data-ingredient[5]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[6]="Angostura bitters"
+  data-pantry[0]="Pineapple"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lime juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Honey syrup"
+  data-liquor[0]="Column still aged rum [4]"
+  data-liquor[1]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Ray Buhen"
   data-origin[1]="Bob Esmino"
   data-origin[2]="Luau, Beverly Hills"
@@ -110,6 +118,14 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

@@ -79,6 +79,14 @@ Garnish
   data-ingredient[5]="Curaçao, dry"
   data-ingredient[6]="Curaçao"
   data-ingredient[7]="Blended lightly aged rum [2]"
+  data-juice[0]="Lemon juice"
+  data-liquor[0]="Cherry Heering"
+  data-liquor[1]="Falernum"
+  data-liquor[2]="Curaçao, dry"
+  data-liquor[3]="Curaçao"
+  data-liquor[4]="Blended lightly aged rum [2]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Frank “Skipper” Kent"
   data-origin[1]="Skipper Kent’s, San Francisco"
   data-garnish[0]="Maraschino cherry"
@@ -99,6 +107,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Garnish[data-garnish[0]],

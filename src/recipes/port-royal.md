@@ -72,6 +72,13 @@ Garnish
   data-ingredient[4]="Pot still unaged rum (overproof)"
   data-ingredient[5]="Wray & Nephew White Overproof Rum"
   data-ingredient[6]="Hellfire tincture"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Jerk syrup"
+  data-liquor[0]="Blended lightly aged rum [2]"
+  data-liquor[1]="Pot still unaged rum"
+  data-liquor[2]="Pot still unaged rum (overproof)"
+  data-liquor[3]="Wray & Nephew White Overproof Rum"
+  data-prep[0]="Hellfire tincture"
   data-origin[0]="Martin Cate"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
@@ -91,6 +98,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

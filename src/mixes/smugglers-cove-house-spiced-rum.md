@@ -48,7 +48,17 @@ excerpt: Where to find Smuggler's Cove house spiced rum
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
-    Ingredient[data-ingredient[9]]
+    Ingredient[data-ingredient[9]],
+    Liquor[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]],
+    Pantry[data-ingredient[3]],
+    Pantry[data-ingredient[4]],
+    Pantry[data-ingredient[5]],
+    Pantry[data-ingredient[6]],
+    Pantry[data-ingredient[7]],
+    Pantry[data-ingredient[8]],
+    Syrup[data-ingredient[9]]
   "
 >
 </div>

@@ -79,6 +79,15 @@ Garnish
   data-ingredient[4]="Raspberry liqueur"
   data-ingredient[5]="Blended aged rum [3]"
   data-ingredient[6]="Cinnamon, ground"
+  data-pantry[0]="Raspberry"
+  data-pantry[1]="Lime wheel"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Honey syrup"
+  data-liquor[0]="St. George Raspberry Liqueur"
+  data-liquor[1]="Raspberry liqueur"
+  data-liquor[2]="Blended aged rum [3]"
+  data-pantry[0]="Cinnamon, ground"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
   data-decade[1]="2010"
@@ -97,6 +106,15 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Pantry[data-pantry[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

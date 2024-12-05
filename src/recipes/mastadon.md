@@ -52,7 +52,7 @@ Serves
 
 * 3 ounces unsweetened pineapple juice
 * 1/2 ounce fresh lime juice
-* 1 ounce passion fruit purée
+* 1 ounce Funkin passion fruit purée
 * 1/2 ounce Licor 43
 * 1/2 ounce Luxardo maraschino liqueur
 * 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
@@ -98,11 +98,23 @@ Garnish
   data-ingredient[0]="Pineapple juice, unsweetened"
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Passion fruit purée"
-  data-ingredient[3]="Licor 43"
-  data-ingredient[4]="Maraschino liqueur"
-  data-ingredient[5]="Blended aged rum [3]"
-  data-ingredient[6]="Whiskey, bourbon"
-  data-ingredient[7]="Peychaud’s bitters"
+  data-ingredient[3]="Funkin passion fruit purée"
+  data-ingredient[4]="Licor 43"
+  data-ingredient[5]="Maraschino liqueur"
+  data-ingredient[6]="Luxardo maraschino liqueur"
+  data-ingredient[7]="Blended aged rum [3]"
+  data-ingredient[8]="Whiskey, bourbon"
+  data-ingredient[9]="Peychaud’s bitters"
+  data-pantry[0]="Passion fruit purée"
+  data-pantry[1]="Funkin passion fruit purée"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lime juice"
+  data-liquor[0]="Licor 43"
+  data-liquor[1]="Maraschino liqueur"
+  data-liquor[2]="Luxardo maraschino liqueur"
+  data-liquor[3]="Blended aged rum [3]"
+  data-liquor[4]="Whiskey, bourbon"
+  data-bitters[0]="Peychaud’s bitters"
   data-origin[0]="Alex Smith"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Pineapple"
@@ -123,6 +135,18 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

@@ -74,6 +74,10 @@ Garnish
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Column still lightly aged rum"
+  data-pantry[0]="Coconut water"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Column still lightly aged rum"
   data-glass[0]="Coconut shell"
   data-glass[1]="Coconut mug"
   data-decade[0]="1900"
@@ -89,6 +93,10 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Pantry[data-pantry[0]],
+    Syrup[data-syrup[0]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],
     Decade[data-decade[0]]

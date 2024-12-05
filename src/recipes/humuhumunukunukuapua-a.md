@@ -93,6 +93,11 @@ Garnish
   data-ingredient[2]="Orgeat"
   data-ingredient[3]="Gin, London dry"
   data-ingredient[4]="Peychaud’s bitters"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Pineapple juice, unsweetened"
+  data-syrup[0]="Orgeat"
+  data-liquor[0]="Gin, London dry"
+  data-bitters[0]="Peychaud’s bitters"
   data-origin[0]="Marcovaldo Dionysos"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Double rocks"
@@ -112,6 +117,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

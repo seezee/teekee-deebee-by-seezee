@@ -93,6 +93,17 @@ Garnish
   data-ingredient[7]="Black blended overproof rum [6]"
   data-ingredient[8]="Seltzer"
   data-ingredient[9]="Soda water"
+  data-pantry[0]="Pineapple chunk(s)"
+  data-pantry[1]="Pineapple"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lime juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-liquor[1]="Column still aged rum [4]"
+  data-liquor[2]="Black blended rum [5]"
+  data-liquor[3]="Black blended overproof rum [6]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-glass[0]="Pineapple"
   data-decade[0]="1960"
   data-pagefind-filter="
@@ -114,6 +125,17 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]]
   "

@@ -54,7 +54,11 @@ excerpt: Recipe for Smuggler's Cove spiced hibiscus infusion
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
-    Ingredient[data-ingredient[3]]
+    Ingredient[data-ingredient[3]],
+    Liquor[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]],
+    Pantry[data-ingredient[3]]
   "
 >
 </div>

@@ -107,6 +107,18 @@ Garnish
   data-ingredient[9]="Blended aged rum [3]"
   data-ingredient[10]="Black blended overproof rum [6]"
   data-ingredient[11]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Pineapple juice, unsweetened"
+  data-syrup[0]="Vanilla syrup"
+  data-syrup[1]="Molasses syrup"
+  data-liquor[0]="Allspice dram"
+  data-liquor[1]="Pimento dram"
+  data-liquor[2]="Blended lightly aged rum [2]"
+  data-liquor[3]="Blended aged rum [3]"
+  data-liquor[4]="Black blended overproof rum [6]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Martin Cate"
   data-origin[1]="Smuggler’s Cove"
   data-source[0]="Reddit r/Tiki"
@@ -135,6 +147,18 @@ Garnish
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Source[data-source[0]],

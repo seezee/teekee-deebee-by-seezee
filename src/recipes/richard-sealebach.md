@@ -86,6 +86,14 @@ Garnish
   data-ingredient[5]="Peychaud’s bitters"
   data-ingredient[6]="Champagne"
   data-ingredient[7]="Sparkling wine"
+  data-liquor[0]="Curaçao, dry"
+  data-liquor[1]="Curaçao"
+  data-liquor[2]="R.L. Seale 10 Year Rum"
+  data-liquor[3]="Blended aged rum [3]"
+  data-liquor[4]="Champagne"
+  data-liquor[5]="Sparkling wine"
+  data-bitters[0]="Angostura bitters"
+  data-bitters[1]="Peychaud’s bitters"
   data-origin[0]="Rebecca Cate"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
@@ -106,6 +114,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Bitters[data-bitters[0]],
+    Bitters[data-bitters[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

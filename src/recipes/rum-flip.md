@@ -72,6 +72,9 @@ Garnish
   data-ingredient[0]="Egg, raw"
   data-ingredient[1]="Rich Demerara syrup"
   data-ingredient[2]="Blended aged rum [3]"
+  data-pantry[0]="Egg, raw"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Blended aged rum [3]"
   data-origin[0]="Jerry Thomas"
   data-glass[0]="Coupé"
   data-garnish[0]="Nutmeg, grated"
@@ -89,6 +92,9 @@ Garnish
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Pantry[data-pantry[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Garnish[data-garnish[0]],

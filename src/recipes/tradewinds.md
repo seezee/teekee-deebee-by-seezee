@@ -77,6 +77,11 @@ Garnish
   data-ingredient[2]="Apricot liqueur"
   data-ingredient[3]="Black blended rum [5]"
   data-ingredient[4]="Blended lightly aged rum [2]"
+  data-juice[0]="Lemon juice"
+  data-liquor[0]="Apricot liqueur"
+  data-liquor[1]="Black blended rum [5]"
+  data-liquor[2]="Blended lightly aged rum [2]"
+  data-batter[0]="Coconut cream"
   data-origin[0]="Caribbean"
   data-decade[0]="1970"
   data-pagefind-filter="
@@ -91,6 +96,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Batter[data-batter[0]],
     Origin[data-origin[0]],
     Decade[data-decade[0]]
   "

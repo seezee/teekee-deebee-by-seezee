@@ -83,7 +83,13 @@ Garnish
   data-ingredient[2]="Honey syrup"
   data-ingredient[3]="Pineapple, diced"
   data-ingredient[4]="Blended aged rum [3]"
-  data-ingredient[5]="Blended aged rum, 86 proof [3]"
+  data-ingredient[5]="Blended aged rum (86 proof) [3]"
+  data-pantry[0]="Pineapple, diced"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Honey syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-liquor[1]="Blended aged rum (86 proof) [3]"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -104,6 +110,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

@@ -81,6 +81,17 @@ Garnish
   data-ingredient[8]="Seltzer"
   data-ingredient[9]="Soda water"
   data-ingredient[10]="Domaine de Canton"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lemon juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Ginger liqueur"
+  data-liquor[1]="Domaine de Canton"
+  data-liquor[2]="Allspice dram"
+  data-liquor[3]="Pimento dram"
+  data-liquor[4]="Black blended rum [5]"
+  data-liquor[5]="Blended lightly aged rum [2]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Marcovaldo Dionysos"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Pineapple"
@@ -104,6 +115,17 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

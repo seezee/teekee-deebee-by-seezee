@@ -96,6 +96,15 @@ Garnish
   data-ingredient[6]="Black blended overproof rum [6]"
   data-ingredient[7]="Herbstura"
   data-ingredient[8]="Nutmeg, grated"
+  data-pantry[0]="Nutmeg, grated"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Honey syrup"
+  data-liquor[0]="Allspice dram"
+  data-liquor[1]="Pimento dram"
+  data-liquor[2]="Column still aged rum [4]"
+  data-liquor[3]="Black blended overproof rum [6]"
+  data-prep[0]="Herbstura"
   data-origin[0]="Martin Cate"
   data-origin[1]="Ron Roumas"
   data-decade[0]="2000"
@@ -118,6 +127,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]],

@@ -91,6 +91,15 @@ Garnish
   data-ingredient[6]="Black blended overproof rum [6]"
   data-ingredient[7]="Blended aged rum [3]"
   data-ingredient[8]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-syrup[0]="Cinnamon syrup"
+  data-liquor[0]="Absinthe blanc"
+  data-liquor[1]="Falernum"
+  data-liquor[2]="Black blended overproof rum [6]"
+  data-liquor[3]="Blended aged rum [3]"
+  data-bitters[0]="Angostura bitters"
+  data-prep[0]="Donn’s Mix"
   data-origin[0]="Martin Cate"
   data-glass[0]="Coupé"
   data-garnish[0]="Lime twist"
@@ -114,6 +123,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Bitters[data-bitters[0]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Garnish[data-garnish[0]],

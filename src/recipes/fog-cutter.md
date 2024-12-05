@@ -95,6 +95,17 @@ Garnish
   data-ingredient[4]="Gin, London dry"
   data-ingredient[5]="Blended lightly aged rum [2]"
   data-ingredient[6]="Sherry, oloroso"
+  data-ingredient[7]="Wine, fortified"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Orange juice"
+  data-syrup[0]="Orgeat"
+  data-liquor[0]="Pisco"
+  data-liquor[1]="Gin, London dry"
+  data-liquor[2]="Blended lightly aged rum [2]"
+  data-liquor[3]="Sherry, oloroso"
+  data-liquor[4]="Wine, fortified"
+  data-beer-wine[0]="Sherry, oloroso"
+  data-beer-wine[1]="Wine, fortified"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-decade[0]="1940"
@@ -113,6 +124,17 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]]

@@ -74,6 +74,20 @@ Garnish
   data-ingredient[6]="Blandy’s 5 Year Verdelho Madeira"
   data-ingredient[7]="Madeira"
   data-ingredient[8]="Angostura bitters"
+  data-ingredient[9]="Wine, fortified"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="2:1 rich simple syrup"
+  data-liquor[0]="Curaçao"
+  data-liquor[1]="Curaçao, dry"
+  data-liquor[2]="Pot still lightly aged rum [1]"
+  data-liquor[3]="Pot still lightly aged rum (New England) [1]"
+  data-liquor[4]="Blandy’s 5 Year Verdelho Madeira"
+  data-liquor[5]="Madeira"
+  data-liquor[6]="Wine, fortified"
+  data-bitters[0]="Angostura bitters"
+  data-beer-wine[0]="Blandy’s 5 Year Verdelho Madeira"
+  data-beer-wine[1]="Madeira"
+  data-beer-wine[2]="Wine, fortified"
   data-origin[0]="Steve Liles"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
@@ -94,6 +108,20 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
+    Bitters[data-bitters[0]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
+    Beer & Wine[data-beer-wine[2]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

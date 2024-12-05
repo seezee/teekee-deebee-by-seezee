@@ -73,6 +73,13 @@ Garnish
   data-ingredient[4]="Grenadine"
   data-ingredient[5]="Whiskey, bourbon"
   data-ingredient[6]="Angostura bitters"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Orange juice"
+  data-juice[2]="Pineapple juice, unsweetened"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Grenadine"
+  data-liquor[0]="Whiskey, bourbon"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Halekulani Hotel, Waikiki Beach"
   data-origin[1]="House Without a Key lounge, Waikiki Beach"
   data-glass[0]="Coupé"
@@ -91,6 +98,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Juice[data-juice[2]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

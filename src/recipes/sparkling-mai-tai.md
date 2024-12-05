@@ -88,6 +88,13 @@ Garnish
   data-ingredient[4]="Black blended overproof rum [6]"
   data-ingredient[5]="Blended aged rum [3]"
   data-ingredient[6]="Sparkling wine"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Orgeat"
+  data-liquor[0]="Curaçao"
+  data-liquor[1]="Curaçao, dry"
+  data-liquor[2]="Black blended overproof rum [6]"
+  data-liquor[3]="Blended aged rum [3]"
+  data-liquor[4]="Sparkling wine"
   data-origin[0]="Martin Cate"
   data-glass[0]="Coupé"
   data-decade[0]="2010"
@@ -107,6 +114,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]]

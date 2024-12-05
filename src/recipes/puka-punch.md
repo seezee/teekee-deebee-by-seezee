@@ -90,6 +90,17 @@ Garnish
   data-ingredient[8]="Black pot still rum"
   data-ingredient[9]="Angostura bitters"
   data-ingredient[10]="Black blended overproof rum [6]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Orange juice"
+  data-juice[2]="Pineapple juice, unsweetened"
+  data-syrup[0]="Honey syrup"
+  data-syrup[1]="Passion fruit syrup"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Blended lightly aged rum [2]"
+  data-liquor[2]="Column still aged rum [4]"
+  data-liquor[3]="Black pot still rum"
+  data-liquor[4]="Black blended overproof rum [6]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Tiki-Ti, Los Angeles"
   data-glass[0]="Brandy snifter"
   data-glass[1]="Brandy snifter, large (22-ounce)"
@@ -111,6 +122,17 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Juice[data-juice[2]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

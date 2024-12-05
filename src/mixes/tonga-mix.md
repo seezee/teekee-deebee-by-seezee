@@ -39,7 +39,9 @@ excerpt: Recipe for Don the Beachcomber's tonga mix
   data-pagefind-filter="
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
-    Ingredient[data-ingredient[1]]
+    Ingredient[data-ingredient[1]],
+    Juice[data-ingredient[0]],
+    Syrup[data-ingredient[1]]
   "
 >
 </div>

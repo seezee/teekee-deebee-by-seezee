@@ -74,6 +74,12 @@ Garnish
   data-ingredient[2]="Blended aged rum [3]"
   data-ingredient[3]="Blended aged rum (Barbados) [3]"
   data-ingredient[4]="Angostura bitters"
+  data-pantry[0]="Nutmeg, grated"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-liquor[1]="Blended aged rum (Barbados) [3]"
+  data-bitters[0]="Angostura bitters"
   data-garnish[0]="Nutmeg, grated"
   data-decade[0]="1650"
   data-decade[1]="2000"
@@ -90,6 +96,12 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Bitters[data-bitters[0]],
     Garnish[data-garnish[0]]
     Decade[data-decade[0]],
     Decade[data-decade[1]],

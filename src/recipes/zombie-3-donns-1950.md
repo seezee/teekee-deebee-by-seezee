@@ -96,6 +96,17 @@ Garnish
   data-ingredient[8]="Black blended overproof rum [6]"
   data-ingredient[9]="Sugar, brown"
   data-ingredient[10]="Angostura bitters"
+  data-pantry[0]="Sugar, brown"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Lemon juice"
+  data-juice[2]="Pineapple juice, unsweetened"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Grenadine"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Blended lightly aged rum [2]"
+  data-liquor[2]="Blended aged rum [3]"
+  data-liquor[3]="Black blended overproof rum [6]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -119,6 +130,17 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

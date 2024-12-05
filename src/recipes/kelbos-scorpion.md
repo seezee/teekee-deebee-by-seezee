@@ -85,6 +85,14 @@ Garnish
   data-ingredient[5]="Gin, London dry"
   data-ingredient[6]="Cognac"
   data-ingredient[7]="Brandy"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Orange juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Orgeat"
+  data-liquor[0]="Black pot still rum"
+  data-liquor[1]="Gin, London dry"
+  data-liquor[2]="Cognac"
+  data-liquor[3]="Brandy"
   data-origin[0]="Hank Riddle"
   data-origin[1]="Kelbo’s, Los Angeles"
   data-glass[0]="Tiki bowl"
@@ -107,6 +115,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

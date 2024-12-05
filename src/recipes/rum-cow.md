@@ -68,6 +68,9 @@ Garnish
   data-ingredient[0]="1:1 simple syrup"
   data-ingredient[1]="Milk, whole"
   data-ingredient[2]="Black pot still rum"
+  data-pantry[0]="Milk, whole"
+  data-syrup[0]="1:1 simple syrup"
+  data-liquor[0]="Black pot still rum"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -87,6 +90,9 @@ Garnish
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Pantry[data-pantry[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

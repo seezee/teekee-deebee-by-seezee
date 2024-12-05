@@ -79,6 +79,11 @@ Garnish
   data-ingredient[2]="Crème de cassis"
   data-ingredient[3]="Tequila blanco"
   data-ingredient[4]="Ginger ale"
+  data-pantry[0]="Lime wedge"
+  data-juice[0]="Lime juice"
+  data-liquor[0]="Crème de cassis"
+  data-liquor[1]="Tequila blanco"
+  data-soda[0]="Ginger ale"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-decade[0]="1940"
@@ -97,6 +102,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]]

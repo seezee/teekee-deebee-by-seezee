@@ -80,6 +80,13 @@ Garnish
   data-ingredient[4]="Falernum"
   data-ingredient[5]="Column still aged rum [4]"
   data-ingredient[6]="Orange bitters"
+  data-juice[0]="Lemon juice"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Column still aged rum [4]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Orange bitters"
+  data-batter[0]="Coconut cream"
   data-origin[0]="Falin Ninoru"
   data-glass[0]="Double rocks"
   data-decade[0]="2000"
@@ -98,6 +105,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
+    Batter[data-batter[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

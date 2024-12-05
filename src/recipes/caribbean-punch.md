@@ -88,6 +88,20 @@ Garnish
   data-ingredient[10]="Almond extract"
   data-ingredient[11]="Angostura bitters"
   data-ingredient[12]="Root beer"
+  data-soda[0]="Sarsparilla"
+  data-soda[1]="Root beer"
+  data-syrup[0]="1:1 simple syrup"
+  data-syrup[1]="Grenadine"
+  data-juice[0]="Lime juice"
+  data-pantry[0]="Almond extract"
+  data-pantry[1]="Mint sprig"
+  data-bitters[0]="Angostura bitters"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Pot still unaged rum"
+  data-liquor[2]="Column still aged rum [4]"
+  data-liquor[3]="Pernod"
+  data-liquor[4]="Herbsaint"
+  data-liquor[5]="Pastis"
   data-glass[0]="Double rocks"
   data-decade[0]="1930"
   data-pagefind-filter="
@@ -111,6 +125,20 @@ Garnish
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
     Ingredient[data-ingredient[12]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Juice[data-juice[0]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Bitters[data-bitters[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]]
   "

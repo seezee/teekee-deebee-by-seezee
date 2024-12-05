@@ -101,6 +101,11 @@ Garnish
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Black blended rum [5]"
   data-ingredient[4]="Angostura bitters"
+  data-pantry[0]="Mint leaves"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Black blended rum [5]"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-decade[0]="1940"
@@ -120,6 +125,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]]

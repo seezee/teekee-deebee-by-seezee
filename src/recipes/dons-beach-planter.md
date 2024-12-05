@@ -91,6 +91,16 @@ Garnish
   data-ingredient[7]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[8]="Black pot still rum"
   data-ingredient[9]="Brandy"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Pineapple juice, unsweetened"
+  data-syrup[0]="Passion fruit syrup"
+  data-liquor[0]="Pernod"
+  data-liquor[1]="Herbsaint"
+  data-liquor[2]="Pastis"
+  data-liquor[3]="Cane AOC Martinique rhum agricole vieux [8]"
+  data-liquor[4]="Black pot still rum"
+  data-liquor[5]="Brandy"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -113,6 +123,16 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Bitters[data-bitters[0]],
     Garnish[data-garnish[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],

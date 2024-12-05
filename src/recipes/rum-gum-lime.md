@@ -94,6 +94,13 @@ Garnish
   data-ingredient[4]="Orange peel"
   data-ingredient[5]="Lime coin"
   data-ingredient[6]="Column still long aged rum"
+  data-pantry[0]="Orange peel"
+  data-pantry[1]="Lime coin"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="1:1 simple syrup"
+  data-liquor[0]="Column still long aged rum"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -117,6 +124,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

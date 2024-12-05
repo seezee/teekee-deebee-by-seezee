@@ -87,6 +87,19 @@ Garnish
   data-ingredient[6]="Pear liqueur"
   data-ingredient[7]="Blended aged rum [3]"
   data-ingredient[8]="Angostura bitters"
+  data-ingredient[9]="Wine, fortified"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Curaçao"
+  data-liquor[1]="Curaçao, blue"
+  data-liquor[2]="Port, tawny"
+  data-liquor[3]="Falernum"
+  data-liquor[4]="Pear liqueur"
+  data-liquor[5]="Blended aged rum [3]"
+  data-liquor[6]="Wine, fortified"
+  data-bitters[0]="Angostura bitters"
+  data-beer-wine[0]="Port, tawny"
+  data-beer-wine[1]="Wine, fortified"
   data-origin[0]="Smuggler’s Cove"
   data-origin[1]="Tiki Oasis, Walt Disney Family Museum"
   data-glass[0]="Punch cup"
@@ -110,6 +123,19 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
+    Bitters[data-bitters[0]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

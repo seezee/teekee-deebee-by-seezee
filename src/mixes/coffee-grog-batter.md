@@ -71,7 +71,14 @@ Yield
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
-    Ingredient[data-ingredient[6]]
+    Ingredient[data-ingredient[6]],
+    Liquor[data-ingredient[0]],
+    Liquor[data-ingredient[1]],
+    Pantry[data-ingredient[2]],
+    Pantry[data-ingredient[3]],
+    Pantry[data-ingredient[4]],
+    Syrup[data-ingredient[5]],
+    Syrup[data-ingredient[6]]
   "
 >
 </div>

@@ -71,6 +71,13 @@ Garnish
   data-ingredient[4]="Soda water"
   data-ingredient[5]="Blended aged rum [3]"
   data-ingredient[6]="Black blended rum [5]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Orange juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-liquor[0]="Blended aged rum [3]"
+  data-liquor[1]="Black blended rum [5]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Lanai restaurant, San Mateo, Calif."
   data-glass[0]="Brandy snifter"
   data-glass[1]="Brandy snifter, large (22-ounce)"
@@ -88,6 +95,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

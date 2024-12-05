@@ -93,6 +93,15 @@ Garnish
   data-ingredient[5]="Almond extract"
   data-ingredient[6]="Bittermens ʻElemakule tiki bitters"
   data-ingredient[7]="Black blended overproof rum [6]"
+  data-pantry[0]="Almond extract"
+  data-pantry[1]="Pineapple"
+  data-juice[0]="Pineapple juice, unsweetened"
+  data-juice[1]="Lemon juice"
+  data-syrup[0]="Cinnamon syrup"
+  data-bitters[0]="Bittermens ʻElemakule tiki bitters"
+  data-liquor[0]="Whiskey, rye"
+  data-liquor[1]="Blended lightly aged rum [2]"
+  data-liquor[2]="Black blended overproof rum [6]"
   data-origin[0]="Justin Oliver"
   data-glass[0]="Pineapple"
   data-decade[0]="2000"
@@ -111,6 +120,15 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Bitters[data-bitters[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

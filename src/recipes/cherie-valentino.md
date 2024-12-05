@@ -85,6 +85,12 @@ Garnish
   data-ingredient[3]="Lime juice"
   data-ingredient[4]="Lemon juice"
   data-ingredient[5]="Gin, London dry"
+  data-syrup[0]="Grenadine"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Lemon juice"
+  data-liquor[0]="Crème de mûre"
+  data-liquor[1]="Brandy, blackberry-flavored"
+  data-liquor[2]="Gin, London dry"
   data-glass[0]="Scorpion bowl"
   data-glass[1]="Scorpion bowl, medium (20- to 32-ounce)"
   data-glass[2]="Decorative bowl"
@@ -107,6 +113,12 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Syrup[data-syrup[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],
     Glassware[data-glass[2]],

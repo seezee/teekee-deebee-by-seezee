@@ -83,6 +83,16 @@ Garnish
   data-ingredient[7]="Seltzer"
   data-ingredient[8]="Soda water"
   data-ingredient[9]="Cinnamon, ground"
+  data-pantry[0]="Cinnamon, ground"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-syrup[0]="Orgeat"
+  data-syrup[1]="Napa wine syrup"
+  data-liquor[0]="Licor 43"
+  data-liquor[1]="Blended lightly aged rum [2]"
+  data-liquor[2]="Black blended rum [5]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Martin Cate"
   data-glass[0]="Double rocks"
   data-decade[0]="2000"
@@ -104,6 +114,16 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

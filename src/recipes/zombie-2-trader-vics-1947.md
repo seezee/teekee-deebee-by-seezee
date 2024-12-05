@@ -86,6 +86,16 @@ Garnish
   data-ingredient[7]="Black blended overproof rum [6]"
   data-ingredient[8]="Pernod"
   data-ingredient[9]="Pastis"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Orange juice"
+  data-syrup[0]="Grenadine"
+  data-liquor[0]="Curaçao"
+  data-liquor[1]="Curaçao, orange"
+  data-liquor[2]="Pot still unaged rum"
+  data-liquor[3]="Blended lightly aged rum [2]"
+  data-liquor[4]="Black blended overproof rum [6]"
+  data-liquor[5]="Pernod"
+  data-liquor[6]="Pastis"
   data-origin[0]="Trader Vic"
   data-origin[1]="Victor Bergeron"
   data-decade[0]="1940"
@@ -107,6 +117,16 @@ Garnish
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]]

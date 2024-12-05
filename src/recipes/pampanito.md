@@ -86,6 +86,14 @@ Garnish
   data-ingredient[5]="Pimento dram"
   data-ingredient[6]="Black blended rum [5]"
   data-ingredient[7]="Angostura bitters"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Molasses syrup"
+  data-liquor[0]="Allspice dram"
+  data-liquor[1]="Pimento dram"
+  data-liquor[2]="Black blended rum [5]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Martin Cate"
   data-decade[0]="2000"
   data-decade[1]="2010"
@@ -104,6 +112,14 @@ Garnish
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

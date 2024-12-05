@@ -69,6 +69,11 @@ Garnish
   data-ingredient[2]="Orgeat"
   data-ingredient[3]="Falernum"
   data-ingredient[4]="Gin, London dry"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-syrup[1]="Orgeat"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Gin, London dry"
   data-origin[0]="J. “Popo” Galsini"
   data-glass[0]="Coupé"
   data-garnish[0]="Lemon peel"
@@ -87,6 +92,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Garnish[data-garnish[0]],

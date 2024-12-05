@@ -78,6 +78,16 @@ Garnish
   data-ingredient[3]="Bittermens Xocolatl mole bitters"
   data-ingredient[4]="Chocolate bitters"
   data-ingredient[5]="Mole bitters"
+  data-ingredient[6]="Wine, fortified"
+  data-liquor[0]="Port, tawny"
+  data-liquor[1]="Pear liqueur"
+  data-liquor[2]="Blended aged rum [3]"
+  data-liquor[3]="Wine, fortified"
+  data-bitters[0]="Bittermens Xocolatl mole bitters"
+  data-bitters[1]="Chocolate bitters"
+  data-bitters[2]="Mole bitters"
+  data-beer-wine[0]="Port, tawny"
+  data-beer-wine[1]="Wine, fortified"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
   data-decade[1]="2010"
@@ -98,6 +108,16 @@ Garnish
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
+    Ingredient[data-ingredient[6]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Bitters[data-bitters[0]],
+    Bitters[data-bitters[1]],
+    Bitters[data-bitters[2]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]

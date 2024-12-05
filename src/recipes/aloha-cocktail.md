@@ -84,6 +84,15 @@ Garnish
   data-ingredient[6]="Column still lightly aged rum"
   data-ingredient[7]="Column still lightly aged rum (overproof)"
   data-ingredient[8]="Blended aged rum [3]"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Orange juice"
+  data-syrup[0]="Grenadine"
+  data-beer-wine[0]="Cherry Kijafa"
+  data-beer-wine[1]="Cherry wine"
+  data-liquor[0]="Cherry Heering"
+  data-liquor[1]="Column still lightly aged rum"
+  data-liquor[2]="Column still lightly aged rum (overproof)"
+  data-liquor[3]="Blended aged rum [3]"
   data-origin[0]="Hank Riddle"
   data-decade[0]="1970"
   data-pagefind-filter="
@@ -103,6 +112,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
     Origin[data-origin[0]],
     Decade[data-decade[0]]
   "

@@ -81,6 +81,13 @@ Garnish
   data-ingredient[4]="Apricot liqueur"
   data-ingredient[5]="Tequila blanco"
   data-ingredient[6]="Herbstura"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Honey syrup"
+  data-liquor[0]="Apricot liqueur"
+  data-liquor[1]="Tequila blanco"
+  data-soda[0]="Grapefruit soda"
+  data-soda[1]="Ting grapefruit soda"
+  data-prep[0]="Herbstura"
   data-origin[0]="Martin Cate"
   data-glass[0]="Double rocks"
   data-decade[0]="2000"
@@ -100,6 +107,13 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

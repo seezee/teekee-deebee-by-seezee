@@ -75,6 +75,24 @@ Garnish
   data-ingredient[6]="Port, tawny"
   data-ingredient[7]="Blended aged rum [3]"
   data-ingredient[8]="Bittermens ʻElemakule tiki bitters"
+  data-ingredient[9]="Wine, fortified"
+  data-syrup[0]="Cinnamon syrup"
+  data-liquor[0]="Punt e Mes"
+  data-liquor[1]="Wine, aromatized"
+  data-liquor[2]="Vermouth, sweet"
+  data-liquor[3]="Vermouth, Italian"
+  data-liquor[4]="Quinquina"
+  data-liquor[5]="Port, tawny"
+  data-liquor[6]="Blended aged rum [3]"
+  data-liquor[7]="Wine, fortified"
+  data-bitters[0]="Bittermens ʻElemakule tiki bitters"
+  data-beer-wine[0]="Punt e Mes"
+  data-beer-wine[1]="Wine, aromatized"
+  data-beer-wine[2]="Vermouth, sweet"
+  data-beer-wine[3]="Vermouth, Italian"
+  data-beer-wine[4]="Quinquina"
+  data-beer-wine[5]="Port, tawny"
+  data-beer-wine[6]="Wine, fortified"
   data-origin[0]="Dane Barca"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Coupé"
@@ -96,6 +114,24 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Ingredient[data-ingredient[9]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
+    Liquor[data-liquor[7]],
+    Bitters[data-bitters[0]],
+    Beer & Wine[data-beer-wine[0]],
+    Beer & Wine[data-beer-wine[1]],
+    Beer & Wine[data-beer-wine[2]],
+    Beer & Wine[data-beer-wine[3]],
+    Beer & Wine[data-beer-wine[4]],
+    Beer & Wine[data-beer-wine[5]],
+    Beer & Wine[data-beer-wine[6]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

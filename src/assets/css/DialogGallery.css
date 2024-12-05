@@ -59,7 +59,7 @@ tiki-dialog-gallery {
 
     &::backdrop {
       background-color: var(--tiki-modal-background-color);
-      backdrop-filter: blur(4px);
+      backdrop-filter: blur(16px);
       /* End value for fade out. */
       opacity: 0;
       transition: opacity var(--duration),

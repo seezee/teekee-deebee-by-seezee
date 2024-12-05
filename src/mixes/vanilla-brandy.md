@@ -47,7 +47,10 @@ excerpt: Recipe for vanilla brandy
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
-    Ingredient[data-ingredient[2]]
+    Ingredient[data-ingredient[2]],
+    Pantry[data-ingredient[0]],
+    Liquor[data-ingredient[1]],
+    Syrup[data-ingredient[2]]
   "
 >
 </div>

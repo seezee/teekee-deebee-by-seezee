@@ -76,7 +76,13 @@ excerpt: Recipe for orgeat syrup
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
-    Ingredient[data-ingredient[5]]
+    Ingredient[data-ingredient[5]],
+    Pantry[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]],
+    Pantry[data-ingredient[3]],
+    Pantry[data-ingredient[4]],
+    Liquor[data-ingredient[5]]
   "
 >
 </div>

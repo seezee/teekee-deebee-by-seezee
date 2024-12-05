@@ -39,7 +39,7 @@ Glassware
 
 ## Ingredients
 
-* 3/4 ounce passion fruit purée
+* 3/4 ounce Funkin passion fruit purée
 * 2 ounces unsweetened coconut milk
 * 1 ounce [pot still aged cachaça](/rums/06-rhum-pot-still-aged-cachaca/)
 * 1 ounce sweetened condensed milk
@@ -75,7 +75,13 @@ Garnish
   data-ingredient[0]="Passion fruit purée"
   data-ingredient[1]="Coconut milk, unsweetened"
   data-ingredient[2]="Pot still aged cachaça"
-  data-ingredient[3]="Sweetened condensed milk"
+  data-ingredient[3]="Milk, sweetened condensed"
+  data-pantry[0]="Funkin passion fruit purée"
+  data-pantry[1]="Passion fruit purée"
+  data-pantry[2]="Coconut milk, unsweetened"
+  data-pantry[3]="Milk, sweetened condensed"
+  data-pantry[4]="Mint sprig"
+  data-liquor[0]="Pot still aged cachaça"
   data-origin[0]="Brazil"
   data-origin[1]="Traditional"
   data-glass[0]="Rocks"
@@ -90,6 +96,12 @@ Garnish
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Pantry[data-pantry[2]],
+    Pantry[data-pantry[3]],
+    Pantry[data-pantry[4]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

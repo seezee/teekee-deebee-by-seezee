@@ -71,6 +71,11 @@ Garnish
   data-ingredient[2]="Drambuie"
   data-ingredient[3]="Blended aged rum [3]"
   data-ingredient[4]="Blended aged rum (Jamaica) [3]"
+  data-pantry[0]="Li hing mui powder"
+  data-juice[0]="Lemon juice"
+  data-liquor[0]="Drambuie"
+  data-liquor[1]="Blended aged rum [3]"
+  data-liquor[2]="Blended aged rum (Jamaica) [3]"
   data-origin[0]="Martin Cate"
   data-glass[0]="Coupé"
   data-decade[0]="2000"
@@ -89,6 +94,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Decade[data-decade[0]],

@@ -83,7 +83,18 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
-    Ingredient[data-ingredient[10]]
+    Ingredient[data-ingredient[10]],
+    Pantry[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]],
+    Pantry[data-ingredient[3]],
+    Pantry[data-ingredient[4]],
+    Pantry[data-ingredient[5]],
+    Pantry[data-ingredient[6]],
+    Pantry[data-ingredient[7]],
+    Pantry[data-ingredient[8]],
+    Pantry[data-ingredient[9]],
+    Pantry[data-ingredient[10]]
   "
 >
 </div>

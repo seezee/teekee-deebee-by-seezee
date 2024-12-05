@@ -94,6 +94,18 @@ Garnish
   data-ingredient[9]="Pernod"
   data-ingredient[10]="Herbsaint"
   data-ingredient[11]="Pastis"
+  data-juice[0]="Lime juice"
+  data-juice[1]="Grapefruit juice"
+  data-syrup[0]="Cinnamon syrup"
+  data-syrup[1]="Grenadine"
+  data-liquor[0]="Falernum"
+  data-liquor[1]="Beachbum Berry’s Zombie Rum Blend"
+  data-liquor[2]="Pernod"
+  data-liquor[3]="Herbsaint"
+  data-liquor[4]="Pastis"
+  data-bitters[0]="Angostura bitters"
+  data-prep[0]="Donn’s Mix"
+  data-prep[1]="Herbstura"
   data-origin[0]="Jeff “Beachbum” Berry"
   data-decade[0]="2020"
   data-pagefind-filter="
@@ -116,6 +128,18 @@ Garnish
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Bitters[data-bitters[0]],
+    Preparation[data-prep[0]],
+    Preparation[data-prep[1]],
     Origin[data-origin[0]],
     Decade[data-decade[0]]
   "

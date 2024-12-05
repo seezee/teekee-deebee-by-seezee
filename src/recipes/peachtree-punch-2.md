@@ -86,6 +86,15 @@ Garnish
   data-ingredient[6]="Blended lightly aged rum [2]"
   data-ingredient[7]="Seltzer"
   data-ingredient[8]="Soda water"
+  data-pantry[0]="Peach, yellow, chopped"
+  data-pantry[1]="Peach, white, chopped"
+  data-batter[0]="Coconut cream"
+  data-juice[0]="Orange juice"
+  data-juice[1]="Lemon juice"
+  data-liquor[0]="Peach liqueur"
+  data-liquor[1]="Blended lightly aged rum [2]"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Trader Vic’s"
   data-origin[1]="Smuggler’s Cove"
   data-glass[0]="Double rocks"
@@ -110,6 +119,15 @@ Garnish
     Ingredient[data-ingredient[6]],
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
+    Pantry[data-pantry[0]],
+    Pantry[data-pantry[1]],
+    Batter[data-batter[0]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

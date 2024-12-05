@@ -51,7 +51,7 @@ Garnish
 1. Add all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes to a drink mixer tin
 2. Flash blend 3 to 4 seconds
 3. Open pour with a gated finish into a small hurricane glass
-4. Open and mangle a cocktail umbrella and place it atop the drink, along with a lemon wedge
+4. Open and mangle cocktail umbrella; pierce a lemon wedge with the umbrella and place atop the drink
 
 <div
   data-pagefind-filter="
@@ -69,6 +69,9 @@ Garnish
   data-ingredient[0]="Lemon juice"
   data-ingredient[1]="Passion fruit syrup"
   data-ingredient[2]="Black blended rum [5]"
+  data-juice[0]="Lemon juice"
+  data-syrup[0]="Passion fruit syrup"
+  data-liquor[0]="Black blended rum [5]"
   data-origin[0]="Pat O'Brien's Irish Bar, New Orleans"
   data-glass[0]="Hurricane glass, small (15-ounce)"
   data-glass[1]="Hurricane glass"
@@ -86,6 +89,9 @@ Garnish
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

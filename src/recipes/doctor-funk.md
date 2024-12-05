@@ -134,6 +134,18 @@ We recommend you flash-blend this recipe in a drink mixer as instructed in the D
   data-ingredient[7]="Black pot still rum"
   data-ingredient[8]="Seltzer"
   data-ingredient[9]="Soda water"
+  data-ingredient[10]="Tonga mix"
+  data-juice[0]="Lemon juice"
+  data-juice[1]="Lime juice"
+  data-syrup[0]="Grenadine"
+  data-syrup[1]="Rich Demerara syrup"
+  data-liquor[0]="Herbsaint"
+  data-liquor[1]="Pastis"
+  data-liquor[2]="Pernod"
+  data-liquor[3]="Black pot still rum"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
+  data-prep[0]="Tonga mix"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -158,6 +170,18 @@ We recommend you flash-blend this recipe in a drink mixer as instructed in the D
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Ingredient[data-ingredient[10]],
+    Juice[data-juice[0]],
+    Juice[data-juice[1]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
+    Preparation[data-prep[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],

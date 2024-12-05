@@ -85,6 +85,16 @@ The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahi
   data-ingredient[7]="Bittermens New Orleans coffee liqueur"
   data-ingredient[8]="Black blended rum [5]"
   data-ingredient[9]="Whiskey, bourbon"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Cinnamon syrup"
+  data-syrup[1]="Honey syrup"
+  data-syrup[2]="Vanilla syrup"
+  data-liquor[0]="Coffee liqueur"
+  data-liquor[1]="Bittermens New Orleans coffee liqueur"
+  data-liquor[2]="Black blended rum [5]"
+  data-liquor[3]="Whiskey, bourbon"
+  data-soda[0]="Seltzer"
+  data-soda[1]="Soda water"
   data-origin[0]="Martin Cate"
   data-glass[0]="Tiki mug, Kuhiko"
   data-glass[1]="Tiki mug"
@@ -108,6 +118,16 @@ The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahi
     Ingredient[data-ingredient[7]],
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Syrup[data-syrup[2]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Soda & seltzer[data-soda[0]],
+    Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],

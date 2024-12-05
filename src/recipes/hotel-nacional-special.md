@@ -67,6 +67,11 @@ Garnish
   data-ingredient[2]="Rich Demerara syrup"
   data-ingredient[3]="Apricot liqueur"
   data-ingredient[4]="Blended lightly aged rum [2]"
+  data-pantry[0]="Pineapple chunk(s)"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-liquor[0]="Apricot liqueur"
+  data-liquor[1]="Blended lightly aged rum [2]"
   data-origin[0]="Wil P. Taylor"
   data-origin[1]="Charles H. Baker"
   data-glass[0]="Coupé"
@@ -84,6 +89,11 @@ Garnish
     Ingredient[data-ingredient[2]],
     Ingredient[data-ingredient[3]],
     Ingredient[data-ingredient[4]],
+    Pantry[data-pantry[0]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

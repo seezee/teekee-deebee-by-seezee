@@ -58,7 +58,12 @@ excerpt: Recipe for cinnamon syrup
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
-    Ingredient[data-ingredient[3]]
+    Ingredient[data-ingredient[3]],
+    Pantry[data-ingredient[0]],
+    Pantry[data-ingredient[1]],
+    Pantry[data-ingredient[2]],
+    Pantry[data-ingredient[3]]
+
   "
 >
 </div>

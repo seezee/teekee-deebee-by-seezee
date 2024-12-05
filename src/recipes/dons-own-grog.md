@@ -92,6 +92,17 @@ Garnish
   data-ingredient[8]="Blended lightly aged rum [2]"
   data-ingredient[9]="Black pot still rum"
   data-ingredient[10]="Angostura bitters"
+  data-juice[0]="Lime juice"
+  data-syrup[0]="Rich Demerara syrup"
+  data-syrup[1]="Grenadine"
+  data-liquor[0]="Blackberry liqueur"
+  data-liquor[1]="Leopold Bros. Rocky Mountain blackberry liqueur"
+  data-liquor[2]="Crème de mûre"
+  data-liquor[3]="Brandy, blackberry-flavored"
+  data-liquor[4]="Blended aged rum [3]"
+  data-liquor[5]="Blended lightly aged rum [2]"
+  data-liquor[6]="Black pot still rum"
+  data-bitters[0]="Angostura bitters"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"
@@ -117,6 +128,17 @@ Garnish
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Juice[data-juice[0]],
+    Syrup[data-syrup[0]],
+    Syrup[data-syrup[1]],
+    Liquor[data-liquor[0]],
+    Liquor[data-liquor[1]],
+    Liquor[data-liquor[2]],
+    Liquor[data-liquor[3]],
+    Liquor[data-liquor[4]],
+    Liquor[data-liquor[5]],
+    Liquor[data-liquor[6]],
+    Bitters[data-bitters[0]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],
