@@ -23,7 +23,7 @@ glass:
 origin: House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
-excerpt: An exotic drink from the House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s
+excerpt: An exotic pre-tiki tourist drink from the House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -33,7 +33,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, originally published in <cite><span data-pagefind-filter="Source">House & Garden Magazine</span></cite>, July 1964
 
 Glassware
   : Chilled coupé
@@ -57,6 +57,13 @@ Garnish
 2. Shake for 10 to 15 seconds
 3. Double-strain into a chilled coupé
 4. Garnish with an edible orchid on the side of the glass
+
+<tiki-callout type="note">
+
+  This drink was sometimes made with <span lang="haw">okolehao</span>, a traditional Hawaiian ti plant distillate. Unfortunately, it is currently only manufactured in the islands as a low-proof spirit, unsuitable for the recipe. Only those with the good fortune to obtain a bottle of the vintage stuff may enjoy the taste of this variant recipe.
+
+  If you are one of those so-blessed, why not [tell us about it](/contact/)?
+</tiki-callout>
 
 <div
   class="sr-only"

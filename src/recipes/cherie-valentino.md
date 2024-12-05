@@ -21,7 +21,7 @@ garnish:
   - drinking straws
 glass: scorpion bowl
 origin: Served at Kelbo's on L.A.’s Fairfax Avenue from the 1950s through the 1980s. A <cite>Los Angeles</cite> magazine feature listed the ingredients, but not the proportions. Jeff Berry took a stab at recreating it, which we have adapted here.
-source: <cite>Beachbum Berry's Sippin' Safari</cite> revised edition (2017), from <cite>Los Angeles</cite> magazine (June 1976)
+source: Beachbum Berry's Sippin' Safari 
 decade: 1950
 excerpt: Jeff Berry's reverse-engineered version of a drink served at Kelbo's on L.A.’s Fairfax Avenue from the 1950s through the 1980s.
 ---
@@ -34,7 +34,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite>{{ source }}</cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from <cite><span data-pagefind-filter="Source">Los Angeles Magazine</span></cite> (June 1976)
 
 Glassware
   : Medium (20- to 32-ounce) scorpion bowl or other medium decorative bowl
@@ -68,6 +68,7 @@ Garnish
 
   We considered flash-blending this recipe in the Donn Beach style, but concluded that it would be much too sweet without the dilution afforded by conventional blending with a large amount of ice.
 </tiki-callout>
+
 <div
   class="sr-only"
   data-cat[0]="Drink"
@@ -76,8 +77,6 @@ Garnish
   data-char[0]="Flash-blended"
   data-char[1]="Communal"
   data-origin[0]="Kelbo’s, Los Angeles"
-  data-source[0]="Beachbum Berry’s Sippin’ Safari"
-  data-source[1]="Los Angeles Magazine"
   data-base[0]="Gin"
   data-ingredient[0]="Crème de mûre"
   data-ingredient[1]="Brandy, blackberry-flavored"

@@ -68,7 +68,7 @@ Garnish
 
 1. Combine all ingredients + 12 ounces crushed ice + 4 to 6 small ice cubes in a drink mixer tin
 2. Flash blend 3 to 4 seconds
-3. Open pour with gated finish into the Donn Beach mug or other tall tiki mug
+3. Open pour with gated finish into a Donn Beach mug or other tall tiki mug
 4. Spear a pineapple wedge and a maraschino cherry on a cocktail spear
 5. Garnish with the fruit and an edible orchid
 
