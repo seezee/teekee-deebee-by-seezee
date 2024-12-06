@@ -17,11 +17,13 @@ excerpt: Recipe for coffee grog batter
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<tiki-callout type="tip">
+<tiki-callout type="tip" id="note-pearl-diver-mix">
 
   The recipes for coffee grog batter and pearl diver mix are identical; however, pearl diver mix must be used at room temperature to prevent it sticking to the drink mixing tin.
   
   Make the latter shortly before using it, or bring it to room temperature before deploying.
+
+  You can also <a href="https://www.liquor.com/articles/gardenia-mix/" target="_blank" rel="external noopener">make a version</a> that <a href="https://www.reddit.com/r/cocktails/comments/k0naln/need_help_with_gum_arabic_and_xanthan_gum/" target="_blank" rel="external noopener">remains liquid</a> by adding xanthan gum and gum arabic (available from <a href="https://modernistpantry.com/products/210s.html" target="_blank" rel="external noopener">Modernist Pantry</a>).
 </tiki-callout>
 
 Yield
@@ -51,6 +53,11 @@ Yield
   <p>You may also store frozen in a freezer bag (remove as much air from the bag as possible before sealing). Allow to thaw partially before using.</p>
   <stack-l>
 
+</tiki-callout>
+
+<tiki-callout type="note">
+
+  Pearl diver mix is also called Don's gardenia mix in some recipes.
 </tiki-callout>
 
 <div

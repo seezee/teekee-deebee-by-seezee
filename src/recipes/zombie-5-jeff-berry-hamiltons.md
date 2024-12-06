@@ -49,7 +49,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce [cinnamon syrup](/mixes/cinnamon-syrup)
+* <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> ounce (1 barspoon) [cinnamon syrup](/mixes/cinnamon-syrup)
 * 1/3 ounce fresh white grapefruit juice[^2]
 * 1/2 ounce falernum
 * 2 ounces Beachbum Berry’s Zombie Rum Blend

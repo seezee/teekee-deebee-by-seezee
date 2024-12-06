@@ -13,7 +13,7 @@ ingredient:
   - lemon juice
   - orange juice
   - unsweetened pineapple juice
-  - rich Demerara syrups
+  - rich Demerara syrup
   - grenadine
   - bourbon whiskey
   - Angostura bitters

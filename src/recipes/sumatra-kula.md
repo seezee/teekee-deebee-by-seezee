@@ -13,7 +13,7 @@ ingredient:
   - grapefruit juice
   - orange juice
   - honey syrup
-  - blended lightly aged rum (2) (Puerto Rico)
+  - column still lightly aged rum (Puerto Rico)
 glass: footed pilsner
 origin: Jeff Berry believes this to be one of the first recipes Don the Beachcomber created for his Hollywood bar, circa 1934. As served by Hank Riddle in the late 1940s.
 source: Beachbum Berry's Sippin' Safari
@@ -40,7 +40,7 @@ Glassware
 * 1/2 ounce fresh white grapefruit juice[^1]
 * 1/2 ounce fresh orange juice
 * 1/2 ounce [honey syrup](/mixes/honey-syrup/)
-* 1&frac12; ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (Puerto Rico)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 1&frac12; ounces [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (Puerto Rico)
 
 [^1]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.
 
@@ -78,13 +78,13 @@ Garnish
   data-ingredient[2]="Orange juice"
   data-ingredient[3]="Honey syrup"
   data-ingredient[4]="Blended lightly aged rum [2]"
-  data-ingredient[5]="Blended lightly aged rum (Puerto Rico) [2]"
+  data-ingredient[5]="Column still lightly aged rum (Puerto Rico)"
   data-juice[0]="Lime juice"
   data-juice[1]="Grapefruit juice"
   data-juice[2]="Orange juice"
   data-syrup[0]="Honey syrup"
   data-liquor[0]="Blended lightly aged rum [2]"
-  data-liquor[1]="Blended lightly aged rum (Puerto Rico) [2]"
+  data-liquor[1]="Column still lightly aged rum (Puerto Rico) [2]"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"

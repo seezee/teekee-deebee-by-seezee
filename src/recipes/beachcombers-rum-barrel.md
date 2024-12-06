@@ -23,7 +23,7 @@ ingredient:
   - Herbsaint
   - pastis
   - blended lightly aged rum (Jamaica) (2)
-  - blended lightly aged rum (Puerto Rico) (2)
+  - column still lightly aged rum (Puerto Rico)
   - cane AOC Martinique rhum agricole vieux (8)
   - Angostura bitters
 garnish:
@@ -59,7 +59,7 @@ Glassware
 * 1 teaspoon falernum
 * 1 teaspoon allspice (pimento) dram
 * 1 ounce
-* 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (Puerto Rico)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
+* 1 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (Puerto Rico)
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (Jamaica)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 2 ounces [cane AOC Martinique rhum agricole vieux](/rums/04-rhum-cane-aoc-martinique-rhum-agricole-vieux/)<icon-l space="1em" label="(8)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-8.svg#circle-8"></use></svg></span></icon-l>
 * 6 drops (&frac18; teaspoon) Pernod, Herbsaint, or other pastis
@@ -102,7 +102,7 @@ Garnish
   data-ingredient[11]="Pastis"
   data-ingredient[12]="Blended lightly aged rum [2]"
   data-ingredient[13]="Blended lightly aged rum (Jamaica) [2]"
-  data-ingredient[14]="Blended lightly aged rum (Puerto Rico) [2]"
+  data-ingredient[14]="Column still lightly aged rum (Puerto Rico)"
   data-ingredient[15]="Cane AOC Martinique rhum agricole vieux [8]"
   data-ingredient[16]="Angostura bitters"
   data-pantry[0]="Mint sprig"

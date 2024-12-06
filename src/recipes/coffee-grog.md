@@ -21,6 +21,7 @@ ingredient:
   - orange peel
   - grapefruit peel
   - coffee grog batter
+  - pearl diver mix
 garnish: cinnamon stick
 glass:
   - specialty coffee glass
@@ -115,6 +116,7 @@ Garnish
   data-ingredient[10]="Orange peel"
   data-ingredient[11]="Grapefruit peel"
   data-ingredient[12]="Coffee grog batter"
+  data-ingredient[13]="Pearl diver mix"
   data-pantry[0]="Cinnamon stick"
   data-liquor[0]="Pot still unaged rum (Jamaica)"
   data-liquor[1]="Pot still unaged rum"
@@ -129,6 +131,7 @@ Garnish
   data-pantry[5]="Orange peel"
   data-pantry[6]="Grapefruit peel"
   data-batter[0]="Coffee grog batter"
+  data-batter[1]="Pearl diver mix"
   data-garnish[0]="Cinnamon stick"
   data-decade[0]="1930"
   data-pagefind-filter="
@@ -154,6 +157,7 @@ Garnish
     Ingredient[data-ingredient[10]],
     Ingredient[data-ingredient[11]],
     Ingredient[data-ingredient[12]],
+    Ingredient[data-ingredient[13]],
     Pantry[data-pantry[0]],
     Liquor[data-liquor[0]],
     Liquor[data-liquor[1]],
@@ -168,6 +172,7 @@ Garnish
     Pantry[data-pantry[4]],
     Pantry[data-pantry[5]],
     Batter[data-batter[0]],
+    Batter[data-batter[1]],
     Garnish[data-garnish[0]],
     Decade[data-decade[0]]
   "
