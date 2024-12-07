@@ -392,6 +392,7 @@ td:not(:last-of-type) {
 
   td {
     text-align: end;
+    vertical-align:  top;
   }
 
 }
