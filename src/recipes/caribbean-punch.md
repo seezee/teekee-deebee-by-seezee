@@ -50,7 +50,7 @@ Glassware
 * 1/4 teaspoon [grenadine](/src/mixes/grenadine/)
 * 1 ounce [pot still unaged rum](/src/rums/02-rum-pot-still-aged/)
 * 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
-* 6 drops (<span class="frac"><sup>1</sup>&frasl;<sub>8</sub></span> ounce) Pernod or Herbsaint
+* 6 drops (&frac18; teaspoon) Pernod or Herbsaint
 * 3 drops pure almond extract
 * 3 dashes Angostura bitters
 

@@ -24,7 +24,7 @@ garnish:
 glass:
   - Collins
   - zombie
-origin: From the Lagoon Cocktail Terrace, Coco Palms Resort, Kauai, circa 1960s. The resort closed permanently after it was hit by hurricane Iniki in 1992. The drink is named after a nearby hilltop.
+origin: From the Lagoon Cocktail Terrace, Coco Palms Resort, Kauai, circa 1960s. The resort closed permanently after it was hit by hurricane Iniki in 1992. The drink is named after a <a href="https://en.wikipedia.org/wiki/Sleeping_Giant_(Kauai)" target="_blank" rel="external noopener">nearby hilltop</a>.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
 excerpt: From the Lagoon Cocktail Terrace, Coco Palms Resort, Kauai, circa 1960s. The resort closed permanently after it was hit by hurricane Iniki in 1992. The drink is named after a nearby hilltop.

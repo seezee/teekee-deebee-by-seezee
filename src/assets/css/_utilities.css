@@ -59,6 +59,24 @@
   inset-block-start: -.2rem;
 }
 
+table .frac {
+  display: inline-block;
+  position: relative;
+  inset-inline-start: -.25rem;
+  margin-inline-end: -.6rem;
+  font-weight: 600;
+
+  sup {
+    display: inline-block;
+    position: relative;
+    inset-inline-end: -.25rem;
+  }
+
+  sub {
+    inset-inline-start: -.25rem;
+  }
+}
+
 /* .small-caps, #breadcrumbs */
 .small-caps,
 #breadcrumbs {

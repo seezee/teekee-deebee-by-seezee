@@ -43,8 +43,8 @@ Glassware
 ## Ingredients
 
 * 1/2 ounce fresh lime juice
-* <span class="frac"><sup>1</sup>&frasl;<sub>8</sub></span> teaspoon [vanilla syrup](/mixes/vanilla-syrup/)
-* <span class="frac"><sup>1</sup>&frasl;<sub>8</sub></span> teaspoon allspice (pimento) dram
+* &frac18; teaspoon [vanilla syrup](/mixes/vanilla-syrup/)
+* &frac18; teaspoon allspice (pimento) dram
 * 1/4 ounce [cinnamon syrup](/mixes/cinnamon-syrup/)
 * 1 teaspoon [coola culla mix](/mixes/coola-culla-mix/)
 * 1&frac12; ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
