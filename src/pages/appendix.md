@@ -72,7 +72,7 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
         <th scope="col">Barrel</th>
         <th scope="col">Hogshead</th>
         <th scope="col">Conversion</th>
-        <th scope="col">Year designated</th>
+        <th scope="col">Year Designated</th>
       </tr>
       <tr>
         <td rowspan="4"></td>
@@ -108,14 +108,14 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
           <td>32</td>
           <td>48</td>
           <td rowspan="2" scope="row">ale gallons</td>
-          <td rowspan="4">(1454)</td>
+          <td rowspan="4">~1454</td>
           </tr>
         <tr>
-          <td>= 4.621 L</td>
-          <td>= 36.97 L</td>
-          <td>= 73.94 L</td>
-          <td>= 147.9 L</td>
-          <td class="td-with-border">= 221.8 L</td></tr>
+          <td>4.6 L</td>
+          <td>37 L</td>
+          <td>74 L</td>
+          <td>148 L</td>
+          <td class="td-with-border">221.8 L</td></tr>
         <tr style="border-top-style:dashed">
           <td>1</td>
           <td>9</td>
@@ -125,11 +125,11 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
           <td rowspan="2" scope="row" class="td-with-border">beer gallons</td>
         </tr>
         <tr>
-        <td>= 4.621 L</td>
-        <td>= 41.59 L</td>
-        <td>= 83.18 L</td>
-        <td>= 166.4 L</td>
-        <td class="td-with-border">= 249.5 L</td>
+        <td>4.6 L</td>
+        <td>42 L</td>
+        <td>83 L</td>
+        <td>166 L</td>
+        <td class="td-with-border">249.5 L</td>
       </tr>
       <tr class="row-divider">
         <td>1</td>
@@ -141,11 +141,11 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
         <td rowspan="2">1688</td>
       </tr>
       <tr>
-        <td>= 4.621 L</td>
-        <td>= 39.28 L</td>
-        <td>= 78.56 L</td>
-        <td>= 157.1 L</td>
-        <td class="td-with-border">= 235.7 L</td></tr>
+        <td>4.6 L</td>
+        <td>39 L</td>
+        <td>79 L</td>
+        <td>157 L</td>
+        <td class="td-with-border">235.7 L</td></tr>
       <tr class="row-divider">
         <td>1</td>
         <td>9</td>
@@ -155,11 +155,11 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
         <td rowspan="2" scope="row">ale gallons</td>
         <td rowspan="2">1803</td></tr>
       <tr>
-        <td>= 4.621 L</td>
-        <td>= 41.59 L</td>
-        <td>= 83.18 L</td>
-        <td>= 166.4 L</td>
-        <td class="td-with-border">= 249.5 L</td>
+        <td>4.6 L</td>
+        <td>41.6 L</td>
+        <td>83 L</td>
+        <td>166 L</td>
+        <td class="td-with-border">249.5 L</td>
       </tr>
         <tr class="row-divider">
         <td>1</td>
@@ -170,11 +170,11 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
         <td rowspan="2" scope="row">imperial gallons</td>
         <td rowspan="2">1824</td></tr>
       <tr>
-        <td>= 4.546 L</td>
-        <td>= 40.91 L</td>
-        <td>= 81.83 L</td>
-        <td>= 163.7 L</td>
-        <td class="td-with-border">= 245.5 L</td>
+        <td>4.6 L</td>
+        <td>41 L</td>
+        <td>82 L</td>
+        <td>164 L</td>
+        <td class="td-with-border">245.5 L</td>
       </tr>
     </tbody>
   </table>
