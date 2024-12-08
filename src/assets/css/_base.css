@@ -378,7 +378,8 @@ th:not(:last-of-type) {
 
 }
 
-td:not(:last-of-type) {
+td:not(:last-of-type),
+.td-with-border {
   border-inline-end: 1px solid var(--tiki-color-textPrimary);
 }
 
@@ -395,6 +396,9 @@ td:not(:last-of-type) {
     vertical-align:  top;
   }
 
+  tr.row-divider {
+    border-block-start: medium solid;
+  }
 }
 
 /* form */

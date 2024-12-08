@@ -12,7 +12,9 @@ excerpt: Appendix — measurement conversions by volume
 
 ## Measurement Conversions
 
-Non-metric measurements are U.S. customary units.
+Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.S. fluid ounce is actually 29.5735295625 milliliters.
+
+### Metric to U.S. Customary Units (Fluid Volume)
 
 <stack-l id="measure-volume">
 
@@ -45,6 +47,137 @@ Non-metric measurements are U.S. customary units.
   | 480 ml  | 16 oz.         | 2 cups         | 1 pint   |
   | 960 ml  | 32 oz.         | 4 cups         | 1 quart  |
   | 1920 ml | 64 oz.         | 8 cups         | 1 gallon |
+
+### Metric to Imperial Units (Fluid Volume)
+
+  | Metric  | Imperial (1) | Imperial (2) | Imperial (3) |
+  | ------- | ------------ | ------------ | ------------ |
+  | 3.55 ml | 1 fl. dram   |              |              |
+  | 28.4 ml | 1 fl. oz.    | 8 fl. drams  |              |
+  | 142 ml  | 1 gill       | 5 fl. oz.    |              |
+  | 284 ml  | 1 cup        | 10 fl. oz.   |              |
+  | 568 ml  | 1 pint       | 4 gills      | 20 fl. oz.   |
+  | 1.1 L   | 1 quart      | 2 pints      |              |
+  | 4.6 L   | 1 gallon     | 4 quarts     | 8 pints      |
+
+### English Brewery Cask Units
+
+  <table>
+    <caption>English brewery cask units</caption>
+    <tbody>
+      <tr>
+        <th scope="col">Gallon</th>
+        <th scope="col">Firkin</th>
+        <th scope="col">Kilderkin</th>
+        <th scope="col">Barrel</th>
+        <th scope="col">Hogshead</th>
+        <th scope="col">Conversion</th>
+        <th scope="col">Year designated</th>
+      </tr>
+      <tr>
+        <td rowspan="4"></td>
+        <td rowspan="3"></td>
+        <td rowspan="2"></td>
+        <td rowspan="1"></td>
+        <td>1</td>
+        <td scope="row">hogsheads</td>
+        <td rowspan="4"></td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>1&frac12;</td>
+        <td scope="row" class="td-with-border">barrels</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td scope="row" class="td-with-border">kilderkins</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>4</td>
+        <td>6</td>
+        <td scope="row" class="td-with-border">firkins</td>
+      </tr>
+      <tr class="row-divider">
+        <td>1</td>
+          <td>8</td>
+          <td>16</td>
+          <td>32</td>
+          <td>48</td>
+          <td rowspan="2" scope="row">ale gallons</td>
+          <td rowspan="4">(1454)</td>
+          </tr>
+        <tr>
+          <td>= 4.621 L</td>
+          <td>= 36.97 L</td>
+          <td>= 73.94 L</td>
+          <td>= 147.9 L</td>
+          <td class="td-with-border">= 221.8 L</td></tr>
+        <tr style="border-top-style:dashed">
+          <td>1</td>
+          <td>9</td>
+          <td>18</td>
+          <td>36</td>
+          <td>54</td>
+          <td rowspan="2" scope="row" class="td-with-border">beer gallons</td>
+        </tr>
+        <tr>
+        <td>= 4.621 L</td>
+        <td>= 41.59 L</td>
+        <td>= 83.18 L</td>
+        <td>= 166.4 L</td>
+        <td class="td-with-border">= 249.5 L</td>
+      </tr>
+      <tr class="row-divider">
+        <td>1</td>
+        <td>8&frac12;</td>
+        <td>17</td>
+        <td>34</td>
+        <td>51</td>
+        <td rowspan="2" scope="row">ale gallons</td>
+        <td rowspan="2">1688</td>
+      </tr>
+      <tr>
+        <td>= 4.621 L</td>
+        <td>= 39.28 L</td>
+        <td>= 78.56 L</td>
+        <td>= 157.1 L</td>
+        <td class="td-with-border">= 235.7 L</td></tr>
+      <tr class="row-divider">
+        <td>1</td>
+        <td>9</td>
+        <td>18</td>
+        <td>36</td>
+        <td>54</td>
+        <td rowspan="2" scope="row">ale gallons</td>
+        <td rowspan="2">1803</td></tr>
+      <tr>
+        <td>= 4.621 L</td>
+        <td>= 41.59 L</td>
+        <td>= 83.18 L</td>
+        <td>= 166.4 L</td>
+        <td class="td-with-border">= 249.5 L</td>
+      </tr>
+        <tr class="row-divider">
+        <td>1</td>
+        <td>9</td>
+        <td>18</td>
+        <td>36</td>
+        <td>54</td>
+        <td rowspan="2" scope="row">imperial gallons</td>
+        <td rowspan="2">1824</td></tr>
+      <tr>
+        <td>= 4.546 L</td>
+        <td>= 40.91 L</td>
+        <td>= 81.83 L</td>
+        <td>= 163.7 L</td>
+        <td class="td-with-border">= 245.5 L</td>
+      </tr>
+    </tbody>
+  </table>
 
 </stack-l>
 
