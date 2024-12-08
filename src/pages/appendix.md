@@ -39,6 +39,11 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
   | 120 ml | 4 oz.          | 8 tbsp.     | 1/2 cup        |        |
   | 160 ml |                | 10 tbsp. | <span class="frac"><sup>2</sup>&frasl;<sub>3</sub></span> cup ||
 
+  <tiki-callout type="info">
+
+    According to David Wondrich, a jigger was sometimes equivalent to 1&frac12; ounces, or around Wall Street, NY, 1&frac14; ounces. See <cite>Imbibe!</cite>, revised edition (2015), p. 79.
+  </tiki-callout>
+
   | Metric  | Fluid Ounces   | Cups           | Other    |
   | ------- | -------------- | ---------------| -------- |
   | 180 ml  | 6 oz.          | 3/4 cup        |          |
@@ -180,8 +185,3 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
   </table>
 
 </stack-l>
-
-<tiki-callout type="info">
-
-  According to David Wondrich, a jigger was sometimes equivalent to 1&frac12; ounces, or around Wall Street, NY, 1&frac14; ounces. See <cite>Imbibe!</cite>, revised edition (2015), p. 79.
-</tiki-callout>
