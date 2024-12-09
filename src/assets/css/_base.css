@@ -392,12 +392,16 @@ td:not(:last-of-type),
 
 
   td {
-    text-align: end;
+
+    &:not(.alignleft) {
+      text-align: end;
+    }
+
     vertical-align:  top;
   }
 
   tr.row-divider {
-    border-block-start: medium solid;
+    border-block-start: medium double;
   }
 }
 
