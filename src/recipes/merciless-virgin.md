@@ -32,7 +32,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <span data-pagefind-filter="Source">{{ source }}</span>.
+  : {{ source }}.
 
 Glassware
   : <span data-pagefind-filter="Glassware">Footed pilsner</span>
@@ -91,6 +91,7 @@ Garnish
   data-soda[1]="Soda water"
   data-origin[0]="Frank “Skipper” Kent"
   data-origin[1]="Skipper Kent’s, San Francisco"
+  data-source[0]="Collection of Jacqueline Zumwalt"
   data-garnish[0]="Maraschino cherry"
   data-garnish[1]="Luxardo maraschino cherry"
   data-decade[0]="1940"
@@ -121,6 +122,7 @@ Garnish
     Soda & seltzer[data-soda[1]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
+    Source[data-source[0]],
     Garnish[data-garnish[0]],
     Garnish[data-garnish[1]],
     Decade[data-decade[0]]

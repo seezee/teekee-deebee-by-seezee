@@ -31,7 +31,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, originally published in <cite><span data-pagefind-filter="Source">House & Garden Magazine</span></cite>, July 1964
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, originally published in <span data-pagefind-filter="Source"><cite>House & Garden</cite> magazine</span>, July 1964
 
 Glassware
   : <span data-pagefind-filter="Glassware">Fizz glass</span>

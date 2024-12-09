@@ -14,7 +14,7 @@ ingredient:
 garnish: cinnamon stick
 glass: Irish coffee glass
 origin: Smuggler's Cove's original take on Jerry Thomas's 1862 recipe.
-source: Jerry Thomas' Bartenders Guide&colon; How to Mix Drinks, or, A Bon Vivant's Companion
+source: How to Mix Drinks&colon; The Bon-Vivant's Companion
 decade:
   - 1860
   - 2000

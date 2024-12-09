@@ -34,7 +34,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from <cite><span data-pagefind-filter="Source">Los Angeles Magazine</span></cite> (June 1976)
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from <cite><span data-pagefind-filter="Source">Los Angeles</span></cite> magazine (June 1976)
 
 Glassware
   : Medium (20- to 32-ounce) scorpion bowl or other medium decorative bowl
@@ -105,8 +105,6 @@ Garnish
     Characteristic[data-char[0]],
     Characteristic[data-char[1]],
     Origin[data-origin[0]],
-    Source[data-source[0]],
-    Source[data-source[1]],
     Base[data-base[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],

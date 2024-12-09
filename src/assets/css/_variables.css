@@ -251,12 +251,12 @@ initial-value: 0.1;
 }
 
 #theme-toggle {
-  --size: 1rem;
-  --min-size: 24px; /* Minimum WCAG target size */
-  --margin-top: .2em;
+  --toggle-size: 1rem;
+  --toggle-min-size: 24px; /* Minimum WCAG target size */
+  --toggle-margin-top: .2em;
 
   @media screen and (pointer: coarse) {
-    --size: 1.5rem;
-    --margin-top: unset;
+    --toggle-size: 1.5rem;
+    --toggle-margin-top: unset;
   }
 }

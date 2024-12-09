@@ -53,7 +53,7 @@ Glassware
 * 1/3 ounce fresh white grapefruit juice[^2]
 * 1/2 ounce falernum
 * 2 ounces Beachbum Berry’s Zombie Rum Blend
-* 1 dash grenadine
+* 1 dash [grenadine](/mixes/grenadine/)
 * 2 dashes [Herbstura](/mixes/herbstura/)
 
 [^2]: If you can't find white grapefruit, use pink. Use red (ruby) grapefruit juice only as a last resort.

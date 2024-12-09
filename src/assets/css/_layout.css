@@ -133,12 +133,12 @@ noscript div {
 /* Theme toggle based on
 https://web.dev/articles/building/a-theme-switch-component */
 #theme-toggle {
-  margin-block-start: var(--margin-top);
+  margin-block-start: var(--toggle-margin-top);
   padding: 0;
-  inline-size: var(--size);
-  block-size: var(--size);
-  min-inline-size: var(--min-size);
-  min-block-size: var(--min-size);
+  inline-size: var(--toggle-size);
+  block-size: var(--toggle-size);
+  min-inline-size: var(--toggle-min-size);
+  min-block-size: var(--toggle-min-size);
   aspect-ratio: 1;
 
   -webkit-tap-highlight-color: transparent;

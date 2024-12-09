@@ -43,7 +43,7 @@ Glassware
 ## Ingredients
 
 * 3/4 ounce fresh lime juice
-* 1 dash grenadine
+* 1 dash [grenadine](/mixes/grenadine/)
 * 3/4 ounce natural apricot liqueur
 * 3/4 ounce [black pot still rum](/rums/10-rum-black-pot-still/) *or* [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 * 3/4 ounce sloe gin
