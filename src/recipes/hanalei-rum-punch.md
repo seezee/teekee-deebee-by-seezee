@@ -13,7 +13,7 @@ base: rum base
 ingredient:
   - pineapple
   - banana
-  - hanalei house mix
+  - Hanalei house mix
   - column still lightly aged rum (Puerto Rico)
   - curacao
   - black pot still rum

@@ -82,7 +82,7 @@ Garnish
   data-char[0]="Built"
   data-char[1]="Stirred"
   data-base[0]="Rum/Cane spirits"
-  data-ingredient[0]="Pineapple juice"
+  data-ingredient[0]="Pineapple juice, unsweetened"
   data-ingredient[1]="Lemon juice"
   data-ingredient[2]="Grenadine"
   data-ingredient[3]="1:1 simple syrup"

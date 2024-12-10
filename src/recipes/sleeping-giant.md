@@ -77,7 +77,7 @@ Garnish
   data-type[2]="Tall drink"
   data-char[0]="Shaken"
   data-char[1]="Strained"
-  data-base[0]="Rum"
+  data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Lemon juice"
   data-ingredient[1]="Orange juice"
   data-ingredient[2]="Pineapple juice, unsweetened"
