@@ -84,7 +84,7 @@ Garnish
   data-juice[2]="Orange juice"
   data-syrup[0]="Honey syrup"
   data-liquor[0]="Blended lightly aged rum [2]"
-  data-liquor[1]="Column still lightly aged rum (Puerto Rico) [2]"
+  data-liquor[1]="Column still lightly aged rum (Puerto Rico)"
   data-origin[0]="Don the Beachcomber"
   data-origin[1]="Donn Beach"
   data-origin[2]="Ernest Raymond Gantt"

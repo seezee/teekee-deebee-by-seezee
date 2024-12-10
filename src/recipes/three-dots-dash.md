@@ -25,7 +25,7 @@ glass: footed pilsner
 origin: Don the Beachcomber created this drink during WWII. This circa 1965 version was served at the Los Vegas Don the Beachcomber's when Hank Riddle worked there.
 source: Beachbum Berry's Sippin' Safari
 decade: 1940
-excerpt: Don the Beachcomber created this drink during WWII. This circa 1965 version was served at the Los Vegas Don the Beachcomber's when Hank Riddle worked there.
+excerpt: Don the Beachcomber created this drink during WWII. This circa 1965 version was served at the Los Vegas Don the Beachcomber’s when Hank Riddle worked there.
 ---
 
 <!-- markdownlint-disable MD025 -->

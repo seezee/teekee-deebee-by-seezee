@@ -20,10 +20,10 @@ ingredient:
 garnish: edible orchid
 glass:
   - coupe
-origin: House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s
+origin: House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
-excerpt: An exotic pre-tiki tourist drink from the House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s
+excerpt: House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930s.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -31,7 +31,7 @@ glass:
 origin: From the Hotel King Kamehameha, Kona, Hawaii.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
-excerpt: A rum and blackberry short drink by Don the Beachcomber, 1960.
+excerpt: From the Hotel King Kamehameha, Kona, Hawaii.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -93,7 +93,7 @@ Garnish
   data-ingredient[8]="Column still lightly aged rum"
   data-ingredient[9]="Column still lightly aged rum (Puerto Rico)"
   data-ingredient[10]="Black pot still rum"
-  data-origin[0]="Hotel King Kamehameha, Kona, Hawaii"
+  data-origin[0]="Hotel King Kamehameha, Kona"
   data-garnish[0]="Maraschino cherry"
   data-garnish[1]="Luxardo maraschino cherry"
   data-garnish[2]="Blackberry, fresh"

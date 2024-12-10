@@ -6,7 +6,7 @@
 export default class ThemeSwitcher extends HTMLElement {
   constructor() {
     super();
-    this.button = this.querySelector('button');
+    this.button = this.querySelector(`button`);
   }
 
   /**
@@ -68,7 +68,7 @@ export default class ThemeSwitcher extends HTMLElement {
    */
   render() {
     const storageKey  = localStorage.getItem(`theme-preference`);
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+    const prefersDark = window.matchMedia(`(prefers-color-scheme: dark)`);
     let dataTheme     = storageKey === `dark` ? `dark`:`light`;
 
     /**
@@ -120,7 +120,7 @@ export default class ThemeSwitcher extends HTMLElement {
 
 }
 
-if ('customElements' in window) {
+if (`customElements` in window) {
 
   // let the browser know that <tiki-theme-toggle> is served by our new class
   customElements.define(`tiki-theme-toggle`, ThemeSwitcher);

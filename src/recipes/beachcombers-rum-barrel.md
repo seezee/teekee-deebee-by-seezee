@@ -34,7 +34,7 @@ glass: rum barrel tiki mug
 origin: As served at the Las Vegas Don the Beachcomber's, located in the Sahara Hotel, circa 1965.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
-excerpt: As served at the Las Vegas Don the Beachcomber's, located in the Sahara Hotel, circa 1965.
+excerpt: As served at the Las Vegas Don the Beachcomber’s, located in the Sahara Hotel, circa 1965.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -168,4 +168,4 @@ Garnish
 >
 </div>
 
-<div class="keywords" aria-hidden>tropical, sour, flash-blended, strong, 1965</div>
+<div class="keywords" aria-hidden>tropical, sour, flash-blended, strong, 1960</div>
