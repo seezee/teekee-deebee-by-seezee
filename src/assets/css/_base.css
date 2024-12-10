@@ -406,14 +406,17 @@ td:not(:last-of-type),
 }
 
 /* form */
-input, textarea, select {
+input,
+textarea,
+select {
 
   &:not(#searchField) {
     inline-size: fit-content;
     max-inline-size: 100%;
     field-sizing: content;
 
-    &:not[type="checkbox"] {
+    &:not([type="checkbox"]),
+    &:not([type="radio"]) {
       min-inline-size: 30ch;
     }
   }
@@ -495,11 +498,22 @@ button {
 
   &.pagefind-ui__search-clear {
     position: relative;
-    inset-inline-start: -1.5rem;
+    inset-inline-start: -1.75em;
     padding: 0;
+    margin-inline-end: -.25em;
+    min-inline-size: 24px;
+    min-block-size: 24px;
     color: var(--tiki-color-textPrimary);
     background: transparent;
+
+    &:hover {
+      cursor: pointer;
+    }
   }
+}
+
+button.pagefind-ui__search-clear:hover {
+  cursor: pointer;
 }
 
 label span {
