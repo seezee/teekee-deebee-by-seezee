@@ -53,7 +53,8 @@ Glassware
 * 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 
 Garnish
-  : <span data-pagefind-filter="Garnish">None</span>
+  : Cinnamon sticks
+  : Ground cinnamon
 
 ## Instructions
 
@@ -68,12 +69,11 @@ Garnish
 
 1. Determine the number of guests expected to drink; multiply by 1.5
 2. Multiply ingredient quantities by the result of step 1
-3. Combine all ingredients ale in a beverage dispenser or other sealable container and whisk together
+3. Combine all ingredients in a beverage dispenser or other sealable container and whisk together
 4. Chill for at least an hour prior to guests arriving
 5. Add a large block of ice to the dispenser if using, or pour the contents of the container into a punch bowl and add a smaller block of ice[^1]
-6. Top the punch with the ginger ale and stir gently
-7. If using a punch bowl, serve with a ladle
-8. Garnish individual servings with a lemon wedge or a lemon twist and a mint sprig
+6. If using a punch bowl, serve with a ladle
+7. Optionally garnish individual servings with a cinnamon stick and some ground cinnamon
 
 [^1]: See <cite><a href="https://www.smugglerscovesf.com/store/smugglers-cove-exotic-cocktails-rum-and-the-cult-of-tiki-signed" rel="external noopener" target="_blank"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>, pp. 300&NoBreak;&thinsp;&NoBreak;–&NoBreak;&thinsp;&NoBreak;303 for tips on preparing, chilling, and serving punch.
 
@@ -102,6 +102,8 @@ Garnish
   data-liquor[4]="Brandy"
   data-liquor[5]="Whiskey,  bourbon"
   data-liquor[6]="Column still aged rum [4]"
+  data-garnish[0]="Cinnamon, ground"
+  data-garnish[1]="Cinnamon sticks"
   data-origin[0]="Martin Cate"
   data-glass[0]="Punch cup"
   data-glass[1]="Tiki mug, small"
@@ -132,6 +134,10 @@ Garnish
     Liquor[data-liquor[4]],
     Liquor[data-liquor[5]],
     Liquor[data-liquor[6]],
+    Pantry[data-garnish[0]],
+    Pantry[data-garnish[1]],
+    Garnish[data-garnish[0]],
+    Garnish[data-garnish[1]],
     Origin[data-origin[0]],
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],
