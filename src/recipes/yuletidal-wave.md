@@ -43,7 +43,7 @@ Glassware
 
 ### Per Serving
 
-* 2 ounces fresh unsweetened pineapple juice
+* 2 ounces unsweetened pineapple juice
 * 1 ounce fresh lemon juice
 * 1/2 ounce natural pear liqueur
 * 1/2 ounce Licor 43
