@@ -28,7 +28,7 @@ image: /assets/images/don-beachcomber-menu-cover-1943.jpg
      1. Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started
      2. Mobile users, tap the [search bar](#search/)
   2. Enter your query
-  3. Once you have some results, narrow your results with the handy filters
+  3. Once you have some results, narrow them with the handy filters
   4. Tap or tab to the desired result
 <!-- markdownlint-enable MD051 -->
 </div>

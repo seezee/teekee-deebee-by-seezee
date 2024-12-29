@@ -150,4 +150,4 @@ Garnish
 >
 </div>
 
-<div class="keywords" aria-hidden>punch, pre-batched, 2000, 2010</div>
+<div class="keywords" aria-hidden>christmas, punch, pre-batched, 2000, 2010</div>
