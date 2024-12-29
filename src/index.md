@@ -27,8 +27,8 @@ image: /assets/images/don-beachcomber-menu-cover-1943.jpg
   1. The best place to start is by searching for a drink
      1. Desktop users, type <kbd>⌘</kbd>&#8239;+&#8239;<kbd>K</kbd> to get started
      2. Mobile users, tap the [search bar](#search/)
-  2. Enter your query
-  3. Once you have some results, narrow them with the handy filters
+  2. Enter a query
+  3. Narrow the results with the handy filters
   4. Tap or tab to the desired result
 <!-- markdownlint-enable MD051 -->
 </div>
