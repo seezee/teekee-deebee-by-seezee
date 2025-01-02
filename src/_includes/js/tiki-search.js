@@ -17,6 +17,7 @@
 
   searchField.setAttribute(`id`, `searchField`);
   searchField.removeAttribute(`placeholder`);
+  searchField.setAttribute(`inputMode`, `search`);
 
   label.setAttribute(`class`, `sr-only`);
   label.setAttribute(`for`, `searchField`);
