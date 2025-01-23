@@ -67,10 +67,11 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
   data-ingredient[4]="Allspice, ground"
   data-ingredient[5]="Anise seed, ground"
   data-ingredient[6]="Butter, salted"
-  data-ingredient[7]="Sugar, golden brown"
-  data-ingredient[8]="Molasses"
-  data-ingredient[9]="Brer Rabbit Mild molasses"
-  data-ingredient[10]="Vanilla extract"
+  data-ingredient[7]="Sugar, brown"
+  data-ingredient[8]="Sugar, golden brown"
+  data-ingredient[9]="Molasses"
+  data-ingredient[10]="Brer Rabbit Mild molasses"
+  data-ingredient[11]="Vanilla extract"
   data-pagefind-filter="
     Category[data-cat[0]],
     Ingredient[data-ingredient[0]],
@@ -84,6 +85,7 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
     Ingredient[data-ingredient[8]],
     Ingredient[data-ingredient[9]],
     Ingredient[data-ingredient[10]],
+    Ingredient[data-ingredient[11]],
     Pantry[data-ingredient[0]],
     Pantry[data-ingredient[1]],
     Pantry[data-ingredient[2]],
@@ -94,7 +96,8 @@ excerpt: Recipe for Smuggler's Cove hot buttered rum batter
     Pantry[data-ingredient[7]],
     Pantry[data-ingredient[8]],
     Pantry[data-ingredient[9]],
-    Pantry[data-ingredient[10]]
+    Pantry[data-ingredient[10]],
+    Pantry[data-ingredient[11]]
   "
 >
 </div>

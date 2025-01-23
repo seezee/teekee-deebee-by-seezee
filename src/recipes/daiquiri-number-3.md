@@ -6,7 +6,9 @@ type:
   - tropical
   - sour
   - frappe
-characteristic: blended
+characteristic:
+  - blended
+  - frozen
 base: rum base
 ingredient:
   - lime juice
@@ -80,6 +82,7 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
   data-type[1]="Sour"
   data-type[2]="Frappé"
   data-char[0]="Blended"
+  data-char[1]="Frozen"
   data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Lime juice"
   data-ingredient[1]="Grapefruit juice"
@@ -105,6 +108,7 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
     Type[data-type[1]],
     Type[data-type[2]],
     Characteristic[data-char[0]],
+    Characteristic[data-char[1]],
     Base[data-base[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
@@ -128,4 +132,4 @@ The various printings of <cite><a href="https://euvs-vintage-cocktail-books.cld.
 >
 </div>
 
-<div class="keywords" aria-hidden>tropical, sour, frappe, blended, coupe, 1930</div>
+<div class="keywords" aria-hidden>tropical, sour, frappe, frozen, blended, coupe, 1930</div>

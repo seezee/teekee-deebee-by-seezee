@@ -4,7 +4,7 @@
  *
  * Block elements
  * 1.  view transitions
- * 2.  html, body
+ * 2.  root, html, body
  * 3.  h1 – h6, hgroup
  * 4.  p
  * 5.  blockquote
@@ -69,14 +69,19 @@
  * Block elements
  */
 
-/* html, body */
+/* root, html, body */
 html,
 body {
   block-size: 100%;
   display: grid; /* Needed to center things, e.g., modals */
 }
 
+:root {
+  color-scheme: dark light;
+}
+
 html {
+  color-scheme: light;
   padding-block: var(--s1);
 
   &:has([data-disable-document-scroll="true"]) {
@@ -99,6 +104,7 @@ html {
   background-size: cover;
 
   &[data-theme='dark'] {
+    color-scheme: dark;
     background-blend-mode: initial;
   }
   transition: background-color 0.1s ease, color 0.1s ease;
@@ -414,11 +420,13 @@ select {
     inline-size: fit-content;
     max-inline-size: 100%;
     field-sizing: content;
+    min-inline-size: 30ch;
 
-    &:not([type="checkbox"]),
-    &:not([type="radio"]) {
-      min-inline-size: 30ch;
+    &[type="checkbox"],
+    &[type="radio"] {
+      min-inline-size: initial;
     }
+
   }
 
   font-family: var(--tiki-font-mono);
@@ -472,6 +480,10 @@ button {
   border-radius: var(--tiki-radius-1x);
   appearance: none;
   -webkit-appearance: none;
+
+  &:hover {
+    cursor: pointer;
+  }
 
   &.button-primary {
     color: var(--tiki-color-textSecondary);
