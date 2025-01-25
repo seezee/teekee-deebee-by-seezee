@@ -23,8 +23,8 @@ garnish:
 glass: brandy snifter
 origin: Created circa 1977 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
 source: Beachbum Berry's Sippin' Safari
-decade: 1970
-excerpt: Created circa 1977 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
+decade: 1960
+excerpt: Created circa 1964 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -34,7 +34,7 @@ Origin
   : {{ origin }}
 
 Source
-  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from<cite>Drinks of Hawaii</cite>, a 1977 booklet by Paul B. Dick
 
 Glassware
   : Large (22-ounce) brandy snifter
@@ -75,6 +75,7 @@ Garnish
   data-char[0]="Blended"
   data-char[1]="Frozen"
   data-base[0]="Rum/Cane spirits"
+  data-source[0]="Drinks of Hawaii"
   data-ingredient[0]="Sugar, brown"
   data-ingredient[1]="Lime juice"
   data-ingredient[2]="Lemon juice"
@@ -83,13 +84,13 @@ Garnish
   data-ingredient[5]="Column still lightly aged rum"
   data-ingredient[6]="Column still lightly aged rum (overproof) (Puerto Rico)"
   data-origin[0]="Danny (surname unknown)"
-  data-origin[1]="Papeete Bar, Tahitian Lanai Restaurant, Waikikian Hotel, Waikiki Beach"
+  data-origin[3]="Papeete Bar, Tahitian Lanai Restaurant, Waikikian Hotel, Waikiki Beach"
   data-glass[0]="Brandy snifter"
   data-glass[1]="Brandy snifter, large (22-ounce)"
   data-garnish[0]="Edible orchid"
   data-garnish[1]="Pineapple chunk(s)"
   data-garnish[2]="Cocktail pick"
-  data-decade[0]="1970"
+  data-decade[0]="1960"
   data-pagefind-filter="
     Category[data-cat[0]],
     Type[data-type[0]],
@@ -98,6 +99,7 @@ Garnish
     Characteristic[data-char[0]],
     Characteristic[data-char[1]],
     Base[data-base[0]],
+    Source[data-source[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
@@ -124,4 +126,4 @@ Garnish
 >
 </div>
 
-<div class="keywords" aria-hidden>tropical, sour, frappe, frozen, blended, curacao, 1977</div>
+<div class="keywords" aria-hidden>tropical, sour, frappe, frozen, blended, curacao, 1960</div>
