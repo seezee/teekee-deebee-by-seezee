@@ -21,7 +21,7 @@ garnish:
   - pineapple chunk
   - cocktail pick
 glass: brandy snifter
-origin: Created circa 1977 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
+origin: Created circa 1064 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
 excerpt: Created circa 1964 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
