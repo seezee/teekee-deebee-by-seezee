@@ -41,7 +41,7 @@ Glassware
 - 1 ounce orange juice
 - 4 ounces unsweetened pineapple juice
 - 1 ounce [coconut cream](/mixes/coconut-cream)
-- 2 ounce2 [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (overproof)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>(see note)
+- 2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (overproof)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l><span class="after-icon"></span>(see note)
 
 Garnish
   : Ground cinnamon
