@@ -84,7 +84,7 @@ Garnish
   data-ingredient[5]="Column still lightly aged rum"
   data-ingredient[6]="Column still lightly aged rum (overproof) (Puerto Rico)"
   data-origin[0]="Danny (surname unknown)"
-  data-origin[3]="Papeete Bar, Tahitian Lanai Restaurant, Waikikian Hotel, Waikiki Beach"
+  data-origin[1]="Papeete Bar, Tahitian Lanai Restaurant, Waikikian Hotel, Waikiki Beach"
   data-glass[0]="Brandy snifter"
   data-glass[1]="Brandy snifter, large (22-ounce)"
   data-garnish[0]="Edible orchid"
@@ -112,8 +112,8 @@ Garnish
     Pantry[data-garnish[1]],
     Juice[data-ingredient[1]],
     Juice[data-ingredient[2]],
-    Liquor[data-ingredient[7]],
-    Liquor[data-ingredient[8]],
+    Liquor[data-ingredient[5]],
+    Liquor[data-ingredient[6]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Glassware[data-glass[0]],

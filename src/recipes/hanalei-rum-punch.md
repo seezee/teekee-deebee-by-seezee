@@ -43,7 +43,7 @@ Glassware
 * 2 level tablespoons diced fresh banana
 * 2 ounces [hanalei house mix](/mixes/hanalei-house-mix/)
 * 1/2 ounce dry curaçao (orange)
-* 1 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (Puerto Rico)
+* 1 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (Puerto Rico)<icon-l space="1em" label="(4)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 1 teaspoon [black pot still rum](/rums/10-rum-black-pot-still/)
 
 Garnish
@@ -71,8 +71,8 @@ Garnish
   data-base[0]="Rum/Cane spirits"
   data-ingredient[0]="Pineapple, diced"
   data-ingredient[1]="Banana, diced"
-  data-ingredient[2]="Column still aged rum"
-  data-ingredient[3]="Column still aged rum (Puerto Rico)"
+  data-ingredient[2]="Column still aged rum [4]"
+  data-ingredient[3]="Column still aged rum (Puerto Rico) [4]"
   data-ingredient[4]="Curaçao, orange"
   data-ingredient[5]="Curaçao, dry"
   data-ingredient[6]="Black pot still rum"
