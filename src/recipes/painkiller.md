@@ -17,10 +17,10 @@ garnish:
   - nutmeg
   - pineapple wedge
 glass: hurricane glass
-origin: This 1970s-era drink is essentially a variant on a piña colada. According to Jeff Berry, it was invented in 1971 by George and Marie Myrick, owners of the Soggy Dollar Bar in the U.S. Virgin Islands. Other sources claim it was invented by subsequent Soggy Dollar owner Daphne Henderson later in the decade. Originally made with a blend of Mount Gay and Cruzan Dark rums, it was later trademarked and reformulated by the distiller of Pusser’s Navy Strength rum, a brand that did not exist until a decade after the drink’s invention.
+origin: This 1970s-era drink is essentially a piña colada variation. According to Jeff Berry, it was invented in 1971 by George and Marie Myrick, owners of the Soggy Dollar Bar in the U.S. Virgin Islands. Other sources claim it was invented by subsequent Soggy Dollar owner Daphne Henderson later in the decade. Originally made with a blend of Mount Gay and Cruzan Dark rums, it was later trademarked and reformulated by the distiller of Pusser’s Navy Strength rum, a brand that did not exist until a decade after the drink’s invention.
 source: Beachbum Berry's Grog Log
 decade: 1970
-excerpt: This 1970s-era drink is essentially a variant on a piña colada. According to Jeff Berry, it was invented in 1971 by George and Marie Myrick, owners of the Soggy Dollar Bar in the U.S. Virgin Islands. Other sources claim it was invented by subsequent Soggy Dollar owner Daphne Henderson later in the decade.
+excerpt: This 1970s-era drink is essentially a piña colada variation. According to Jeff Berry, it was invented in 1971 by George and Marie Myrick, owners of the Soggy Dollar Bar in the U.S. Virgin Islands. Other sources claim it was invented by subsequent Soggy Dollar owner Daphne Henderson later in the decade.
 ---
 
 <!-- markdownlint-disable MD025 -->
