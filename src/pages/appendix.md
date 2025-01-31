@@ -59,10 +59,10 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
   | ------- | ------------ | ------------ | ------------ |
   | 3.55 ml | 1 fl. dram   |              |              |
   | 28.4 ml | 1 fl. oz.    | 8 fl. drams  |              |
-  | 142 ml  | 1 gill       | 5 fl. oz.    |              |
-  | 284 ml  | 1 cup        | 10 fl. oz.   |              |
+  | 142 ml  | 1 gill       | 5 fl. oz.    | 1/2 cup      |
+  | 284 ml  | 1 cup        | 10 fl. oz.   | 2 gills      |
   | 568 ml  | 1 pint       | 4 gills      | 20 fl. oz.   |
-  | 1.1 L   | 1 quart      | 2 pints      |              |
+  | 1.1 L   | 1 quart      | 2 pints      | 4 cups       |
   | 4.6 L   | 1 gallon     | 4 quarts     | 8 pints      |
 
 ### English Brewery Cask Units

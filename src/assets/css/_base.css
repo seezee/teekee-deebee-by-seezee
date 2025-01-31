@@ -53,6 +53,10 @@
   navigation: auto;
 }
 
+::view-transition {
+  pointer-events: none;
+}
+
 ::view-transition-group(root) {
   animation-timing-function: ease-in-out;
   animation-duration: 500ms;
@@ -71,14 +75,16 @@
  */
 
 /* root, html, body */
+
+:root {
+  view-transition-name: none;
+  color-scheme: dark light;
+}
+
 html,
 body {
   block-size: 100%;
   display: grid; /* Needed to center things, e.g., modals */
-}
-
-:root {
-  color-scheme: dark light;
 }
 
 html {
