@@ -54,12 +54,6 @@ Garnish
 4. Open and mangle cocktail umbrella; pierce a lemon wedge with the umbrella and place atop the drink
 
 <div
-  data-pagefind-filter="
-  "
->
-</div>
-
-<div
   class="sr-only"
   data-cat[0]="Drink"
   data-type[0]="Tropical"

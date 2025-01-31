@@ -34,7 +34,7 @@ Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
 
 Glassware
-  : <span data-pagefind-filter="Glassware">Hurricane glass</span>
+  : Hurricane ("squall") glass
 
 ## Ingredients
 
@@ -68,6 +68,8 @@ Garnish
   data-char[0]="Flash-blended"
   data-char[1]="Creamy"
   data-base[0]="Rum/Cane spirits"
+  data-glassware[0]="Hurricane glass",
+  data-glassware[1]="Squall glass",
   data-ingredient[0]="Orange juice"
   data-ingredient[1]="Pineapple juice, unsweetened"
   data-ingredient[2]="Coconut cream"
@@ -85,6 +87,8 @@ Garnish
     Type[data-type[0]],
     Characteristic[data-char[0]],
     Base[data-base[0]],
+    Glassware[data-glassware[0]],
+    Glassware[data-glassware[1]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],

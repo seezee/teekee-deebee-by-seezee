@@ -41,6 +41,7 @@
  *
  * Pseudo-elements
  * 1. ::marker
+ * 2. ::target-text
  *
  */
 
@@ -179,8 +180,7 @@ p {
   text-wrap: pretty;
 
   &:empty {
-    line-height: 0;
-    margin-block-start: 0;
+    display: none;
   }
 }
 
@@ -771,4 +771,11 @@ hr {
 /* ::marker */
 main ul li::marker {
   content: var(--tiki-list-marker) '\00A0\202F';
+}
+
+/* target-text */
+
+::target-text {
+  color: var(--tiki-color-textSecondary);
+  background-color: var(--tiki-color-textPrimary);
 }
