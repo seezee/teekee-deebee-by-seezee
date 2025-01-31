@@ -42,7 +42,7 @@ Glassware
 - 1/3 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
 - 2/3 ounce fresh lemon juice
 - 3 ounces unsweetened pineapple juice
-- 1/2 ounce dry curaçao (blue)
+- 1/2 ounce blue curaçao
 - 3/4 ounce vodka
 - 3/4 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (Puerto Rico)
 
@@ -70,10 +70,9 @@ Garnish
   data-ingredient[1]="1:1 simple syrup"
   data-ingredient[2]="Pineapple juice, unsweetened"
   data-ingredient[3]="Curaçao"
-  data-ingredient[4]="Curaçao, dry"
-  data-ingredient[5]="Curaçao, blue"
-  data-ingredient[6]="Column still lightly aged rum"
-  data-ingredient[7]="Column still lightly aged rum (Puerto Rico)"
+  data-ingredient[4]="Curaçao, blue"
+  data-ingredient[5]="Column still lightly aged rum"
+  data-ingredient[6]="Column still lightly aged rum (Puerto Rico)"
   data-origin[0]="Hawaiian Village Hotel, Waikiki"
   data-origin[1]="Harry K. Yee"
   data-decade[0]="1950"
@@ -94,7 +93,6 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
-    Ingredient[data-ingredient[7]],
     Juice[data-ingredient[0]],
     Juice[data-ingredient[2]],
     Syrup[data-ingredient[1]],
@@ -102,7 +100,6 @@ Garnish
     Liquor[data-ingredient[4]],
     Liquor[data-ingredient[5]],
     Liquor[data-ingredient[6]],
-    Liquor[data-ingredient[7]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Decade[data-decade[0]]
