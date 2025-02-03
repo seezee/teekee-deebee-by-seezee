@@ -47,13 +47,14 @@ Glassware
 - 3/4 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (Puerto Rico)
 
 Garnish
-  : Swizzle stick
+  : <span data-pagefind-filter="Garnish">Swizzle stick</span>
+  : <span data-pagefind-filter="Garnish">Cocktail umbrella</span>
 
 ## Instructions
 
 1. Shake all ingredients with a generous amount of cracked or cube ice until very cold, about 15 seconds
 2. Open pour into a hurricane glass
-3. Garnish
+3. Garnish with a swizzle stick or cocktail umbrella
 
 <div
   class="sr-only"
@@ -65,7 +66,6 @@ Garnish
   data-base[1]="Vodka"
   data-glassware[0]="Hurricane glass",
   data-glassware[1]="Squall glass",
-  data-garnish[0]="Swizzle stick",
   data-ingredient[0]="Lemon juice"
   data-ingredient[1]="1:1 simple syrup"
   data-ingredient[2]="Pineapple juice, unsweetened"
@@ -85,7 +85,6 @@ Garnish
     Base[data-base[1]],
     Glassware[data-glassware[0]],
     Glassware[data-glassware[1]],
-    Garnish[data-garnish[0]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
