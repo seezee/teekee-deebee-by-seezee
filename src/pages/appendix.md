@@ -592,7 +592,7 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
 
 ### Spanish-Style
 
-Like English-style rums, Spanish-style rums (<span lang="es">rons</span>) are made with molasses. They are typically lighter than English-style rums due to shorter fermentation and column distillation.
+Like English-style rums, Spanish-style rums (<span lang="es">rons</span>) are made with molasses. They are typically lighter than English-style rums due to shorter fermentation and column distillation. They are mostly produced in Spanish-speaking countries and territories and former Spanish colonies.
 
 This style may vary from light-bodied to oily, round, and complex. It puts more emphasis on barrel-aging than fermentation to achieve its flavor.
 
