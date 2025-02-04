@@ -192,7 +192,7 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
 
 Rums can be categorized into three major regional styles: English, French, and Spanish.
 
-English and Spanish–style rums are distilled from molasses, whereas French-style rums (rhums) are distilled from sugar cane juice.
+English and Spanish–style rums are industrial rums, distilled from molasses produced as a byproduct of sugar refining. Conversely, French-style rums (rhums) are distilled from sugar cane juice.
 
 ### English-Style
 
@@ -210,10 +210,9 @@ Because traditions vary among producers, English-style rums may be pot still (ty
 * Powerful
 * Funky
 * Navy-strength
-
   </div>
   <table>
-    <caption>Select English-style rums</caption>
+    <caption>Select English-Style Rums</caption>
     <tbody>
       <tr>
         <th scope="col">Country</th>
@@ -361,10 +360,36 @@ Because traditions vary among producers, English-style rums may be pot still (ty
         <td scope="col"></td>
       </tr>
       <tr>
-        <td scope="col" rowspan="4">
+        <td scope="col" rowspan="6">United States</td>
+        <td scope="col" rowspan="3">Celebration</td>
+        <td scope="col">Old New Orleans Crystal Rum</td>
+      </tr>
+      <tr>
+        <td scope="col">Old New Orleans Amber Rum</td>
+      </tr>
+      <tr>
+        <td scope="col">Old New Orleans 121 Proof Rum</td>
+      </tr>
+      <tr>
+        <td scope="col">Privateer Amber</td>
+        <td scope="col"></td>
+      </tr>
+      </tr>
+      <tr>
+        <td scope="col">Ragged Mountain Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Thomas Tew Single Barrel</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
 
-Virgin Islands[^1]
-        </td>
+<td scope="col" rowspan="4"><!-- No indent! Needed so Markdown properly parses footnote! -->
+
+  Virgin Islands[^1]
+
+</td><!-- No indent! -->
         <td scope="col">A.H. Riise</td>
         <td scope="col"></td>
       </tr>
@@ -405,7 +430,7 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
   </div>
 
   <table>
-    <caption>Select French-style Rhums (Rhums Agricole)</caption>
+    <caption>Select French-Style Rhums (<span lang="fr">Rhums Agricole</span>)</caption>
     <tbody>
       <tr>
         <th scope="col">Country</th>
@@ -427,15 +452,19 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
       </tr>
       <tr>
         <td scope="col" rowspan="11">Guadaloupe</td>
+        <td scope="col">Bellevue</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Bielle</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
         <td scope="col">Bologne</td>
         <td scope="col">Ovation</td>
       </tr>
       <tr>
-        <td scope="col">Montebello</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
-        <td scope="col">Longueteau</td>
+        <td scope="col">Damoiseau</td>
         <td scope="col"></td>
       </tr>
       <tr>
@@ -447,23 +476,11 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
         <td scope="col">Papa Rouyo</td>
       </tr>
       <tr>
-        <td scope="col">Père Labat</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
-        <td scope="col">Bellevue</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
-        <td scope="col">Bielle</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
-        <td scope="col">Damoiseau</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
         <td scope="col">Gwadinina</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Longueteau</td>
         <td scope="col"></td>
       </tr>
       <tr>
@@ -471,7 +488,19 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
         <td scope="col"></td>
       </tr>
       <tr>
+        <td scope="col">Montebello</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Père Labat</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
         <td scope="col" rowspan="3">Haiti</td>
+        <td scope="col">Rhum 1716</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
         <td scope="col">Rhum Barbancourt</td>
         <td scope="col"></td>
       </tr>
@@ -480,20 +509,32 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
         <td scope="col"></td>
       </tr>
       <tr>
-        <td scope="col">Rhum 1716</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
         <td scope="col" rowspan="12">Martinique</td>
-        <td scope="col">J. Bally</td>
+        <td scope="col">A1710</td>
         <td scope="col"></td>
       </tr>
       <tr>
-        <td scope="col">La Mauny</td>
+        <td scope="col">Habitation Beau Séjour</td>
         <td scope="col"></td>
       </tr>
       <tr>
         <td scope="col">Habitation Saint-Etienne</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">J. Bally</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">JM</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">La Favorite</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">La Mauny</td>
         <td scope="col"></td>
       </tr>
       <tr>
@@ -517,24 +558,8 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
         <td scope="col"></td>
       </tr>
       <tr>
-        <td scope="col">Habitation Beau Séjour</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
-        <td scope="col">A1710</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
-        <td scope="col">JM</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
-        <td scope="col">La Favorite</td>
-        <td scope="col"></td>
-      </tr>
-      <tr>
         <td scope="col" rowspan="4">Mauritius</td>
-        <td scope="col">Saint-Aubin Estate</td>
+        <td scope="col">L’Aventure du Sucre</td>
         <td scope="col"></td>
       </tr>
       <tr>
@@ -546,7 +571,7 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
         <td scope="col"></td>
       </tr>
       <tr>
-        <td scope="col">L’Aventure du Sucre</td>
+        <td scope="col">Saint-Aubin Estate</td>
         <td scope="col"></td>
       </tr>
       <tr>
@@ -565,10 +590,304 @@ This style has a fruity nose and comparatively dry mouthfeel, and may taste more
     </tbody>
   </table>
 
-### Spanish-Style rums
+### Spanish-Style
 
-Coming soon.
+Like English-style rums, Spanish-style rums (<span lang="es">rons</span>) are made with molasses. They are typically lighter than English-style rums due to shorter fermentation and column distillation.
 
-___
+This style may vary from light-bodied to oily, round, and complex. It puts more emphasis on barrel-aging than fermentation to achieve its flavor.
+
+  <div class="col-2">
+
+* Light (blanco) or dark (añejados)
+* Buttery
+* Solera-produced
+* Unctuous
+* Oily
+* Round
+* Sweet
+
+  </div>
+
+  <table>
+    <caption>Select Spanish-Style Rums (Rons)</caption>
+    <tbody>
+      <tr>
+        <th scope="col">Country</th>
+        <th scope="col">Producer</th>
+        <th scope="col">Brands</th>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="5">Colombia</td>
+        <td scope="col">Ron de Caldas</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Hechicera</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Medellín</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Santa Fé</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Parce</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="10">Cuba</td>
+        <td scope="col">Conde de Cuba</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Havana Club</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Arecha</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Caney</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Edmundo Dantes</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Legendario</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Mulata</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Santiago de Cuba</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Varadero</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Vigia</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="8">Dominican Republic</td>
+        <td scope="col">Barceló</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Bermúdez</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Brugal</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Candela Mamajuana</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Macorix</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Matusalem</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Oliver</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Siboney</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="4">Ecuador</td>
+        <td scope="col">Destilería Zhumir C. Ltda.</td>
+        <td scope="col">Ron Canuto</td>
+      </tr>
+      <tr>
+        <td scope="col">El Trapiche</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Destilería Romero & Sons </td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Cava Ron San Miguel</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="2">Guatemala</td>
+        <td scope="col">Ron Botran</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Zacapa</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Honduras</td>
+        <td scope="col">Pirate’s Grog Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="3">Nicaragua</td>
+        <td scope="col">Flor de Caña</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Mombacho</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Zapatera</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="13">Panama</td>
+        <td scope="col">Caña Brava Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Grander Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Malecon Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Marti Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Origenes Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Panama Pacific Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Panama Red Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Abuelo</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Carta Viejo</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron de Jeremy</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Selvarey Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Yolo Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Zafra Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="6">Puerto Rico</td>
+        <td scope="col">Bacardi</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Caliche</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Club Caribe Distillers</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Don Q</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron del Barrilito</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Zafra</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="2">Peru</td>
+        <td scope="col">Cartavio</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Millonario</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="11">Venezuela</td>
+        <td scope="col">Barrica</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Cacique</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Carúpano</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Dinastia</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Diplomático</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">El Muco</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ocumare</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Pampero</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Roble Viejo</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Ron Santa Teresa</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Veroes</td>
+        <td scope="col"></td>
+      </tr>
+    </tbody>
+  </table>
 
 </stack-l>

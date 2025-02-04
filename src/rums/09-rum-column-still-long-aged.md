@@ -12,9 +12,9 @@ excerpt: Index of column still long aged rums.
 
 * Don Pancho Origines 18 (Panama)
 * Don Pancho Origines 30 (Panama)
+* Don Q Reserva de la Familia Serrallés 20 Year Old (Puerto Rico)
 * English Harbour 25 (Antigua)
 * Flor De Caña 18 (Nicaragua)
 * Flor De Caña 25 (Nicaragua)
-* Reserva de la Familia Serrallés 20 Year Old (Puerto Rico)
 
 </div>
