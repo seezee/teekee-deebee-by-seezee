@@ -185,3 +185,390 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
   </table>
 
 </stack-l>
+
+## Rum Styles
+
+<stack-l id="rum-styles">
+
+Rums can be categorized into three major regional styles: English, French, and Spanish.
+
+English and Spanish–style rums are distilled from molasses, whereas French-style rums (rhums) are distilled from sugar cane juice.
+
+### English-Style
+
+English-style rums were historically exported from England's colonies in the Caribbean or New England and blended for aging and bottling. They are often long-fermented and may be cask-aged for several years.
+
+Because traditions vary among producers, English-style rums may be pot still (typical), column still, or blended from either or both.
+
+  <div class="col-2">
+
+* Aromatic
+* Spiced
+* Vivid
+* Dark
+* Heavy
+* Powerful
+* Funky
+* Navy-strength
+
+  </div>
+  <table>
+    <caption>Select English-style rums</caption>
+    <tbody>
+      <tr>
+        <th scope="col">Country</th>
+        <th scope="col">Producers</th>
+        <th scope="col">Brands</th>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="2">Antigua</td>
+        <td scope="col">Cavalier</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">English Harbour</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="6">Barbados</td>
+        <td scope="col">Mount Gay Rum Distillery</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="3">West Indies Rum Distillery</td>
+        <td scope="col">Bumbu</td>
+      </tr>
+      <tr>
+        <td scope="col">Cockspur Rum</td>
+      </tr>
+      <tr>
+        <td scope="col">Malibu Rum</td>
+      </tr>
+      <tr>
+        <td scope="col">Foursquare Rum Distillery</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">St. Nicholas Abbey</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="3">British Guyana (Demerara)</td>
+        <td scope="col">El Dorado</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Pyrat Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Royal Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="9">Jamaica</td>
+        <td scope="col">Hampden</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="2">J. Wray & Nephew</td>
+        <td scope="col">Appleton</td>
+      </tr>
+      <tr>
+        <td scope="col">Appleton Estate</td>
+      </tr>
+      <tr>
+        <td scope="col">Myer’s</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Old Pascas</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">The Rum Company</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rum-bar Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Smith & Cross</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Worthy Park</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="4">Mauritius</td>
+        <td scope="col">New Grove</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Penny Blue</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Pink Pigeon</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Saint-Aubin Estate</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="5">St. Lucia</td>
+        <td scope="col">Bounty</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Chairman’s Reserve Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rum 1931</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rum Admiral Rodney</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">TOZ Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="5">Trinidad & Tobago</td>
+        <td scope="col">10 Cane</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Angostura Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Fernades Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Island Company Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Kraken</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="4">
+
+Virgin Islands[^1]
+        </td>
+        <td scope="col">A.H. Riise</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Bones Rum</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Cruzan</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Pusser’s Ltd.</td>
+        <td scope="col"></td>
+      </tr>
+    </tbody>
+  </table>
+
+[^1]: U.S. Virgin Islands, except for Pusser’s Ltd., which is from the British Virgin Islands.
+
+### French-Style
+
+French-style rums (rhums), or rhums agricole, are predominately column distilled from sugar cane juice in French-speaking countries or territories and former French colonies.
+
+This style has a fruity nose and comparatively dry mouthfeel, and may taste more vegetal or grassy than their English or Spanish counterparts. Distillers may age these rhums in cognac and armagnac barrels.
+
+  <div class="col-2">
+
+* Fruity
+* Intense
+* Exhibits terroir
+* Floral
+* Complex
+* Dry
+* Vegetal
+* Grassy
+
+  </div>
+
+  <table>
+    <caption>Select French-style Rhums (Rhums Agricole)</caption>
+    <tbody>
+      <tr>
+        <th scope="col">Country</th>
+        <th scope="col">Producer</th>
+        <th scope="col">Brands</th>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="3">French Guyana (Guiana)</td>
+        <td scope="col">La Belle Cabresse</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rhum Saint-Maurice</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Toucan</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="11">Guadaloupe</td>
+        <td scope="col">Bologne</td>
+        <td scope="col">Ovation</td>
+      </tr>
+      <tr>
+        <td scope="col">Montebello</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Longueteau</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Distillerie Reimonenq</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Goyave</td>
+        <td scope="col">Papa Rouyo</td>
+      </tr>
+      <tr>
+        <td scope="col">Père Labat</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Bellevue</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Bielle</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Damoiseau</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Gwadinina</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Karukera</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="3">Haiti</td>
+        <td scope="col">Rhum Barbancourt</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rhum Vieux Labbé</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rhum 1716</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="12">Martinique</td>
+        <td scope="col">J. Bally</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">La Mauny</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Habitation Saint-Etienne</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Neisson</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rhum Clément</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rhum Dillon</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Saint James</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Trois Rivières</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Habitation Beau Séjour</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">A1710</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">JM</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">La Favorite</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="4">Mauritius</td>
+        <td scope="col">Saint-Aubin Estate</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Chamarel Distillery</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Rhumerie de Mascareignes</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">L’Aventure du Sucre</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col" rowspan="3">La Réunion</td>
+        <td scope="col">Rhum Charrette</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Riviere du Mat</td>
+        <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Savanna</td>
+        <td scope="col"></td>
+      </tr>
+    </tbody>
+  </table>
+
+### Spanish-Style rums
+
+Coming soon.
+
+___
+
+</stack-l>
