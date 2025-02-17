@@ -44,26 +44,106 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
     According to David Wondrich, a jigger was sometimes equivalent to 1&frac12; ounces, or around Wall Street, NY, 1&frac14; ounces. See <cite>Imbibe!</cite>, revised edition (2015), p. 79.
   </tiki-callout>
 
-  | Metric  | Fluid Ounces   | Cups           | Other    |
-  | ------- | -------------- | ---------------| -------- |
-  | 180 ml  | 6 oz.          | 3/4 cup        |          |
-  | 240 ml  | 8 oz.          | 1 cup          | 1/2 pint |
-  | 360 ml  | 12 oz.         | 1&frac12; cups |          |
-  | 480 ml  | 16 oz.         | 2 cups         | 1 pint   |
-  | 960 ml  | 32 oz.         | 4 cups         | 1 quart  |
-  | 1920 ml | 64 oz.         | 8 cups         | 1 gallon |
+  | Metric  | Fluid Ounces    | Cups           | Other      |
+  | ------- | --------------- | ---------------| ---------- |
+  | 180 ml  | 6 oz.           | 3/4 cup        |            |
+  | 240 ml  | 8 oz.           | 1 cup          | 1/2 pint   |
+  | 360 ml  | 12 oz.          | 1&frac12; cups |            |
+  | 480 ml  | 16 oz.          | 2 cups         | 1 pint     |
+  | 960 ml  | 32 oz.          | 4 cups         | 1 quart    |
+  | 1920 ml | 64 oz.          | 8 cups         | 1/2 gallon |
+  | 3856 ml | 128 oz.         | 16 cups        | 1 gallon   |
+
+### Imperial Units (Fluid Volume)
+
+<table>
+  <caption>Imperial units (fluid volume)</caption>
+  <tbody>
+    <tr>
+      <th></th>
+      <th>jack</th>
+      <th>gill / noggin</th>
+      <th>pint</th>
+      <th>quart</th>
+      <th>pottle</th>
+      <th>gallon</th>
+    </tr>
+    <tr>
+      <th>1 jack =</th>
+      <td>1</td>
+      <td>&frac12;</td>
+      <td>&frac18;</td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>16</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>32</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>64</sub></span></td>
+    </tr>
+    <tr>
+      <th>1 gill or noggin =</th>
+      <td>2</td>
+      <td>1</td>
+      <td>&frac14;</td>
+      <td>&frac18;</td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>16</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>32</sub></span></td>
+    </tr>
+    <tr>
+      <th>1 pint =</th>
+      <td>8</td>
+      <td>4</td>
+      <td>1</td>
+      <td>&frac12;</td>
+      <td>&frac14;</td>
+      <td>&frac18;</td>
+    </tr>
+    <tr>
+      <th>1 quart =
+      </th>
+      <td>16</td>
+      <td>8</td>
+      <td>2</td>
+      <td>1</td>
+      <td>&frac12;</td>
+      <td>&frac14;</td>
+    </tr>
+    <tr>
+      <th>1 pottle =</th>
+      <td>32</td>
+      <td>16</td>
+      <td>4</td>
+      <td>2</td>
+      <td>1</td>
+      <td>&frac12;</td>
+    </tr>
+      <tr>
+      <th class="no-border">1 gallon =</th>
+      <td>64</td>
+      <td>32</td>
+      <td>8</td>
+      <td>4</td>
+      <td>2</td>
+      <td>1
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Metric to Imperial Units (Fluid Volume)
 
-  | Metric  | Imperial (1) | Imperial (2) | Imperial (3) |
-  | ------- | ------------ | ------------ | ------------ |
-  | 3.55 ml | 1 fl. dram   |              |              |
-  | 28.4 ml | 1 fl. oz.    | 8 fl. drams  |              |
-  | 142 ml  | 1 gill       | 5 fl. oz.    | 1/2 cup      |
-  | 284 ml  | 1 cup        | 10 fl. oz.   | 2 gills      |
-  | 568 ml  | 1 pint       | 4 gills      | 20 fl. oz.   |
-  | 1.1 L   | 1 quart      | 2 pints      | 4 cups       |
-  | 4.6 L   | 1 gallon     | 4 quarts     | 8 pints      |
+  | Metric  | Imperial (1)     | Imperial (2) | Imperial (3)     |
+  | ------- | ---------------- | ------------ | ---------------- |
+  | 0.06 ml | 1 minim          | 1 drop       |                  |
+  | 3.55 ml | 1 fl. dram       | 60 minims    | &frac12; fl. oz. |
+  | 5 ml    | 1 teaspoon       | 80 minims    | <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> fl. oz.          |
+  | 15 ml   | 1 tablespoon     | 4 fl. drams  | 3 teaspoons      |
+  | 28.4 ml | 1 fl. oz.        | 8 fl. drams  | 2 tablespoons    |
+  | 71 ml   | 1 jack[^1]       | 2.5 fl. oz.  | 1/2 gill         |
+  | 142 ml  | 1 gill or noggin | 5 fl. oz.    | 1/2 cup          |
+  | 284 ml  | 1 cup            | 10 fl. oz.   | 2 gills          |
+  | 568 ml  | 1 pint           | 4 gills      | 20 fl. oz.       |
+  | 1.1 L   | 1 quart          | 2 pints      | 4 cups           |
+  | 4.6 L   | 1 gallon         | 4 quarts     | 8 pints          |
+
+[^1]: A jack is usually &frac18; pint, but in northern England, a quarter pint could also be called a jack or a noggin, rather than a gill. In some areas a half-pint could be called a gill, particularly for beer and milk.
 
 ### English Brewery Cask Units
 
@@ -387,7 +467,7 @@ Because traditions vary among producers, English-style rums may be pot still (ty
 
 <td scope="col" rowspan="4"><!-- No indent! Needed so Markdown properly parses footnote! -->
 
-  Virgin Islands[^1]
+  Virgin Islands[^2]
 
 </td><!-- No indent! -->
         <td scope="col">A.H. Riise</td>
@@ -408,7 +488,7 @@ Because traditions vary among producers, English-style rums may be pot still (ty
     </tbody>
   </table>
 
-[^1]: U.S. Virgin Islands, except for Pusser’s Ltd., which is from the British Virgin Islands.
+[^2]: U.S. Virgin Islands, except for Pusser’s Ltd., which is from the British Virgin Islands.
 
 ### French-Style
 

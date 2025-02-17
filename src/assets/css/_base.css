@@ -377,6 +377,11 @@ table, tr {
 th {
   color: var(--tiki-color-textSecondary);
   background-color: var(--tiki-color-textPrimary);
+
+  a,
+  a:visited {
+    color: var(--tiki-color-textSecondary);
+  }
 }
 
 th, td {
@@ -385,8 +390,10 @@ th, td {
   font-variant-numeric: tabular-nums lining-nums slashed-zero;
 }
 
-th:not(:last-of-type) {
+th:not(:last-of-type),
+th:first-of-type:not(.no-border) {
   border-inline-end: 1px solid var(--tiki-color-textSecondary);
+  border-block-end: 1px solid var(--tiki-color-textSecondary);
 
 }
 
