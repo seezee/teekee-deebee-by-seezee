@@ -129,19 +129,19 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
 
 ### Metric to Imperial Units (Fluid Volume)
 
-  | Metric  | Imperial (1)     | Imperial (2) | Imperial (3)     |
-  | ------- | ---------------- | ------------ | ---------------- |
-  | 0.06 ml | 1 minim          | 1 drop       |                  |
-  | 3.55 ml | 1 fl. dram       | 60 minims    | &frac12; fl. oz. |
-  | 5 ml    | 1 teaspoon       | 80 minims    | <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> fl. oz.          |
-  | 15 ml   | 1 tablespoon     | 4 fl. drams  | 3 teaspoons      |
-  | 28.4 ml | 1 fl. oz.        | 8 fl. drams  | 2 tablespoons    |
-  | 71 ml   | 1 jack[^1]       | 2.5 fl. oz.  | 1/2 gill         |
-  | 142 ml  | 1 gill or noggin | 5 fl. oz.    | 1/2 cup          |
-  | 284 ml  | 1 cup            | 10 fl. oz.   | 2 gills          |
-  | 568 ml  | 1 pint           | 4 gills      | 20 fl. oz.       |
-  | 1.1 L   | 1 quart          | 2 pints      | 4 cups           |
-  | 4.6 L   | 1 gallon         | 4 quarts     | 8 pints          |
+  | Metric  | Imperial (1)     | Imperial (2)      | Imperial (3)     |
+  | ------- | ---------------- | ------------ | --------------------- |
+  | 0.06 ml | 1 minim          | 1 drop            |                  |
+  | 3.55 ml | 1 fl. dram       | 60 minims         | &frac12; fl. oz. |
+  | 5 ml    | 1 teaspoon       | 80 minims         | <span class="frac"><sup>1</sup>&frasl;<sub>6</sub></span> fl. oz. |
+  | 15 ml   | 1 tablespoon     | 4 fl. drams       | 3 teaspoons      |
+  | 28.4 ml | 1 fl. oz.        | 8 fl. drams       | 2 tablespoons    |
+  | 71 ml   | 1 jack[^1]       | 2&frac12; fl. oz. | 1/2 gill         |
+  | 142 ml  | 1 gill or noggin | 5 fl. oz.         | 1/2 cup          |
+  | 284 ml  | 1 cup            | 10 fl. oz.        | 2 gills          |
+  | 568 ml  | 1 pint           | 4 gills           | 20 fl. oz.       |
+  | 1.1 L   | 1 quart          | 2 pints           | 4 cups           |
+  | 4.6 L   | 1 gallon         | 4 quarts          | 8 pints          |
 
 [^1]: A jack is usually &frac18; pint, but in northern England, a quarter pint could also be called a jack or a noggin, rather than a gill. In some areas a half-pint could be called a gill, particularly for beer and milk.
 
