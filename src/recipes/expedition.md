@@ -97,7 +97,7 @@ The Hawaiian god <span lang="haw">Kahiko-Lua-Mea</span> or <span lang="haw">Kahi
   data-soda[0]="Seltzer"
   data-soda[1]="Soda water"
   data-origin[0]="Martin Cate"
-  data-glass[0]="Tiki mug, Kuhiko"
+  data-glass[0]="Tiki mug, Kahiko"
   data-glass[1]="Tiki mug"
   data-glass[2]="Glass, 16-ounce"
   data-glass[3]="Mug, 16-ounce"

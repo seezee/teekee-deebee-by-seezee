@@ -120,7 +120,7 @@ Garnish
   data-origin[2]="Steve Crane"
   data-glass[0]="Scorpion bowl"
   data-glass[1]="Scorpion bowl, large (32- to 48-ounce)"
-  data-glass[2]="Luau straws"
+  data-garnish[0]="Luau straws"
   data-decade[0]="1940"
   data-decade[1]="1950"
   data-pagefind-filter="
@@ -153,6 +153,7 @@ Garnish
     Glassware[data-glass[0]],
     Glassware[data-glass[1]],
     Glassware[data-glass[2]],
+    Garnish[data-garnish[0]],
     Decade[data-decade[0]],
     Decade[data-decade[1]]
   "

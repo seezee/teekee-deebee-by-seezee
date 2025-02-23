@@ -114,8 +114,8 @@ Garnish
   data-glass[3]="Decorative bowl"
   data-glass[4]="Punch bowl, large (32- to 48-ounce)"
   data-glass[5]="Punch bowl"
-  data-glass[6]="Ladle"
-  data-glass[7]="Punch glassware"
+  data-glass[6]="Punch glassware"
+  data-garnish[0]="Luau straws"
   data-decade[0]="2000"
   data-pagefind-filter="
     Category[data-cat[0]],
@@ -150,7 +150,7 @@ Garnish
     Glassware[data-glass[4]],
     Glassware[data-glass[5]],
     Glassware[data-glass[6]],
-    Glassware[data-glass[7]],
+    Garnish[data-garnish[0]],
     Decade[data-decade[0]]
   "
 >
