@@ -46,12 +46,29 @@
       rows="10"
       required
     ></textarea>
-    <div
-      class="g-recaptcha" id="contact-recaptcha" data-theme="dark"
-      data-sitekey="6LckLxQqAAAAAKBl3PrzTCloT8_WcnACYINSBZvD">
-    </div>
-    <button class="button button-primary" type="submit">
-      Send it!
-    </button>
+
+Maximum 4096 characters. Total Characters remaining: <span class="counter">4096</span>
+
+    <button
+      class="g-recaptcha button button-primary"
+      data-sitekey="6LccW_EqAAAAALxdJJUgo_S1XgjjECD0XJjvh_sO"
+      data-callback="onSubmit"
+      data-action="submit">Send it!</button>
   </stack-l>
 </form>
+
+<script>
+  const textarea = document.getElementById(`message`);
+  const counter = document.querySelector(`.counter`);
+
+  textarea.addEventListener(`keyup`, countCharacters, false);
+
+
+  function countCharacters() {
+      const text          = textarea.value;
+      const textLength    = text.length;
+      const textMax       = 4096;
+      const textRemaining = (textMax - textLength);
+      counter.innerText   = `${textRemaining}`;
+  }
+</script>
