@@ -49,7 +49,7 @@ Glassware
 * 1/2 ounces [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1/2 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/) (overproof) (Puerto Rico)
 
-[^1]: A Danish cherry wine. Substitute 1/4 ounce Cherry Heering if you cannot obtain Kijafa. The drink will be somewhat sweeter, but more than palatable.
+[^1]: A Danish cherry wine. Substitute 1/4 ounce Cherry Heering if you cannot obtain Kijafa. The drink will be somewhat sweeter, but no less palatable.
 
 Garnish
   : <span data-pagefind-filter="Garnish">None</span>
