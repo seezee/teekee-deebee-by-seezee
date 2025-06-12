@@ -40,5 +40,7 @@
 
 /* Focus outline */
 :focus-visible {
-  outline: var(--tiki-color-secondary-300) auto 1px;
+  outline: var(--tiki-alert-border-width) auto var(--tiki-color-accent);
+  outline-offset: var(--s-5);
+  border-radius: var(--tiki-radius-1x);
 }

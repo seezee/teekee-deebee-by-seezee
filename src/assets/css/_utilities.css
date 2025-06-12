@@ -27,23 +27,25 @@
 .no-break {
   break-inside: avoid;
 }
-
 /* .sr-only, .keywords, .govuk-visually-hidden */
 .sr-only,
 .keywords,
 .govuk-visually-hidden {
-  position: absolute;
-  display: inline-block;
-  inline-size: 1px;
-  block-size: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
 
-  white-space: nowrap;
+  &:not(:focus-visible) {
+    position: absolute;
+    display: inline-block;
+    inline-size: 1px;
+    block-size: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
 
-  border-width: 0;
+    white-space: nowrap;
+
+    border-width: 0;
+  }
 }
 
 /* .frac */
