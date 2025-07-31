@@ -38,7 +38,7 @@
       <link>{{ absolutePostUrl }}</link>
       <description><![CDATA[{{ post.data.excerpt }}]]></description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
-      <lastBuildDate>{{ collections.recipes | getCollectionNewestGitCommitDate | default(helpers.now) | dateToRfc822 }}</lastBuildDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>
