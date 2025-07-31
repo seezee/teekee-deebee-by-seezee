@@ -3,6 +3,7 @@ layout: _main.njk
 title: Talk to Us
 permalink: "/contact/index.html"
 ogtype: website
+date: git Created
 excerpt: Let us know what you think! Send your feedback, questions, corrections, criticism, or praise.
 ---
 <!-- markdownlint-disable MD033 -->

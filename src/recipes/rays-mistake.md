@@ -31,6 +31,7 @@ glass:
 origin: Created in 1968 when Ray Buhen, Tiki-Ti owner and former Beachcomber bartender, accidentally used the wrong syrups in an anting anting ("witches' brew"). He was about to dump it when the customer said he'd take it anyway.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
+date: git Created
 excerpt: Created in 1968 when Ray Buhen, Tiki-Ti owner and former Beachcomber bartender, accidentally used the wrong syrups in an anting anting. The recipe remains secret to this day.
 ---
 <!-- markdownlint-disable MD025 -->

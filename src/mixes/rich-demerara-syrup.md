@@ -7,6 +7,7 @@ ingredient:
   - water
   - granulated sugar
   - Demerara sugar
+date: git Created
 excerpt: Recipe for rich (2:1) Demerara syrup
 ---
 

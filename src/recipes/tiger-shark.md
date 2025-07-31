@@ -23,6 +23,7 @@ glass:
 origin: This 1950s recipe comes from Burbank restaurant The China Trader, as recorded by former China Trader bartender Tony Ramos. The restaurant was a popular lunchtime watering hole for the nearby <cite>Hawaiian Eye</cite> television production crew.
 source: Beachbum Berry's Sippin' Safari
 decade: 1950
+date: git Created
 excerpt: This 1950s recipe comes from Burbank restaurant The China Trader, as recorded by former China Trader bartender Tony Ramos.
 ---
 <!-- markdownlint-disable MD025 -->

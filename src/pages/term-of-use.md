@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Website Terms of use
+date: git Created
 excerpt: These Terms and Conditions constitute a legally binding agreement made between you and Messenger Web Design LLC dba Tiny Paper Umbrella
 permalink: "/legal/terms-of-use/index.html"
 ---

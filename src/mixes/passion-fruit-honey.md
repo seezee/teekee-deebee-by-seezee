@@ -6,6 +6,7 @@ type: syrup
 ingredient:
   - passion fruit puree
   - honey
+date: git Created
 excerpt: Recipe for passion fruit honey
 ---
 

@@ -23,6 +23,7 @@ source: Punch&colon; The Delights (and Dangers) of the Flowing Bowl
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: Created by Smuggler's Cove, inspired by traditional colonial-era punch recipes.
 ---
 <!-- markdownlint-disable MD025 -->

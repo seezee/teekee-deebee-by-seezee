@@ -1,5 +1,6 @@
 ---
 layout: _main.njk
+date: git Created
 excerpt: Index of syrups, batters, mixes, and other preparations for exotic (tiki) drinks
 ---
 

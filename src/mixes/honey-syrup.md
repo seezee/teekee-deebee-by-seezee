@@ -6,6 +6,7 @@ type: syrup
 ingredient:
   - water
   - honey
+date: git Created
 excerpt: Recipe for honey syrup
 ---
 

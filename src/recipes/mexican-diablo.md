@@ -27,6 +27,7 @@ glass:
 origin: Trader Vic
 source: Trader Vic's Book of Food and Drink
 decade: 1940
+date: git Created
 excerpt: A cooler by Trader Vic, circa 1940.
 ---
 

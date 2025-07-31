@@ -25,6 +25,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
  - 2000
  - 2010
+date: git Created
 excerpt: Created by Falin Ninoru, artist and proprietor of Tiki Kaimuki Fine Boozing Vessels in Oakland, California.
 ---
 <!-- markdownlint-disable MD025 -->

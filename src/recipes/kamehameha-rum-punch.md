@@ -31,6 +31,7 @@ glass:
 origin: From the Hotel King Kamehameha, Kona, Hawaii.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
+date: git Created
 excerpt: From the Hotel King Kamehameha, Kona, Hawaii.
 ---
 <!-- markdownlint-disable MD025 -->

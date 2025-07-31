@@ -28,6 +28,7 @@ glass: pearl diver glass
 origin: An early Don the Beachcomber recipe, circa 1937. Jeff Berry notes that by the time Don opened his Waikiki location in the late 1940s, the recipe had been simplified and rechristened as the now familiar "pearl diver." This one comes to us from Dick Santiago, who worked at the Waikiki location in 1948.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: An early Don the Beachcomber recipe, circa 1937. Jeff Berry notes that by the time Don opened his Waikiki location in the late 1940s, the recipe had been simplified and rechristened as the now familiar “pearl diver.” This one comes to us from Dick Santiago, who worked at the Waikiki location in 1948.
 ---
 

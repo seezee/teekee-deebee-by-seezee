@@ -27,6 +27,7 @@ glass:
 origin: Created by Martin Cate for <cite>Sunset</cite> magazine in 2011.
 source: Sunset
 decade: 2010
+date: git Created
 excerpt: Created by Martin Cate for <cite>Sunset</cite> magazine in 2011.
 ---
 

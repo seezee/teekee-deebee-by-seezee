@@ -24,6 +24,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: The late Steve Liles created this recipe for Smuggler's Cove during his long tenure behind their bar. Liles was named Imbibe Magazine's 2017 Bartender of the Year.
 ---
 <!-- markdownlint-disable MD025 -->

@@ -25,6 +25,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+date: git Created
 excerpt: Created by Martin Cate in San Francisco in honor of the exotica band APE on the occasion of their concert appearance at Smuggler's Cove.
 image: /assets/images/ape-the-band-mug-tiki-farm.jpg
 ---

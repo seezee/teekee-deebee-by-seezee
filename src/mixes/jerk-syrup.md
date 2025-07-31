@@ -7,6 +7,7 @@ ingredient:
   - water
   - granulated sugar
   - jerk seasoning
+date: git Created
 excerpt: Recipe for Smuggler's Cove jerk syrup
 ---
 

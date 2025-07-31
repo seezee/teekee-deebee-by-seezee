@@ -25,6 +25,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+date: git Created
 excerpt: Dane Barca from Smuggler's Cove created this cocktail as an homage to Panamanian roots.
 ---
 <!-- markdownlint-disable MD025 -->

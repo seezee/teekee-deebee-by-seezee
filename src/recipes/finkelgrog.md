@@ -27,6 +27,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: Created by Martin Cate for Judd Finkelstein, lead singer of the Maikai Gents.
 ---
 <!-- markdownlint-disable MD025 -->

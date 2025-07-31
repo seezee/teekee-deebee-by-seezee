@@ -7,6 +7,7 @@ ingredient:
   - unsweetened coconut milk
   - salt
   - rich simple syrup
+date: git Created
 excerpt: Recipe for coconut cream
 ---
 

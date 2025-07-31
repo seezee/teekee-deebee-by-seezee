@@ -25,6 +25,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+date: git Created
 excerpt: A raspberry and rum sour served up. Created by Martin Cate.
 ---
 <!-- markdownlint-disable MD025 -->

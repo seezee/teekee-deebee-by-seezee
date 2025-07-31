@@ -26,6 +26,7 @@ garnish: orange slice
 origin: Don the Beachcomber created this recipe for his ex-wife Sunny Sund (nicknamed "Sunkora, Queen of the Beachcombers"). Adapted from the version served at the Don the Beachcomber's Palm Beach, Calif. location in the 1970s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1970
+date: git Created
 excerpt: Don the Beachcomber created this recipe for his ex-wife Sunny Sund (nicknamed “Sunkora, Queen of the Beachcombers”). Adapted from the version served at the Don the Beachcomber's Palm Beach, Calif. location in the 1970s.
 ---
 

@@ -6,6 +6,7 @@ type: syrup
 ingredient:
   - water
   - granulated sugar
+date: git Created
 excerpt: Recipe for rich (2:1) simple syrup, with a note on 1:1 simple syrup
 ---
 

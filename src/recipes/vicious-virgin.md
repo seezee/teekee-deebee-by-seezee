@@ -20,6 +20,7 @@ glass: coupe
 origin: A Don the Beachcomber recipe from 1937, found in bartender Mariano Licudine's personal notebook. Licudine, a.k.a. "The Houdini of Liquids," started at the Hollywood Beachcomber's in 1939.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: A Don the Beachcomber recipe from 1937, found in bartender Mariano Licudine's personal notebook. Licudine, a.k.a. “The Houdini of Liquids,” started at the Hollywood Beachcomber's in 1939.
 ---
 <!-- markdownlint-disable MD025 -->

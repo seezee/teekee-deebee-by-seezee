@@ -30,6 +30,7 @@ origin:
   - The notorious Don the Beachcomber weapon of mass destruction, revised in 1950.
 source: Barbecue Chef
 decade: 1950
+date: git Created
 excerpt: The notorious Don the Beachcomber weapon of mass destruction, revised in 1950.
 ---
 

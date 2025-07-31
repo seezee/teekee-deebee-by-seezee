@@ -21,6 +21,7 @@ glass: coupe
 origin: As served at the House of Happy Talk lounge at the Hanalei Plantation resort, Kauai, Hawaii, in the early 1960s, and printed <cite>Good Taste</cite>,the official publication of the California Bartenders Guild.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
+date: git Created
 excerpt: As served at the House of Happy Talk lounge at the Hanalei Plantation resort, Kauai, Hawaii, in the early 1960s, and printed <cite>Good Taste</cite>,the official publication of the California Bartenders Guild.
 ---
 <!-- markdownlint-disable MD025 -->

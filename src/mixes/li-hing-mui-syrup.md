@@ -7,6 +7,7 @@ ingredient:
   - li hing mui powder
   - granulated sugar
   - water
+date: git Created
 excerpt: Recipe for Smuggler's Cove li hing mui syrup
 ---
 

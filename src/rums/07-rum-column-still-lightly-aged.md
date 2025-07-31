@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Column Still Lightly Aged
 tags: rums
+date: git Created
 excerpt: Index of column still lightly aged rums.
 ---
 <!-- markdownlint-disable MD025 -->

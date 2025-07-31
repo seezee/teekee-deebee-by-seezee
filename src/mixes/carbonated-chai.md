@@ -6,6 +6,7 @@ type: preparation
 ingredient:
   - water
   - loose leaf black tea
+date: git Created
 excerpt: Recipe for Smuggler's Cove carbonated chai (spiced tea)
 ---
 

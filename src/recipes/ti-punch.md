@@ -26,6 +26,7 @@ glass:
 origin: The traditional way to enjoy Martinique rhum agricole. The name comes from Haitian creole <q>ti ponch,</q> from French <q>petis ponch</q> (<q>little punch</q>). Various sources claim it was created to celebrate the French abolition of slavery on 27 April 1848, a story we cannot verify.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 1840
+date: git Created
 excerpt: The traditional way to enjoy Martinique rhum agricole, dating to at least the 1840s.
 ---
 

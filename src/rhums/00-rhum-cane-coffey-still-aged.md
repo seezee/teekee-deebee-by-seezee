@@ -3,6 +3,7 @@ layout: _main.njk
 title: Cane Coffey Still Aged
 tags: rhums
 permalink: "rums/00-rhum-cane-coffey-still-aged/index.html"
+date: git Created
 excerpt: Index of cane coffey still aged rums.
 ---
 <!-- markdownlint-disable MD025 -->

@@ -3,6 +3,7 @@ layout: _main.njk
 title: Cane Pot Still Aged
 tags: rhums
 permalink: "/rums/02-rhum-cane-pot-still-aged/index.html"
+date: git Created
 excerpt: Index of cane pot still aged rums.
 ---
 <!-- markdownlint-disable MD025 -->

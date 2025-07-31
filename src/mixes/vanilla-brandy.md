@@ -7,6 +7,7 @@ ingredient:
   - vanilla bean
   - aged brandy
   - rich Demerara syrup
+date: git Created
 excerpt: Recipe for vanilla brandy
 ---
 

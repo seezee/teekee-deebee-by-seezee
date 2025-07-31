@@ -21,6 +21,7 @@ glass: hurricane glass
 origin: From the Hawaiian Village Hotel, Waikiki. Harry K. Yee was the Village head bartender for three decades. In 1957, Yee invented this classic blue drink after liquor producer Bols asked for his help promoting their blue curaçao.
 source: Beachbum Berry's Sippin' Safari
 decade: 1950
+date: git Created
 excerpt: From the Hawaiian Village Hotel, Waikiki. Harry K. Yee was the Village head bartender for three decades. In 1957, Yee invented this classic blue drink after liquor producer Bols asked for his help promoting their blue curaçao.
 ---
 

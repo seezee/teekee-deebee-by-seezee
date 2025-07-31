@@ -22,6 +22,7 @@ glass: scorpion bowl
 origin: A Kon-Tiki original in the style of Donn Beach.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
+date: git Created
 excerpt: A 1960s Kon-Tiki punch in the style of Donn Beach.
 ---
 <!-- markdownlint-disable MD025 -->

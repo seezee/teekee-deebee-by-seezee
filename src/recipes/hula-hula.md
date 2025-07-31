@@ -21,6 +21,7 @@ glass:
 origin: Created in 1934 by Ray Buhen, one of the pioneering Filipino bartenders of tiki's early days. Ray concocted this drink while working at his first bartending job at the Beverly Hills Hotel.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: Created in 1934 by Ray Buhen, one of the pioneering Filipino bartenders of tiki's early days. Ray concocted this drink while working at his first bartending job at the Beverly Hills Hotel.
 ---
 <!-- markdownlint-disable MD025 -->

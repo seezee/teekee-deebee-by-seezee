@@ -22,6 +22,7 @@ decade:
   - 1650
   - 2000
   - 2010
+date: git Created
 excerpt: Smuggler's Cove original based on traditional recipes.
 ---
 

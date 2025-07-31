@@ -31,6 +31,7 @@ origin:
   - Men's magazine <cite>Cabaret Quarterly</cite> published this recipe in 1956, with the final paragraph stating <q>Don The Beachcomber has consented to <cite>Cabaret</cite>&rsquo;s request for the true recipe. Here, for the first time in print, is the secret to the real Zombie.</q>
 source: Cabaret Quarterly
 decade: 1950
+date: git Created
 excerpt: Men's magazine Cabaret Quarterly published this recipe in 1956, with the final paragraph stating “Don The Beachcomber has consented to Cabaret's request for the true recipe. Here, for the first time in print, is the secret to the real Zombie.”
 ---
 

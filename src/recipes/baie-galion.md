@@ -23,6 +23,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: Created by Martin Cate and named after the picturesque bay located on Martinique's leeward coast.
 ---
 <!-- markdownlint-disable MD025 -->

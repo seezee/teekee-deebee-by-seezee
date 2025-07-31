@@ -7,6 +7,7 @@ ingredient: preparation
   - Pernod
   - pastis
   - absinthe
+date: git Created
 excerpt: Recipe for Don the Beachcomber's herbstura
 ---
 

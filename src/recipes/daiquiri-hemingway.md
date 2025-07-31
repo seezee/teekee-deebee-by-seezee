@@ -23,6 +23,7 @@ source: Punch
 decade:
   - 1939
   - 2010
+date: git Created
 excerpt: Fort Defiance owner St. John Frizell adapted Constantino Ribalaigua Vert's classic recipe for this 2019 Hemingway Daiquiri recipe contest winner.
 ---
 <!-- markdownlint-disable MD025 -->

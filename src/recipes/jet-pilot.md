@@ -24,6 +24,7 @@ glass:
 origin: The Luau, Beverly Hills, 1950s.
 source: Beachbum Berry's Sippin' Safari
 decade: 1950
+date: git Created
 excerpt: This 1950s recipe from The Luau, Beverly Hills has seen a resurgence in popularity in the early 21st century.
 ---
 <!-- markdownlint-disable MD025 -->

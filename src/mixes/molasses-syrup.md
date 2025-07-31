@@ -7,6 +7,7 @@ ingredient:
   - water
   - granulated sugar
   - mild molasses
+date: git Created
 excerpt: Recipe for molasses syrup
 ---
 

@@ -6,6 +6,7 @@ type: preparation
 ingredient:
   - grenadine
   - passion fruit juice
+date: git Created
 excerpt: Recipe for Don the Beachcomber's tonga mix
 ---
 

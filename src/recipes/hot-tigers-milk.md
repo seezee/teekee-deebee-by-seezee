@@ -16,6 +16,7 @@ glass: mug
 origin: Don the Beachcomber, circa 1937.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: A toddy by Don the Beachcomber, circa 1937.
 ---
 

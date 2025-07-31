@@ -25,6 +25,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
  - 2000
  - 2010
+date: git Created
 excerpt: Created by Martin Cate and inspired by the journeys of Donn Beach.
 ---
 <!-- markdownlint-disable MD025 -->

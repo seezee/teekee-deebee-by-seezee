@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Blended Long Aged
 tags: rums
+date: git Created
 excerpt: Index of blended long aged rums.
 ---
 <!-- markdownlint-disable MD025 -->

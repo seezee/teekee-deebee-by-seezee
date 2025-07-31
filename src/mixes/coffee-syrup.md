@@ -6,6 +6,7 @@ type: syrup
 ingredient:
   - water
   - granulated sugar
+date: git Created
 excerpt: Recipe for coffee syrup
 ---
 

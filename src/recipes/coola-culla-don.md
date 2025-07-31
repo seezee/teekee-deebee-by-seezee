@@ -24,6 +24,7 @@ garnish: edible orchid
 origin: Don the Beachcomber, circa 1939.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: A circa 1939 Don the Beachcomber recipe, blended, strained, and served up.
 ---
 <!-- markdownlint-disable MD025 -->

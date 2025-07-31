@@ -6,6 +6,7 @@ type: syrup
 ingredient:
   - Napa Valley Cabernet Sauvignon
   - granulated sugar
+date: git Created
 excerpt: Recipe for Smuggler's Cove Napa wine syrup
 ---
 

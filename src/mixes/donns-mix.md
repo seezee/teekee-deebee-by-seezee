@@ -6,6 +6,7 @@ type: preparation
 ingredient:
   - cinnamon syrup
   - grapefruit juice
+date: git Created
 excerpt: Recipe for Donn’s Mix
 ---
 

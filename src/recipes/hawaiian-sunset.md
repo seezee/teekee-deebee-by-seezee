@@ -21,6 +21,7 @@ glass: coupe
 origin:  From the menu of the Aku Aku Polynesian Restaurant (Stardust Casino, Las Vegas, circa 1930s).
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
+date: git Created
 excerpt: Aku Aku Polynesian Restaurant (Stardust Casino, Las Vegas, circa 1930s)
 ---
 <!-- markdownlint-disable MD025 -->

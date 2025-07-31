@@ -28,6 +28,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+date: git Created
 excerpt: Created by Martin Cate for Hula's Island Grill in Santa Cruz, Calif. The drink was originally named The Steamer after Santa Cruz surf spot Steamer Lane.
 ---
 <!-- markdownlint-disable MD025 -->

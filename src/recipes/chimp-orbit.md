@@ -26,6 +26,7 @@ glass: tall (26-ounce) tiki mug
 origin: Royal Kona Resort beverage director Jeff Isbister found this recipe in a sticky wad of papers in 2008 while cleaning out a cabinet at the Royal Kona bar. He concluded that it, and many of the other recipes he found, was a Hilton standard drink recipe brought to the bar by Harry K. Yee from his stint at the Hawaiian Village.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
+date: git Created
 excerpt: Royal Kona Resort beverage director Jeff Isbister found this recipe in a sticky wad of papers in 2008 while cleaning out a cabinet at the Kona Hilton bar. He concluded that it, and many of the other recipes he found, was a Hilton standard drink recipe brought to the bar by Harry K. Yee from his stint at the Hawaiian Village.
 ---
 

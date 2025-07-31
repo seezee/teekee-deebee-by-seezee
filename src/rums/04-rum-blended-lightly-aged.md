@@ -4,6 +4,7 @@ title: Blended Lightly Aged
 category: /assets/images/icons/circle-2.svg#circle-2
 label: (2)
 tags: rums
+date: git Created
 excerpt: Index of blended lightly aged rums.
 ---
 <!-- markdownlint-disable MD025 -->

@@ -20,6 +20,7 @@ glass: fizz
 origin: This drink was a specialty of Cunha's, Honolulu, circa 1905. Among globetrotters, it rivaled New Orlean's famous (and similar) Ramos gin fizz in popularity.
 source: Beachbum Berry's Sippin' Safari
 decade: 1900
+date: git Created
 excerpt: This drink was a specialty of Cunha’s, Honolulu, circa 1905. Among globetrotters, it rivaled New Orleans’s famous (and similar) Ramos gin fizz in popularity.
 ---
 

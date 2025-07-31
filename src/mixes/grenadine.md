@@ -8,6 +8,7 @@ ingredient:
   - pomegranate juice
   - granulated sugar
   - orange flower water
+date: git Created
 excerpt: Recipe for grenadine
 ---
 

@@ -24,6 +24,7 @@ glass: brandy snifter
 origin: Created circa 1964 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
 source: Beachbum Berry's Sippin' Safari
 decade: 1960
+date: git Created
 excerpt: Created circa 1964 by “Danny” of the Papeete Bar. The Papeete was located in the Waikikian Hotel’s Tahitian Lanai restaurant, located on Waikiki Beach.
 ---
 <!-- markdownlint-disable MD025 -->

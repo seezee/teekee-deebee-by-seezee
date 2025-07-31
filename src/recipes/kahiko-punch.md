@@ -19,6 +19,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: A punch recipe by Martin Cate, perfect for your next gathering.
 ---
 <!-- markdownlint-disable MD025 -->

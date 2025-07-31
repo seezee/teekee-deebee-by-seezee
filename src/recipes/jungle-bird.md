@@ -21,6 +21,7 @@ glass:
 origin: Kuala Lampur Hilton, circa 1978.
 source: Beachbum Berry Remixed
 decade: 1970
+date: git Created
 excerpt: A drink that fell into obscurity in the late 20th century, this circa 1978 concoction from the Kuala Lampur Hilton has regained popularity in the 21st century.
 ---
 

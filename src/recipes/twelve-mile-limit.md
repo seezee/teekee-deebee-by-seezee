@@ -27,6 +27,7 @@ garnish: lemon twist
 origin: During Prohibition, sailing vessels floating twelve miles or more off the U.S. shore were in international waters, and therefore not subject to the ban on alcohol. Spirits expert Ted Haigh says journalist Tommy Millard invented this drink; as evidence he cites a newspaper article from 1934.
 source: Vintage Spirits and Forgotten Cocktails
 decade: 1930
+date: git Created
 excerpt: Invented by journalist Tommy Millard during Prohibition. Named for the 12-mile distance from U.S. shores to international waters.
 ---
 <!-- markdownlint-disable MD025 -->

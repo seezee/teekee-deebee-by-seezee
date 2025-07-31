@@ -34,6 +34,7 @@ decade:
   - 1890
   - 1900
   - 1910
+date: git Created
 excerpt: The origin of this famous drink is disputed. It may have been invented by Ngiam Tong Boon for the Raffles Hotel circa 1915. But according to David Wondrich, it may have existed as early as the 1890s.
 ---
 <!-- markdownlint-disable MD025 -->

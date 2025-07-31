@@ -17,6 +17,7 @@ garnish: grated cinnamon
 origin: Over the course of five years, author Erik Ellestad wrote a blog in which he made and tried all 750 recipes in <cite>The Savoy Cocktail Book</cite>, a hobby which eventually led to his working as a bartender, first at San Francisco's Alembic and later at Heaven's Dog. This recipe for the Parisian Blonde is his adaptation.
 source: The Savoy Cocktail Book
 decade: 1930
+date: git Created
 excerpt: A 1930s recipe from the Savoy Cocktail Book adapted by Erik Ellestad.
 ---
 <!-- markdownlint-disable MD025 -->

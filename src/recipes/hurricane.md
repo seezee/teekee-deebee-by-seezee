@@ -21,6 +21,7 @@ glass:
 origin: Pat O'Brien's Irish Bar, New Orleans, circa 1938.
 source: Beachbum Berry Remixed
 decade: 1930
+date: git Created
 excerpt: The deceptively simple and decidedly dangerous drink from Pat O'Brien's Irish Bar, New Orleans, circa 1938.
 ---
 <!-- markdownlint-disable MD025 -->

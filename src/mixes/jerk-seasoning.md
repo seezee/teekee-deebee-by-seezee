@@ -11,6 +11,7 @@ ingredient:
   - grated nutmeg
   - ground cayenne pepper
   - salt
+date: git Created
 excerpt: Recipe for Smuggler's Cove jerk seasoning
 ---
 

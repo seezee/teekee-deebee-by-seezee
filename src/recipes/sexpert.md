@@ -24,6 +24,7 @@ glass: coupe
 origin: Created by Martin Cate in honor of the book-release party for Susie Bright's <cite>Big sex, Little Death&colon; A Memoir</cite>. The party was hosted by Smuggler's Cove in 2011.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2010
+date: git Created
 excerpt: Created by Martin Cate in 2011 in honor of the book-release party for Susie Bright's Big sex, Little Death | A Memoir.
 ---
 <!-- markdownlint-disable MD025 -->

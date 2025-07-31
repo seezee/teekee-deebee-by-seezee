@@ -28,6 +28,7 @@ glass:
 origin: Another Trader Vic original, which he described as <q>the most delightful form of anesthesia given out today.</q> The drink is named named after the Queen's Park Hotel located in Trinidad's Port of Spain.
 source: Trader Vic's Bartender's Guide
 decade: 1940
+date: git Created
 excerpt: A Trader Vic original, which he described as “the most delightful form of anesthesia given out today.” The drink is named named after the Queen's Park Hotel located in Trinidad's Port of Spain.
 ---
 

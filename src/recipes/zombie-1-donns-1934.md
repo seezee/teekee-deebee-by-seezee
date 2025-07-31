@@ -30,6 +30,7 @@ origin:
   - The notorious Don the Beachcomber original from 1934.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: The notorious Don the Beachcomber original from 1934.
 ---
 

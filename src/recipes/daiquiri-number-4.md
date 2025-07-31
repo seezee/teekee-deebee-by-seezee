@@ -24,6 +24,7 @@ garnish:
 origin: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2, 3, and 5, was codified by barman Constante Ribalaigua at Havana's El Floridita Bar. As printed in <cite>Bar la Florida Cocktails</cite>, the recipe is served <span lang="fr">frappé</span>.
 source: Bar la Florida Cocktails
 decade: 1930
+date: git Created
 excerpt: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2, 3, and 5, was codified by barman Constante Ribalaigua at Havana's El Floridita Bar.
 ---
 <!-- markdownlint-disable MD025 -->

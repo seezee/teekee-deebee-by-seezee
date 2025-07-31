@@ -8,6 +8,7 @@ ingredient:
   - cinnamon sticks
   - cassia
   - granulated sugar
+date: git Created
 excerpt: Recipe for cinnamon syrup
 ---
 

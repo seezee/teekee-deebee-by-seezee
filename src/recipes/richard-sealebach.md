@@ -26,6 +26,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: Created by Rebecca Cate, who took inspiration from the supposedly vintage and unarguably now-classic Seelbach cocktail.
 ---
 

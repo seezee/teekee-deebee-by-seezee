@@ -7,6 +7,7 @@ ingredient:
   - honey
   - spiced hibiscus infusion
   - 2:1 rich simple syrup
+date: git Created
 excerpt: Recipe for Smuggler's Cove hibiscus liqueur
 ---
 

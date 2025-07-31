@@ -23,6 +23,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
 - 2000
 - 2010
+date: git Created
 excerpt: Created by Smuggler's Cove mixologist Steve Liles for an event hosted at the Smithsonian honoring the bicentennial of The Star Spangled Banner.
 ---
 <!-- markdownlint-disable MD025 -->

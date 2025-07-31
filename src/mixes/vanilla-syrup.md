@@ -7,6 +7,7 @@ ingredient:
   - water
   - granulated sugar
   - vanilla bean
+date: git Created
 excerpt: Recipe for vanilla syrup
 ---
 

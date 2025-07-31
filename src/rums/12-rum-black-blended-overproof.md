@@ -4,6 +4,7 @@ title: Black Blended Overproof
 category: /assets/images/icons/circle-6.svg#circle-6
 label: (6)
 tags: rums
+date: git Created
 excerpt: Index of black blended overproof rums.
 ---
 <!-- markdownlint-disable MD025 -->

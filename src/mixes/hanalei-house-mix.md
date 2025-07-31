@@ -11,6 +11,7 @@ ingredient:
   - lemon juice
   - orgeat
   - 1:1 simple syrup
+date: git Created
 excerpt: Recipe for grenadine
 ---
 

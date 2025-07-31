@@ -29,6 +29,7 @@ source: Trader Vic's Bartender's Guide
 decade:
 - 1940
 - 1950
+date: git Created
 excerpt: Trader Vic's third most famous cocktail, after the mai tai and the fog cutter.
 ---
 <!-- markdownlint-disable MD025 -->

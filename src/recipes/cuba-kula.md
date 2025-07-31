@@ -28,6 +28,7 @@ glass:
 origin: According to Jeff Berry, this was an early experiment by Ray Buhen, one of Don the Beachcomber's pioneering Filipino bartenders. The recipe is dated 1935.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: According to Jeff Berry, this was an early experiment by Ray Buhen, one of Don the Beachcomber's pioneering Filipino bartenders. The recipe is dated 1935.
 ---
 <!-- markdownlint-disable MD025 -->

@@ -25,6 +25,7 @@ garnish:
 origin: As served by Hank Riddle at Kelbo's on L.A.’s Fairfax Avenue in the 1950s, this drink is neither Polynesian nor is it a daiquiri.
 source: Beachbum Berry's Sippin' Safari
 decade: 1950
+date: git Created
 excerpt: As served by Hank Riddle at Kelbo's on L.A.'s Fairfax Avenue in the 1950s, this drink is neither Polynesian nor is it a daiquiri.
 ---
 <!-- markdownlint-disable MD025 -->

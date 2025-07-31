@@ -32,6 +32,7 @@ glass:
 origin: Created by Smuggler's Cove for the <abbr>NW</abbr> Tiki Crawl (now Tiki Kon) in 2007.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2000
+date: git Created
 excerpt: Created by Smuggler's Cove for the <abbr>NW</abbr> Tiki Crawl (now Tiki Kon) in 2007.
 ---
 <!-- markdownlint-disable MD025 -->

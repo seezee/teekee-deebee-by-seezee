@@ -20,6 +20,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: Created by Smuggler's Cove for a Tiki Oasis pre-party at the Walt Disney Family Museum.
 ---
 <!-- markdownlint-disable MD025 -->

@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Privacy Policy
+date: git Created
 excerpt: This privacy notice for Messenger Web Design LLC dba Tiny Paper Umbrella describes how and why we might collect, store, use, and/or share your information
 permalink: "/legal/privacy/index.html"
 ---

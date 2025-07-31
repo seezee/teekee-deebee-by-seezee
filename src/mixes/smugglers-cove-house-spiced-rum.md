@@ -14,6 +14,7 @@ ingredient:
   - black peppercorns
   - fresh ginger
   - rich Demerara syrup
+date: git Created
 excerpt: Where to find Smuggler's Cove house spiced rum
 ---
 

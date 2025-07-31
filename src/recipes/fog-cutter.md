@@ -28,6 +28,7 @@ origin:
   - <stack-l><p>One of Trader Vic's most famous drinks, second only to the mai tai. As with so many drinks Vic claimed to have invented, the provenance is uncertain.</p><p>Don the Beachcomber served a version calling for pisco in his restaurant chain's later locations. This version, adapted by Smuggler's Cove, retains Don's innovation.</p></stack-l>
 source: Trader Vic's Bartender's Guide
 decade: 1940
+date: git Created
 excerpt: One of Trader Vic's most famous drinks, second only to the mai tai.
 ---
 

@@ -6,6 +6,7 @@ type: batter
 ingredient:
   - heavy whipping cream
   - rich Demerara syrup
+date: git Created
 excerpt: Recipe for sweet cream
 ---
 

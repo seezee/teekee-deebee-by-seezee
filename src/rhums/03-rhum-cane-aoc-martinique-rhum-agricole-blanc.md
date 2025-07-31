@@ -5,6 +5,7 @@ category: /assets/images/icons/circle-7.svg#circle-7
 label: (7)
 tags: rhums
 permalink: "/rums/03-rhum-cane-aoc-martinique-rhum-agricole-blanc/index.html"
+date: git Created
 excerpt: Index of cane AOC Martinique rhums agricole blanc.
 ---
 <!-- markdownlint-disable MD025 -->

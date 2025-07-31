@@ -28,6 +28,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: Created by Martin Cate and named for the Kaieteur Falls in Guyana. The Smuggler's Cove book misspells the name as “Kaiteur.”
 ---
 

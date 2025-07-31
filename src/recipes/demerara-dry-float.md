@@ -25,6 +25,7 @@ glass:
 origin: Don the Beachcomber circa 1940. Served with a side of danger!
 source: Beachbum Berry's Intoxica!
 decade: 1940
+date: git Created
 excerpt: Don the Beachcomber, circa 1940. Served with a side of danger (fire)!
 ---
 <!-- markdownlint-disable MD025 -->

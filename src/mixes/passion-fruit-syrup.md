@@ -6,6 +6,7 @@ type: syrup
 ingredient:
   - passion fruit puree
   - 2:1 simple syrup
+date: git Created
 excerpt: Recipe for passion fruit syrup
 ---
 

@@ -21,6 +21,7 @@ glass: coupe
 origin: Described by Jerry Thomas in 1862, this drink is a descendant of the tavern flip, which called for rum and beer. At some point, egg entered the recipe; later, the beer disappeared.
 source: How to Mix Drinks&colon; The Bon-Vivant's Companion
 decade: 1860
+date: git Created
 excerpt: Described by Jerry Thomas in 1862, this drink is a descendant of the tavern flip, which originally called for rum and beer.
 ---
 <!-- markdownlint-disable MD025 -->

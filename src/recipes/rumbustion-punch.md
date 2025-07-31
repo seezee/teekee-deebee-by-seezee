@@ -18,6 +18,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
  - 2000
  - 2010
+date: git Created
 excerpt: Martin Cate created this punch in honor of Rumbustion Society, the Smuggler's Cove rum club.
 ---
 <!-- markdownlint-disable MD025 -->

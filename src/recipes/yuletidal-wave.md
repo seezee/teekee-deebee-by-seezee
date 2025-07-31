@@ -23,6 +23,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: A winter holiday punch created by Martin Cate.
 ---
 <!-- markdownlint-disable MD025 -->

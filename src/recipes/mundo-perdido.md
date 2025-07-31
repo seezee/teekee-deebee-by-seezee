@@ -19,6 +19,7 @@ glass: coupe
 origin: Created exclusively for Smuggler's Cove by Jeff “Beachbum” Berry in 2009.
 source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade: 2000
+date: git Created
 excerpt: Created exclusively for Smuggler's Cove by Jeff “Beachbum” Berry in 2009.
 ---
 <!-- markdownlint-disable MD025 -->

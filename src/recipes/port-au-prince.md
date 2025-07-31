@@ -21,6 +21,7 @@ glass: footed pilsner
 origin: This late 1930s Don the Beachcomber recipe from Dick Santiago's notebook was handwritten and marked <q>new.</q> By 1941 it was no longer on the Beachcomber's drink menu, sharing its fate with Don's own grog, hot tiger's milk, the golden stag, the coola culla don, and the jamoca.
 source: Beachbum Berry's Sippin' Safari
 decade: 1930
+date: git Created
 excerpt: A late 1930s Don the Beachcomber recipe, missing from the menu by 1941.
 ---
 <!-- markdownlint-disable MD025 -->

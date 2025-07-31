@@ -4,6 +4,7 @@ title: Pot Still Lightly Aged
 category: /assets/images/icons/circle-1.svg#circle-1
 label: (1)
 tags: rums
+date: git Created
 excerpt: Index of pot still lightly aged rums.
 ---
 <!-- markdownlint-disable MD025 -->

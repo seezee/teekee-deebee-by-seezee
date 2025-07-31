@@ -30,6 +30,7 @@ glass:
 origin: A Tiki-Ti original from 2000. Created by Ray Buhen's son and grandson (Mike and Mike Jr.) assisted by Tiki-Ti regular "Rasta Jim" Marshall.
 source: Beachbum Berry's Sippin' Safari
 decade: 2000
+date: git Created
 excerpt: A Tiki-Ti original from 2000. Created by Ray Buhen's son and grandson (Mike and Mike Jr.) assisted by Tiki-Ti regular “Rasta Jim” Marshall.
 ---
 <!-- markdownlint-disable MD025 -->

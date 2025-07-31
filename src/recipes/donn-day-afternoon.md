@@ -27,6 +27,7 @@ source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
 decade:
   - 2000
   - 2010
+date: git Created
 excerpt: Created by Martin Cate. Donn Beach (born Ernest Raymond Gantt) was better known as Don the Beachcomber.
 ---
 <!-- markdownlint-disable MD025 -->

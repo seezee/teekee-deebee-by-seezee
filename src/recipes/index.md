@@ -2,6 +2,7 @@
 layout: _main.njk
 title: Recipe Index
 index: true
+date: git Created
 excerpt: Index of tropical, tiki, and historic rum cocktail recipes, adapted to use the Smuggler's Cove rum taxonomy
 eleventyExcludeFromCollections: true
 ---

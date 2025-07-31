@@ -23,6 +23,7 @@ glass:
 origin: Jeff Berry is uncharacteristically reticent about this tall drink's origin, saying only that it is from the Caribbean, circa 1970s.
 source: Beachbum Berry Remixed
 decade: 1970
+date: git Created
 excerpt: Jeff Berry is uncharacteristically reticent about this tall drink’s origin, saying only that it is from the Caribbean, circa 1970s.
 ---
 

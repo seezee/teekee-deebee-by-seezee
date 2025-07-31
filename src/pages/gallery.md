@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Gallery
+date: git Created
 excerpt: Enjoy this gallery of exotic drinks
 permalink: "/gallery/index.html"
 ---

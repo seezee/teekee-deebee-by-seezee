@@ -28,6 +28,7 @@ origin:
   - Trader Vic's backward-engineered version of the Zombie may not be quite as delicious as the original, but it goes down easy (despite being just as boozy).
 source: Trader Vic's Bartender's Guide
 decade: 1940
+date: git Created
 excerpt: Trader Vic's backward-engineered version of the Zombie may not be quite as delicious as the original, but it goes down easy (despite being just as boozy).
 ---
 

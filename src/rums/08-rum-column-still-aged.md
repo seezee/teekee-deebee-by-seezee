@@ -4,6 +4,7 @@ title: Column Still Aged
 category: /assets/images/icons/circle-4.svg#circle-4
 label: (4)
 tags: rums
+date: git Created
 excerpt: Index of column still aged rums.
 ---
 <!-- markdownlint-disable MD025 -->
