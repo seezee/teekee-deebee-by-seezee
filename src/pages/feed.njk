@@ -43,5 +43,41 @@
       <guid>{{ absolutePostUrl }}</guid>
     </item>
     {%- endfor %}
+    {%- for post in collections.rums %}
+    {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
+    <item>
+      <title><![CDATA[{{ post.data.title }}]]></title>
+      <link>{{ absolutePostUrl }}</link>
+      <description><![CDATA[{{ post.data.excerpt }}]]></description>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absolutePostUrl }}</guid>
+    </item>
+    {%- endfor %}
+    {%- for post in collections.rhums %}
+    {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
+    <item>
+      <title><![CDATA[{{ post.data.title }}]]></title>
+      <link>{{ absolutePostUrl }}</link>
+      <description><![CDATA[{{ post.data.excerpt }}]]></description>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absolutePostUrl }}</guid>
+    </item>
+    {%- endfor %}
+    {%- for post in collections.mixes %}
+    {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
+    <item>
+      <title><![CDATA[{{ post.data.title }}]]></title>
+      <link>{{ absolutePostUrl }}</link>
+      <description><![CDATA[{{ post.data.excerpt }}]]></description>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absolutePostUrl }}</guid>
+    </item>
+    {%- endfor %}
   </channel>
 </rss>
