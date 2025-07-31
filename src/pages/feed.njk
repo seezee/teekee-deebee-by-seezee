@@ -1,0 +1,47 @@
+---json
+{
+  "permalink": "rss.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Tiny Paper Umbrella",
+    "description": "A collections of tropical and exotic mixed drink recipes, with a sprinkling of history",
+    "language": "en-US",
+    "base": "https://tinypaperumbrella.com/",
+    "author": {
+      "name": "Chris J. Zähller"
+    }
+  }
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.base | addPathPrefixToFullUrl }}" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[{{ metadata.title }}]]></title>
+    <link>{{ metadata.base | addPathPrefixToFullUrl }}</link>
+    <atom:link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" type="application/rss+xml" />
+    <description><![CDATA[{{ metadata.description }}]]></description>
+    <language>{{ metadata.language or page.lang }}</language>
+    <category>Photography, Blog</category>
+    <copyright>Copyright © 2024{{ helpers.currentYearRSS() | safe }} Chris J. Zähller. All rights reserved.</copyright>
+    <image>
+      <url>https://mercury.photo/assets/images/site/starfish.webp</url>
+      <title><![CDATA[{{ metadata.title }}]]></title>
+      <link>{{ metadata.base | addPathPrefixToFullUrl }}</link>
+      <description><![CDATA[{{ metadata.description }}]]></description>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    {%- for post in collections.recipes %}
+    {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
+    <item>
+      <title><![CDATA[{{ post.data.title }}]]></title>
+      <link>{{ absolutePostUrl }}</link>
+      <description><![CDATA[{{ post.data.excerpt }}]]></description>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | gitLastModified }}</lastBuildDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absolutePostUrl }}</guid>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

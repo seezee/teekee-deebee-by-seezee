@@ -2,14 +2,13 @@ module.exports = {
   currentYear() {
     const today = new Date();
     const year  = today.getFullYear();
-    const dash  = `&thinsp;&mdash;&thinsp;`;
+    const dash  = `&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;`;
     if (year > 2024) {
       return dash + year;
     } else {
       return;
     }
   },
-
   raysMistakeYears() {
     const today    = new Date();
     const year     = today.getFullYear();
@@ -19,6 +18,16 @@ module.exports = {
       return interval
     } else {
       return interval;
+    }
+  },
+  currentYearRSS() {
+    const today = new Date();
+    const year  = today.getFullYear();
+    const dash  = `⁠ ⁠–⁠ ⁠`;
+    if (year > 2024) {
+      return dash + year;
+    } else {
+      return;
     }
   }
 };
