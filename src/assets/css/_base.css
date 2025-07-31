@@ -671,14 +671,22 @@ a:visited {
   }
 }
 
-a[href^='http://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after,
-a[href^='https://']:not([href*='tiki-db.vercel.app']):not([href*='localhost']):after {
+a[href^='http://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link)::before,
+a[href^='https://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link)::before {
+  content: '[Opens in new window] ';
+}
+
+a[href^='http://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):after,
+a[href^='https://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):after {
   display: inline-block;
   margin-inline-start: .5ch;
   inline-size: 1ch;
   block-size: 1lh;
 
-  content: '\2060' var(--tiki-external-icon) / 'Opens in new window';
+  content: '';
+  background: var(--tiki-icon-external) no-repeat;
+  vertical-align: middle;
+  line-height: 1;
 }
 
 /* code, math */

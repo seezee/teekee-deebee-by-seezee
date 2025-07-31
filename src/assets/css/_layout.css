@@ -80,7 +80,7 @@ noscript div {
 }
 
 #search-hint__wrapper {
-  align-items: center safe;
+  align-items: safe center;
   display: flex;
   gap: 4px;
   justify-content: right;
