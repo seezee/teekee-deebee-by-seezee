@@ -1,4 +1,8 @@
+`use strict`;
+
 module.exports = {
+  now: new Date(),
+
   currentYear() {
     const today = new Date();
     const year  = today.getFullYear();
@@ -9,6 +13,7 @@ module.exports = {
       return;
     }
   },
+
   raysMistakeYears() {
     const today    = new Date();
     const year     = today.getFullYear();
@@ -20,6 +25,7 @@ module.exports = {
       return interval;
     }
   },
+
   currentYearRSS() {
     const today = new Date();
     const year  = today.getFullYear();

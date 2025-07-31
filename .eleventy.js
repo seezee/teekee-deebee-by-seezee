@@ -16,6 +16,7 @@ const { minify }                  = require('terser');
 const outdent                     = require('outdent');
 const path                        = require('path');
 const pluginSEO                   = require('eleventy-plugin-seo');
+const pluginGitCommitDate         = require('eleventy-plugin-git-commit-date');
 // Next 2 constants for JS bundling browser targets
 const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
 // const search                      = require('./src/filters/searchFilter.cjs');
@@ -179,31 +180,8 @@ module.exports = async function(eleventyConfig) {
   });
   // Date formatting
   eleventyConfig.addFilter(`dateToRfc822`, pluginRss.dateToRfc822);
-  // Get the last modified date of a file using git log (used for sitemap.xml)
-  eleventyConfig.addFilter(`gitLastModified`, (inputPath) => {
-    try {
-      const today = DateTime.now().toFormat(`yyyy-MM-dd`);
-
-      // Return today's date for any templated pages (home page, Atom feed, /blog, /tags, etc.)
-      if (inputPath.endsWith(`.njk`)) {
-        return today;
-      }
-
-      const result = execSync(
-        `git log -1 --date=format:'%Y-%m-%d' --format="%cd" -- "${inputPath}"`,
-        { encoding: `utf-8` }
-      );
-
-      if (result) {
-        return result.trim();
-      } else {
-        return today;
-      }
-    } catch (e) {
-      console.error(`Error getting last modified date for ${inputPath}:`, e);
-      return null;
-    }
-  });
+  // Get the last modified date of a file using GIT commit date (used for sitemap.xml)
+  eleventyConfig.addPlugin(pluginGitCommitDate);
   // SEO
   eleventyConfig.addPlugin(pluginSEO, {
     title: 'Tiny Paper Umbrella',
@@ -272,14 +250,6 @@ module.exports = async function(eleventyConfig) {
   // Watch directories for changes
   eleventyConfig.addWatchTarget(`./src/assets/css/`);
   eleventyConfig.addWatchTarget(`./src/assets/js/`);
-
-  // add `date` filter
-  eleventyConfig.addFilter(`date`, function (date, dateFormat) {
-    return format(date, dateFormat)
-  })
-
-  // Search
-  // eleventyConfig.addFilter(`search`, search);
   // add `date` filter
   eleventyConfig.addFilter('date', function (date, dateFormat) {
     return format(date, dateFormat)
