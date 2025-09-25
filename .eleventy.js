@@ -6,8 +6,8 @@ const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minif
 const esbuild                     = require('esbuild');
 const { execSync }                = require('child_process')
 const pluginRss                   = require('@11ty/eleventy-plugin-rss');
-const format                      = require('date-fns/format');
-const govukEleventyPlugin         = require('@x-govuk/govuk-eleventy-plugin');
+const { format }                  = require('date-fns/format');
+const { govukEleventyPlugin }     = require('@x-govuk/govuk-eleventy-plugin');
 const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
@@ -19,7 +19,6 @@ const pluginSEO                   = require('eleventy-plugin-seo');
 const pluginGitCommitDate         = require('eleventy-plugin-git-commit-date');
 // Next 2 constants for JS bundling browser targets
 const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
-// const search                      = require('./src/filters/searchFilter.cjs');
 const target                      = resolveToEsbuildTarget(browserslist(
     'production' [
       '>0.2%',
@@ -36,6 +35,8 @@ const target                      = resolveToEsbuildTarget(browserslist(
   printUnknownTargets: false,
 });
 
+const siteURL = `https://tinypaperumbrella.com`
+
 // For Markdown attributes
 const markdownItOptions = {
   html: true,
@@ -43,13 +44,18 @@ const markdownItOptions = {
   linkify: true
 };
 
-const markdownLib = markdownIt(markdownItOptions).use(markdownItAnchor).use(markdownItAttrs);
-
-const siteURL = `https://mercury.photo`;
+// Markdown library with options
+const markdownLib = (markdownIt) => markdownIt.use(markdownItAttrs).use(markdownItAnchor);
 
 module.exports = async function(eleventyConfig) {
 
   const {EleventyRenderPlugin} = await import('@11ty/eleventy');
+
+  // Enable the markdown-it plugin with options from above
+  eleventyConfig.setLibrary(`md`, markdownItOptions);
+  // Extend markdown-it via plugins; see https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
+  // Most tutorials are written for Eleventy 1.0.0 and use the wrong syntax for v2.0.0 and later
+  eleventyConfig.amendLibrary(`md`, markdownLib);
 
   // Global data
   eleventyConfig.addGlobalData(`site`, {
@@ -186,7 +192,7 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSEO, {
     title: 'Tiny Paper Umbrella',
     description: 'A collections of tropical and exotic mixed drink recipes, with a sprinkling of history',
-    url: 'https://tinypaperumbrella.com',
+    url: siteURL,
     author: 'Chris J. Zähller',
     twitter: 'czahller',
     image: '/assets/images/site/starfish.webp/',
@@ -223,16 +229,21 @@ module.exports = async function(eleventyConfig) {
   });
   // Register image shortcode
   eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
-  // Extended Markdown
-  eleventyConfig.setLibrary('md', markdownLib);
+  // Enable the markdown-it plugin with options from above
+  eleventyConfig.setLibrary(`md`, markdownItOptions);
+  // Extend markdown-it via plugins; see https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
+  // Most tutorials are written for Eleventy 1.0.0 and use the wrong syntax for v2.0.0 and later
+  eleventyConfig.amendLibrary(`md`, markdownLib);
   // Cache busting
   eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
     globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`
   });
   // Extended Markdown
   eleventyConfig.addPlugin(govukEleventyPlugin, {
-    headingPermalinks: true,
-  })
+    markdown: {
+      headingPermalinks: true,
+    }
+  });
   // HTML minification
   eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
   // JS  & CSS bundling, tree-shaking, & minification
@@ -251,9 +262,9 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addWatchTarget(`./src/assets/css/`);
   eleventyConfig.addWatchTarget(`./src/assets/js/`);
   // add `date` filter
-  eleventyConfig.addFilter('date', function (date, dateFormat) {
+  eleventyConfig.addFilter(`date`, function (date, dateFormat) {
     return format(date, dateFormat)
-  })
+  });
   // Sorted collection
   // See https://www.11ty.dev/docs/collections/#advanced-custom-filtering-and-sorting
   eleventyConfig.addCollection(`recipesAscending`, function (collectionApi) {
@@ -413,7 +424,7 @@ eleventyConfig.addPassthroughCopy({
 // Set custom directory for input; otherwise use defaults
   return {
     // Site URL
-    url: 'https://tinypaperumbrella.com',
+    url: siteURL,
     // When a passthrough file is modified, rebuild the pages:
     passthroughFileCopy: true,
     // Copy any file in these formats:
