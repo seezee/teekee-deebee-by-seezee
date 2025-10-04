@@ -1,6 +1,6 @@
 {
   "name": "teekee-deebee-by-seezee",
-  "version": "2.0.55",
+  "version": "2.0.56",
   "description": "A collection of exotic and tropical drink recipes",
   "main": "index.js",
   "scripts": {
@@ -25,9 +25,9 @@
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@sherby/eleventy-plugin-files-minifier": "^1.1.1",
     "@x-govuk/govuk-eleventy-plugin": "^8.0.4",
-    "browserslist": "^4.26.2",
+    "browserslist": "^4.26.3",
     "date-fns": "^4.1.0",
-    "dotenv": "^17.2.2",
+    "dotenv": "^17.2.3",
     "elasticlunr": "^0.9.5",
     "eleventy-auto-cache-buster": "^0.8.1",
     "eleventy-plugin-footnotes": "^0.11.0",

@@ -346,7 +346,7 @@ Because traditions vary among producers, English-style rums may be pot still (ty
         <td scope="col"></td>
       </tr>
       <tr>
-        <td scope="col" rowspan="9">Jamaica</td>
+        <td scope="col" rowspan="10">Jamaica</td>
         <td scope="col">Hampden</td>
         <td scope="col"></td>
       </tr>
@@ -364,6 +364,10 @@ Because traditions vary among producers, English-style rums may be pot still (ty
       <tr>
         <td scope="col">Old Pascas</td>
         <td scope="col"></td>
+      </tr>
+      <tr>
+        <td scope="col">Plantaray</td>
+        <td scope="col">Xaymaca</td>
       </tr>
       <tr>
         <td scope="col">The Rum Company</td>
