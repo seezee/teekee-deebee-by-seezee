@@ -298,7 +298,7 @@ Because traditions vary among producers, English-style rums may be pot still (ty
       <tr>
         <th scope="col">Country</th>
         <th scope="col">Producers</th>
-        <th scope="col">Brands</th>
+        <th scope="col">Brands or bottlings</th>
       </tr>
       <tr>
         <td scope="col" rowspan="2">Antigua</td>
@@ -366,8 +366,8 @@ Because traditions vary among producers, English-style rums may be pot still (ty
         <td scope="col"></td>
       </tr>
       <tr>
-        <td scope="col">Plantaray</td>
-        <td scope="col">Xaymaca</td>
+        <td scope="col">Maison Ferrand</td>
+        <td scope="col">Plantaray Xaymaca</td>
       </tr>
       <tr>
         <td scope="col">The Rum Company</td>
