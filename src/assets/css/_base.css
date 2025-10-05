@@ -671,22 +671,41 @@ a:visited {
   }
 }
 
+a[href^='http://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link):not(:focus-visible)::before,
+a[href^='https://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link):not(:focus-visible)::before {
+  position: absolute;
+  display: inline-block;
+  inline-size: 1px;
+  block-size: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+
+  white-space: nowrap;
+
+  border-width: 0;
+}
+
 a[href^='http://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link)::before,
 a[href^='https://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link)::before {
   content: '[Opens in new window] ';
 }
 
-a[href^='http://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):after,
-a[href^='https://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):after {
+a[href^='http://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link),
+a[href^='https://']:not([href*='tinypaperumbrella.com']):not([href*='localhost']):not(.social-link) {
+
+  &::after {
   display: inline-block;
   margin-inline-start: .5ch;
   inline-size: 1ch;
   block-size: 1lh;
 
   content: '';
-  background: var(--tiki-icon-external) no-repeat;
+  background: var(--tiki-external-icon) no-repeat;
   vertical-align: middle;
   line-height: 1;
+  }
 }
 
 /* code, math */
