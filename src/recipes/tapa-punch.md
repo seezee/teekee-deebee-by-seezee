@@ -1,6 +1,6 @@
 ---
 layout: _main.njk
-title: Chimp in Orbit
+title: Tapa Punch
 tags: recipes
 type:
   - tropical
@@ -10,18 +10,17 @@ characteristic:
   - stirred
 base: rum base
 ingredient:
-  - grenadine
-  - sweet vermouth
-  - Italian vermouth
-  - orange juice
+  - lime juice
   - lemon juice
-  - creme de cacao
-  - curacao
-  - blended aged rum (3) (Puerto Rico)
+  - 1:1 simple syrup
+  - brandy, peach-flavored
+  - column still lightly aged rum
+  - black pot still rum
 garnish:
-  - plastic monkey
+  - maraschino cherry
   - pineapple wedge
   - edible orchid
+  - cocktail umbrella
 glass: tall (26-ounce) tiki mug
 origin: Royal Kona Resort beverage director Jeff Isbister found this recipe in a sticky wad of papers in 2008 while cleaning out a cabinet at the Royal Kona bar. He concluded that it, and many of the other recipes he found, was a Hilton standard drink recipe brought to the bar by Harry K. Yee from his stint at the Hawaiian Village.
 source: Beachbum Berry's Sippin' Safari
@@ -34,7 +33,7 @@ excerpt: Royal Kona Resort beverage director Jeff Isbister found this recipe in 
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-Jeff Berry thinks this stripped-down version of Trader Vic's tortuga was created around 1961, the year NASA launched Ham the Chimp into space as part of Project Mercury.
+Harry Yee claims this was the first drink to feature a paper parasol, a now ubiquitous garnish on tropical and tiki drinks.
 
 Origin
   : {{ origin }}
@@ -43,28 +42,34 @@ Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from an unpublished recipe found by Royal Kona Resort beverage director Jeff Isbister
 
 Glassware
-  : Tall (26-ounce) tiki mug
+  : Short (14-ounce) tiki mug
 
 ## Ingredients
 
-- 1/4 ounce [grenadine](/mixes/grenadine/)
-- 3 ounces orange juice
-- 3 ounces fresh lemon juice
-- 1/2 ounce orange curaçao
-- 1/2 ounce crème de cacao
-- 1 ounce sweet (Italian) vermouth
-- 1&frac12; ounces [blended aged rum](/rums/05-rum-blended-aged/) (Puerto Rico)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
+- 3/4 ounce fresh lime juice
+- 1 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
+- 2 ounces fresh lemon juice
+- 1/2 ounce peach-flavoured brandy
+- 1 ounce [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/)
+- 3 ounces [black pot still rum](/rums/10-rum-black-pot-still/)
 
 Garnish
-  : Plastic monkey
-  : Pineapple wedge
-  : Edible orchid
+  : <span data-pagefind-filter="Garnish">Luxardo maraschino cherry</span>
+  : <span data-pagefind-filter="Garnish">Pineapple wedge</span>
+  : <span data-pagefind-filter="Garnish">Edible orchid</span>
+  : <span data-pagefind-filter="Garnish">Cocktail umbrella</span>
 
 ## Instructions
 
-1. Fill a tall (26-ounce) tiki mug with crushed ice
+1. Fill a short (14-ounce) tiki mug with crushed ice
 2. Add all ingredients and stir to chill, about 15 to 20 seconds
-3. Garnish and serve with a long straw
+3. Add more crushed ice to fill to the top
+4. Spear the fruit with the cocktail umbrella and nestle it, along with the orchid, in the ice
+
+<tiki-callout type="note">
+
+  The original recipe called for sweet & sour, an ingredient rightly consigned to the dustbin.
+</tiki-callout>
 
 <div
   class="sr-only"
@@ -75,20 +80,19 @@ Garnish
   data-char[1]="Stirred"
   data-base[0]="Rum/Cane spirits"
   data-glassware[0]="Tiki mug",
-  data-glassware[1]="Tiki mug, tall (28-ounce)",
-  data-garnish[0]="Monkey, plastic",
-  data-garnish[1]="Pineapple wedge",
-  data-garnish[2]="Orchid, edible",
-  data-ingredient[0]="Grenadine",
-  data-ingredient[1]="Vermouth, sweet",
-  data-ingredient[2]="Vermouth, Italian",
-  data-ingredient[3]="Orange juice",
-  data-ingredient[4]="Lemon juice",
-  data-ingredient[5]="Crème de Cacao",
-  data-ingredient[6]="Curaçao, dry",
-  data-ingredient[7]="Curaçao, orange",
-  data-ingredient[8]="Blended aged rum [3]",
-  data-ingredient[9]="Blended aged rum (Puerto Rico) [3]",
+  data-glassware[1]="Tiki mug, short (14-ounce)",
+  data-garnish[0]="Maraschino cherry",
+  data-garnish[1]="Luxardo maraschino cherry",
+  data-garnish[2]="Pineapple wedge",
+  data-garnish[3]="Edible orchid",
+  data-garnish[4]="Cocktail umbrella",
+  data-ingredient[0]="Lime juice",
+  data-ingredient[1]="Lemon juice",
+  data-ingredient[2]="1:1 simple syrup",
+  data-ingredient[3]="Brandy, flavored",
+  data-ingredient[4]="Brandy, peach-flavored",
+  data-ingredient[5]="Column still lightly aged rum",
+  data-ingredient[6]="Black pot still rum",
   data-origin[0]="Hawaiian Village Hotel, Waikiki"
   data-origin[1]="Kona Hilton, Hawaii"
   data-origin[2]="Harry K. Yee"
@@ -105,6 +109,8 @@ Garnish
     Garnish[data-garnish[0]],
     Garnish[data-garnish[1]],
     Garnish[data-garnish[2]],
+    Garnish[data-garnish[3]],
+    Garnish[data-garnish[4]],
     Ingredient[data-ingredient[0]],
     Ingredient[data-ingredient[1]],
     Ingredient[data-ingredient[2]],
@@ -112,21 +118,15 @@ Garnish
     Ingredient[data-ingredient[4]],
     Ingredient[data-ingredient[5]],
     Ingredient[data-ingredient[6]],
-    Ingredient[data-ingredient[7]],
-    Ingredient[data-ingredient[8]],
-    Ingredient[data-ingredient[9]],
-    Juice[data-ingredient[3]],
-    Juice[data-ingredient[4]],
-    Syrup[data-ingredient[0]],
+    Juice[data-ingredient[0]],
+    Juice[data-ingredient[1]],
+    Syrup[data-ingredient[2]],
+    Pantry[data-garnish[0]],
     Pantry[data-garnish[1]],
     Pantry[data-garnish[2]],
-    Liquor[data-ingredient[1]],
-    Liquor[data-ingredient[2]],
+    Pantry[data-garnish[3]],
     Liquor[data-ingredient[5]],
     Liquor[data-ingredient[6]],
-    Liquor[data-ingredient[7]],
-    Liquor[data-ingredient[8]],
-    Liquor[data-ingredient[9]],
     Origin[data-origin[0]],
     Origin[data-origin[1]],
     Origin[data-origin[2]],
@@ -135,4 +135,4 @@ Garnish
 >
 </div>
 
-<div class="keywords" aria-hidden>tropical, sour, built, stirred, curacao, 1960</div>
+<div class="keywords" aria-hidden>tropical, sour, built, stirred, 1960</div>

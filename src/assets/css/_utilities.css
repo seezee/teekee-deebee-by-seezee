@@ -99,5 +99,4 @@ table .frac {
   &::after {
     content: close-quote;
   }
-
 }

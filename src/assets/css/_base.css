@@ -442,6 +442,15 @@ select {
 
   }
 
+  &[type="checkbox"] {
+    display: inline-block;
+    vertical-align: middle;
+
+    + label {
+      display: inline-block;
+    }
+  }
+
   font-family: var(--tiki-font-mono);
   line-height: 1.1;
 
