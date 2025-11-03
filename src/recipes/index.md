@@ -17,7 +17,7 @@ eleventyExcludeFromCollections: true
 
     For recipes previously published in <cite>Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</cite>, we reprint the Smuggler's Cove adaptation, regardless of their cited source. However, we have made minor changes to some proportions. Most notably, we changed the ratio of grapefruit juice to cinnamon syrup from 1:1 to 2:1 in recipes that would have originally called for Donn's Mix; this matches the ratio Don the Beachcomber would have deployed.
 
-    We have adapted all other recipes to use the Smuggler's Cove rum taxonomy. For example, instead of calling for white Puerto Rican rum, we specify [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" class="bigger" label="(2)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>.
+    We have adapted all other recipes to use the Smuggler's Cove rum taxonomy. For example, instead of calling for white Puerto Rican rum, we specify [column still lightly aged rum](/rums/07-rum-column-still-lightly-aged/).
 
     You are free to change portions and proportions to suit your own stamina and taste.
 
