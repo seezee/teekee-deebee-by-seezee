@@ -23,6 +23,7 @@ excerpt: Index of pot still lightly aged rums.
 * Plantaray Xaymaca (Jamaica)
 * Pritchard&rsquo;s Fine (Tenn., USA)
 * Privateer Amber (Mass., USA)
+* Pusser’s Blue Label Original Admiralty Rum (British Virgin Islands)
 * Ragged Mountain Rum (Mass., USA)
 * Richland Georgia Rum (Georgia, USA)
 * Rum Society #65 (regional blend)

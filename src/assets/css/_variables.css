@@ -76,6 +76,8 @@ initial-value: 0.1;
   --tiki-color-textPrimary: var(--tiki-color-primary-900);
   --tiki-color-textSecondary: var(--tiki-color-secondary-50);
 
+  --tiki-color-accent: var(--tiki-color-secondary-600);
+
   --tiki-color-hoverPrimary: var(--tiki-color-primary-700);
   --tiki-color-hoverSecondary: var(--tiki-color-primary-200);
 
