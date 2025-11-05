@@ -61,7 +61,8 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
   <caption>Imperial units (fluid volume)</caption>
   <tbody>
     <tr>
-      <th></th>
+      <th id="imperial-units-header"></th>
+      <th>ounce</th>
       <th>jack</th>
       <th>gill / noggin</th>
       <th>pint</th>
@@ -70,7 +71,18 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
       <th>gallon</th>
     </tr>
     <tr>
+      <th>1 ounce =</th>
+      <td>1</td>
+      <td><span class="frac"><sup>2</sup>&frasl;<sub>5</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>5</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>20</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>40</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>80</sub></span></td>
+      <td><span class="frac"><sup>1</sup>&frasl;<sub>160</sub></span></td>
+    </tr>
+    <tr>
       <th>1 jack =</th>
+      <td>2&frac12;</td>
       <td>1</td>
       <td>&frac12;</td>
       <td>&frac18;</td>
@@ -80,6 +92,7 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
     </tr>
     <tr>
       <th>1 gill or noggin =</th>
+      <td>5</td>
       <td>2</td>
       <td>1</td>
       <td>&frac14;</td>
@@ -89,6 +102,7 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
     </tr>
     <tr>
       <th>1 pint =</th>
+      <td>20</td>
       <td>8</td>
       <td>4</td>
       <td>1</td>
@@ -97,8 +111,8 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
       <td>&frac18;</td>
     </tr>
     <tr>
-      <th>1 quart =
-      </th>
+      <th>1 quart =</th>
+      <td>40</td>
       <td>16</td>
       <td>8</td>
       <td>2</td>
@@ -108,6 +122,7 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
     </tr>
     <tr>
       <th>1 pottle =</th>
+      <td>80</td>
       <td>32</td>
       <td>16</td>
       <td>4</td>
@@ -117,6 +132,7 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
     </tr>
       <tr>
       <th class="no-border">1 gallon =</th>
+      <td>160</td>
       <td>64</td>
       <td>32</td>
       <td>8</td>
@@ -127,6 +143,23 @@ Conversions are approximate, i.e., close enough for mixology. For instance, 1 U.
     </tr>
   </tbody>
 </table>
+
+### Imperial to U.S. Customary Units (Fluid Volume)
+
+Precision is to two (2) decimal places.
+
+  | Imperial   | U.S.&nbsp;ounce | U.S.&nbsp;pint | U.S.&nbsp;quart | U.S.&nbsp;gallon |
+  | ---------- | --------------  | -------------- | --------------- | ----------- |
+  | 1 ounce    | .96             |                |      |          |
+  | 1.04 ounce | 1.00            |                |      |          |
+  | 1 pint     | 19.22           | 1.20           |      |          |
+  | .83 pint   | 16.00           | 1.00           |      |          |
+  | 1 quart    | 38.43           | 2.40           | 1.20 |          |
+  | .83 quart  | 32.00           | 2.00           | 1.00 |          |
+  | .5 gallon  | 76.86           | 4.80           | 2.40 |          |
+  | .42 gallon | 64.00           | 4.00           | 2.00 | .50      |
+  | 1 gallon   | 153.72          | 9.61           | 4.80 | 1.20     |
+  | .83 gallon | 128.00          | 8.00           | 4.00 | 1.00     |
 
 ### Metric to Imperial Units (Fluid Volume)
 
