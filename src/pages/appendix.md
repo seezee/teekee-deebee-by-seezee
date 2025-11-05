@@ -286,7 +286,7 @@ Precision is to two (2) decimal places.
         <td>18</td>
         <td>36</td>
         <td>54</td>
-        <td rowspan="2" scope="row" class="alignleft">imperial gallons</td>
+        <td rowspan="2" scope="row" class="alignleft">Imperial gallons</td>
         <td rowspan="2">1824 C.E.</td></tr>
       <tr>
         <td>4.6 L</td>
