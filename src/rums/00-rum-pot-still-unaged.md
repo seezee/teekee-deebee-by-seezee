@@ -11,7 +11,7 @@ excerpt: Index of pot still aged rums.
 
 <div class="index col-2">
 
-* Hamilton Jamaica Gold (Jamaica)
+* Hamilton Jamaica Gold (Jamaica)[^1]
 * Owney&rsquo;s New York Rum (New York, USA)
 * Pritchard&rsquo;s Crystal (Tenn.)
 * Privateer Silver Reserve (Mass., USA)
@@ -22,3 +22,5 @@ excerpt: Index of pot still aged rums.
 * Wray &amp; Nephew (overproof) (Jamaica)
 
 </div>
+
+[^1]: [See note](/rums/10-rum-black-pot-still/#note-3) on Hamilton Jamaica Black.
