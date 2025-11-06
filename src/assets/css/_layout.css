@@ -14,7 +14,7 @@
 * 10.  .after-icon spacer
 * 11. .recipe-index
 * 12. #starfish (footer icon)
-* 13. #imperial-units-header
+* 13. Imperial Units table
 */
 
 /* No script */
@@ -415,6 +415,10 @@ div.col-5 {
 }
 
 /* Imperial units table */
+
+#imperial-units tr:not(:first-of-type) th {
+  text-align: right;
+}
 
 #measure-volume th#imperial-units-header:nth-of-type(1) {
   min-inline-size: 14ch;

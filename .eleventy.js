@@ -2,7 +2,7 @@
 
 const browserslist                = require('browserslist');
 const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
-const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minifier');
+const eleventyPluginFilesMinifier = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                     = require('esbuild');
 const { execSync }                = require('child_process')
 const pluginRss                   = require('@11ty/eleventy-plugin-rss');

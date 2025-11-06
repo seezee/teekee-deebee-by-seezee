@@ -32,7 +32,7 @@
 .keywords,
 .govuk-visually-hidden {
 
-  &:not(:focus-visible) {
+  &:not(:focus-visible):not(:active) {
     position: absolute;
     display: inline-block;
     inline-size: 1px;
