@@ -20,7 +20,7 @@ excerpt: Index of pot still lightly aged rums.
 * Maggie&rsquo;s Farm Queen&rsquo;s Share Rum (overproof) (Penn., USA)
 * Montoya Oro (Colo., USA)
 * Montoya Platino (Colo., USA)
-* Plantaray Xaymaca (Jamaica)
+* Planteray Xaymaca (Jamaica)
 * Pritchard&rsquo;s Fine (Tenn., USA)
 * Privateer Amber (Mass., USA)
 * Pusser’s Blue Label Original Admiralty Rum (British Virgin Islands)

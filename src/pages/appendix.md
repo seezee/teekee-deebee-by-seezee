@@ -400,7 +400,7 @@ Because traditions vary among producers, English-style rums may be pot still (ty
       </tr>
       <tr>
         <td scope="col">Maison Ferrand</td>
-        <td scope="col">Plantaray Xaymaca</td>
+        <td scope="col">Planteray Xaymaca</td>
       </tr>
       <tr>
         <td scope="col">The Rum Company</td>

@@ -34,6 +34,8 @@ image: /assets/images/citrus-squeezer.jpg
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
+The original 1944 mai tai, not to be confused with the inferior Royal Hawaiian and similar&ndash;style pineapple mai tais that appeared in the 1950s.
+
 Origin
   : {{ origin }}
 
@@ -78,8 +80,11 @@ Garnish
 
 <tiki-callout type="tip">
 
-  The closest rum today to the original 17-year-old Wray & Nephew used by Trader Vic is Denizen Merchant's Reserve. Smuggler's Cove uses this rum in their mai tais exclusively.
+  Martin Cate believes that today’s closest rum to the original 17-year-old Wray & Nephew used by Trader Vic is Denizen Merchant's Reserve. Smuggler's Cove uses this rum in their mai tais exclusively.
 
+  Matt Pietrek at Rum Wonk [disagrees](https://www.rumwonk.com/p/mai-tai-rums-myths-and-mistakes){target=_blank rel="external noopener} and suggests using equal parts Smith & Cross plus Planteray Xaymaca.
+
+  We have tried both and find them equally delicious.
 </tiki-callout>
 
 <tiki-callout type="tip">
