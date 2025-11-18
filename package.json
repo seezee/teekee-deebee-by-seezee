@@ -29,7 +29,7 @@
     "date-fns": "^4.1.0",
     "dotenv": "^17.2.3",
     "elasticlunr": "^0.9.5",
-    "eleventy-auto-cache-buster": "^0.8.2",
+    "eleventy-auto-cache-buster": "^0.8.3",
     "eleventy-plugin-footnotes": "^0.11.0",
     "eleventy-plugin-git-commit-date": "^0.1.3",
     "esbuild": "^0.25.12",
