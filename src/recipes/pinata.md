@@ -48,7 +48,7 @@ Glassware
 * 1/4 to 1/2 ounce[^1] [rich Demerara syrup](/mixes/rich-demerara-syrup)
 * 1 ounce Domaine de Canton or other ginger liqueur
 * 1/2 ounce allspice (pimento) dram
-* 1 ounce [black blended rum](/11-rum-black-blended/)<icon-l space="1em" label="(5)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
+* 1 ounce [black blended rum](/rums/11-rum-black-blended/)<icon-l space="1em" label="(5)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-5.svg#circle-5"></use></svg></span></icon-l>
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 
 [^1]: The amount required will depend on the brand of ginger liqueur employed. Adjust as necessary.

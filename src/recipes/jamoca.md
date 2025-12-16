@@ -36,7 +36,7 @@ Glassware
 
 * 1 ounce chilled coffee
 * 3/4 ounce fresh lime juice
-* 1 ounce Fee Brothers Coffee Cordial syrup or [homemade coffee syrup](/src/mixes/coffee-syrup/)
+* 1 ounce Fee Brothers Coffee Cordial syrup or [homemade coffee syrup](/mixes/coffee-syrup/)
 * 1 ounce [blended lightly aged rum](/rums/04-rum-blended-lightly-aged/) (Jamaica)<icon-l space="1em" label="(2)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-2.svg#circle-2"></use></svg></span></icon-l>
 * 1 ounce [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" label="(3)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l>
 

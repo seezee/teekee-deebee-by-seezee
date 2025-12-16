@@ -48,8 +48,8 @@ Glassware
 * 1/2 ounce fresh lime juice
 * 1/2 ounce falernum
 * 1/2 ounce 1:1 simple syrup ([see note](/mixes/2-1-simple-syrup/#fn:1) on 2:1 simple syrup)
-* 1/4 teaspoon [grenadine](/src/mixes/grenadine/)
-* 1 ounce [pot still unaged rum](/src/rums/02-rum-pot-still-aged/)
+* 1/4 teaspoon [grenadine](/mixes/grenadine/)
+* 1 ounce [pot still unaged rum](/rums/02-rum-pot-still-aged/)
 * 1 ounce [column still aged rum](/rums/08-rum-column-still-aged/)<icon-l space="1em" label="(4)" class="bigger"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-4.svg#circle-4"></use></svg></span></icon-l>
 * 6 drops (&frac18; teaspoon) Pernod or Herbsaint
 * 3 drops pure almond extract
