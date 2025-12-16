@@ -52,7 +52,7 @@ module.exports = async function(eleventyConfig) {
   const {EleventyRenderPlugin} = await import('@11ty/eleventy');
 
   // Enable the markdown-it plugin with options from above
-  eleventyConfig.setLibrary(`md`, markdownItOptions);
+  eleventyConfig.setLibrary(`md`, markdownIt(markdownItOptions));
   // Extend markdown-it via plugins; see https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
   // Most tutorials are written for Eleventy 1.0.0 and use the wrong syntax for v2.0.0 and later
   eleventyConfig.amendLibrary(`md`, markdownLib);
@@ -229,11 +229,6 @@ module.exports = async function(eleventyConfig) {
   });
   // Register image shortcode
   eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
-  // Enable the markdown-it plugin with options from above
-  eleventyConfig.setLibrary(`md`, markdownItOptions);
-  // Extend markdown-it via plugins; see https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
-  // Most tutorials are written for Eleventy 1.0.0 and use the wrong syntax for v2.0.0 and later
-  eleventyConfig.amendLibrary(`md`, markdownLib);
   // Cache busting
   eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
     globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`

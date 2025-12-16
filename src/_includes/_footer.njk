@@ -76,6 +76,14 @@
       }
     );">
   </script>
+  <script type="module">
+    await import(`/pagefind/pagefind-highlight.js`);
+    new PagefindHighlight({
+      highlightParam: `highlight`,
+      markContext: `[data-pagefind-body]`,
+      addStyles: false
+      });
+  </script>
   {% set js %}
     <!-- Inline as many scripts as you like -->
     <!-- Capture the JS content as a Nunjucks variable -->

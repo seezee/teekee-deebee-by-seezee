@@ -45,7 +45,7 @@ Source
 Glassware
   : <span data-pagefind-filter="Glassware">Zombie</span>
 
-[^1]: See also [Zombie N<sup>o.</sup> 1](/recipes/zombie-1-donns-1934/), [Zombie N<sup>o.</sup> 3](/recipes/zombie-3-donns-1950.md), [Zombie N<sup>o.</sup> 4](/recipes/zombie-4-donns-1956.md), and [Zombie N<sup>o.</sup> 5](/recipes/zombie-5-jeff-berry-hamiltons/).
+[^1]: See also [Zombie N<sup>o.</sup> 1](/recipes/zombie-1-donns-1934/), [Zombie N<sup>o.</sup> 3](/recipes/zombie-3-donns-1950/), [Zombie N<sup>o.</sup> 4](/recipes/zombie-4-donns-1956/), and [Zombie N<sup>o.</sup> 5](/recipes/zombie-5-jeff-berry-hamiltons/).
 
 ## Ingredients
 

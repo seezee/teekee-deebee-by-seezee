@@ -47,7 +47,7 @@ excerpt: The notorious Don the Beachcomber weapon of mass destruction, revised i
   Glassware
     : <span data-pagefind-filter="Glassware">Zombie</span>
 
-[^1]: See also [Zombie N<sup>o.</sup> 1](/recipes/zombie-1-donns-1934.md), [Zombie N<sup>o.</sup> 2](/recipes/zombie-2-trader-vics-1947/), [Zombie N<sup>o.</sup> 4](/recipes/zombie-4-donns-1956.md), and [Zombie N<sup>o.</sup> 5](/recipes/zombie-5-jeff-berry-hamiltons/).
+[^1]: See also [Zombie N<sup>o.</sup> 1](/recipes/zombie-1-donns-1934/), [Zombie N<sup>o.</sup> 2](/recipes/zombie-2-trader-vics-1947/), [Zombie N<sup>o.</sup> 4](/recipes/zombie-4-donns-1956/), and [Zombie N<sup>o.</sup> 5](/recipes/zombie-5-jeff-berry-hamiltons/).
 
 ## Ingredients
 

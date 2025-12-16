@@ -46,15 +46,15 @@
       "svg",
       "table",
       "tbody",
+      "td",
       "th",
       "thead",
-      "td",
-      "tr",
       "ThemeSwitcher",
       "tiki-callout",
       "tiki-dialog-gallery",
       "tiki-dialog-img",
       "time",
+      "tr",
       "use"
     ]
   }
