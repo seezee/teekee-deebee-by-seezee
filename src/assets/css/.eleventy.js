@@ -6,7 +6,6 @@ const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minif
 const esbuild                     = require('esbuild');
 const { execSync }                = require('child_process')
 const format                      = require('date-fns/format');
-const govukEleventyPlugin         = require('@x-govuk/govuk-eleventy-plugin');
 const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
@@ -197,10 +196,6 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
     globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`
   });
-  // Extended Markdown
-  eleventyConfig.addPlugin(govukEleventyPlugin, {
-    headingPermalinks: true,
-  })
   // HTML minification
   eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
   // JS  & CSS bundling, tree-shaking, & minification

@@ -1,7 +1,7 @@
 /**
  * 1. Footnotes
  * 2. Icons
- * 3. Miscellaneous govuk plugin styles
+ * 3. Linked heading styles
  */
 
 /* Footnotes */
@@ -17,11 +17,13 @@
   }
 }
 
-[href^='#fnref:'] {
+[href^='#fnref:'],
+.footnote-backref {
   text-decoration: none;
+  break-before:avoid;
 }
 
-.app-footnotes-list {
+.footnotes-list {
   p:not(:last-child),
   li {
     margin-block-end: var(--s1);
@@ -43,34 +45,67 @@
   margin-inline-start: .5ch;
 }
 
-/* Miscellaneous govuk plugin styles */
-.govuk-section-break { /* <hr> + footnote(s) */
-  margin-block-end: var(--s1);
+/* Permalinks */
+h2,
+h3,
+h4,
+h5,
+h6 {
+  &:has(.header-anchor) {
+    a {
+      text-decoration: none;
+
+      &:after {
+        display: inline-block;
+        inline-size: 0.8em;
+        margin-inline-start: 0.5ch;
+        vertical-align: baseline;
+        content: "#" / "";
+      }
+    }
+
+    a:not(:hover):not(:focus-visible):not(:active) {
+      &:after {
+        position: absolute;
+        inline-size: 1px;
+        block-size: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+
+        white-space: nowrap;
+
+        border-width: 0;
+      }
+    }
+  }
 }
 
-.govuk-body {
-  break-inside: avoid;
-}
-
-.govuk-link {
-  break-before:avoid;
-}
-
-.app-link--heading.govuk-link { /* Linked headings */
+.index-anchor {
   text-decoration: none;
 
-  /* Prevent layout shift on hover */
   &:after {
     display: inline-block;
-    min-inline-size: 2ch;
-
-    white-space: pre;
-
-    content: '\0020\0020'; /* double-space */
+    inline-size: 0.8em;
+    margin-inline-start: 0.5ch;
+    vertical-align: baseline;
+    content: "#" / "";
   }
 
-  &:hover:after,
-  &:focus:after {
-    content: '\0020#'; /* space + octothorpe */
+  &:not(:hover):not(:focus-visible):not(:active) {
+    &:after {
+      position: absolute;
+      inline-size: 1px;
+      block-size: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+
+      white-space: nowrap;
+
+      border-width: 0;
+    }
   }
 }

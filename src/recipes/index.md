@@ -30,109 +30,109 @@ eleventyExcludeFromCollections: true
 
   <div class="col-3">
     <dl class="recipe-index">
-      <dt id="a"><a href="#recipes-a" class="app-link--heading govuk-link"><span id="recipes-a">A</span></a></dt>
+      <dt id="a"><a href="#recipes-a" class="index-anchor"><span id="recipes-a">A</span></a></dt>
       {%- for post in collections.recipesAscendingA -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="b"><a href="#recipes-b" class="app-link--heading govuk-link"><span id="recipes-b">B</span></a></dt>
+      <dt id="b"><a href="#recipes-b" class="index-anchor"><span id="recipes-b">B</span></a></dt>
       {%- for post in collections.recipesAscendingB -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="c"><a href="#recipes-c" class="app-link--heading govuk-link"><span id="recipes-c">C</span></a></dt>
+      <dt id="c"><a href="#recipes-c" class="index-anchor"><span id="recipes-c">C</span></a></dt>
       {%- for post in collections.recipesAscendingC -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="d"><a href="#recipes-d" class="app-link--heading govuk-link"><span id="recipes-d">D</span></a></dt>
+      <dt id="d"><a href="#recipes-d" class="index-anchor"><span id="recipes-d">D</span></a></dt>
       {%- for post in collections.recipesAscendingD -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="e"><a href="#recipes-e" class="app-link--heading govuk-link"><span id="recipes-e">E</span></a></dt>
+      <dt id="e"><a href="#recipes-e" class="index-anchor"><span id="recipes-e">E</span></a></dt>
       {%- for post in collections.recipesAscendingE -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="f"><a href="#recipes-f" class="app-link--heading govuk-link"><span id="recipes-f">F</span></a></dt>
+      <dt id="f"><a href="#recipes-f" class="index-anchor"><span id="recipes-f">F</span></a></dt>
       {%- for post in collections.recipesAscendingF -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="g"><a href="#recipes-g" class="app-link--heading govuk-link"><span id="recipes-g">G</span></a></dt>
+      <dt id="g"><a href="#recipes-g" class="index-anchor"><span id="recipes-g">G</span></a></dt>
       {%- for post in collections.recipesAscendingG -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="h"><a href="#recipes-h" class="app-link--heading govuk-link"><span id="recipes-h">H</span></a></dt>
+      <dt id="h"><a href="#recipes-h" class="index-anchor"><span id="recipes-h">H</span></a></dt>
       {%- for post in collections.recipesAscendingH -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <!-- <dt id="i"><a href="#recipes-i" class="app-link--heading govuk-link"><span id="recipes-i">I</span></a></dt>
+      <!-- <dt id="i"><a href="#recipes-i" class="index-anchor"><span id="recipes-i">I</span></a></dt>
       {%- for post in collections.recipesAscendingI -%}
         {% if not (index) %}
           <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
         {% endif %}
       {%- endfor -%} -->
-      <dt id="j"><a href="#recipes-j" class="app-link--heading govuk-link"><span id="recipes-j">J</span></a></dt>
+      <dt id="j"><a href="#recipes-j" class="index-anchor"><span id="recipes-j">J</span></a></dt>
       {%- for post in collections.recipesAscendingJ -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="k"><a href="#recipes-k" class="app-link--heading govuk-link"><span id="recipes-k">K</span></a></dt>
+      <dt id="k"><a href="#recipes-k" class="index-anchor"><span id="recipes-k">K</span></a></dt>
       {%- for post in collections.recipesAscendingK -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="l"><a href="#recipes-l" class="app-link--heading govuk-link"><span id="recipes-l">L</span></a></dt>
+      <dt id="l"><a href="#recipes-l" class="index-anchor"><span id="recipes-l">L</span></a></dt>
       {%- for post in collections.recipesAscendingL -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="m"><a href="#recipes-m" class="app-link--heading govuk-link"><span id="recipes-m">M</span></a></dt>
+      <dt id="m"><a href="#recipes-m" class="index-anchor"><span id="recipes-m">M</span></a></dt>
       {%- for post in collections.recipesAscendingM -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="n"><a href="#recipes-n" class="app-link--heading govuk-link"><span id="recipes-n">N</span></a></dt>
+      <dt id="n"><a href="#recipes-n" class="index-anchor"><span id="recipes-n">N</span></a></dt>
       {%- for post in collections.recipesAscendingN -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <!-- <dt id="o"><a href="#recipes-o" class="app-link--heading govuk-link"><span id="recipes-o">O</span></a></dt>
+      <!-- <dt id="o"><a href="#recipes-o" class="index-anchor"><span id="recipes-o">O</span></a></dt>
       {%- for post in collections.recipesAscendingO -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%} -->
-      <dt id="p"><a href="#recipes-p" class="app-link--heading govuk-link"><span id="recipes-p">P</span></a></dt>
+      <dt id="p"><a href="#recipes-p" class="index-anchor"><span id="recipes-p">P</span></a></dt>
       {%- for post in collections.recipesAscendingP -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="q"><a href="#recipes-q" class="app-link--heading govuk-link"><span id="recipes-q">Q</span></a></dt>
+      <dt id="q"><a href="#recipes-q" class="index-anchor"><span id="recipes-q">Q</span></a></dt>
       {%- for post in collections.recipesAscendingQ -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="r"><a href="#recipes-r" class="app-link--heading govuk-link"><span id="recipes-r">R</span></a></dt>
+      <dt id="r"><a href="#recipes-r" class="index-anchor"><span id="recipes-r">R</span></a></dt>
       {%- for post in collections.recipesAscendingR -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="s"><a href="#recipes-s" class="app-link--heading govuk-link"><span id="recipes-s">S</span></a></dt>
+      <dt id="s"><a href="#recipes-s" class="index-anchor"><span id="recipes-s">S</span></a></dt>
       {%- for post in collections.recipesAscendingS -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="t"><a href="#recipes-t" class="app-link--heading govuk-link"><span id="recipes-t">T</span></a></dt>
+      <dt id="t"><a href="#recipes-t" class="index-anchor"><span id="recipes-t">T</span></a></dt>
       {%- for post in collections.recipesAscendingT -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="u"><a href="#recipes-u" class="app-link--heading govuk-link"><span id="recipes-u">U</span></a></dt>
+      <dt id="u"><a href="#recipes-u" class="index-anchor"><span id="recipes-u">U</span></a></dt>
       {%- for post in collections.recipesAscendingU -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="v"><a href="#recipes-v" class="app-link--heading govuk-link"><span id="recipes-v">V</span></a></dt>
+      <dt id="v"><a href="#recipes-v" class="index-anchor"><span id="recipes-v">V</span></a></dt>
       {%- for post in collections.recipesAscendingV -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="w"><a href="#recipes-w" class="app-link--heading govuk-link"><span id="recipes-w">W</span></a></dt>
+      <dt id="w"><a href="#recipes-w" class="index-anchor"><span id="recipes-w">W</span></a></dt>
       {%- for post in collections.recipesAscendingW -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <!-- <dt id="x"><a href="#recipes-x" class="app-link--heading govuk-link"><span id="recipes-x">X</span></a></dt>
+      <!-- <dt id="x"><a href="#recipes-x" class="index-anchor"><span id="recipes-x">X</span></a></dt>
       {%- for post in collections.recipesAscendingX -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%} -->
-      <dt id="y"><a href="#recipes-y" class="app-link--heading govuk-link"><span id="recipes-y">Y</span></a></dt>
+      <dt id="y"><a href="#recipes-y" class="index-anchor"><span id="recipes-y">Y</span></a></dt>
       {%- for post in collections.recipesAscendingY -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}
-      <dt id="z"><a href="#recipes-z" class="app-link--heading govuk-link"><span id="recipes-z">Z</span></a></dt>
+      <dt id="z"><a href="#recipes-z" class="index-anchor"><span id="recipes-z">Z</span></a></dt>
       {%- for post in collections.recipesAscendingZ -%}
         <dd><a href="{{ post.url }}">{{ post.data.title }}</a></dd>
       {%- endfor -%}

@@ -4,14 +4,14 @@ const browserslist                = require('browserslist');
 const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                     = require('esbuild');
-const { execSync }                = require('child_process')
 const pluginRss                   = require('@11ty/eleventy-plugin-rss');
 const { format }                  = require('date-fns/format');
-const { govukEleventyPlugin }     = require('@x-govuk/govuk-eleventy-plugin');
 const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
-const markdownItAnchor            = require('markdown-it-anchor');
-const markdownItAttrs             = require('markdown-it-attrs');
+const mdAnchor                    = require('markdown-it-anchor');
+const mdAttrs                     = require('markdown-it-attrs');
+const mdDL                        = require('markdown-it-deflist');
+const mdFN                        = require('markdown-it-footnote');
 const { minify }                  = require('terser');
 const outdent                     = require('outdent');
 const path                        = require('path');
@@ -44,8 +44,14 @@ const markdownItOptions = {
   linkify: true
 };
 
+const mdAnchorOpts = {
+  permalink: mdAnchor.permalink.headerLink({ safariReaderFix: true }),
+  level: 2,
+};
+
 // Markdown library with options
-const markdownLib = (markdownIt) => markdownIt.use(markdownItAttrs).use(markdownItAnchor);
+const markdownLib = (mdLib) =>
+  mdLib.use(mdAttrs).use(mdAnchor, mdAnchorOpts).use(mdDL).use(mdFN);
 
 module.exports = async function(eleventyConfig) {
 
@@ -232,12 +238,6 @@ module.exports = async function(eleventyConfig) {
   // Cache busting
   eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
     globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`
-  });
-  // Extended Markdown
-  eleventyConfig.addPlugin(govukEleventyPlugin, {
-    markdown: {
-      headingPermalinks: true,
-    }
   });
   // HTML minification
   eleventyConfig.addPlugin(eleventyPluginFilesMinifier);

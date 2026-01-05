@@ -142,6 +142,7 @@ h1, h2, h3, h4, h5, h6 {
   font-variant-numeric: lining-nums;
   line-height: 1.1;
   text-wrap: balance;
+  break-after: avoid;
 }
 
 h1 {
@@ -332,7 +333,7 @@ details {
 
 summary {
   display: inline-flex;
-  align-items: center safe;
+  align-items: safe center;
   padding: var(--s0) var(--s1);
 
   font-family: var(--tiki-font-sans);
@@ -652,7 +653,7 @@ icon-l {
   }
 
   &.bigger {
-    align-items: center safe;
+    align-items: safe center;
 
     & .icon {
       height: 1.3459cap; /* 1em/20px for default font; YMMV */
