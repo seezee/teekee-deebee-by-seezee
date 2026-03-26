@@ -49,7 +49,7 @@ excerpt: Unlike the bulk of classic tiki drinks, which were invented by white me
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron

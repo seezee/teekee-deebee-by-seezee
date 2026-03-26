@@ -37,7 +37,7 @@ image: /assets/images/citrus-squeezer.jpg
 The original 1944 mai tai, not to be confused with the inferior Royal Hawaiian and similar&ndash;style pineapple mai tais that appeared in the 1950s.
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron

@@ -38,7 +38,7 @@ excerpt: This potent drink was a favorite of  Frank Sinatra, Richard Nixon, and 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron

@@ -37,8 +37,8 @@
       <title><![CDATA[{{ post.data.title }}]]></title>
       <link>{{ absolutePostUrl }}</link>
       <description><![CDATA[{{ post.data.excerpt }}]]></description>
-      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
-      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
+      <pubDate>{{ post.date | dateToRfc3339 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc3339 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>
@@ -49,8 +49,8 @@
       <title><![CDATA[{{ post.data.title }}]]></title>
       <link>{{ absolutePostUrl }}</link>
       <description><![CDATA[{{ post.data.excerpt }}]]></description>
-      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
-      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
+      <pubDate>{{ post.date | dateToRfc3339 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc3339 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>
@@ -61,8 +61,8 @@
       <title><![CDATA[{{ post.data.title }}]]></title>
       <link>{{ absolutePostUrl }}</link>
       <description><![CDATA[{{ post.data.excerpt }}]]></description>
-      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
-      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
+      <pubDate>{{ post.date | dateToRfc3339 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc3339 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>
@@ -73,8 +73,8 @@
       <title><![CDATA[{{ post.data.title }}]]></title>
       <link>{{ absolutePostUrl }}</link>
       <description><![CDATA[{{ post.data.excerpt }}]]></description>
-      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
-      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc822 }}</lastBuildDate>
+      <pubDate>{{ post.date | dateToRfc3339 }}</pubDate>
+      <lastBuildDate>{{ post.inputPath | getGitCommitDateFromPath | default(post.date) | dateToRfc3339 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>

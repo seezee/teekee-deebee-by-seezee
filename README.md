@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 2.0.76
+* Version: 2.0.77
 * License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 * License URI: <https://www.gnu.org/licenses/gpl-3.0.html>
 * Tags: recipes, tiki, rum, cocktails

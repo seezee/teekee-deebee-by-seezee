@@ -47,7 +47,7 @@ excerpt: One of Trader Vic's most famous drinks, second only to the mai tai.
 <!-- markdownlint-enable MD028 -->
 
   Origin
-    : {{ origin }}
+    : {{ origin | safe }}
 
   Source
     : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron

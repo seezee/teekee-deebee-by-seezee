@@ -41,7 +41,7 @@ excerpt: Trader Vic's third most famous cocktail, after the mai tai and the fog 
 > —&NoBreak;&thinsp;&NoBreak;attributed to Trader Vic by Martin Cate in <cite>Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</cite>
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron, adapted by Steve Crane in 1958

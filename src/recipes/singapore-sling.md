@@ -46,7 +46,7 @@ excerpt: The origin of this famous drink is disputed. It may have been invented 
 > —&NoBreak;&thinsp;&NoBreak;David Embury, <cite>The Fine Art of Mixing Drinks</cite> (1948)
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

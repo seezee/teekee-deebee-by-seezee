@@ -1,25 +1,25 @@
 `use strict`;
 
-const browserslist                = require('browserslist');
-const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
-const eleventyPluginFilesMinifier = require('@codestitchofficial/eleventy-plugin-minify');
-const esbuild                     = require('esbuild');
-const pluginRss                   = require('@11ty/eleventy-plugin-rss');
-const { format }                  = require('date-fns/format');
-const Image                       = require('@11ty/eleventy-img');
-const markdownIt                  = require('markdown-it');
-const mdAnchor                    = require('markdown-it-anchor');
-const mdAttrs                     = require('markdown-it-attrs');
-const mdDL                        = require('markdown-it-deflist');
-const mdFN                        = require('markdown-it-footnote');
-const { minify }                  = require('terser');
-const outdent                     = require('outdent');
-const path                        = require('path');
-const pluginSEO                   = require('eleventy-plugin-seo');
-const pluginGitCommitDate         = require('eleventy-plugin-git-commit-date');
+import browserslist                from 'browserslist';
+import eleventyAutoCacheBuster     from 'eleventy-auto-cache-buster';
+import eleventyPluginFilesMinifier from '@codestitchofficial/eleventy-plugin-minify';
+import esbuild                     from 'esbuild';
+import { format }                  from 'date-fns/format';
+import Image                       from '@11ty/eleventy-img';
+import markdownIt                  from 'markdown-it';
+import mdAnchor                    from 'markdown-it-anchor';
+import mdAttrs                     from 'markdown-it-attrs';
+import mdDL                        from 'markdown-it-deflist';
+import mdFN                        from 'markdown-it-footnote';
+import { minify }                  from 'terser';
+import outdent                     from 'outdent';
+import path                        from 'path';
+import pluginRss                   from '@11ty/eleventy-plugin-rss';
+import pluginSEO                   from 'eleventy-plugin-seo';
+import pluginGitCommitDate         from 'eleventy-plugin-git-commit-date';
 // Next 2 constants for JS bundling browser targets
-const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
-const target                      = resolveToEsbuildTarget(browserslist(
+import {resolveToEsbuildTarget}    from 'esbuild-plugin-browserslist';
+const target = resolveToEsbuildTarget(browserslist(
     'production' [
       '>0.2%',
       'Firefox ESR',
@@ -53,7 +53,7 @@ const mdAnchorOpts = {
 const markdownLib = (mdLib) =>
   mdLib.use(mdAttrs).use(mdAnchor, mdAnchorOpts).use(mdDL).use(mdFN);
 
-module.exports = async function(eleventyConfig) {
+export default async function(eleventyConfig) {
 
   const {EleventyRenderPlugin} = await import('@11ty/eleventy');
 
@@ -182,7 +182,7 @@ module.exports = async function(eleventyConfig) {
     metadata: {
       language: `en-US`,
       title: `Tiny Paper Umbrella`,
-      subtitle: `A collections of tropical and exotic mixed drink recipes, with a sprinkling of history`,
+      subtitle: `A collection of tropical and exotic mixed drink recipes, with a sprinkling of history`,
       base: siteURL + `/`,
       author: {
         name: `Chris J. Zähller`
@@ -190,8 +190,6 @@ module.exports = async function(eleventyConfig) {
       }
     }
   });
-  // Date formatting
-  eleventyConfig.addFilter(`dateToRfc822`, pluginRss.dateToRfc822);
   // Get the last modified date of a file using GIT commit date (used for sitemap.xml)
   eleventyConfig.addPlugin(pluginGitCommitDate);
   // SEO
