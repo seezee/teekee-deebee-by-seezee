@@ -32,7 +32,7 @@ excerpt: Based on Don the Beachcomber's Missionary's Downfall; Trader Vic's Bart
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1972) by  Victor Jules Bergeron

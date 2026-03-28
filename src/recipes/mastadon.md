@@ -38,7 +38,7 @@ excerpt: A drink for two created by Alex Smith for Smuggler's Cove.
 This drink serves two people (or one very thirsty person of either great fortitude or great foolishness).
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -31,7 +31,7 @@ excerpt: Created as a photo prop for the cover shoot of Smuggler's Cove&colon; E
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

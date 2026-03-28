@@ -38,7 +38,7 @@ excerpt: A Smuggler's Cove original based on Jamaica's traditional Christmas sor
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

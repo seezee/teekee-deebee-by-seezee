@@ -43,7 +43,7 @@ excerpt: Created by Martin Cate. Not to be confused with the 1970s negroni riff 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

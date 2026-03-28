@@ -29,7 +29,7 @@ excerpt: The popular Jamaican rum & grapefruit soda refresher.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

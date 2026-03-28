@@ -32,7 +32,7 @@ excerpt: Created by Martin Cate. Kingston is the Jamaican capital city; palaka i
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

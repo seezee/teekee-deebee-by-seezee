@@ -32,7 +32,7 @@ excerpt: A mid-century spin on the Clover Club from Charles H. Baker.
 > — Charles H. Baker
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1951) by Charles H. Baker

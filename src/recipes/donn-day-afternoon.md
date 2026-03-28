@@ -35,7 +35,7 @@ excerpt: Created by Martin Cate. Donn Beach (born Ernest Raymond Gantt) was bett
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

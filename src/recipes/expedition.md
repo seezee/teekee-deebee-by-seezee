@@ -33,7 +33,7 @@ excerpt: Created by Martin Cate and inspired by the journeys of Donn Beach.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

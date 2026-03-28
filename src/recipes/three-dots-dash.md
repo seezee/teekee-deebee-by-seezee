@@ -34,7 +34,7 @@ excerpt: Don the Beachcomber created this drink during WWII. This circa 1965 ver
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers

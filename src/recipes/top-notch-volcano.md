@@ -33,7 +33,7 @@ excerpt: Martin Cate created this drink in honor of Smuggler's Cove's interior d
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

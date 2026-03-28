@@ -38,7 +38,7 @@ excerpt: A Smuggler's Cove adaptation of the Trader Vic circa 1970s recipe. The 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -37,7 +37,7 @@ excerpt: Royal Kona Resort beverage director Jeff Isbister found this recipe in 
 Jeff Berry thinks this stripped-down version of Trader Vic's tortuga was created around 1961, the year NASA launched Ham the Chimp into space as part of Project Mercury.
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from an unpublished recipe found by Royal Kona Resort beverage director Jeff Isbister

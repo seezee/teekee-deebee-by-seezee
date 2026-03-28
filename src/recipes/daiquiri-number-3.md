@@ -33,7 +33,7 @@ excerpt: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 2
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
   : <span class="spacer">This recipe was supposedly altered with <q>double the rum and none of the sugar</q> at Ernest Hemingway's request, giving us the Papa Dobles or Hemingway Daiquiri.</span>
 
 Source

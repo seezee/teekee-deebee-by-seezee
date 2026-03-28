@@ -36,7 +36,7 @@ excerpt: Created by Martin Cate for <cite>Sunset</cite> magazine in 2011.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <span data-pagefind-filter="Source"><cite>{{ source }}</cite> magazine</span>, September 2011 issue.

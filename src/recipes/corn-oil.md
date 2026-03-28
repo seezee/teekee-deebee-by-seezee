@@ -29,7 +29,7 @@ excerpt: A traditional Barbados recipe first mentioned in print in 1911.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -33,7 +33,7 @@ excerpt: Hank Riddle created this drink for a 1970 cocktail competition while he
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from Hank Riddle's personal papers

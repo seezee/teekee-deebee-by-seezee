@@ -25,7 +25,7 @@ excerpt: A Prohibition-era drink, first recorded by Basil Woon in 1928.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}[^1]
+  : {{ origin | safe }}[^1]
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1928) by Basil Woon

@@ -33,7 +33,7 @@ excerpt: An adaptation of the famous Scorpion Bowl, as served by Hank Riddle at 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers

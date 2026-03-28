@@ -33,7 +33,7 @@ excerpt: A raspberry and rum sour served up. Created by Martin Cate.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -35,7 +35,7 @@ excerpt: From the Lagoon Cocktail Terrace, Coco Palms Resort, Kauai, circa 1960s
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, originally published in 1972 souvenir Hawaiian recipe pamphlet <cite><span data-pagefind-filter="Source">Come Curl Up in a Bottle with Me</span></cite>, by <span data-pagefind-filter="Source">William J. LeCroy</span>

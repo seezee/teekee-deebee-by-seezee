@@ -29,7 +29,7 @@ excerpt: Created in 1934 by Ray Buhen, one of the pioneering Filipino bartenders
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe found in Ray Buhen's personal notebook.

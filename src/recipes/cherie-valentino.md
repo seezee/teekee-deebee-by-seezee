@@ -32,7 +32,7 @@ excerpt: Jeff Berry's reverse-engineered version of a drink served at Kelbo's on
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from <cite><span data-pagefind-filter="Source">Los Angeles</span></cite> magazine (June 1976)

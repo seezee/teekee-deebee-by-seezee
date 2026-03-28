@@ -24,7 +24,7 @@ excerpt: An early experiment by Don the Beachcomber, circa 1930s.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe in Don the Beachcomber <span lang="fr">maître d’</span> Dick Santiago's personal notebook.

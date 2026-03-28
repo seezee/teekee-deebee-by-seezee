@@ -40,7 +40,7 @@ excerpt: Men's magazine Cabaret Quarterly published this recipe in 1956, with th
 <!-- markdownlint-enable MD025 -->
 
   Origin
-    :  {{ origin }}[^1]
+    :  {{ origin | safe }}[^1]
 
   Source
     : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1956), author unknown

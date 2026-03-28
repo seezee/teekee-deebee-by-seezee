@@ -32,7 +32,7 @@ excerpt: Venerable Los Angeles tiki joint Tiki-Ti introduced the Puka Punch in 1
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

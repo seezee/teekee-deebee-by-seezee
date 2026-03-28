@@ -36,7 +36,7 @@ excerpt: Smuggler's Cove original based on traditional recipes.
 > —&NoBreak;&thinsp;&NoBreak;Barbadian traditional mnemonic rhyme
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

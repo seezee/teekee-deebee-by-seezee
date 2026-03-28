@@ -41,7 +41,7 @@ excerpt: The notorious Don the Beachcomber original from 1934.
 <div class="dd-add-space">
 
   Origin
-    : {{ origin }} <q>Don will not serve more than 2 to each person.</q>[^1]
+    : {{ origin | safe }} <q>Don will not serve more than 2 to each person.</q>[^1]
     : Don revised the recipe based on which rums he could source; Jeff Berry documents three versions created between 1934 and 1956.[^2].
 
   Source

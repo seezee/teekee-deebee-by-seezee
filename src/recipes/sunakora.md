@@ -35,7 +35,7 @@ excerpt: Don the Beachcomber created this recipe for his ex-wife Sunny Sund (nic
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from Hank Riddle's personal papers.

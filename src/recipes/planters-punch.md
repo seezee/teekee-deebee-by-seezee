@@ -44,7 +44,7 @@ excerpt: The first printed recipe for this Jamaican traditional punch appeared i
 > —&NoBreak;&thinsp;&NoBreak;Traditional mnemonic rhyming recipe
 <!-- markdownlint-enable MD028 -->
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <span data-pagefind-filter="Source"><cite>{{ source }}</cite> magazine</span>, September 1878

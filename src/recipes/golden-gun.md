@@ -32,7 +32,7 @@ excerpt: A challenge-winning recipe by students at a 2012 seminar taught by Mart
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

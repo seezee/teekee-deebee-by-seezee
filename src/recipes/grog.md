@@ -30,7 +30,7 @@ excerpt: In the eighteenth century, Admiral Edward “Old Grogram” Vernon of t
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2006) by Wayne Curtis

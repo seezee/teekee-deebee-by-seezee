@@ -35,7 +35,7 @@ excerpt: Invented by journalist Tommy Millard during Prohibition. Named for the 
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2004) by Ted Haigh

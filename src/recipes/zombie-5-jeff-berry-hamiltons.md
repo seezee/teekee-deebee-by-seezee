@@ -37,7 +37,7 @@ excerpt: In 2021, Jeff Berry collaborated with Ed Hamilton of Hamilton Rum to cr
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}[^1]
+  : {{ origin | safe }}[^1]
 
 Source
   : <cite><a href="https://beachbumberry.com/zombie-rum.html" target="_blank" rel="external noopener"><span data-pagefind-filter="Source">{{ source }}</span></a></cite>

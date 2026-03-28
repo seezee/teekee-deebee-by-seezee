@@ -41,7 +41,7 @@ excerpt: Created in 1968 when Ray Buhen, Tiki-Ti owner and former Beachcomber ba
 The internet is <a href="https://tikicentral.com/viewtopic.php?topic_id=17729&start=0" target="_blank" rel="external noopener">rife with attempts</a> to reverse engineer this famous potion. This is only one such attempt.
 
 Origin
-  : {{ origin }} The recipe has remained secret for {{ helpers.raysMistakeYears() | safe }} years.
+  : {{ origin | safe }} The recipe has remained secret for {{ helpers.raysMistakeYears() | safe }} years.
 
 Source
   : <cite><span class="short-work"><a href="https://blog.union.io/thoughts/2016/05/01/making-rays-mistake/" target="_blank" rel="external noopener">Making Ray's Mistake</a></span></cite>, blog post by Ian Moerson.

@@ -34,7 +34,7 @@ excerpt: The origin of this lost classic is in dispute, but cocktail historian D
 > — <cite>When It's Cocktail Time in Cuba</cite> (1928), Basil Woon
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

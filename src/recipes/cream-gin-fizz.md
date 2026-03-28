@@ -29,7 +29,7 @@ excerpt: This drink was a specialty of Cunha’s, Honolulu, circa 1905. Among gl
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, originally published in <span data-pagefind-filter="Source"><cite>House & Garden</cite> magazine</span>, July 1964

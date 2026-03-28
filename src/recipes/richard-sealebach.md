@@ -35,7 +35,7 @@ excerpt: Created by Rebecca Cate, who took inspiration from the supposedly vinta
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>[^1]

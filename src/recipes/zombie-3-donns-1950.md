@@ -39,7 +39,7 @@ excerpt: The notorious Don the Beachcomber weapon of mass destruction, revised i
 <!-- markdownlint-enable MD025 -->
 
   Origin
-    :  {{ origin }}[^1]
+    :  {{ origin | safe }}[^1]
 
   Source
     : Attributed to Don the Beachcomber in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1950) by Louis Spievak

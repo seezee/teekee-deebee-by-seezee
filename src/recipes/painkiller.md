@@ -29,7 +29,7 @@ excerpt: This 1970s-era drink is essentially a piña colada variation. According
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

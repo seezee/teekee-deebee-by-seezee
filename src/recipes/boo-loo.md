@@ -37,7 +37,7 @@ excerpt: Jeff Berry dates this recipe to circa 1965, but does not state its orig
 This drink serves two people (or one very thirsty person of either great fortitude or great foolishness).
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

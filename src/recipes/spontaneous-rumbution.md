@@ -31,7 +31,7 @@ excerpt: A toddy created for Smuggler's Cove by Dane Barca.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

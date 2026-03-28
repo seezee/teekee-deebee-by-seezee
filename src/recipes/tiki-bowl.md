@@ -30,7 +30,7 @@ excerpt: A 1960s Kon-Tiki punch in the style of Donn Beach.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

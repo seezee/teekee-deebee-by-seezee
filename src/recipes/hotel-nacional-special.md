@@ -28,7 +28,7 @@ excerpt: Charles H. Baker Jr. credits this Prohibition-era recipe to one Wil P. 
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1939) by Charles H. Baker Jr.

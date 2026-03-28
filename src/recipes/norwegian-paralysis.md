@@ -38,7 +38,7 @@ excerpt: Martin Cate was inspired to create this akvavit-based drink by the Poly
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : The original recipe for the Polynesian paralysis was published in the 1971 pamphlet <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> by Paul Dick and later adapted and republished in <cite>Beachbum Berry Remixed</cite>.

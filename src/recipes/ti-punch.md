@@ -39,7 +39,7 @@ excerpt: The traditional way to enjoy Martinique rhum agricole, dating to at lea
 > — Phrase traditionally spoken by a host or bartender when presenting the ingredients to prepare Ti' Punch to a guest (guests are expected to build the drink to their own specific taste)
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

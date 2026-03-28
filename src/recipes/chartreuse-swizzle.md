@@ -36,7 +36,7 @@ excerpt: Created in 2003 by Marcovaldo Dionysos for the annual San Francisco coc
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

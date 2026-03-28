@@ -28,7 +28,7 @@ excerpt: A Don the Beachcomber recipe from 1937, found in bartender Mariano Licu
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, 10<sup>th</sup> Anniversary Expanded Edition (2017)

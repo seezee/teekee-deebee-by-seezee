@@ -28,7 +28,7 @@ excerpt: This variant of the popular Cuban sour, along with N<sup>os.</sup> 1, 3
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1935 reprint) by Constante Ribalaigua Verte

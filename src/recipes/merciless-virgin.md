@@ -30,7 +30,7 @@ excerpt: A drink by Frank “Skipper” Kent of Skipper Kent's, San Francisco. D
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : {{ source }}.

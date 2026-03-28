@@ -37,7 +37,7 @@ excerpt: Created by Martin Cate as a simplified Zombie and served up “for the 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

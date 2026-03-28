@@ -27,7 +27,7 @@ excerpt: Created exclusively for Smuggler's Cove by Jeff “Beachbum” Berry in
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

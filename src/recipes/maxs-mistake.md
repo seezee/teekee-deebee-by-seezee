@@ -30,7 +30,7 @@ excerpt: Created by Martin Cate when he worked at Trader Vic’s and named in ho
 <dl>
   <dt>Origin</dt>
   <dd>
-    <stack-l>{{ origin }}</stack-l>
+    <stack-l>{{ origin | safe }}</stack-l>
   </dd>
   <dt>Source</dt>
   <dd><cite><span data-pagefind-filter="Source">{{ source }}</span></cite></dd>

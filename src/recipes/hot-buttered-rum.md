@@ -27,7 +27,7 @@ excerpt: Smuggler's Cove's original take on Jerry Thomas's 1862 recipe.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1862 reprint)

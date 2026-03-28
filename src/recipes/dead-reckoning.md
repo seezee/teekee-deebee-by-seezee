@@ -40,7 +40,7 @@ excerpt: Created by Smuggler's Cove for the <abbr>NW</abbr> Tiki Crawl (now Tiki
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

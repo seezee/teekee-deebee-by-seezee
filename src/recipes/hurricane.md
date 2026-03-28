@@ -29,7 +29,7 @@ excerpt: The deceptively simple and decidedly dangerous drink from Pat O'Brien's
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -39,7 +39,7 @@ excerpt: Created for Smuggler's Cove by Dane Barca, who describes it as "Polite 
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

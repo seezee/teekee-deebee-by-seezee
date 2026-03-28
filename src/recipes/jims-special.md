@@ -38,7 +38,7 @@ excerpt: A Tiki-Ti original from 2000. Created by Ray Buhen's son and grandson (
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

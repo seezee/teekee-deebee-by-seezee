@@ -29,7 +29,7 @@ excerpt: Described by Jerry Thomas in 1862, this drink is a descendant of the ta
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><a href="https://www.amazon.com/Bartenders-Guide-Drinks-Vivants-Companion/dp/1603111662" target="_blank" rel="external noopener"><span data-pagefind-filter="Source">{{ source }}</span></a></cite> (1862) by <q>Professor</q> Jerry Thomas

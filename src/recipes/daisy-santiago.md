@@ -30,7 +30,7 @@ excerpt: One of food and cocktail writer Charles H. Baker Jr.'s favorite Cuban d
 <!-- markdownlint-disable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1939) by Charles H. Baker Jr.

@@ -31,7 +31,7 @@ excerpt: Created by Smuggler's Cove, inspired by traditional colonial-era punch 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : Inspired by <a href="https://www.amazon.com/Punch-Delights-Dangers-Flowing-Bowl-ebook/dp/B00452V30U/" target="_blank" rel="external noopener">traditional arrack punch recipes</a> published in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2010) by David Wondrich

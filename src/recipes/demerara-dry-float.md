@@ -33,7 +33,7 @@ excerpt: Don the Beachcomber, circa 1940. Served with a side of danger (fire)!
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

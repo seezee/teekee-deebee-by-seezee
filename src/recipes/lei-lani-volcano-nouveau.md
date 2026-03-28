@@ -38,7 +38,7 @@ excerpt: In 2013, Smuggler's Cove adapted the Lei Lani Volcano from Walt Disney 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : The original Lei Lani Volcano was published in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>.

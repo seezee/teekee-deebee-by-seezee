@@ -37,7 +37,7 @@ Jeff "Beachbum" Berry had to tinker with this recipe quite a bit to make somethi
 In 1937 the Myers's rum was probably their Light Vatted, a (now extinct) lightly aged Jamaican rum, so Berry recommends something similar, at least 86 proof.
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from an unpublished recipe in Beachcomber's <span lang="fr">maître d'</span> Dick Santiago's personal notebook.

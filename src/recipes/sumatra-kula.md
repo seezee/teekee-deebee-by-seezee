@@ -27,7 +27,7 @@ excerpt: Jeff Berry believes this to be one of the first recipes Don the Beachco
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from Don the Beachcomber waiter Hank Riddle's personal papers.

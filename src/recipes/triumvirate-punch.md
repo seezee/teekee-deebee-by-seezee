@@ -26,7 +26,7 @@ excerpt: A recipe by the first three Rumbustion Society graduates, Ron Roumas, M
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

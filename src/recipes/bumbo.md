@@ -34,7 +34,7 @@ excerpt: Bumbo was commonly used to secure votes during election campaigns in co
 > — <cite>Imbibe! Updated and Revised Edition</cite> (2015), David Wondrich, p. 172
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : Adapted from a traditional <a href="https://www.amazon.com/Bottle-Rum-Revised-Updated-Cocktails/dp/0525575022" target="_blank" rel="external noopener">eighteenth century recipe</a> described in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (2006) by Wayne Curtis

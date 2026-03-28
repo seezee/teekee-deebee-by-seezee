@@ -43,7 +43,7 @@ excerpt: Created by Martin Cate and Ron Roumas. A swizzle combining the best qua
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

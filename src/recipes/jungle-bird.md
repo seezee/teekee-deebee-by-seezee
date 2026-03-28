@@ -30,7 +30,7 @@ excerpt: A drink that fell into obscurity in the late 20th century, this circa 1
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

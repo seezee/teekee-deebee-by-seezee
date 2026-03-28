@@ -27,7 +27,7 @@ excerpt: A recipe from the Lanai restaurant, San Mateo, Calif., circa 1960s
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

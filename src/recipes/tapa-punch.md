@@ -36,7 +36,7 @@ excerpt: Royal Kona Resort beverage director Jeff Isbister found this recipe in 
 Harry Yee claims this was the first drink to feature a paper parasol, a now ubiquitous garnish on tropical and tiki drinks.
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2017), from an unpublished recipe found by Royal Kona Resort beverage director Jeff Isbister

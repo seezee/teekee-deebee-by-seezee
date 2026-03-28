@@ -34,7 +34,7 @@ excerpt: Created by Smuggler's Cove, inspired by a traditional recipe. The drink
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : Traditional recipe described in <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1983) by Hugh Barty-King & Anto Massel

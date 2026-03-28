@@ -34,7 +34,7 @@ excerpt: Created by Martin Cate after he visited Jamaica and its distilleries. T
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

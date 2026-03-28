@@ -37,7 +37,7 @@ excerpt: A mid-1930s Don the Beachcomber recipe.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -35,7 +35,7 @@ image: /assets/images/donn-beach-mug.png
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from the personal notebook of 15-year veteran Beachcomber's <span lang="fr">maître d’</span> Dick Santiago

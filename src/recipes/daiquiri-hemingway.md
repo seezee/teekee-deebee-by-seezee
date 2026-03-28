@@ -31,7 +31,7 @@ excerpt: Fort Defiance owner St. John Frizell adapted Constantino Ribalaigua Ver
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite>{{ source }}, <span class="short-work"><a>St. John Frizell’s Hemingway Daiquiri</a></span></cite> (2019)

@@ -31,7 +31,7 @@ excerpt: Created by Martin Cate and named after the picturesque bay located on M
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}[^1]
+  : {{ origin | safe }}[^1]
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -35,7 +35,7 @@ excerpt: Created by Martin Cate in 2015, this drink was first served at the Tiki
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

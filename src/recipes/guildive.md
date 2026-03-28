@@ -34,7 +34,7 @@ excerpt: A sparkling rum and ginger beer-based drink by Martin Cate.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

@@ -31,7 +31,7 @@ excerpt: A 1953 recipe from the Luau restaurant, Beverly Hills.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, revised edition (2007), from an unpublished recipe in tiki bartender Bob Esmino's personal notebook.

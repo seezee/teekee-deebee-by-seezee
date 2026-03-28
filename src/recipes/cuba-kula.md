@@ -36,7 +36,7 @@ excerpt: According to Jeff Berry, this was an early experiment by Ray Buhen, one
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from an unpublished recipe found in Ray Buhen's personal notebook from 1935

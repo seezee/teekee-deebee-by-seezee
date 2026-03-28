@@ -32,7 +32,7 @@ excerpt: Created by Martin Cate in 2011 in honor of the book-release party for S
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

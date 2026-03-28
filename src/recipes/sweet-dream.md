@@ -31,7 +31,7 @@ excerpt: Created by Hank Riddle in his final year at Kelbo's on L.A.’s Fairfax
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from former Don the Beachcomber's waiter Hank Riddle's personal papers

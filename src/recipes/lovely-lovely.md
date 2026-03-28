@@ -32,7 +32,7 @@ excerpt: Created circa 1964 by “Danny” of the Papeete Bar. The Papeete was l
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from<cite>Drinks of Hawaii</cite>, a 1977 booklet by Paul B. Dick

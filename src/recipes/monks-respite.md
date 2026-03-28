@@ -32,7 +32,7 @@ excerpt: The late Steve Liles created this recipe for Smuggler's Cove during his
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

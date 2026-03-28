@@ -32,7 +32,7 @@ excerpt: A tall tropical drink showcasing salty dried Chinese plum (li hing mui)
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

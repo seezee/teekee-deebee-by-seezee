@@ -37,7 +37,7 @@ excerpt: Trader Vic's backward-engineered version of the Zombie may not be quite
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}[^1]
+  : {{ origin | safe }}[^1]
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron

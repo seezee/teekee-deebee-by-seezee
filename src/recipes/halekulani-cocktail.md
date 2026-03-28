@@ -31,7 +31,7 @@ excerpt: House Without a Key lounge, Halekulani Hotel, Waikiki Beach, circa 1930
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, originally published in <span data-pagefind-filter="Source"><cite>House & Garden</cite> magazine</span>, July 1964

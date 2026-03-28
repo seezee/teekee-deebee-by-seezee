@@ -31,7 +31,7 @@ excerpt: This 1950s recipe comes from Burbank restaurant The China Trader, as re
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from Tony Ramos's personal notebook

@@ -30,7 +30,7 @@ excerpt: As served at the House of Happy Talk lounge at the Hanalei Plantation r
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from <span data-pagefind-filter="Source"><cite>Good Taste</cite> magazine</span>, November 1962 issue.

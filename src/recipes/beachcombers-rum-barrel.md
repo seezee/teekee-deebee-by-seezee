@@ -42,7 +42,7 @@ excerpt: As served at the Las Vegas Don the Beachcomber’s, located in the Saha
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>, from Hank Riddle's personal papers

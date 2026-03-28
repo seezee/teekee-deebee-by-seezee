@@ -28,7 +28,7 @@ excerpt: Created by Smuggler's Cove for a Tiki Oasis pre-party at the Walt Disne
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>

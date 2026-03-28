@@ -25,7 +25,7 @@ excerpt: A 1930s recipe from the Savoy Cocktail Book adapted by Erik Ellestad.
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1930) by Harry Craddock

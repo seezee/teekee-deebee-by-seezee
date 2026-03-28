@@ -37,7 +37,7 @@ excerpt: Created by Martin Cate and named for the Kaieteur Falls in Guyana. The 
 <!-- markdownlint-enable MD025 -->
 
 Origin
-  : {{ origin }}
+  : {{ origin | safe }}
 
 Source
   : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite>
