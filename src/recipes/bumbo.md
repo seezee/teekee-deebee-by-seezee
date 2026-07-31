@@ -19,7 +19,7 @@ glass:
   - old-fashioned
   - rocks
 origin: Bumbo, also spelled bumbu, bombo, or bumboo, was commonly used to secure votes during election campaigns in colonial British America, a technique known as <q>swilling the planters with bumbu.</q> George Washington used 160 gallons of rum to treat 391 voters to bumbu during his campaign for the Virginia House of Burgesses in July 1758.
-source: "And a Bottle of Rum: A History of the New World in Ten Cocktails"
+source: And a Bottle of Rum&colon; A History of the New World in Ten Cocktails
 decade:
 - 1750
 date: git Created
