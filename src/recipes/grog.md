@@ -20,7 +20,7 @@ glass:
   - old-fashioned
   - rocks
 origin: In the eighteenth century, Admiral Edward "Old Grogram" Vernon of the British Royal Navy told his sailors they could exchange their salt and bread for limes and sugar. Combined with their daily rum ration, this may have been the first cocktail.
-source: "And a Bottle of Rum&colon; A History of the New World in Ten Cocktails"
+source: "And a Bottle of Rum: A History of the New World in Ten Cocktails"
 decade: 1740
 date: git Created
 excerpt: In the eighteenth century, Admiral Edward “Old Grogram” Vernon of the British Royal Navy told his sailors they could exchange their salt and bread for limes and sugar.
