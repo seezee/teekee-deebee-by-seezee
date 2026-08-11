@@ -139,10 +139,6 @@ export default class DialogGallery extends HTMLElement {
       imgNodeList.addEventListener(`click`, (e) => {
         e.preventDefault();
 
-        // Prevent scrolling outside the modal; see
-        // https://www.joshwcomeau.com/css/has/#global-detection-6.
-        modal.setAttribute(`data-disable-document-scroll`, true);
-
         // Get the clicked image alt.
         const clickedAlt = e.target.getAttribute(`alt`);
 
@@ -206,8 +202,6 @@ export default class DialogGallery extends HTMLElement {
               e.preventDefault();
               const clickedAlt = e.target.getAttribute(`alt`);
 
-              modal.setAttribute(`data-disable-document-scroll`, true);
-
               let imgSrc = e.target.src;
               const host = imgSrc.match(/:\/\/(www\.)?(.[^/:]+)/i)[2];
 
@@ -258,9 +252,6 @@ export default class DialogGallery extends HTMLElement {
       // Stop preventDefault() on parent elements from propagating to the button.
       e.stopPropagation();
 
-      // Allow scrolling outside the modal.
-      modal.removeAttribute(`data-disable-document-scroll`);
-
       // Close the modal.
       modal.close();
     });
@@ -275,9 +266,6 @@ export default class DialogGallery extends HTMLElement {
 
         switch (e.key) {
           case `Escape`:
-            // Allow scrolling outside the modal.
-            modal.removeAttribute(`data-disable-document-scroll`);
-            break;
           default:
             return;
         }
@@ -287,7 +275,6 @@ export default class DialogGallery extends HTMLElement {
       true,
     );
 
-    // Allow scrolling when ::backdrop is clicked.
     modal.addEventListener(`click`, (e) => {
       // Get the dialog boundaries
       const rect = modal.getBoundingClientRect();
@@ -300,7 +287,6 @@ export default class DialogGallery extends HTMLElement {
 
       // If the click is not inside the boundary, close the dialog.
       if (!isInDialog) {
-        modal.removeAttribute(`data-disable-document-scroll`);
 
         // modal.close() is handled by `closedby` attribute on <dialog>
         // except in Safari.

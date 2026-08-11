@@ -79,9 +79,6 @@ export default class DialogImage extends HTMLElement {
     // Listen for click on image
     image.addEventListener(`click`, (e) => {
       e.preventDefault();
-      // Prevent scrolling outside the modal; see
-      // https://www.joshwcomeau.com/css/has/#global-detection-6.
-      modal.setAttribute(`data-disable-document-scroll`, true);
       // Open the modal.
       modal.showModal();
     });
@@ -93,8 +90,6 @@ export default class DialogImage extends HTMLElement {
         switch (e.key) {
           case `Enter`:
             e.preventDefault();
-            // Prevent scrolling outside the modal.
-            modal.setAttribute(`data-disable-document-scroll`, true);
             // Open the modal.
             modal.showModal();
             break;
@@ -109,8 +104,6 @@ export default class DialogImage extends HTMLElement {
     closeButton.addEventListener(`click`, (e) => {
       // Stop preventDefault() on parent elements from propagating to the button.
       e.stopPropagation();
-      // Allow scrolling outside the modal.
-      modal.removeAttribute(`data-disable-document-scroll`);
       // Close the modal.
       modal.close();
     });
@@ -125,9 +118,6 @@ export default class DialogImage extends HTMLElement {
 
         switch (e.key) {
           case `Escape`:
-            // Allow scrolling outside the modal.
-            modal.removeAttribute(`data-disable-document-scroll`);
-            break;
           default:
             return;
         }
@@ -135,7 +125,6 @@ export default class DialogImage extends HTMLElement {
       true,
     );
 
-    // Allow scrolling when ::backdrop is clicked.
     modal.addEventListener(`click`, (e) => {
       // Get the dialog boundaries
       const rect = modal.getBoundingClientRect();
@@ -148,7 +137,6 @@ export default class DialogImage extends HTMLElement {
 
       // If the click is not inside the boundary, close the dialog.
       if (!isInDialog) {
-        modal.removeAttribute(`data-disable-document-scroll`);
 
         // modal.close() is handled by `closedby` attribute on <dialog>
         // except in Safari.

@@ -91,7 +91,7 @@ html {
   color-scheme: light;
   padding-block: var(--s1);
 
-  &:has([data-disable-document-scroll="true"]) {
+  &:has(dialog:modal) {
     overflow: hidden;
   }
 
