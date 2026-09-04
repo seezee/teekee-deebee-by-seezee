@@ -46,15 +46,15 @@ excerpt: One of Trader Vic's most famous drinks, second only to the mai tai.
 > —&NoBreak;&thinsp;&NoBreak;1940 postcard from Trader Vic's
 <!-- markdownlint-enable MD028 -->
 
-  Origin
-    : {{ origin | safe }}
+Origin
+  : {{ origin | safe }}
 
-  Source
-    : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron
+Source
+  : <cite><span data-pagefind-filter="Source">{{ source }}</span></cite> (1947) by  Victor Jules Bergeron
 
-  Glassware
-    : <span data-pagefind-filter="Glassware">Zombie</span>
-    : <span data-pagefind-filter="Glassware">Fog cutter mug</span>
+Glassware
+  : <span data-pagefind-filter="Glassware">Zombie</span>
+  : <span data-pagefind-filter="Glassware">Fog cutter mug</span>
 
 ## Ingredients
 

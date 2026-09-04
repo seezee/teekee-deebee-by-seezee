@@ -50,7 +50,9 @@ document.addEventListener(`DOMContentLoaded`, () => {
       }
     }
   } else {
-    console.log(`Masonry class not found; doing nothing`);
+    function layout() {
+      console.log(`Masonry class not found; doing nothing`);
+    }
   };
 
   addEventListener(`load`, e => {
