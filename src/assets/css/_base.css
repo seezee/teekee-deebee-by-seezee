@@ -79,6 +79,7 @@
 :root {
   view-transition-name: none;
   color-scheme: dark light;
+  interpolate-size: allow-keywords;
 }
 
 html,
@@ -308,13 +309,15 @@ details {
   }
 
   > * {
-    padding: var(--s1);
-
     border-width: var(--s-5);
     border: solid var(--tiki-color-textPrimary) var(--tiki-radius-1x);
     border-start-end-radius: var(--tiki-radius-1x);
     border-end-start-radius: var(--tiki-radius-1x);
     border-end-end-radius: var(--tiki-radius-1x);
+  }
+
+  > *:not(fieldset) {
+    padding: var(--s1);
   }
 
   &[open] {
@@ -325,7 +328,7 @@ details {
       border-radius: var(--tiki-radius-1x) var(--tiki-radius-1x) 0 0;
 
       &::after {
-        transform: rotate(90deg);
+        transform: rotate(180deg);
       }
     }
   }
@@ -430,7 +433,7 @@ input,
 textarea,
 select {
 
-  &:not(#searchField) {
+  &:not(#searchField):not([type="checkbox"]):not([type="radio"]) {
     inline-size: fit-content;
     max-inline-size: 100%;
     field-sizing: content;
@@ -446,6 +449,9 @@ select {
   &[type="checkbox"] {
     display: inline-block;
     vertical-align: middle;
+    inline-size: 1rem;
+    block-size: 1rem;
+    margin-inline-end: var(--s-3);
 
     + label {
       display: inline-block;

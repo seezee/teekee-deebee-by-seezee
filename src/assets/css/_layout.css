@@ -108,6 +108,7 @@ noscript div {
   z-index: 99;
   inline-size: clamp(100%, 60ch, 77vw);
   padding: var(--s0);
+  text-align: start;
 
   background-color: var(--tiki-color-textSecondary);
 
@@ -115,9 +116,77 @@ noscript div {
     text-align: start;
   }
 
-  fieldset:first-child {
-    display: flex;
-    flex-wrap: wrap;
+  .pagefind-ui__filter-block {
+    display: none;
+    transition: block-size 0.35s ease-in;
+    block-size: 0;
+    overflow: hidden;
+
+    @starting-style {
+      block-size: 0;
+    }
+  }
+
+  .pagefind-ui__filter-panel {
+    display: none;
+    transition: block-size 0.35s ease-in;
+    block-size: 0;
+    overflow: hidden;
+
+    &.open,
+    &.open .pagefind-ui__filter-block {
+      block-size: auto;
+
+      @starting-style {
+        block-size: 0;
+      }
+    }
+
+    &.open {
+      display: flex;
+      flex-wrap: wrap;
+
+      .pagefind-ui__filter-block {
+        display: block;
+
+        &:not(:has(.pagefind-ui__filter-value)) {
+          /* Hide empty filters */
+          display: none;
+        }
+
+        fieldset,
+        legend,
+        input,
+        label {
+          block-size: 0;
+          padding-block: 0;
+          overflow: hidden;
+          transition: height 0.35s ease-in-out;
+
+        }
+
+        &[open] {
+          fieldset,
+          legend,
+          input,
+          label {
+            block-size: auto;
+            @starting-style {
+              block-size: 0;
+            }
+          }
+
+          fieldset {
+            padding-block: initial;
+          }
+
+          input[type="checkbox"] {
+            margin-inline-end: 0;
+            vertical-align: super;
+          }
+        }
+      }
+    }
   }
 
   &.pagefind-ui__hidden {
@@ -129,6 +198,10 @@ noscript div {
   display: block;
   margin-top: var(--s1);
   margin-inline: auto;
+}
+
+#search-filter-toggle-wrapper {
+  margin-block-end: var(--s1);
 }
 
 /* Theme toggle based on

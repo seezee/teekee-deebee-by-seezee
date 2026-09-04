@@ -1,4 +1,4 @@
-# Tiki DB by SEEZEE
+# Tiki DB by SEEZEE (Tiny Paper Umbrella)
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
@@ -17,7 +17,7 @@ A tiki recipe database built with Eleventy
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-- [Tiki DB by SEEZEE](#tiki-db-by-seezee)
+- [Tiki DB by SEEZEE (Tiny Paper Umbrella)](#tiki-db-by-seezee)
   - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
     - [:bulb: About the Project](#bulb-about-the-project)
     - [:pencil: License](#pencil-license)
