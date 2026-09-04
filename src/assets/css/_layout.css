@@ -116,11 +116,16 @@ noscript div {
     text-align: start;
   }
 
-  .pagefind-ui__filter-block {
+  .pagefind-ui__filter-block,
+  .pagefind-ui__filter-panel {
     display: none;
     transition: block-size 0.35s ease-in;
     block-size: 0;
     overflow: hidden;
+
+    @media screen and (prefers-reduced-motion: reduce) {
+      transition-duration: 0s;
+    }
 
     @starting-style {
       block-size: 0;
@@ -128,14 +133,11 @@ noscript div {
   }
 
   .pagefind-ui__filter-panel {
-    display: none;
-    transition: block-size 0.35s ease-in;
-    block-size: 0;
-    overflow: hidden;
 
     &.open,
     &.open .pagefind-ui__filter-block {
       block-size: auto;
+      margin-block-end: var(--s-5);
 
       @starting-style {
         block-size: 0;
@@ -162,6 +164,10 @@ noscript div {
           padding-block: 0;
           overflow: hidden;
           transition: height 0.35s ease-in-out;
+
+          @media screen and (prefers-reduced-motion: reduce) {
+            transition-duration: 0s;
+          }
 
         }
 

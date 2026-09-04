@@ -296,7 +296,7 @@ details {
   max-inline-size: 100%;
   padding-inline: var(--s0);
   padding-block: var(--s-4);
-  margin-block-end: var(--s3);
+  margin-block-end: var(--s1);
 
   font-family: var(--tiki-font-mono);
 
