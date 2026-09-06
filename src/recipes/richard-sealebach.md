@@ -57,7 +57,7 @@ Glassware
 * 7 dashes Peychaud's bitters
 * 4 ounces chilled Champagne or sparkling wine
 
-[^2]: Substitute [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span>if you cannot source R.L. Seale 10 Year.
+[^2]: Substitute [blended aged rum](/rums/05-rum-blended-aged/)<icon-l space="1em" class="bigger" label="(3)"><span class="with-icon"><svg class="icon"><use href="/assets/images/icons/circle-3.svg#circle-3"></use></svg></span></icon-l><span class="after-icon"></span> if you cannot source R.L. Seale 10 Year.
 
 Garnish
   : <span data-pagefind-filter="Garnish">Lemon twist</span>
