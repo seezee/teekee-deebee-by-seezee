@@ -20,7 +20,7 @@ ingredient:
 glass: coupe
 garnish: Lemon peel
 origin: Created by Martin Cate. Kingston is the Jamaican capital city; palaka is a <a href="https://fluxhawaii.com/palaka-hawaiian-shirt-is-a-checkered-icon/" target="_blank" rel="external noopener">traditional shirt cloth</a> woven with a checkered or plaid pattern.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

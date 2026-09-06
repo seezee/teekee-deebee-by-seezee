@@ -21,7 +21,7 @@ ingredient:
 garnish: grated nutmeg
 glass: hollowed out pineapple
 origin: Created by Marcovaldo Dionysos for Smuggler's Cove.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

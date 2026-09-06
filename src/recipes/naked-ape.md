@@ -21,7 +21,7 @@ glass:
   - double old-fashioned
   - double rocks
 origin: Created by Martin Cate in San Francisco in honor of the exotica band APE on the occasion of their concert appearance at Smuggler's Cove.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
 - 2000
 - 2010

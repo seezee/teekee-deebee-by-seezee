@@ -22,7 +22,7 @@ glass:
   - champagne flute
   - coupe
 origin: Created by Rebecca Cate, who took inspiration from the supposedly vintage and unarguably now-classic Seelbach cocktail.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

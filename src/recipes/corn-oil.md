@@ -17,7 +17,7 @@ glass:
   - old-fashioned
   - rocks
 origin: A traditional Barbados recipe adapted by Smuggler's Cove. The earliest print mention for the drink is in <cite><a href="https://www.google.com/books/edition/A_Z_of_Barbados_Heritage/aSccAQAAIAAJ?hl=en&gbpv=1&bsq=%22corn+n+oil%22+cocktail&dq=%22corn+n+oil%22+cocktail&printsec=frontcover" target="_blank" rel="external noopener">West Indian and Other Recipes</a></cite> by Mrs. H. Graham Yearwood (1911), but the drink likely dates to the early 18<sup>th</sup> century.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 1800
   - 1910

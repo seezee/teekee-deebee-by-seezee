@@ -26,7 +26,7 @@ glass:
   - collins
   - highball
 origin: A Smuggler's Cove original based on Jamaica's traditional Christmas sorrel (hibiscus) punch.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
  - 2000
  - 2010

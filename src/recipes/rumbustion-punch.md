@@ -14,7 +14,7 @@ ingredient:
   - Herbstura
 glass: punch bowl
 origin: Martin Cate created this punch in honor of <a href="https://www.smugglerscovesf.com/rumbustion-society" target="_blank" rel="external noopener">Rumbustion Society</a>, the Smuggler's Cove rum club.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
  - 2000
  - 2010

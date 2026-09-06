@@ -19,7 +19,7 @@ glass:
   - coconut shell
   - ceramic coconut mug
 origin: A traditional Caribbean recipe, essentially a tall daiquiri. Martin Cate omitted the lime juice when he published his version in the Smuggler's Cove book; it's unknown whether this was in error.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade: 1900
 date: git Created
 excerpt: A traditional Caribbean recipe, essentially a tall daiquiri.

@@ -25,7 +25,7 @@ glass:
   - collins
   - zombie
 origin: Created in 2003 by Marcovaldo Dionysos for the annual San Francisco cocktail competition sponsored by Chartreuse Diffusion, the company representing the Chartreuse distillery.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade: 2000
 date: git Created
 excerpt: Created in 2003 by Marcovaldo Dionysos for the annual San Francisco cocktail competition.

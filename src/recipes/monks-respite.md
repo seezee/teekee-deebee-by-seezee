@@ -20,7 +20,7 @@ glass:
   - coconut shell
   - ceramic coconut mug
 origin: The late Steve Liles created this recipe for Smuggler's Cove during his long tenure behind their bar. Liles was named <cite>Imbibe Magazine</cite>&rsquo;s 2017 Bartender of the Year.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

@@ -24,7 +24,7 @@ glass:
   - collins
   - highball
 origin: Created by Martin Cate and named for the Kaieteur Falls in Guyana. The Smuggler's Cove book misspells the name as <q>Kaiteur.</q>
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

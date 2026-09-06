@@ -19,7 +19,7 @@ glass:
   - highball
 garnish: lime wedge
 origin: J. Wray founded his tavern and liquor business in 1825, but it was not until 1976 that Ting grapefruit soda became available, making possible a marriage of liquids that would become a beloved Jamaican staple.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade: 1970
 date: git Created
 excerpt: The popular Jamaican rum & grapefruit soda refresher.

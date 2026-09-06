@@ -19,7 +19,7 @@ ingredient:
 glass: coupe
 garnish: lemon twist
 origin: Created by Smuggler's Cove mixologist Steve Liles for an event hosted at the Smithsonian honoring the bicentennial of <cite class="short-work">The Star Spangled Banner.</cite>
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
 - 2000
 - 2010

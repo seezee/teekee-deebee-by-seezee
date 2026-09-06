@@ -17,7 +17,7 @@ glass:
   - footed pilsner
 garnish: grated nutmeg
 origin: Smuggler's Cove original based on traditional recipes.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 1650
   - 2000

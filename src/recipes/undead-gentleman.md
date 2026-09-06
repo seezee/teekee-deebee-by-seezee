@@ -25,7 +25,7 @@ garnish:
   - grapefruit twist
 glass: coupe
 origin: Created by Martin Cate as a simplified Zombie and served up <q>for the sophisticated savage.</q>
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

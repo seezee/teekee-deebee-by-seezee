@@ -29,7 +29,7 @@ glass:
   - Collins
   - highball
 origin: <stack-l><p>Conventional wisdom (and some contemporary accounts) say this drink was invented by Ngiam Tong Boon while he worked as a bartender at Singapore's Raffles Hotel; the drink is likely a riff on the popular gin sling, itself a descendant of the gin Collins.</p><p>Based on a reference to a <q>pink sling</q> in a 1903 Singapore newspaper, the Singapore Sling is likely to have been invented around that year (the Raffles bar claims it was invented in 1915, the year Boon died). However, David Wondrich claims that the drink <a href="https://www.esquire.com/food-drink/drinks/a9663/authentic-cocktail-recipes-0411/" target="_blank" rel="external noopener">was created in the 1890s</a> and wasn't related to the Raffles until the 1920s.</p><p>The drink is also sometimes called the Raffles Hotel Sling or the Straights Sling.</p></stack-l>
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 1890
   - 1900

@@ -26,7 +26,7 @@ garnish:
   - lemon twist
   - swizzle stick
 origin: Created for Smuggler's Cove by Dane Barca, who describes it as <q>Polite yet deadly.</q>
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

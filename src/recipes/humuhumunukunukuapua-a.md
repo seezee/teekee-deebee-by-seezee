@@ -27,7 +27,7 @@ garnish:
   - maraschino cherry
   - Cocktail pick
 origin: Created by Marcovaldo Dionysos for Smuggler's Cove. The drink is named for the <a href="https://en.wikipedia.org/wiki/Reef_triggerfish" target="_blank" rel="external noopener">Hawaiian state fish</a>.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
  - 2000
  - 2010

@@ -18,7 +18,7 @@ ingredient:
   - blended lightly aged rum (2)
 glass: coupe
 origin: The origin of this lost classic is in dispute, but cocktail historian David Wondrich believes it was invented by Eddie Woelke, an American bartender at Havana's Jockey Club. According to Wondrich, Woelke named the drink to honor President Gerardo Machado (Cuban president from 1925 to 1933). A competing theory says the drink honors Machado's predecessor, Mario García Menocal (president from 1913 to 1921) and places the date of its invention as early as 1915.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 1910
   - 1920

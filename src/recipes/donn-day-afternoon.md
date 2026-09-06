@@ -23,7 +23,7 @@ glass:
   - rocks
 garnish: Grapefruit peel
 origin: Created by Martin Cate. Donn Beach (born Ernest Raymond Gantt) was better known as Don the Beachcomber.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

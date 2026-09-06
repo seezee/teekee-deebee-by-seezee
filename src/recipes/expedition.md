@@ -21,7 +21,7 @@ ingredient:
 garnish: edible orchid
 glass: Kuhiko tiki mug
 origin: Created by Martin Cate and inspired by the journeys of Donn Beach. For the full story behind the recipe, see p. 140 of <cite><a href="https://www.amazon.com/Smugglers-Cove-Exotic-Cocktails-Cult/dp/1607747324" target="_blank" rel="external noopener">Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki</a></cite>
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
  - 2000
  - 2010

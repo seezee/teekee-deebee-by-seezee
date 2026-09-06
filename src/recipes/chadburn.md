@@ -19,7 +19,7 @@ ingredient:
   - chocolate bitters
 glass: coupe
 origin: Created by Martin Cate, who named it after the <a href="https://en.wikipedia.org/wiki/Engine_order_telegraph" target="_blank" rel="external noopener">Chadburn telegraph</a>.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
 - 2000
 - 2010

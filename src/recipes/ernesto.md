@@ -24,7 +24,7 @@ glass:
   - double old-fashioned
   - double rocks
 origin: Created by Martin Cate.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
 - 2000
 - 2010

@@ -19,7 +19,7 @@ ingredient:
 glass: coupe
 garnish: Lemon twist
 origin: Created by Martin Cate and named after the picturesque bay located on Martinique's leeward coast.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010

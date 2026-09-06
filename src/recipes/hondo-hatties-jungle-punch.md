@@ -16,7 +16,7 @@ ingredient:
   - Angostura bitters
 glass: punch bowl
 origin: Created by Smuggler's Cove for a <a href="https://www.tikioasis.com" target="_blank" rel="external noopener">Tiki Oasis</a> pre-party at the Walt Disney Family Museum.
-source: Smuggler's Cove&colon; Exotic Cocktails, Rum, and the Cult of Tiki
+source: "Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki"
 decade:
   - 2000
   - 2010
